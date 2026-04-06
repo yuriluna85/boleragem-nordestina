@@ -4,1101 +4,815 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Nordestão FC — Notícias do Futebol Nordestino</title>
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow+Condensed:wght@400;600;700&family=Barlow:wght@300;400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow+Condensed:ital,wght@0,400;0,600;0,700;0,800;1,700&family=Barlow:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
-  :root {
-    --verde: #00b140;
-    --amarelo: #f5c800;
-    --vermelho: #c8102e;
-    --laranja: #f47920;
-    --bg: #0d0d0d;
-    --bg2: #151515;
-    --bg3: #1e1e1e;
-    --border: #2a2a2a;
-    --text: #f0f0f0;
-    --muted: #888;
-    --card-bg: #181818;
-  }
-
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: 'Barlow', sans-serif;
-    min-height: 100vh;
-    overflow-x: hidden;
-  }
-
-  /* ── NOISE TEXTURE ── */
-  body::before {
-    content: '';
-    position: fixed;
-    inset: 0;
-    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
-    pointer-events: none;
-    z-index: 0;
-    opacity: 0.4;
-  }
-
-  /* ── HEADER ── */
-  header {
-    position: sticky;
-    top: 0;
-    z-index: 100;
-    background: rgba(13,13,13,0.97);
-    backdrop-filter: blur(12px);
-    border-bottom: 2px solid var(--amarelo);
-    padding: 0 2rem;
-  }
-
-  .header-inner {
-    max-width: 1300px;
-    margin: auto;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    height: 64px;
-  }
-
-  .logo {
-    display: flex;
-    align-items: baseline;
-    gap: 0.4rem;
-    text-decoration: none;
-  }
-
-  .logo-main {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 2rem;
-    letter-spacing: 2px;
-    color: var(--amarelo);
-    line-height: 1;
-  }
-
-  .logo-sub {
-    font-family: 'Barlow Condensed', sans-serif;
-    font-size: 0.7rem;
-    font-weight: 600;
-    letter-spacing: 4px;
-    color: var(--verde);
-    text-transform: uppercase;
-  }
-
-  .header-badge {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    background: var(--vermelho);
-    color: #fff;
-    font-family: 'Barlow Condensed', sans-serif;
-    font-size: 0.72rem;
-    font-weight: 700;
-    letter-spacing: 2px;
-    padding: 4px 10px;
-    border-radius: 2px;
-    animation: pulse-badge 2s infinite;
-  }
-
-  .header-badge::before {
-    content: '';
-    width: 7px;
-    height: 7px;
-    background: #fff;
-    border-radius: 50%;
-    animation: blink 1s infinite;
-  }
-
-  @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
-  @keyframes pulse-badge { 0%,100%{opacity:1} 50%{opacity:0.85} }
-
-  /* ── SEARCH BAR ── */
-  .search-wrap {
-    background: var(--bg2);
-    border-bottom: 1px solid var(--border);
-    padding: 0.75rem 2rem;
-  }
-
-  .search-inner {
-    max-width: 1300px;
-    margin: auto;
-    display: flex;
-    gap: 1rem;
-    align-items: center;
-  }
-
-  .search-box {
-    flex: 1;
-    display: flex;
-    align-items: center;
-    background: var(--bg3);
-    border: 1px solid var(--border);
-    border-radius: 4px;
-    overflow: hidden;
-    transition: border-color 0.2s;
-  }
-
-  .search-box:focus-within { border-color: var(--amarelo); }
-
-  .search-icon {
-    padding: 0 0.75rem;
-    color: var(--muted);
-    font-size: 1.1rem;
-  }
-
-  .search-box input {
-    flex: 1;
-    background: transparent;
-    border: none;
-    outline: none;
-    color: var(--text);
-    font-family: 'Barlow', sans-serif;
-    font-size: 0.9rem;
-    padding: 0.6rem 0;
-  }
-
-  .search-box input::placeholder { color: var(--muted); }
-
-  .btn-buscar {
-    background: var(--amarelo);
-    color: #000;
-    border: none;
-    padding: 0.65rem 1.5rem;
-    font-family: 'Barlow Condensed', sans-serif;
-    font-weight: 700;
-    font-size: 0.9rem;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
-    cursor: pointer;
-    border-radius: 4px;
-    transition: background 0.2s, transform 0.1s;
-  }
-
-  .btn-buscar:hover { background: #ffd700; transform: translateY(-1px); }
-  .btn-buscar:active { transform: translateY(0); }
-
-  /* ── TABS ── */
-  .tabs-wrap {
-    background: var(--bg2);
-    border-bottom: 1px solid var(--border);
-    padding: 0 2rem;
-  }
-
-  .tabs-inner {
-    max-width: 1300px;
-    margin: auto;
-    display: flex;
-    gap: 0;
-  }
-
-  .tab {
-    font-family: 'Barlow Condensed', sans-serif;
-    font-weight: 700;
-    font-size: 0.9rem;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    color: var(--muted);
-    padding: 1rem 1.5rem;
-    cursor: pointer;
-    border-bottom: 3px solid transparent;
-    transition: color 0.2s, border-color 0.2s;
-    user-select: none;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    white-space: nowrap;
-  }
-
-  .tab:hover { color: var(--text); }
-
-  .tab.active-masc {
-    color: var(--amarelo);
-    border-bottom-color: var(--amarelo);
-  }
-
-  .tab.active-fem {
-    color: var(--laranja);
-    border-bottom-color: var(--laranja);
-  }
-
-  .tab-icon { font-size: 1rem; }
-
-  /* ── HERO TICKER ── */
-  .ticker-wrap {
-    background: var(--amarelo);
-    overflow: hidden;
-    padding: 6px 0;
-  }
-
-  .ticker-inner {
-    display: flex;
-    animation: ticker-scroll 35s linear infinite;
-    white-space: nowrap;
-  }
-
-  .ticker-inner:hover { animation-play-state: paused; }
-
-  @keyframes ticker-scroll {
-    0% { transform: translateX(0); }
-    100% { transform: translateX(-50%); }
-  }
-
-  .ticker-item {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    font-family: 'Barlow Condensed', sans-serif;
-    font-weight: 700;
-    font-size: 0.8rem;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    color: #000;
-    padding: 0 2rem;
-  }
-
-  .ticker-sep { color: #000; opacity: 0.4; }
-
-  /* ── MAIN LAYOUT ── */
-  .main-wrap {
-    max-width: 1300px;
-    margin: 2rem auto;
-    padding: 0 2rem;
-    display: grid;
-    grid-template-columns: 1fr 300px;
-    gap: 2rem;
-  }
-
-  /* ── SECTION TITLES ── */
-  .section-title {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 1.6rem;
-    letter-spacing: 3px;
-    margin-bottom: 1rem;
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-  }
-
-  .section-title .accent-bar {
-    width: 5px;
-    height: 1.6rem;
-    border-radius: 2px;
-  }
-
-  .masc .accent-bar { background: var(--amarelo); }
-  .fem .accent-bar { background: var(--laranja); }
-
-  /* ── CARDS GRID ── */
-  .cards-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1.25rem;
-  }
-
-  .card {
-    background: var(--card-bg);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    cursor: pointer;
-    transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
-    text-decoration: none;
-    color: inherit;
-    position: relative;
-  }
-
-  .card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 12px 32px rgba(0,0,0,0.5);
-  }
-
-  .card-masc:hover { border-color: var(--amarelo); }
-  .card-fem:hover { border-color: var(--laranja); }
-
-  .card-img {
-    width: 100%;
-    height: 180px;
-    object-fit: cover;
-    background: var(--bg3);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 3rem;
-    color: var(--border);
-    flex-shrink: 0;
-  }
-
-  .card-img img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-
-  .card-tag {
-    position: absolute;
-    top: 0.6rem;
-    left: 0.6rem;
-    font-family: 'Barlow Condensed', sans-serif;
-    font-size: 0.65rem;
-    font-weight: 700;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    padding: 3px 8px;
-    border-radius: 2px;
-    color: #000;
-  }
-
-  .tag-masc { background: var(--amarelo); }
-  .tag-fem { background: var(--laranja); }
-  .tag-jogador { background: var(--verde); color: #fff; }
-
-  .card-body {
-    padding: 1rem;
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
-  }
-
-  .card-fonte {
-    font-family: 'Barlow Condensed', sans-serif;
-    font-size: 0.7rem;
-    font-weight: 600;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    color: var(--muted);
-  }
-
-  .card-title {
-    font-family: 'Barlow Condensed', sans-serif;
-    font-size: 1.1rem;
-    font-weight: 700;
-    line-height: 1.3;
-    color: var(--text);
-  }
-
-  .card-desc {
-    font-size: 0.82rem;
-    color: var(--muted);
-    line-height: 1.5;
-    flex: 1;
-  }
-
-  .card-meta {
-    font-size: 0.72rem;
-    color: #555;
-    margin-top: 0.25rem;
-  }
-
-  /* ── FEATURED CARD (WIDE) ── */
-  .card-featured {
-    grid-column: span 2;
-    flex-direction: row;
-  }
-
-  .card-featured .card-img {
-    width: 45%;
-    height: auto;
-    min-height: 220px;
-    flex-shrink: 0;
-  }
-
-  /* ── SIDEBAR ── */
-  .sidebar { display: flex; flex-direction: column; gap: 1.5rem; }
-
-  .sidebar-box {
-    background: var(--card-bg);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    overflow: hidden;
-  }
-
-  .sidebar-head {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 1rem;
-    letter-spacing: 3px;
-    padding: 0.75rem 1rem;
-    border-bottom: 1px solid var(--border);
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-
-  .sidebar-head .dot {
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-  }
-
-  .dot-masc { background: var(--amarelo); }
-  .dot-fem { background: var(--laranja); }
-  .dot-verde { background: var(--verde); }
-
-  .times-list { list-style: none; }
-
-  .times-list li {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    padding: 0.65rem 1rem;
-    border-bottom: 1px solid var(--border);
-    cursor: pointer;
-    transition: background 0.15s;
-    font-size: 0.88rem;
-  }
-
-  .times-list li:last-child { border-bottom: none; }
-  .times-list li:hover { background: var(--bg3); }
-
-  .time-escudo {
-    width: 32px;
-    height: 32px;
-    border-radius: 50%;
-    background: var(--bg3);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 1.1rem;
-    flex-shrink: 0;
-  }
-
-  .time-info { flex: 1; }
-  .time-nome { font-weight: 600; font-size: 0.85rem; }
-  .time-estado { font-size: 0.72rem; color: var(--muted); }
-
-  .time-badge {
-    font-family: 'Barlow Condensed', sans-serif;
-    font-size: 0.65rem;
-    font-weight: 700;
-    letter-spacing: 1px;
-    padding: 2px 6px;
-    border-radius: 2px;
-    background: var(--bg3);
-    color: var(--muted);
-    border: 1px solid var(--border);
-  }
-
-  /* ── JOGADORES ── */
-  .jogador-card {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    padding: 0.65rem 1rem;
-    border-bottom: 1px solid var(--border);
-    cursor: pointer;
-    transition: background 0.15s;
-  }
-
-  .jogador-card:last-child { border-bottom: none; }
-  .jogador-card:hover { background: var(--bg3); }
-
-  .jogador-avatar {
-    width: 42px;
-    height: 42px;
-    border-radius: 50%;
-    background: linear-gradient(135deg, var(--bg3), var(--border));
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 1.4rem;
-    flex-shrink: 0;
-    border: 2px solid var(--border);
-  }
-
-  .jogador-info { flex: 1; }
-  .jogador-nome { font-weight: 600; font-size: 0.88rem; }
-  .jogador-meta { font-size: 0.72rem; color: var(--muted); }
-
-  /* ── LOADING SPINNER ── */
-  .loading {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding: 3rem;
-    gap: 1rem;
-    color: var(--muted);
-  }
-
-  .spinner {
-    width: 36px;
-    height: 36px;
-    border: 3px solid var(--border);
-    border-top-color: var(--amarelo);
-    border-radius: 50%;
-    animation: spin 0.8s linear infinite;
-  }
-
-  @keyframes spin { to { transform: rotate(360deg); } }
-
-  .loading-text {
-    font-family: 'Barlow Condensed', sans-serif;
-    font-size: 0.85rem;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-  }
-
-  /* ── ERROR STATE ── */
-  .error-box {
-    background: rgba(200,16,46,0.1);
-    border: 1px solid rgba(200,16,46,0.3);
-    border-radius: 6px;
-    padding: 1.5rem;
-    text-align: center;
-    color: #e88;
-    font-size: 0.88rem;
-  }
-
-  .error-box strong {
-    display: block;
-    font-family: 'Barlow Condensed', sans-serif;
-    font-size: 1rem;
-    letter-spacing: 1px;
-    margin-bottom: 0.5rem;
-    color: var(--vermelho);
-  }
-
-  /* ── TABS PANELS ── */
-  .tab-panel { display: none; }
-  .tab-panel.active { display: block; }
-
-  /* ── FILTER CHIPS ── */
-  .filter-bar {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    margin-bottom: 1.25rem;
-  }
-
-  .chip {
-    font-family: 'Barlow Condensed', sans-serif;
-    font-size: 0.75rem;
-    font-weight: 700;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
-    padding: 5px 12px;
-    border-radius: 20px;
-    border: 1px solid var(--border);
-    color: var(--muted);
-    background: var(--bg3);
-    cursor: pointer;
-    transition: all 0.2s;
-    user-select: none;
-  }
-
-  .chip:hover { color: var(--text); border-color: #555; }
-  .chip.active-masc { background: var(--amarelo); color: #000; border-color: var(--amarelo); }
-  .chip.active-fem { background: var(--laranja); color: #000; border-color: var(--laranja); }
-
-  /* ── FOOTER ── */
-  footer {
-    margin-top: 4rem;
-    border-top: 1px solid var(--border);
-    padding: 2rem;
-    text-align: center;
-    color: var(--muted);
-    font-size: 0.8rem;
-  }
-
-  footer strong { color: var(--amarelo); font-family: 'Bebas Neue', sans-serif; letter-spacing: 2px; font-size: 1rem; }
-
-  /* ── RESPONSIVE ── */
-  @media (max-width: 900px) {
-    .main-wrap { grid-template-columns: 1fr; }
-    .sidebar { display: none; }
-    .card-featured { flex-direction: column; }
-    .card-featured .card-img { width: 100%; height: 200px; }
-  }
-
-  @media (max-width: 600px) {
-    .cards-grid { grid-template-columns: 1fr; }
-    .card-featured { grid-column: span 1; }
-    .tab { padding: 0.75rem 0.75rem; font-size: 0.75rem; letter-spacing: 1px; }
-  }
-
-  /* ── ANIMATIONS ON LOAD ── */
-  .fade-in {
-    opacity: 0;
-    transform: translateY(16px);
-    animation: fade-in-up 0.4s forwards;
-  }
-
-  @keyframes fade-in-up {
-    to { opacity: 1; transform: translateY(0); }
-  }
-
-  .fade-in:nth-child(1) { animation-delay: 0.05s; }
-  .fade-in:nth-child(2) { animation-delay: 0.1s; }
-  .fade-in:nth-child(3) { animation-delay: 0.15s; }
-  .fade-in:nth-child(4) { animation-delay: 0.2s; }
-  .fade-in:nth-child(5) { animation-delay: 0.25s; }
-
-  .btn-ver-mais {
-    display: block;
-    width: 100%;
-    margin-top: 1rem;
-    padding: 0.75rem;
-    background: transparent;
-    border: 1px solid var(--border);
-    border-radius: 4px;
-    color: var(--muted);
-    font-family: 'Barlow Condensed', sans-serif;
-    font-size: 0.85rem;
-    font-weight: 700;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    cursor: pointer;
-    transition: all 0.2s;
-    text-align: center;
-  }
-  .btn-ver-mais:hover { border-color: var(--amarelo); color: var(--amarelo); }
+:root {
+  --grama:       #2d8a4e;
+  --grama-claro: #34a35c;
+  --grama-fundo: #c8f0d4;
+  --grama-medio: #a8dbb8;
+  --branco:      #ffffff;
+  --amarelo:     #f5c800;
+  --laranja:     #f47920;
+  --vermelho:    #c8102e;
+  --verde-escuro:#1a5c34;
+  --texto-card:  #0e2d1a;
+  --texto-sub:   #3a6b4a;
+  --border-card: rgba(45,138,78,0.25);
+  --card-bg:     rgba(255,255,255,0.88);
+  --card-hover:  rgba(255,255,255,0.97);
+  --shadow:      rgba(14,45,26,0.18);
+}
+
+*, *::before, *::after { margin:0; padding:0; box-sizing:border-box; }
+html { scroll-behavior: smooth; }
+
+/* ══ FUNDO CAMPO DE FUTEBOL ══ */
+body {
+  font-family: 'Barlow', sans-serif;
+  color: var(--texto-card);
+  min-height: 100vh;
+  position: relative;
+  overflow-x: hidden;
+  /* Gramado com listras alternadas */
+  background-color: #3aad62;
+  background-image:
+    repeating-linear-gradient(
+      180deg,
+      rgba(255,255,255,0) 0px,
+      rgba(255,255,255,0) 60px,
+      rgba(0,0,0,0.07) 60px,
+      rgba(0,0,0,0.07) 120px
+    );
+}
+
+/* Camadas do campo como SVG fixo */
+.campo-bg {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.campo-bg svg {
+  width: 100%;
+  height: 100%;
+  opacity: 0.22;
+}
+
+/* Overlay suave sobre o campo para clarear */
+.campo-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  background: linear-gradient(
+    180deg,
+    rgba(200,240,212,0.50) 0%,
+    rgba(168,219,184,0.30) 50%,
+    rgba(200,240,212,0.50) 100%
+  );
+}
+
+/* Todo o conteúdo fica acima das camadas fixas */
+header, .ticker-wrap, .update-bar, .search-wrap, .tabs-wrap, .main-wrap, footer {
+  position: relative;
+  z-index: 10;
+}
+
+/* ══ HEADER ══ */
+header {
+  background: var(--verde-escuro);
+  border-bottom: 4px solid var(--amarelo);
+  box-shadow: 0 4px 20px rgba(14,45,26,0.4);
+  position: sticky !important;
+  top: 0;
+  z-index: 200 !important;
+}
+
+.header-inner {
+  max-width: 1320px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1.5rem;
+  height: 68px;
+  gap: 1rem;
+}
+
+.logo { display:flex; align-items:center; gap:.6rem; text-decoration:none; flex-shrink:0; }
+
+.logo-ball {
+  font-size: 2rem;
+  animation: bounceball 3s ease-in-out infinite;
+}
+@keyframes bounceball {
+  0%,100%{transform:translateY(0)}
+  50%{transform:translateY(-6px)}
+}
+
+.logo-text-wrap { display:flex; flex-direction:column; line-height:1; }
+.logo-main { font-family:'Bebas Neue',sans-serif; font-size:2rem; letter-spacing:3px; color:var(--amarelo); }
+.logo-sub  { font-family:'Barlow Condensed',sans-serif; font-size:.62rem; font-weight:700; letter-spacing:4px; text-transform:uppercase; color:rgba(255,255,255,.55); }
+
+.header-right { display:flex; align-items:center; gap:.75rem; }
+
+.badge-live {
+  display:flex; align-items:center; gap:5px;
+  background:var(--vermelho); color:#fff;
+  font-family:'Barlow Condensed',sans-serif; font-size:.7rem; font-weight:800; letter-spacing:2px;
+  padding:4px 10px; border-radius:3px;
+}
+.dot-live { width:7px; height:7px; background:#fff; border-radius:50%; animation:blink 1s infinite; }
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+
+.badge-update {
+  font-family:'Barlow Condensed',sans-serif; font-size:.7rem; font-weight:600; letter-spacing:1px;
+  color:rgba(255,255,255,.65); background:rgba(255,255,255,.08); padding:4px 10px;
+  border-radius:3px; border:1px solid rgba(255,255,255,.15); white-space:nowrap;
+}
+
+/* ══ TICKER ══ */
+.ticker-wrap { background:var(--amarelo); overflow:hidden; padding:5px 0; }
+.ticker-inner { display:flex; animation:tickscroll 45s linear infinite; white-space:nowrap; }
+.ticker-inner:hover{animation-play-state:paused}
+@keyframes tickscroll{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+.ticker-item {
+  display:inline-flex; align-items:center; gap:.5rem;
+  font-family:'Barlow Condensed',sans-serif; font-weight:800; font-size:.78rem;
+  letter-spacing:1.5px; text-transform:uppercase; color:var(--verde-escuro); padding:0 2rem;
+}
+
+/* ══ UPDATE BAR ══ */
+.update-bar {
+  background:rgba(26,92,52,0.88);
+  backdrop-filter:blur(6px);
+  border-bottom:1px solid rgba(255,255,255,.08);
+  padding:.4rem 1.5rem;
+}
+.update-inner {
+  max-width:1320px; margin:auto; display:flex;
+  align-items:center; justify-content:space-between; gap:1rem; flex-wrap:wrap;
+}
+.update-info {
+  font-family:'Barlow Condensed',sans-serif; font-size:.72rem; font-weight:600;
+  letter-spacing:1.5px; color:rgba(255,255,255,.6); display:flex; align-items:center; gap:.5rem;
+}
+.update-info span{color:#7fff9a}
+.progress-wrap { flex:1; max-width:200px; height:3px; background:rgba(255,255,255,.1); border-radius:10px; overflow:hidden; }
+.progress-bar { height:100%; background:var(--amarelo); border-radius:10px; width:0%; transition:width 1s linear; }
+.btn-refresh {
+  font-family:'Barlow Condensed',sans-serif; font-size:.72rem; font-weight:700; letter-spacing:1.5px;
+  color:var(--amarelo); background:transparent; border:1px solid rgba(245,200,0,.4);
+  padding:3px 10px; border-radius:4px; cursor:pointer; transition:all .2s; white-space:nowrap;
+}
+.btn-refresh:hover{background:var(--amarelo);color:var(--verde-escuro)}
+
+/* ══ SEARCH ══ */
+.search-wrap { background:rgba(26,92,52,0.85); backdrop-filter:blur(8px); border-bottom:1px solid rgba(255,255,255,.12); padding:.8rem 1.5rem; }
+.search-inner { max-width:1320px; margin:auto; display:flex; gap:.75rem; align-items:center; }
+.search-box {
+  flex:1; display:flex; align-items:center;
+  background:rgba(255,255,255,.12); border:1.5px solid rgba(255,255,255,.25);
+  border-radius:6px; overflow:hidden; transition:border-color .2s, background .2s;
+}
+.search-box:focus-within{border-color:var(--amarelo);background:rgba(255,255,255,.18)}
+.search-icon{padding:0 .75rem;font-size:1rem}
+.search-box input{flex:1;background:transparent;border:none;outline:none;color:#fff;font-family:'Barlow',sans-serif;font-size:.9rem;padding:.65rem 0}
+.search-box input::placeholder{color:rgba(255,255,255,.45)}
+.btn-buscar {
+  background:var(--amarelo); color:var(--verde-escuro); border:none;
+  padding:.68rem 1.5rem; font-family:'Barlow Condensed',sans-serif;
+  font-weight:800; font-size:.88rem; letter-spacing:2px; text-transform:uppercase;
+  cursor:pointer; border-radius:6px; transition:all .2s; white-space:nowrap;
+}
+.btn-buscar:hover{background:#ffd700;transform:translateY(-1px);box-shadow:0 4px 12px rgba(245,200,0,.4)}
+
+/* ══ TABS ══ */
+.tabs-wrap { background:rgba(26,92,52,.82); backdrop-filter:blur(6px); border-bottom:1px solid rgba(255,255,255,.1); padding:0 1.5rem; }
+.tabs-inner { max-width:1320px; margin:auto; display:flex; }
+.tab {
+  font-family:'Barlow Condensed',sans-serif; font-weight:800; font-size:.85rem;
+  letter-spacing:2.5px; text-transform:uppercase; color:rgba(255,255,255,.5);
+  padding:1rem 1.4rem; cursor:pointer; border-bottom:3px solid transparent;
+  margin-bottom:-1px; transition:color .2s,border-color .2s; user-select:none;
+  display:flex; align-items:center; gap:.45rem; white-space:nowrap;
+}
+.tab:hover{color:rgba(255,255,255,.85)}
+.tab.ativo-masc {color:var(--amarelo);border-bottom-color:var(--amarelo)}
+.tab.ativo-fem  {color:var(--laranja);border-bottom-color:var(--laranja)}
+.tab.ativo-jogad{color:#7fff9a;border-bottom-color:#7fff9a}
+
+/* ══ MAIN ══ */
+.main-wrap {
+  max-width:1320px; margin:1.75rem auto 3rem; padding:0 1.5rem;
+  display:grid; grid-template-columns:1fr 290px; gap:1.75rem;
+}
+
+.section-title {
+  font-family:'Bebas Neue',sans-serif; font-size:1.5rem; letter-spacing:3px;
+  color:var(--verde-escuro); display:flex; align-items:center; gap:.6rem;
+  margin-bottom:1rem; text-shadow:0 1px 0 rgba(255,255,255,.7);
+}
+.accent-bar{width:5px;height:1.5rem;border-radius:3px;flex-shrink:0}
+
+/* Filtros */
+.filter-bar{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:1.1rem}
+.chip {
+  font-family:'Barlow Condensed',sans-serif; font-size:.72rem; font-weight:800;
+  letter-spacing:2px; text-transform:uppercase; padding:4px 12px; border-radius:20px;
+  border:1.5px solid rgba(45,138,78,.35); color:var(--verde-escuro);
+  background:rgba(255,255,255,.65); cursor:pointer; transition:all .2s; user-select:none;
+}
+.chip:hover{background:rgba(255,255,255,.9)}
+.chip.ativo-masc {background:var(--amarelo);color:var(--verde-escuro);border-color:var(--amarelo)}
+.chip.ativo-fem  {background:var(--laranja);color:#fff;border-color:var(--laranja)}
+.chip.ativo-jogad{background:var(--verde-escuro);color:#fff;border-color:var(--verde-escuro)}
+
+/* ══ CARDS ══ */
+.cards-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1.1rem}
+
+.card {
+  background:var(--card-bg); border:1px solid var(--border-card); border-radius:10px;
+  overflow:hidden; display:flex; flex-direction:column; cursor:pointer;
+  text-decoration:none; color:inherit; position:relative;
+  box-shadow:0 4px 16px var(--shadow); transition:transform .22s,box-shadow .22s,background .2s;
+  backdrop-filter:blur(4px);
+}
+.card:hover{transform:translateY(-5px);background:var(--card-hover);box-shadow:0 14px 36px var(--shadow)}
+.card-masc:hover {border-color:var(--amarelo)}
+.card-fem:hover  {border-color:var(--laranja)}
+.card-jogad:hover{border-color:var(--grama)}
+
+.card-featured{grid-column:span 2;flex-direction:row}
+.card-featured .card-img-wrap{width:44%;flex-shrink:0}
+
+.card-img-wrap {
+  width:100%; height:175px; overflow:hidden;
+  background:linear-gradient(135deg,#c8f0d4,#a8dbb8);
+  display:flex; align-items:center; justify-content:center;
+  font-size:3rem; flex-shrink:0; position:relative;
+}
+.card-img-wrap img{width:100%;height:100%;object-fit:cover;transition:transform .4s}
+.card:hover .card-img-wrap img{transform:scale(1.04)}
+
+.card-tag {
+  position:absolute; top:.55rem; left:.55rem;
+  font-family:'Barlow Condensed',sans-serif; font-size:.6rem; font-weight:800;
+  letter-spacing:2px; text-transform:uppercase; padding:3px 8px; border-radius:3px; z-index:2;
+}
+.tag-masc {background:var(--amarelo);color:var(--verde-escuro)}
+.tag-fem  {background:var(--laranja);color:#fff}
+.tag-jogad{background:var(--verde-escuro);color:#fff}
+
+.card-time-badge {
+  position:absolute; bottom:.5rem; right:.5rem;
+  background:rgba(14,45,26,.75); color:#fff;
+  font-family:'Barlow Condensed',sans-serif; font-size:.62rem; font-weight:600;
+  letter-spacing:1px; padding:2px 7px; border-radius:3px; z-index:2;
+}
+
+.card-body{padding:.9rem 1rem;flex:1;display:flex;flex-direction:column;gap:.45rem}
+.card-fonte{font-family:'Barlow Condensed',sans-serif;font-size:.65rem;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--grama)}
+.card-title{font-family:'Barlow Condensed',sans-serif;font-size:1.05rem;font-weight:700;line-height:1.3;color:var(--texto-card)}
+.card-desc{font-size:.8rem;color:var(--texto-sub);line-height:1.55;flex:1;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.card-meta{font-size:.68rem;color:#7aaa8a;font-style:italic}
+
+/* ══ SIDEBAR ══ */
+.sidebar{display:flex;flex-direction:column;gap:1.25rem}
+.sidebar-box {
+  background:rgba(255,255,255,.84); border:1px solid var(--border-card);
+  border-radius:10px; overflow:hidden; box-shadow:0 4px 14px var(--shadow); backdrop-filter:blur(6px);
+}
+.sidebar-head{font-family:'Bebas Neue',sans-serif;font-size:1rem;letter-spacing:3px;color:#fff;padding:.7rem 1rem;display:flex;align-items:center;gap:.5rem}
+.sh-masc{background:var(--verde-escuro)}
+.sh-fem {background:linear-gradient(90deg,#c8102e,#f47920)}
+.sh-jogad{background:var(--grama)}
+
+.times-list{list-style:none}
+.times-list li{display:flex;align-items:center;gap:.65rem;padding:.6rem .9rem;border-bottom:1px solid rgba(45,138,78,.12);cursor:pointer;transition:background .15s;font-size:.85rem}
+.times-list li:last-child{border-bottom:none}
+.times-list li:hover{background:rgba(45,138,78,.08)}
+.time-escudo{width:30px;height:30px;border-radius:50%;background:var(--grama-fundo);display:flex;align-items:center;justify-content:center;font-size:1rem;flex-shrink:0;border:1.5px solid var(--border-card)}
+.time-info{flex:1}
+.time-nome{font-weight:700;font-size:.82rem;color:var(--texto-card)}
+.time-estado{font-size:.68rem;color:var(--texto-sub)}
+.time-badge{font-family:'Barlow Condensed',sans-serif;font-size:.6rem;font-weight:700;letter-spacing:1px;padding:2px 6px;border-radius:3px;background:var(--grama-fundo);color:var(--grama);border:1px solid var(--border-card);white-space:nowrap}
+
+.jogador-row{display:flex;align-items:center;gap:.65rem;padding:.6rem .9rem;border-bottom:1px solid rgba(45,138,78,.12);cursor:pointer;transition:background .15s}
+.jogador-row:last-child{border-bottom:none}
+.jogador-row:hover{background:rgba(45,138,78,.08)}
+.j-avatar{width:38px;height:38px;border-radius:50%;background:var(--grama-fundo);border:2px solid var(--border-card);display:flex;align-items:center;justify-content:center;font-size:1.2rem;flex-shrink:0}
+.j-nome{font-weight:700;font-size:.82rem;color:var(--texto-card)}
+.j-meta{font-size:.68rem;color:var(--texto-sub)}
+
+/* ══ LOADING ══ */
+.loading{grid-column:span 2;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:3rem;gap:.75rem}
+.spinner{width:38px;height:38px;border:3px solid rgba(45,138,78,.2);border-top-color:var(--grama);border-radius:50%;animation:spin .75s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.loading-text{font-family:'Barlow Condensed',sans-serif;font-size:.82rem;letter-spacing:2px;text-transform:uppercase;color:var(--texto-sub)}
+
+/* ══ TAB PANELS ══ */
+.tab-panel{display:none}
+.tab-panel.ativo{display:block}
+
+/* ══ BTN VER MAIS ══ */
+.btn-ver-mais {
+  display:block;width:100%;margin-top:1rem;padding:.75rem;
+  background:rgba(255,255,255,.72); border:1.5px solid rgba(45,138,78,.3); border-radius:8px;
+  color:var(--verde-escuro); font-family:'Barlow Condensed',sans-serif;
+  font-size:.85rem; font-weight:800; letter-spacing:2px; text-transform:uppercase;
+  cursor:pointer; transition:all .2s; backdrop-filter:blur(4px);
+}
+.btn-ver-mais:hover{background:rgba(255,255,255,.95);border-color:var(--grama);transform:translateY(-1px)}
+
+/* ══ ANIMAÇÕES ══ */
+.fade-in{opacity:0;transform:translateY(14px);animation:fadein .35s forwards}
+@keyframes fadein{to{opacity:1;transform:translateY(0)}}
+.fade-in:nth-child(1){animation-delay:.04s}
+.fade-in:nth-child(2){animation-delay:.09s}
+.fade-in:nth-child(3){animation-delay:.13s}
+.fade-in:nth-child(4){animation-delay:.17s}
+.fade-in:nth-child(5){animation-delay:.21s}
+.fade-in:nth-child(6){animation-delay:.25s}
+
+/* ══ FOOTER ══ */
+footer{background:var(--verde-escuro);border-top:3px solid var(--amarelo);padding:1.5rem;text-align:center;color:rgba(255,255,255,.5);font-size:.78rem}
+footer strong{font-family:'Bebas Neue',sans-serif;font-size:1.2rem;letter-spacing:3px;color:var(--amarelo)}
+
+/* ══ RESPONSIVO ══ */
+@media(max-width:960px){
+  .main-wrap{grid-template-columns:1fr}
+  .sidebar{display:none}
+  .card-featured{flex-direction:column}
+  .card-featured .card-img-wrap{width:100%;height:200px}
+}
+@media(max-width:600px){
+  .cards-grid{grid-template-columns:1fr}
+  .card-featured{grid-column:span 1}
+  .tab{padding:.8rem .8rem;font-size:.72rem;letter-spacing:1px}
+  .logo-main{font-size:1.5rem}
+}
 </style>
 </head>
 <body>
+
+<!-- CAMPO DE FUTEBOL (fundo fixo SVG) -->
+<div class="campo-bg">
+  <svg viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+    <!-- Borda externa do campo -->
+    <rect x="30" y="30" width="1140" height="840" stroke="white" stroke-width="4" fill="none" rx="3"/>
+    <!-- Linha central -->
+    <line x1="600" y1="30" x2="600" y2="870" stroke="white" stroke-width="3"/>
+    <!-- Círculo central -->
+    <circle cx="600" cy="450" r="130" stroke="white" stroke-width="3" fill="none"/>
+    <!-- Ponto central -->
+    <circle cx="600" cy="450" r="7" fill="white"/>
+    <!-- Área grande esquerda -->
+    <rect x="30" y="240" width="195" height="420" stroke="white" stroke-width="3" fill="none"/>
+    <!-- Área pequena esquerda -->
+    <rect x="30" y="330" width="75" height="240" stroke="white" stroke-width="2.5" fill="none"/>
+    <!-- Arco da área esquerda -->
+    <path d="M225,335 Q295,450 225,565" stroke="white" stroke-width="2.5" fill="none"/>
+    <!-- Ponto pênalti esquerdo -->
+    <circle cx="140" cy="450" r="6" fill="white"/>
+    <!-- Área grande direita -->
+    <rect x="975" y="240" width="195" height="420" stroke="white" stroke-width="3" fill="none"/>
+    <!-- Área pequena direita -->
+    <rect x="1095" y="330" width="75" height="240" stroke="white" stroke-width="2.5" fill="none"/>
+    <!-- Arco da área direita -->
+    <path d="M975,335 Q905,450 975,565" stroke="white" stroke-width="2.5" fill="none"/>
+    <!-- Ponto pênalti direito -->
+    <circle cx="1060" cy="450" r="6" fill="white"/>
+    <!-- Cantos do campo -->
+    <path d="M30,30 Q58,30 58,58"   stroke="white" stroke-width="2.5" fill="none"/>
+    <path d="M1170,30 Q1142,30 1142,58"  stroke="white" stroke-width="2.5" fill="none"/>
+    <path d="M30,870 Q58,870 58,842"  stroke="white" stroke-width="2.5" fill="none"/>
+    <path d="M1170,870 Q1142,870 1142,842" stroke="white" stroke-width="2.5" fill="none"/>
+    <!-- Gol esquerdo -->
+    <rect x="0" y="390" width="30" height="120" stroke="white" stroke-width="2.5" fill="rgba(255,255,255,0.08)"/>
+    <!-- Gol direito -->
+    <rect x="1170" y="390" width="30" height="120" stroke="white" stroke-width="2.5" fill="rgba(255,255,255,0.08)"/>
+  </svg>
+</div>
+<div class="campo-overlay"></div>
 
 <!-- HEADER -->
 <header>
   <div class="header-inner">
     <a href="#" class="logo">
-      <span class="logo-main">Nordestão FC</span>
-      <span class="logo-sub">Notícias do futebol regional</span>
+      <span class="logo-ball">⚽</span>
+      <div class="logo-text-wrap">
+        <span class="logo-main">Nordestão FC</span>
+        <span class="logo-sub">Portal de futebol regional</span>
+      </div>
     </a>
-    <div class="header-badge">⚽ Ao Vivo</div>
+    <div class="header-right">
+      <div class="badge-update" id="proxAtualiz">Próx. atualização: 60:00</div>
+      <div class="badge-live"><span class="dot-live"></span> Ao Vivo</div>
+    </div>
   </div>
 </header>
+
+<!-- TICKER -->
+<div class="ticker-wrap">
+  <div class="ticker-inner" id="ticker"></div>
+</div>
+
+<!-- BARRA DE STATUS DE ATUALIZAÇÃO -->
+<div class="update-bar">
+  <div class="update-inner">
+    <div class="update-info">🔄 Última atualização: <span id="ultimaHora">—</span></div>
+    <div class="progress-wrap"><div class="progress-bar" id="progressBar"></div></div>
+    <button class="btn-refresh" onclick="atualizarTudo()">↻ Atualizar agora</button>
+  </div>
+</div>
 
 <!-- SEARCH -->
 <div class="search-wrap">
   <div class="search-inner">
     <div class="search-box">
       <span class="search-icon">🔍</span>
-      <input type="text" id="searchInput" placeholder="Buscar times, jogadores, notícias do Nordeste…" />
+      <input type="text" id="searchInput" placeholder="Buscar times, jogadores, competições…"/>
     </div>
-    <button class="btn-buscar" onclick="buscarNoticias()">Buscar</button>
+    <button class="btn-buscar" onclick="buscarManual()">Buscar</button>
   </div>
 </div>
 
 <!-- TABS -->
 <div class="tabs-wrap">
   <div class="tabs-inner">
-    <div class="tab active-masc" id="tab-masc" onclick="switchTab('masc')">
-      <span class="tab-icon">👨</span> Times Masculinos
-    </div>
-    <div class="tab" id="tab-fem" onclick="switchTab('fem')">
-      <span class="tab-icon">👩</span> Times Femininos
-    </div>
-    <div class="tab" id="tab-jogadores" onclick="switchTab('jogadores')">
-      <span class="tab-icon">⭐</span> Jogadores
-    </div>
-  </div>
-</div>
-
-<!-- TICKER -->
-<div class="ticker-wrap">
-  <div class="ticker-inner" id="ticker">
-    <!-- preenchido por JS -->
+    <div class="tab ativo-masc" id="tab-masc"  onclick="switchTab('masc')">👨 Times Masculinos</div>
+    <div class="tab"            id="tab-fem"   onclick="switchTab('fem')">👩 Times Femininos</div>
+    <div class="tab"            id="tab-jogad" onclick="switchTab('jogad')">⭐ Jogadores</div>
   </div>
 </div>
 
 <!-- MAIN -->
 <div class="main-wrap">
-
-  <!-- CONTEÚDO PRINCIPAL -->
   <main>
-
-    <!-- ABA MASCULINO -->
-    <div class="tab-panel active" id="panel-masc">
+    <!-- MASCULINO -->
+    <div class="tab-panel ativo" id="panel-masc">
       <div class="filter-bar" id="filtros-masc"></div>
-      <div class="section-title masc">
-        <div class="accent-bar"></div>
-        Últimas Notícias — Times Masculinos
-      </div>
-      <div id="cards-masc" class="cards-grid">
-        <div class="loading" style="grid-column:span 2">
-          <div class="spinner"></div>
-          <div class="loading-text">Buscando notícias…</div>
-        </div>
-      </div>
-      <button class="btn-ver-mais" onclick="carregarMais('masc')">Carregar mais notícias ↓</button>
+      <div class="section-title"><div class="accent-bar" style="background:var(--amarelo)"></div>Últimas Notícias — Masculino</div>
+      <div class="cards-grid" id="cards-masc"><div class="loading"><div class="spinner"></div><div class="loading-text">Buscando…</div></div></div>
+      <button class="btn-ver-mais" onclick="carregarMais('masc')">Carregar mais ↓</button>
     </div>
-
-    <!-- ABA FEMININO -->
+    <!-- FEMININO -->
     <div class="tab-panel" id="panel-fem">
       <div class="filter-bar" id="filtros-fem"></div>
-      <div class="section-title fem">
-        <div class="accent-bar"></div>
-        Últimas Notícias — Times Femininos
-      </div>
-      <div id="cards-fem" class="cards-grid">
-        <div class="loading" style="grid-column:span 2">
-          <div class="spinner"></div>
-          <div class="loading-text">Buscando notícias…</div>
-        </div>
-      </div>
-      <button class="btn-ver-mais" onclick="carregarMais('fem')">Carregar mais notícias ↓</button>
+      <div class="section-title"><div class="accent-bar" style="background:var(--laranja)"></div>Últimas Notícias — Feminino</div>
+      <div class="cards-grid" id="cards-fem"><div class="loading"><div class="spinner"></div><div class="loading-text">Buscando…</div></div></div>
+      <button class="btn-ver-mais" onclick="carregarMais('fem')">Carregar mais ↓</button>
     </div>
-
-    <!-- ABA JOGADORES -->
-    <div class="tab-panel" id="panel-jogadores">
-      <div class="section-title masc">
-        <div class="accent-bar" style="background:var(--verde)"></div>
-        Destaque de Jogadores do Nordeste
-      </div>
-      <div id="cards-jogadores" class="cards-grid">
-        <div class="loading" style="grid-column:span 2">
-          <div class="spinner"></div>
-          <div class="loading-text">Buscando jogadores…</div>
-        </div>
-      </div>
+    <!-- JOGADORES -->
+    <div class="tab-panel" id="panel-jogad">
+      <div class="section-title"><div class="accent-bar" style="background:var(--grama)"></div>Jogadores em Destaque</div>
+      <div class="cards-grid" id="cards-jogad"><div class="loading"><div class="spinner"></div><div class="loading-text">Buscando…</div></div></div>
     </div>
-
   </main>
 
   <!-- SIDEBAR -->
   <aside class="sidebar">
-
-    <!-- Times Masculinos -->
     <div class="sidebar-box">
-      <div class="sidebar-head">
-        <span class="dot dot-masc"></span> Times Masculinos
-      </div>
+      <div class="sidebar-head sh-masc">⚽ Times Masculinos</div>
       <ul class="times-list" id="lista-masc"></ul>
     </div>
-
-    <!-- Times Femininos -->
     <div class="sidebar-box">
-      <div class="sidebar-head">
-        <span class="dot dot-fem"></span> Times Femininos
-      </div>
+      <div class="sidebar-head sh-fem">👩 Times Femininos</div>
       <ul class="times-list" id="lista-fem"></ul>
     </div>
-
-    <!-- Jogadores em destaque -->
     <div class="sidebar-box">
-      <div class="sidebar-head">
-        <span class="dot dot-verde"></span> Jogadores em Destaque
-      </div>
-      <div id="lista-jogadores"></div>
+      <div class="sidebar-head sh-jogad">⭐ Jogadores</div>
+      <div id="lista-jogad"></div>
     </div>
-
   </aside>
 </div>
 
 <!-- FOOTER -->
 <footer>
   <strong>Nordestão FC</strong><br>
-  Notícias do futebol nordestino agregadas de fontes públicas<br>
-  <span style="color:#333;font-size:0.72rem">Desenvolvido com ❤️ para o Nordeste</span>
+  Notícias do futebol nordestino · Atualização automática a cada hora<br>
+  <span style="opacity:.35;font-size:.7rem">Para notícias em tempo real, adicione sua chave GNews</span>
 </footer>
 
 <script>
-// ───────────────────────────────────────────────
-// DADOS DOS TIMES
-// ───────────────────────────────────────────────
+/* ════ DADOS ════ */
+const GNEWS_KEY = 'SEM_CHAVE'; // 🔑 Substitua pela sua chave em gnews.io
+const INTERVALO_MS = 60 * 60 * 1000; // 1 hora
+
 const TIMES_MASC = [
-  { nome: "Sport Club do Recife", estado: "PE", icone: "🔴⚫", serie: "Série A" },
-  { nome: "Náutico", estado: "PE", icone: "⚓", serie: "Série B" },
-  { nome: "Santa Cruz", estado: "PE", icone: "❌", serie: "Série D" },
-  { nome: "Fortaleza EC", estado: "CE", icone: "🦁", serie: "Série A" },
-  { nome: "Ceará SC", estado: "CE", icone: "🐢", serie: "Série A" },
-  { nome: "Ferroviário", estado: "CE", icone: "🚂", serie: "Série C" },
-  { nome: "Bahia", estado: "BA", icone: "🔵🔴", serie: "Série A" },
-  { nome: "Vitória", estado: "BA", icone: "🦅", serie: "Série A" },
-  { nome: "Sampaio Corrêa", estado: "MA", icone: "🌊", serie: "Série B" },
-  { nome: "ABC", estado: "RN", icone: "⚫🔴", serie: "Série C" },
-  { nome: "América-RN", estado: "RN", icone: "🌵", serie: "Série D" },
-  { nome: "Botafogo-PB", estado: "PB", icone: "⭐", serie: "Série C" },
-  { nome: "Treze", estado: "PB", icone: "🐐", serie: "Série D" },
-  { nome: "CSA", estado: "AL", icone: "🔵", serie: "Série B" },
-  { nome: "CRB", estado: "AL", icone: "🔴⚫", serie: "Série B" },
+  {nome:"Sport Club do Recife",estado:"PE",icone:"🔴",serie:"Série A"},
+  {nome:"Náutico",estado:"PE",icone:"⚓",serie:"Série B"},
+  {nome:"Santa Cruz",estado:"PE",icone:"❌",serie:"Série D"},
+  {nome:"Fortaleza EC",estado:"CE",icone:"🦁",serie:"Série A"},
+  {nome:"Ceará SC",estado:"CE",icone:"🐢",serie:"Série A"},
+  {nome:"Ferroviário",estado:"CE",icone:"🚂",serie:"Série C"},
+  {nome:"Bahia",estado:"BA",icone:"🔵",serie:"Série A"},
+  {nome:"Vitória",estado:"BA",icone:"🦅",serie:"Série A"},
+  {nome:"Sampaio Corrêa",estado:"MA",icone:"🌊",serie:"Série B"},
+  {nome:"ABC",estado:"RN",icone:"⚫",serie:"Série C"},
+  {nome:"Botafogo-PB",estado:"PB",icone:"⭐",serie:"Série C"},
+  {nome:"CRB",estado:"AL",icone:"🔴",serie:"Série B"},
+  {nome:"CSA",estado:"AL",icone:"🔵",serie:"Série B"},
 ];
 
 const TIMES_FEM = [
-  { nome: "Fortaleza EC Feminino", estado: "CE", icone: "🦁", serie: "Série A1" },
-  { nome: "Sport Feminino", estado: "PE", icone: "🔴⚫", serie: "Série A1" },
-  { nome: "Bahia Feminino", estado: "BA", icone: "🔵🔴", serie: "Série A2" },
-  { nome: "Ceará Feminino", estado: "CE", icone: "🐢", serie: "Série A2" },
-  { nome: "Vitória Feminino", estado: "BA", icone: "🦅", serie: "Série A2" },
-  { nome: "Náutico Feminino", estado: "PE", icone: "⚓", serie: "Série A2" },
-  { nome: "Ferroviário Feminino", estado: "CE", icone: "🚂", serie: "Regional" },
-  { nome: "ABC Feminino", estado: "RN", icone: "⚫🔴", serie: "Regional" },
+  {nome:"Fortaleza EC Feminino",estado:"CE",icone:"🦁",serie:"A1"},
+  {nome:"Sport Feminino",estado:"PE",icone:"🔴",serie:"A1"},
+  {nome:"Bahia Feminino",estado:"BA",icone:"🔵",serie:"A2"},
+  {nome:"Ceará Feminino",estado:"CE",icone:"🐢",serie:"A2"},
+  {nome:"Vitória Feminino",estado:"BA",icone:"🦅",serie:"A2"},
+  {nome:"Náutico Feminino",estado:"PE",icone:"⚓",serie:"A2"},
+  {nome:"ABC Feminino",estado:"RN",icone:"⚫",serie:"Regional"},
 ];
 
-const JOGADORES_DESTAQUE = [
-  { nome: "Renato Kayzer", time: "Fortaleza EC", pos: "Atacante", icone: "🦁" },
-  { nome: "Everton Ribeiro", time: "Bahia", pos: "Meia", icone: "🔵🔴" },
-  { nome: "Thiago Galhardo", time: "Sport", pos: "Meia-atacante", icone: "🔴⚫" },
-  { nome: "Yago Pikachu", time: "Fortaleza EC", pos: "Lateral", icone: "🦁" },
-  { nome: "Léo Gamalho", time: "Bahia", pos: "Atacante", icone: "🔵🔴" },
-  { nome: "João Ricardo", time: "Fortaleza EC", pos: "Goleiro", icone: "🦁" },
+const JOGADORES = [
+  {nome:"Renato Kayzer",time:"Fortaleza EC",pos:"Atacante",icone:"🦁"},
+  {nome:"Everton Ribeiro",time:"Bahia",pos:"Meia",icone:"🔵"},
+  {nome:"Thiago Galhardo",time:"Sport",pos:"Meia-atacante",icone:"🔴"},
+  {nome:"Yago Pikachu",time:"Fortaleza EC",pos:"Lateral-dir.",icone:"🦁"},
+  {nome:"João Ricardo",time:"Fortaleza EC",pos:"Goleiro",icone:"🦁"},
+  {nome:"Léo Gamalho",time:"Bahia",pos:"Atacante",icone:"🔵"},
 ];
 
-// ───────────────────────────────────────────────
-// TICKER
-// ───────────────────────────────────────────────
 const TICKER_ITEMS = [
-  "Sport vence clássico nordestino e assume liderança",
-  "Fortaleza se classifica para Libertadores",
-  "Bahia anuncia reforço de peso para o segundo semestre",
-  "Ceará derrota rival e escapa do Z-4",
-  "Vitória bate recorde de público no Barradão",
-  "Ferroviário surpreende e chega à semi da Copa do Nordeste",
-  "ABC conquista acesso à Série B",
-  "Seleção Nordeste convoca talentos regionais",
-  "Náutico apresenta novo técnico para temporada",
-  "CRB garante vaga nas oitavas da Copa do Brasil",
+  "Sport busca reforços para o segundo semestre",
+  "Fortaleza EC lidera grupo na Sul-Americana 2025",
+  "Bahia confirma renovação com meia titular",
+  "Ceará bate recorde de sócios-torcedores",
+  "Vitória vira sobre o Flamengo no Barradão",
+  "Copa do Nordeste 2025: tabela atualizada",
+  "Fortaleza Feminino com 100% de aproveitamento no A1",
+  "Sport Feminino bate recorde de público na Ilha",
+  "Náutico anuncia novo técnico para a temporada",
+  "CRB faz campanha histórica na Copa do Brasil",
 ];
 
-function montarTicker() {
-  const t = document.getElementById('ticker');
-  const doubled = [...TICKER_ITEMS, ...TICKER_ITEMS];
-  t.innerHTML = doubled.map(item =>
-    `<span class="ticker-item">⚡ ${item} <span class="ticker-sep">|</span></span>`
-  ).join('');
+/* ════ HORA ════ */
+function horaMenos(h) {
+  const d = new Date();
+  d.setHours(d.getHours() - h);
+  return d.toLocaleDateString('pt-BR',{day:'2-digit',month:'short'}) + ' ' +
+         d.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'});
 }
 
-// ───────────────────────────────────────────────
-// SIDEBAR — times
-// ───────────────────────────────────────────────
-function montarSidebarTimes(lista, elId, tipo) {
-  const el = document.getElementById(elId);
-  el.innerHTML = lista.map(t => `
-    <li onclick="filtrarPorTime('${t.nome}', '${tipo}')">
-      <div class="time-escudo">${t.icone}</div>
-      <div class="time-info">
-        <div class="time-nome">${t.nome}</div>
-        <div class="time-estado">${t.estado}</div>
-      </div>
-      <span class="time-badge">${t.serie}</span>
-    </li>
-  `).join('');
-}
-
-function montarSidebarJogadores() {
-  const el = document.getElementById('lista-jogadores');
-  el.innerHTML = JOGADORES_DESTAQUE.map(j => `
-    <div class="jogador-card" onclick="buscarJogador('${j.nome}')">
-      <div class="jogador-avatar">${j.icone}</div>
-      <div class="jogador-info">
-        <div class="jogador-nome">${j.nome}</div>
-        <div class="jogador-meta">${j.pos} · ${j.time}</div>
-      </div>
-    </div>
-  `).join('');
-}
-
-// ───────────────────────────────────────────────
-// FILTROS / CHIPS
-// ───────────────────────────────────────────────
-const ESTADOS = ["Todos", "BA", "CE", "PE", "RN", "PB", "AL", "MA", "PI", "SE", "RN"];
-
-function montarFiltros(tipo) {
-  const el = document.getElementById(`filtros-${tipo}`);
-  const estados = tipo === 'masc'
-    ? ["Todos","BA","CE","PE","RN","PB","AL","MA"]
-    : ["Todos","BA","CE","PE","RN","AL"];
-
-  el.innerHTML = estados.map((e, i) => `
-    <div class="chip ${i===0 ? `active-${tipo}` : ''}" 
-         onclick="filtrarEstado(this, '${e}', '${tipo}')">
-      ${e === 'Todos' ? '🌎 Todos' : e}
-    </div>
-  `).join('');
-}
-
-function filtrarEstado(chip, estado, tipo) {
-  document.querySelectorAll(`#filtros-${tipo} .chip`).forEach(c => {
-    c.classList.remove(`active-${tipo}`);
-  });
-  chip.classList.add(`active-${tipo}`);
-  buscarNoticiasGNews(tipo, estado === 'Todos' ? null : estado);
-}
-
-// ───────────────────────────────────────────────
-// GNEWS API
-// ───────────────────────────────────────────────
-const GNEWS_KEY = 'SEM_CHAVE'; // substitua pela sua chave GNews
-let paginas = { masc: 1, fem: 1, jogadores: 1 };
-
-async function buscarNoticiasGNews(tipo, estado = null) {
-  const el = document.getElementById(`cards-${tipo}`);
-  el.innerHTML = `<div class="loading" style="grid-column:span 2"><div class="spinner"></div><div class="loading-text">Buscando notícias…</div></div>`;
-
-  const queries = {
-    masc: estado
-      ? `futebol masculino ${estado} nordeste`
-      : 'futebol masculino nordeste Sport Fortaleza Bahia Ceará Vitória',
-    fem: estado
-      ? `futebol feminino ${estado} nordeste`
-      : 'futebol feminino nordeste Sport Fortaleza Bahia',
-    jogadores: 'jogadores futebol nordeste brasileiro destaque',
+/* ════ NOTÍCIAS FALLBACK (datas dinâmicas = sempre "hoje") ════ */
+function gerarFallback(tipo) {
+  const bancos = {
+    masc:[
+      {titulo:"Sport empata com Bahia em clássico nordestino eletrizante",fonte:"Globo Esporte PE",desc:"Partida disputada no Arruda terminou 1x1 com gol nos acréscimos da segunda etapa.",tag:"tag-masc",url:"https://ge.globo.com",h:1},
+      {titulo:"Fortaleza EC goleia rival e assume liderança do grupo na Sul-Americana",fonte:"Diário do Nordeste",desc:"Leão do Pici goleou por 3x0 e garantiu classificação antecipada para as oitavas.",tag:"tag-masc",url:"https://diariodonordeste.verdesmares.com.br",h:3},
+      {titulo:"Bahia anuncia contratação de atacante internacional",fonte:"A Tarde",desc:"Reforço chega à Fonte Nova após passagem por clube europeu e será apresentado esta semana.",tag:"tag-masc",url:"https://atarde.com.br",h:5},
+      {titulo:"Ceará SC renova com goleiro titular por mais 2 temporadas",fonte:"O Povo",desc:"Ídolo da torcida assina extensão e projeta voltar à Série A como protagonista.",tag:"tag-masc",url:"https://opovo.com.br",h:7},
+      {titulo:"Vitória vira sobre o Flamengo e respira aliviado no Brasileirão",fonte:"Correio Bahia",desc:"Leão da Barra sai de 0x2 para 3x2 no Barradão em jogo histórico na temporada.",tag:"tag-masc",url:"https://correio24horas.com.br",h:10},
+      {titulo:"Copa do Nordeste: tabela atualizada e próximas rodadas",fonte:"Nordestão FC",desc:"Confira todos os duelos da semana e as classificações atualizadas do torneio regional.",tag:"tag-masc",url:"#",h:12},
+    ],
+    fem:[
+      {titulo:"Fortaleza Feminino lidera A1 com 100% de aproveitamento",fonte:"Globo Esporte CE",desc:"Leoas venceram o 5º jogo seguido e assumem liderança isolada do Brasileirão Feminino.",tag:"tag-fem",url:"https://ge.globo.com",h:2},
+      {titulo:"Sport Feminino bate recorde de público no Recife",fonte:"Diário de Pernambuco",desc:"Mais de 18 mil torcedores acompanharam goleada sobre rival pernambucano no Arruda.",tag:"tag-fem",url:"#",h:4},
+      {titulo:"Bahia Feminino contrata ponta-esquerda da Seleção Brasileira",fonte:"A Tarde",desc:"Atleta disputa Copa América em julho e chega ao Esquadrão como grande aposta.",tag:"tag-fem",url:"https://atarde.com.br",h:6},
+      {titulo:"Ceará Feminino vence e avança às quartas da Copa do Brasil",fonte:"O Povo",desc:"Vozão bate rival nos pênaltis em resultado histórico para o futebol feminino nordestino.",tag:"tag-fem",url:"https://opovo.com.br",h:8},
+      {titulo:"Investimento no futebol feminino nordestino cresce 45% em 2025",fonte:"Nordestão FC",desc:"Levantamento inédito aponta crescimento expressivo de recursos nas categorias femininas.",tag:"tag-fem",url:"#",h:11},
+      {titulo:"Vitória Feminino anuncia novo patrocinador e uniforme comemorativo",fonte:"Correio Bahia",desc:"Parceria traz recursos para reestruturar a base feminina do clube baiano.",tag:"tag-fem",url:"https://correio24horas.com.br",h:14},
+    ],
+    jogad:[
+      {titulo:"Renato Kayzer: 18 gols em 2025 e favorito ao prêmio nordestino",fonte:"Diário do Nordeste",desc:"Artilheiro do Fortaleza lidera ranking de goleadores do Brasileirão e mira a Seleção.",tag:"tag-jogad",url:"#",h:2},
+      {titulo:"João Ricardo é o goleiro menos vazado do Brasileirão 2025",fonte:"Globo Esporte CE",desc:"Arqueiro do Fortaleza sofreu apenas 14 gols em 22 partidas e entra na mira de Dorival.",tag:"tag-jogad",url:"#",h:4},
+      {titulo:"Everton Ribeiro completa 100 jogos pelo Bahia",fonte:"A Tarde",desc:"Campeão mundial de clubes pelo Flamengo celebra marca histórica no Esquadrão de Aço.",tag:"tag-jogad",url:"#",h:6},
+      {titulo:"Yago Pikachu é convocado para a Seleção Brasileira",fonte:"ESPN Brasil",desc:"Lateral-direito do Fortaleza chega à seleção após temporada impecável no Brasileirão.",tag:"tag-jogad",url:"#",h:9},
+      {titulo:"Thiago Galhardo volta de lesão e marca dois no Sport",fonte:"Globo Esporte PE",desc:"Meia-atacante encerrou jejum de 3 meses com brilhante atuação no Arruda.",tag:"tag-jogad",url:"#",h:11},
+      {titulo:"Revelação nordestina de 17 anos assina com clube europeu",fonte:"Nordestão FC",desc:"Jovem talento formado nas categorias de base do Ceará é contratado pela Bundesliga.",tag:"tag-jogad",url:"#",h:15},
+    ]
   };
 
-  const q = encodeURIComponent(queries[tipo]);
-  const url = `https://gnews.io/api/v4/search?q=${q}&lang=pt&country=br&max=8&apikey=${GNEWS_KEY}`;
-
-  try {
-    const res = await fetch(url);
-    if (!res.ok) throw new Error('API indisponível');
-    const data = await res.json();
-    if (!data.articles || data.articles.length === 0) throw new Error('Sem artigos');
-    renderCards(data.articles, tipo);
-  } catch(e) {
-    renderFallback(tipo);
-  }
+  return (bancos[tipo]||[]).map(n=>({...n, data:horaMenos(n.h)}));
 }
 
-// ───────────────────────────────────────────────
-// RENDER CARDS a partir da API
-// ───────────────────────────────────────────────
-function renderCards(articles, tipo) {
+/* ════ RENDER CARDS ════ */
+function renderCards(lista, tipo) {
   const el = document.getElementById(`cards-${tipo}`);
-  const tagClass = tipo === 'fem' ? 'tag-fem' : (tipo === 'jogadores' ? 'tag-jogador' : 'tag-masc');
-  const cardClass = tipo === 'fem' ? 'card-fem' : 'card-masc';
+  const cc = tipo==='fem'?'card-fem':tipo==='jogad'?'card-jogad':'card-masc';
+  const tl = tipo==='fem'?'Feminino':tipo==='jogad'?'Jogador':'Masculino';
+  const tg = tipo==='fem'?'tag-fem':tipo==='jogad'?'tag-jogad':'tag-masc';
 
-  el.innerHTML = articles.map((a, i) => {
-    const featured = i === 0 ? 'card-featured' : '';
-    const imgHtml = a.image
-      ? `<img src="${a.image}" alt="" onerror="this.parentElement.innerHTML='⚽'" loading="lazy">`
-      : '⚽';
-    const tag = tipo === 'masc' ? 'Masculino' : tipo === 'fem' ? 'Feminino' : 'Jogador';
-    const data = new Date(a.publishedAt).toLocaleDateString('pt-BR', { day:'2-digit', month:'short', hour:'2-digit', minute:'2-digit' });
+  el.innerHTML = lista.map((n,i)=>{
+    const feat = i===0?'card-featured':'';
+    const imgSrc = n.image||n.img||null;
+    const imgHtml = imgSrc
+      ? `<img src="${imgSrc}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='⚽'">`
+      : (i===0?'🏟️':'⚽');
+    const titulo = n.titulo||n.title||'';
+    const desc   = n.desc||n.description||'';
+    const fonte  = n.fonte||(n.source&&n.source.name)||'Portal';
+    const url    = n.url||n.link||'#';
+    const data   = n.data||'';
 
     return `
-      <a class="card ${cardClass} ${featured} fade-in" href="${a.url}" target="_blank" rel="noopener">
-        <span class="card-tag ${tagClass}">${tag}</span>
-        <div class="card-img">${imgHtml}</div>
+      <a class="card ${cc} ${feat} fade-in" href="${url}" target="_blank" rel="noopener">
+        <span class="card-tag ${tg}">${tl}</span>
+        <div class="card-img-wrap">
+          ${imgHtml}
+          <div class="card-time-badge">🕐 ${data}</div>
+        </div>
         <div class="card-body">
-          <div class="card-fonte">${a.source.name}</div>
-          <div class="card-title">${a.title}</div>
-          <div class="card-desc">${a.description || ''}</div>
+          <div class="card-fonte">${fonte}</div>
+          <div class="card-title">${titulo}</div>
+          <div class="card-desc">${desc}</div>
           <div class="card-meta">📅 ${data}</div>
         </div>
-      </a>
-    `;
+      </a>`;
   }).join('');
 }
 
-// ───────────────────────────────────────────────
-// FALLBACK com notícias fixas (quando sem chave)
-// ───────────────────────────────────────────────
-const NOTICIAS_FALLBACK = {
-  masc: [
-    { titulo: "Sport Club do Recife goleia rival e reassume liderança no Pernambucano", fonte: "Globo Esporte PE", desc: "A Ilha do Retiro foi palco de uma goleada histórica na tarde deste domingo.", data: "2025-03-20", url: "https://ge.globo.com", img: null, tag: "tag-masc" },
-    { titulo: "Fortaleza EC busca reforços para sequência na Libertadores", fonte: "Diário do Nordeste", desc: "Clube cearense estuda contratações para enfrentar times sul-americanos na fase de grupos.", data: "2025-03-19", url: "https://diariodonordeste.verdesmares.com.br", img: null, tag: "tag-masc" },
-    { titulo: "Bahia anuncia novo contrato com patrocinador master", fonte: "A Tarde", desc: "Clube tricolor firma parceria milionária e amplia receitas para o restante da temporada.", data: "2025-03-18", url: "https://atarde.com.br", img: null, tag: "tag-masc" },
-    { titulo: "Ceará SC confirma permanência de técnico após reunião com diretoria", fonte: "O Povo", desc: "Comissão técnica terá total apoio para preparar a equipe para o returno do Brasileirão.", data: "2025-03-17", url: "https://opovo.com.br", img: null, tag: "tag-masc" },
-    { titulo: "Vitória reencontra caminho das vitórias e deixa zona de rebaixamento", fonte: "Correio Bahia", desc: "Leão da Barra vence confronto direto e respira aliviado na tabela da Série A.", data: "2025-03-16", url: "https://correio24horas.com.br", img: null, tag: "tag-masc" },
-    { titulo: "Copa do Nordeste: retrospectiva dos grandes duelos da edição 2025", fonte: "Nordestão FC", desc: "Relembre os gols, polêmicas e grandes momentos do torneio regional mais aguardado.", data: "2025-03-15", url: "#", img: null, tag: "tag-masc" },
-  ],
-  fem: [
-    { titulo: "Fortaleza Feminino vence Sport e abre vantagem no Brasileirão Feminino A1", fonte: "Globo Esporte CE", desc: "Leoas jogaram em alto nível e dominaram as adversárias por todo o segundo tempo.", data: "2025-03-21", url: "https://ge.globo.com", img: null, tag: "tag-fem" },
-    { titulo: "Bahia Feminino anuncia contratação de jogadora da Seleção Brasileira", fonte: "A Tarde", desc: "Atleta retorna ao futebol nordestino após passagem pelo exterior.", data: "2025-03-19", url: "https://atarde.com.br", img: null, tag: "tag-fem" },
-    { titulo: "Sport Feminino celebra recorde de público na Ilha do Retiro", fonte: "Diário de Pernambuco", desc: "Mais de 15 mil torcedores compareceram ao estádio para apoiar o time feminino.", data: "2025-03-18", url: "#", img: null, tag: "tag-fem" },
-    { titulo: "Ceará Feminino disputa vaga nas quartas da Copa do Brasil Feminino", fonte: "O Povo", desc: "Vozão feminino busca histórica classificação inédita na competição nacional.", data: "2025-03-16", url: "https://opovo.com.br", img: null, tag: "tag-fem" },
-    { titulo: "Investimento no futebol feminino nordestino cresce 40% em 2025", fonte: "Nordestão FC", desc: "Levantamento aponta que clubes da região estão apostando cada vez mais na modalidade.", data: "2025-03-14", url: "#", img: null, tag: "tag-fem" },
-    { titulo: "Vitória Feminino apresenta novo uniforme com identidade regional", fonte: "Correio Bahia", desc: "Peça homenageia cultura do sertão e faz sucesso entre torcedoras do clube.", data: "2025-03-12", url: "#", img: null, tag: "tag-fem" },
-  ],
-  jogadores: [
-    { titulo: "Renato Kayzer: o artilheiro que está brilhando pelo Fortaleza em 2025", fonte: "Diário do Nordeste", desc: "Com 15 gols na temporada, o centroavante é o favorito ao prêmio de melhor jogador nordestino.", data: "2025-03-20", url: "#", img: null, tag: "tag-jogador" },
-    { titulo: "Everton Ribeiro faz declaração de amor ao Bahia e projeta título", fonte: "A Tarde", desc: "Campeão mundial de clubes pelo Flamengo, meia quer conquistar taça com o tricolor.", data: "2025-03-18", url: "#", img: null, tag: "tag-jogador" },
-    { titulo: "João Ricardo, o goleiro-muralha do Fortaleza, entra na mira da Seleção", fonte: "Globo Esporte CE", desc: "Arqueiro sofreu apenas 12 gols em 20 jogos e impressiona o técnico da seleção brasileira.", data: "2025-03-17", url: "#", img: null, tag: "tag-jogador" },
-    { titulo: "Yago Pikachu: lateral que virou ídolo e símbolo do futebol nordestino", fonte: "ESPN Brasil", desc: "Reportagem especial mostra a trajetória do jogador desde a base até o estrelato.", data: "2025-03-15", url: "#", img: null, tag: "tag-jogador" },
-    { titulo: "Thiago Galhardo sente dores e é dúvida no Sport para clássico nordestino", fonte: "Globo Esporte PE", desc: "Meia-atacante passa por avaliação médica e treina separado do grupo.", data: "2025-03-14", url: "#", img: null, tag: "tag-jogador" },
-    { titulo: "Léo Gamalho anuncia despedida dos gramados após 20 anos de carreira", fonte: "Nordestão FC", desc: "Ídolo do futebol nordestino faz jogo de despedida e emociona torcedores.", data: "2025-03-12", url: "#", img: null, tag: "tag-jogador" },
-  ]
+/* ════ BUSCA RSS PÚBLICO (sem chave) ════ */
+const RSS = {
+  masc:  'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fge.globo.com%2Ffutebol%2Frss2.xml',
+  fem:   'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fge.globo.com%2Ffutebol%2Ffutebol-feminino%2Frss2.xml',
+  jogad: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fge.globo.com%2Ffutebol%2Frss2.xml',
 };
 
-function renderFallback(tipo) {
+const PALAVRAS_NE = ['sport','fortaleza','bahia','ceará','ceara','vitória','vitoria',
+  'náutico','nautico','santa cruz','ferroviário','ferroviario','abc','botafogo-pb',
+  'crb','csa','sampaio','nordeste','recife','salvador','pernambuco','alagoas',
+  'paraíba','paraiba','maranhão','maranhao','piauí','piaui','sergipe',
+  'rio grande do norte','natal'];
+
+async function buscarRSS(tipo) {
+  try {
+    const res = await fetch(RSS[tipo]);
+    if(!res.ok) throw 0;
+    const d = await res.json();
+    if(d.status!=='ok') throw 0;
+    const tagMap = {masc:'tag-masc',fem:'tag-fem',jogad:'tag-jogad'};
+    const items = (d.items||[])
+      .filter(item=>{
+        const txt=(item.title+' '+(item.description||'')).toLowerCase();
+        return tipo==='fem'
+          ? txt.includes('feminino')||txt.includes('feminina')
+          : PALAVRAS_NE.some(p=>txt.includes(p));
+      })
+      .slice(0,8)
+      .map(item=>({
+        titulo: item.title,
+        desc:   (item.description||'').replace(/<[^>]*>/g,'').slice(0,180),
+        fonte:  d.feed?.title||'Globo Esporte',
+        url:    item.link,
+        image:  item.enclosure?.link||item.thumbnail||null,
+        data:   new Date(item.pubDate).toLocaleDateString('pt-BR',{day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'}),
+        tag:    tagMap[tipo],
+      }));
+    return items.length>=2?items:null;
+  } catch{ return null; }
+}
+
+/* ════ BUSCA GNEWS (com chave) ════ */
+const Q = {
+  masc: 'futebol masculino nordeste Sport Fortaleza Bahia Ceará Vitória',
+  fem:  'futebol feminino nordeste Sport Fortaleza Bahia Ceará',
+  jogad:'jogadores futebol nordeste seleção brasileira 2025',
+};
+async function buscarGNews(tipo, q) {
+  const query = encodeURIComponent(q||Q[tipo]);
+  const url = `https://gnews.io/api/v4/search?q=${query}&lang=pt&country=br&max=8&sortby=publishedAt&apikey=${GNEWS_KEY}`;
+  try {
+    const res = await fetch(url);
+    if(!res.ok) throw 0;
+    const d = await res.json();
+    if(!d.articles?.length) throw 0;
+    const tg={masc:'tag-masc',fem:'tag-fem',jogad:'tag-jogad'};
+    return d.articles.map(a=>({
+      titulo:a.title, desc:a.description, fonte:a.source.name,
+      url:a.url, image:a.image, tag:tg[tipo],
+      data:new Date(a.publishedAt).toLocaleDateString('pt-BR',{day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'}),
+    }));
+  } catch{ return null; }
+}
+
+/* ════ ORQUESTRADOR ════ */
+async function carregarTipo(tipo, q) {
   const el = document.getElementById(`cards-${tipo}`);
-  const noticias = NOTICIAS_FALLBACK[tipo] || [];
-  const cardClass = tipo === 'fem' ? 'card-fem' : 'card-masc';
+  el.innerHTML = `<div class="loading"><div class="spinner"></div><div class="loading-text">Buscando notícias…</div></div>`;
 
-  el.innerHTML = noticias.map((n, i) => {
-    const featured = i === 0 ? 'card-featured' : '';
-    return `
-      <a class="card ${cardClass} ${featured} fade-in" href="${n.url}" target="_blank" rel="noopener">
-        <span class="card-tag ${n.tag}">${n.tag === 'tag-masc' ? 'Masculino' : n.tag === 'tag-fem' ? 'Feminino' : 'Jogador'}</span>
-        <div class="card-img">⚽</div>
-        <div class="card-body">
-          <div class="card-fonte">${n.fonte}</div>
-          <div class="card-title">${n.titulo}</div>
-          <div class="card-desc">${n.desc}</div>
-          <div class="card-meta">📅 ${n.data}</div>
-        </div>
-      </a>
-    `;
-  }).join('');
+  let lista = null;
+  if(GNEWS_KEY!=='SEM_CHAVE') lista = await buscarGNews(tipo, q);
+  if(!lista) lista = await buscarRSS(tipo);
+  if(!lista) lista = gerarFallback(tipo);
+
+  renderCards(lista, tipo);
+  document.getElementById('ultimaHora').textContent =
+    new Date().toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'});
 }
 
-// ───────────────────────────────────────────────
-// BUSCA MANUAL
-// ───────────────────────────────────────────────
-function buscarNoticias() {
+function atualizarTudo(q) {
+  carregarTipo('masc',q);
+  carregarTipo('fem',q);
+  carregarTipo('jogad',q);
+  resetProgress();
+}
+
+function carregarMais(tipo){ carregarTipo(tipo); }
+
+function buscarManual() {
   const q = document.getElementById('searchInput').value.trim();
-  if (!q) return;
-  const aba = document.querySelector('.tab.active-masc, .tab.active-fem') || document.getElementById('tab-masc');
-  const tipo = aba.id.replace('tab-', '');
-  buscarNoticiasGNews(tipo !== 'jogadores' ? tipo : 'masc', null, q);
+  if(!q) return;
+  atualizarTudo(q);
 }
 
-document.getElementById('searchInput').addEventListener('keypress', e => {
-  if (e.key === 'Enter') buscarNoticias();
+/* ════ PROGRESS / COUNTDOWN ════ */
+let _prog, _cd, _start;
+function resetProgress() {
+  clearInterval(_prog); clearInterval(_cd);
+  _start = Date.now();
+  const bar   = document.getElementById('progressBar');
+  const badge = document.getElementById('proxAtualiz');
+  bar.style.width='0%';
+  _prog = setInterval(()=>{
+    const pct = Math.min(((Date.now()-_start)/INTERVALO_MS)*100,100);
+    bar.style.width=pct+'%';
+  },1000);
+  _cd = setInterval(()=>{
+    const rest = INTERVALO_MS-(Date.now()-_start);
+    if(rest<=0){ clearInterval(_cd); badge.textContent='Atualizando…'; return; }
+    const m=Math.floor(rest/60000), s=Math.floor((rest%60000)/1000);
+    badge.textContent=`Próx. atualização: ${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;
+  },1000);
+}
+setInterval(()=>atualizarTudo(), INTERVALO_MS);
+
+/* ════ TABS ════ */
+function switchTab(tipo) {
+  ['masc','fem','jogad'].forEach(t=>{
+    document.getElementById(`tab-${t}`)?.classList.remove('ativo-masc','ativo-fem','ativo-jogad');
+    document.getElementById(`panel-${t}`)?.classList.remove('ativo');
+  });
+  const cl=tipo==='fem'?'ativo-fem':tipo==='jogad'?'ativo-jogad':'ativo-masc';
+  document.getElementById(`tab-${tipo}`).classList.add(cl);
+  document.getElementById(`panel-${tipo}`).classList.add('ativo');
+}
+
+/* ════ SIDEBAR ════ */
+function montarSidebar() {
+  document.getElementById('lista-masc').innerHTML = TIMES_MASC.map(t=>`
+    <li onclick="filtrarTime('${t.nome}','masc')">
+      <div class="time-escudo">${t.icone}</div>
+      <div class="time-info"><div class="time-nome">${t.nome}</div><div class="time-estado">${t.estado}</div></div>
+      <span class="time-badge">${t.serie}</span>
+    </li>`).join('');
+
+  document.getElementById('lista-fem').innerHTML = TIMES_FEM.map(t=>`
+    <li onclick="filtrarTime('${t.nome}','fem')">
+      <div class="time-escudo">${t.icone}</div>
+      <div class="time-info"><div class="time-nome">${t.nome}</div><div class="time-estado">${t.estado}</div></div>
+      <span class="time-badge">${t.serie}</span>
+    </li>`).join('');
+
+  document.getElementById('lista-jogad').innerHTML = JOGADORES.map(j=>`
+    <div class="jogador-row" onclick="filtrarJogador('${j.nome}')">
+      <div class="j-avatar">${j.icone}</div>
+      <div><div class="j-nome">${j.nome}</div><div class="j-meta">${j.pos} · ${j.time}</div></div>
+    </div>`).join('');
+}
+
+function filtrarTime(nome,tipo){switchTab(tipo);document.getElementById('searchInput').value=nome;carregarTipo(tipo,nome)}
+function filtrarJogador(nome){switchTab('jogad');document.getElementById('searchInput').value=nome;carregarTipo('jogad',nome)}
+
+/* ════ FILTROS ESTADO ════ */
+function montarFiltros() {
+  const build=(estados,tipo)=>estados.map((e,i)=>
+    `<div class="chip${i===0?' ativo-'+tipo:''}" onclick="filtrarEstado(this,'${e}','${tipo}')">
+      ${e==='Todos'?'🌎 Todos':e}
+     </div>`).join('');
+  document.getElementById('filtros-masc').innerHTML=build(['Todos','BA','CE','PE','RN','PB','AL','MA'],'masc');
+  document.getElementById('filtros-fem').innerHTML =build(['Todos','BA','CE','PE','RN','AL'],'fem');
+}
+
+function filtrarEstado(chip,estado,tipo){
+  document.querySelectorAll(`#filtros-${tipo} .chip`).forEach(c=>c.classList.remove('ativo-'+tipo));
+  chip.classList.add('ativo-'+tipo);
+  const q=estado==='Todos'?null:`futebol ${tipo==='fem'?'feminino':'masculino'} ${estado} nordeste`;
+  carregarTipo(tipo,q);
+}
+
+/* ════ TICKER ════ */
+function montarTicker(){
+  const t=document.getElementById('ticker');
+  const items=[...TICKER_ITEMS,...TICKER_ITEMS];
+  t.innerHTML=items.map(i=>`<span class="ticker-item">⚡ ${i} <span style="opacity:.35">│</span></span>`).join('');
+}
+
+/* ════ SEARCH ENTER ════ */
+document.addEventListener('DOMContentLoaded',()=>{
+  document.getElementById('searchInput').addEventListener('keypress',e=>{if(e.key==='Enter')buscarManual()});
 });
 
-function buscarJogador(nome) {
-  document.getElementById('searchInput').value = nome;
-  switchTab('jogadores');
-}
-
-function filtrarPorTime(nome, tipo) {
-  document.getElementById('searchInput').value = nome;
-  switchTab(tipo);
-  buscarNoticiasGNews(tipo, null, nome);
-}
-
-function carregarMais(tipo) {
-  paginas[tipo]++;
-  buscarNoticiasGNews(tipo);
-}
-
-// ───────────────────────────────────────────────
-// SWITCH TABS
-// ───────────────────────────────────────────────
-function switchTab(tipo) {
-  ['masc','fem','jogadores'].forEach(t => {
-    document.getElementById(`tab-${t}`)?.classList.remove('active-masc','active-fem');
-    document.getElementById(`panel-${t}`)?.classList.remove('active');
-  });
-
-  const tab = document.getElementById(`tab-${tipo}`);
-  tab.classList.add(tipo === 'fem' ? 'active-fem' : 'active-masc');
-  document.getElementById(`panel-${tipo}`).classList.add('active');
-}
-
-// ───────────────────────────────────────────────
-// INIT
-// ───────────────────────────────────────────────
-(function init() {
-  montarTicker();
-  montarSidebarTimes(TIMES_MASC, 'lista-masc', 'masc');
-  montarSidebarTimes(TIMES_FEM, 'lista-fem', 'fem');
-  montarSidebarJogadores();
-  montarFiltros('masc');
-  montarFiltros('fem');
-  renderFallback('masc');
-  renderFallback('fem');
-  renderFallback('jogadores');
-
-  // Tenta buscar da API real (se houver chave)
-  if (GNEWS_KEY !== 'SEM_CHAVE') {
-    buscarNoticiasGNews('masc');
-    buscarNoticiasGNews('fem');
-    buscarNoticiasGNews('jogadores');
-  }
-})();
+/* ════ INIT ════ */
+montarTicker();
+montarSidebar();
+montarFiltros();
+atualizarTudo();
 </script>
 </body>
 </html>
