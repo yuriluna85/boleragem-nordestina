@@ -1284,6 +1284,215 @@
       margin-top: auto;
     }
 
+    /* ══ COPA DO NORDESTE SIMULATOR STYLES ══ */
+    .tab-item.active-copa {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+    }
+    .copa-table tbody tr {
+      border-bottom: 1px solid rgba(128, 203, 196, 0.05);
+      transition: background 0.15s ease;
+    }
+    .copa-table tbody tr:hover {
+      background: rgba(0, 230, 118, 0.04);
+    }
+    .copa-table td {
+      padding: 8px 4px;
+      vertical-align: middle;
+    }
+    .copa-table .row-qualificado {
+      background: rgba(0, 230, 118, 0.04);
+      border-left: 3px solid var(--primary);
+    }
+    .copa-table .row-normal {
+      border-left: 3px solid transparent;
+    }
+    .copa-team-cell {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-weight: 600;
+    }
+    .rodadas-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+      margin-top: 1rem;
+    }
+    .rodada-card {
+      background: rgba(14, 28, 20, 0.4);
+      border: 1px solid var(--border-glow);
+      border-radius: 12px;
+      padding: 1.2rem;
+    }
+    .rodada-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--accent);
+      border-bottom: 1px solid rgba(0, 230, 118, 0.1);
+      padding-bottom: 6px;
+      margin-bottom: 12px;
+      text-align: center;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    .rodada-matches {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .match-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: rgba(14, 28, 20, 0.6);
+      border: 1px solid rgba(128, 203, 196, 0.05);
+      border-radius: 6px;
+      padding: 6px 10px;
+    }
+    .match-team {
+      font-size: 0.8rem;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      width: 40%;
+    }
+    .match-team.home {
+      justify-content: flex-end;
+      text-align: right;
+    }
+    .match-team.away {
+      justify-content: flex-start;
+      text-align: left;
+    }
+    .match-scores {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      width: 20%;
+      justify-content: center;
+    }
+    .match-score-input {
+      width: 28px;
+      height: 22px;
+      background: rgba(14, 28, 20, 0.9);
+      border: 1px solid rgba(0, 230, 118, 0.2);
+      color: #fff;
+      text-align: center;
+      font-family: inherit;
+      font-size: 0.8rem;
+      font-weight: 700;
+      border-radius: 3px;
+      outline: none;
+    }
+    .match-score-input:focus {
+      border-color: var(--primary);
+    }
+    .match-vs {
+      font-size: 0.65rem;
+      color: rgba(128, 203, 196, 0.4);
+    }
+    /* Knockout bracket */
+    .knockout-bracket {
+      display: flex;
+      justify-content: space-between;
+      align-items: stretch;
+      gap: 1.5rem;
+      background: rgba(14, 28, 20, 0.4);
+      border: 1px solid var(--border-glow);
+      padding: 1.5rem;
+      border-radius: 12px;
+      overflow-x: auto;
+    }
+    .bracket-column {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      gap: 1.5rem;
+      min-width: 200px;
+    }
+    .bracket-column h4 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 0.82rem;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      text-align: center;
+      margin-bottom: 0.5rem;
+      border-bottom: 1px solid rgba(0, 230, 118, 0.1);
+      padding-bottom: 4px;
+    }
+    .bracket-matches {
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+      justify-content: space-around;
+      height: 100%;
+    }
+    .knockout-match-card {
+      background: rgba(14, 28, 20, 0.8);
+      border: 1px solid rgba(0, 230, 118, 0.15);
+      border-radius: 8px;
+      padding: 0.8rem;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
+    .knockout-team-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+    }
+    .knockout-team-info {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .knockout-score-input {
+      width: 35px;
+      height: 25px;
+      background: rgba(14, 28, 20, 0.9);
+      border: 1px solid rgba(0, 230, 118, 0.3);
+      color: #fff;
+      text-align: center;
+      font-family: inherit;
+      font-size: 0.85rem;
+      font-weight: 700;
+      border-radius: 4px;
+      outline: none;
+    }
+    .knockout-score-input:focus {
+      border-color: var(--primary);
+    }
+    .champion-box {
+      background: linear-gradient(135deg, rgba(255, 214, 0, 0.15) 0%, rgba(255, 61, 0, 0.05) 100%);
+      border: 2px solid var(--accent);
+      border-radius: 12px;
+      padding: 1.5rem;
+      text-align: center;
+      box-shadow: 0 0 20px rgba(255, 214, 0, 0.2);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      animation: pulse-glow 2s infinite alternate;
+    }
+    .champion-trophy {
+      font-size: 3rem;
+      animation: bounce-trophy 2s infinite;
+    }
+    .champion-name {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1.25rem;
+      font-weight: 800;
+      color: var(--accent);
+    }
+
     /* ══ FOOTER ══ */
     footer {
       background: var(--bg-header);
@@ -1755,6 +1964,7 @@
       <button class="tab-item" id="tab-jogad" onclick="switchTab('jogad')" aria-controls="panel-jogad" aria-selected="false" role="tab">⭐ Jogadores</button>
       <button class="tab-item" id="tab-stats" onclick="switchTab('stats')" aria-controls="panel-stats" aria-selected="false" role="tab">📊 Estatísticas</button>
       <button class="tab-item" id="tab-clubs" onclick="switchTab('clubs')" aria-controls="panel-clubs" aria-selected="false" role="tab">🛡️ Clubes &amp; História</button>
+      <button class="tab-item" id="tab-copa" onclick="switchTab('copa')" aria-controls="panel-copa" aria-selected="false" role="tab">🏆 Tabela e Jogos</button>
     </div>
   </nav>
 
@@ -1883,6 +2093,89 @@
         <!-- Grid de Clubes -->
         <div class="news-grid" id="clubs-grid">
           <div class="loading"><div class="spinner"></div><div class="loading-text">Carregando clubes...</div></div>
+        </div>
+      </section>
+
+      <!-- ABA TABELA E JOGOS (COPA DO NORDESTE) -->
+      <section class="tab-panel" id="panel-copa" role="tabpanel" aria-labelledby="tab-copa">
+        <h2 class="section-title title-copa" style="border-left-color: var(--accent);">Simulador da Copa do Nordeste 2026</h2>
+        
+        <div style="background: var(--bg-card); border: 1px solid var(--border-glow); border-radius: 12px; padding: 1.2rem; margin-bottom: 1.5rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+          <div>
+            <h3 style="font-family: 'Outfit', sans-serif; font-size: 1.1rem; font-weight: 700; color: #fff; margin-bottom: 4px;">🎯 Simule os Resultados do Nordestão</h3>
+            <p style="font-size: 0.8rem; color: var(--text-muted);">Preencha os placares das rodadas para atualizar as tabelas do Grupo A e Grupo B em tempo real. Ao completar a fase de grupos, o mata-mata será liberado!</p>
+          </div>
+          <div style="display: flex; gap: 10px;">
+            <button class="btn-action btn-primary-style" onclick="simularPalpitesCopa()">⚡ Auto-Simular Tudo</button>
+            <button class="btn-action btn-outline-style" onclick="limparPalpitesCopa()">🧹 Limpar Tudo</button>
+          </div>
+        </div>
+
+        <!-- Tabelas de Classificação -->
+        <div class="copa-tables-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.5rem; margin-bottom: 2rem;">
+          <!-- Grupo A -->
+          <div style="background: var(--bg-card); border: 1px solid var(--border-glow); border-radius: 12px; padding: 1.2rem; overflow-x: auto;">
+            <h3 style="font-family: 'Outfit', sans-serif; font-size: 1.05rem; font-weight: 700; color: var(--primary); margin-bottom: 10px; border-bottom: 1px solid rgba(0, 230, 118, 0.1); padding-bottom: 6px;">GRUPO A</h3>
+            <table class="copa-table" style="width: 100%; border-collapse: collapse; text-align: left; font-size: 0.85rem;">
+              <thead>
+                <tr style="border-bottom: 1px solid rgba(0,230,118,0.1); color: var(--text-muted); font-weight: 700;">
+                  <th style="padding: 6px 4px; width: 30px;">#</th>
+                  <th style="padding: 6px 4px;">Clube</th>
+                  <th style="padding: 6px 4px; text-align: center; width: 35px;">P</th>
+                  <th style="padding: 6px 4px; text-align: center; width: 30px;">J</th>
+                  <th style="padding: 6px 4px; text-align: center; width: 30px;">V</th>
+                  <th style="padding: 6px 4px; text-align: center; width: 30px;">E</th>
+                  <th style="padding: 6px 4px; text-align: center; width: 30px;">D</th>
+                  <th style="padding: 6px 4px; text-align: center; width: 35px;">GP</th>
+                  <th style="padding: 6px 4px; text-align: center; width: 35px;">GC</th>
+                  <th style="padding: 6px 4px; text-align: center; width: 35px;">SG</th>
+                </tr>
+              </thead>
+              <tbody id="table-copa-a-body"></tbody>
+            </table>
+            <div style="font-size: 0.68rem; color: var(--text-muted); margin-top: 10px; display: flex; align-items: center; gap: 6px;">
+              <span style="width: 10px; height: 10px; background: rgba(0,230,118,0.06); border-left: 3px solid var(--primary); display: inline-block;"></span>
+              <span>Zona de classificação para as Quartas de Final (Top 4)</span>
+            </div>
+          </div>
+
+          <!-- Grupo B -->
+          <div style="background: var(--bg-card); border: 1px solid var(--border-glow); border-radius: 12px; padding: 1.2rem; overflow-x: auto;">
+            <h3 style="font-family: 'Outfit', sans-serif; font-size: 1.05rem; font-weight: 700; color: var(--accent); margin-bottom: 10px; border-bottom: 1px solid rgba(255, 214, 0, 0.1); padding-bottom: 6px;">GRUPO B</h3>
+            <table class="copa-table" style="width: 100%; border-collapse: collapse; text-align: left; font-size: 0.85rem;">
+              <thead>
+                <tr style="border-bottom: 1px solid rgba(255,214,0,0.1); color: var(--text-muted); font-weight: 700;">
+                  <th style="padding: 6px 4px; width: 30px;">#</th>
+                  <th style="padding: 6px 4px;">Clube</th>
+                  <th style="padding: 6px 4px; text-align: center; width: 35px;">P</th>
+                  <th style="padding: 6px 4px; text-align: center; width: 30px;">J</th>
+                  <th style="padding: 6px 4px; text-align: center; width: 30px;">V</th>
+                  <th style="padding: 6px 4px; text-align: center; width: 30px;">E</th>
+                  <th style="padding: 6px 4px; text-align: center; width: 30px;">D</th>
+                  <th style="padding: 6px 4px; text-align: center; width: 35px;">GP</th>
+                  <th style="padding: 6px 4px; text-align: center; width: 35px;">GC</th>
+                  <th style="padding: 6px 4px; text-align: center; width: 35px;">SG</th>
+                </tr>
+              </thead>
+              <tbody id="table-copa-b-body"></tbody>
+            </table>
+            <div style="font-size: 0.68rem; color: var(--text-muted); margin-top: 10px; display: flex; align-items: center; gap: 6px;">
+              <span style="width: 10px; height: 10px; background: rgba(0,230,118,0.06); border-left: 3px solid var(--primary); display: inline-block;"></span>
+              <span>Zona de classificação para as Quartas de Final (Top 4)</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Fase de Grupos Partidas -->
+        <div style="background: var(--bg-card); border: 1px solid var(--border-glow); border-radius: 12px; padding: 1.2rem; margin-bottom: 2rem;">
+          <h3 style="font-family: 'Outfit', sans-serif; font-size: 1.1rem; font-weight: 700; color: #fff; margin-bottom: 10px; border-bottom: 1px solid rgba(0,230,118,0.1); padding-bottom: 6px;">Fase de Grupos (Rodadas de Confrontos Cruzados)</h3>
+          <div id="copa-rodadas-container" class="rodadas-grid"></div>
+        </div>
+
+        <!-- Fase de Mata-Mata -->
+        <div id="copa-knockout" style="display: none; margin-top: 2rem;">
+          <h3 class="section-title title-copa" style="border-left-color: var(--accent-orange); margin-bottom: 1.2rem;">Fase de Mata-Mata</h3>
+          <div class="knockout-bracket" id="copa-knockout-bracket"></div>
         </div>
       </section>
 
@@ -2047,6 +2340,595 @@
       "Fortaleza Feminino avança com 100% de aprovitamento na A1",
       "Sport Feminino atrai mais de 15 mil torcedores ao estádio"
     ];
+
+    // ══ DADOS E ESTADOS DO SIMULADOR DA COPA DO NORDESTE ══
+    const copaTeams = [
+      { id: "bahia", nome: "Bahia", escudo: "🔵", grupo: "A" },
+      { id: "sport", nome: "Sport", escudo: "🔴", grupo: "A" },
+      { id: "ceara", nome: "Ceará", escudo: "🐢", grupo: "A" },
+      { id: "crb", nome: "CRB", escudo: "🔴", grupo: "A" },
+      { id: "sampaio", nome: "Sampaio Corrêa", escudo: "🌊", grupo: "A" },
+      { id: "botafogo-pb", nome: "Botafogo-PB", escudo: "⭐", grupo: "A" },
+      { id: "abc", nome: "ABC", escudo: "⚫", grupo: "A" },
+      { id: "confianca", nome: "Confiança", escudo: "🐉", grupo: "A" },
+      { id: "fortaleza", nome: "Fortaleza", escudo: "🦁", grupo: "B" },
+      { id: "vitoria", nome: "Vitória", escudo: "🦅", grupo: "B" },
+      { id: "nautico", nome: "Náutico", escudo: "⚓", grupo: "B" },
+      { id: "csa", nome: "CSA", escudo: "🔵", grupo: "B" },
+      { id: "america-rn", nome: "América-RN", escudo: "⚪", grupo: "B" },
+      { id: "sergipe", nome: "Sergipe", escudo: "🔴", grupo: "B" },
+      { id: "campinense", nome: "Campinense", escudo: "🦊", grupo: "B" },
+      { id: "treze", nome: "Treze", escudo: "🐓", grupo: "B" }
+    ];
+
+    const copaMatchesTemplate = [
+      { id: 1, round: 1, home: "bahia", away: "fortaleza", homeScore: null, awayScore: null },
+      { id: 2, round: 1, home: "sport", away: "vitoria", homeScore: null, awayScore: null },
+      { id: 3, round: 1, home: "ceara", away: "nautico", homeScore: null, awayScore: null },
+      { id: 4, round: 1, home: "crb", away: "csa", homeScore: null, awayScore: null },
+      { id: 5, round: 1, home: "sampaio", away: "america-rn", homeScore: null, awayScore: null },
+      { id: 6, round: 1, home: "botafogo-pb", away: "sergipe", homeScore: null, awayScore: null },
+      { id: 7, round: 1, home: "abc", away: "campinense", homeScore: null, awayScore: null },
+      { id: 8, round: 1, home: "confianca", away: "treze", homeScore: null, awayScore: null },
+      { id: 9, round: 2, home: "fortaleza", away: "sport", homeScore: null, awayScore: null },
+      { id: 10, round: 2, home: "vitoria", away: "ceara", homeScore: null, awayScore: null },
+      { id: 11, round: 2, home: "nautico", away: "crb", homeScore: null, awayScore: null },
+      { id: 12, round: 2, home: "csa", away: "sampaio", homeScore: null, awayScore: null },
+      { id: 13, round: 2, home: "america-rn", away: "botafogo-pb", homeScore: null, awayScore: null },
+      { id: 14, round: 2, home: "sergipe", away: "abc", homeScore: null, awayScore: null },
+      { id: 15, round: 2, home: "campinense", away: "confianca", homeScore: null, awayScore: null },
+      { id: 16, round: 2, home: "treze", away: "bahia", homeScore: null, awayScore: null },
+      { id: 17, round: 3, home: "bahia", away: "nautico", homeScore: null, awayScore: null },
+      { id: 18, round: 3, home: "sport", away: "csa", homeScore: null, awayScore: null },
+      { id: 19, round: 3, home: "ceara", away: "america-rn", homeScore: null, awayScore: null },
+      { id: 20, round: 3, home: "crb", away: "sergipe", homeScore: null, awayScore: null },
+      { id: 21, round: 3, home: "sampaio", away: "campinense", homeScore: null, awayScore: null },
+      { id: 22, round: 3, home: "botafogo-pb", away: "treze", homeScore: null, awayScore: null },
+      { id: 23, round: 3, home: "abc", away: "fortaleza", homeScore: null, awayScore: null },
+      { id: 24, round: 3, home: "confianca", away: "vitoria", homeScore: null, awayScore: null },
+      { id: 25, round: 4, home: "fortaleza", away: "ceara", homeScore: null, awayScore: null },
+      { id: 26, round: 4, home: "vitoria", away: "crb", homeScore: null, awayScore: null },
+      { id: 27, round: 4, home: "nautico", away: "sampaio", homeScore: null, awayScore: null },
+      { id: 28, round: 4, home: "csa", away: "botafogo-pb", homeScore: null, awayScore: null },
+      { id: 29, round: 4, home: "america-rn", away: "abc", homeScore: null, awayScore: null },
+      { id: 30, round: 4, home: "sergipe", away: "confianca", homeScore: null, awayScore: null },
+      { id: 31, round: 4, home: "campinense", away: "bahia", homeScore: null, awayScore: null },
+      { id: 32, round: 4, home: "treze", away: "sport", homeScore: null, awayScore: null }
+    ];
+
+    let copaMatchesState = [];
+    let copaKnockoutState = {
+      quartas: [
+        { id: "q1", home: null, away: null, homeScore: null, awayScore: null, homePen: null, awayPen: null },
+        { id: "q2", home: null, away: null, homeScore: null, awayScore: null, homePen: null, awayPen: null },
+        { id: "q3", home: null, away: null, homeScore: null, awayScore: null, homePen: null, awayPen: null },
+        { id: "q4", home: null, away: null, homeScore: null, awayScore: null, homePen: null, awayPen: null }
+      ],
+      semis: [
+        { id: "s1", home: null, away: null, homeScore: null, awayScore: null, homePen: null, awayPen: null },
+        { id: "s2", home: null, away: null, homeScore: null, awayScore: null, homePen: null, awayPen: null }
+      ],
+      final: [
+        { id: "f1", home: null, away: null, homeScore: null, awayScore: null, homePen: null, awayPen: null }
+      ],
+      campeao: null
+    };
+
+    function encontrarTimeCopa(id) {
+      return copaTeams.find(t => t.id === id) || null;
+    }
+
+    function inicializarCopa() {
+      const matchesSalvos = localStorage.getItem('copa_nordeste_matches');
+      if (matchesSalvos) {
+        copaMatchesState = JSON.parse(matchesSalvos);
+      } else {
+        copaMatchesState = JSON.parse(JSON.stringify(copaMatchesTemplate));
+      }
+
+      const knockoutSalvo = localStorage.getItem('copa_nordeste_knockout');
+      if (knockoutSalvo) {
+        copaKnockoutState = JSON.parse(knockoutSalvo);
+      } else {
+        resetKnockoutState();
+      }
+
+      atualizarInterfaceCopa();
+    }
+
+    function resetKnockoutState() {
+      copaKnockoutState = {
+        quartas: [
+          { id: "q1", home: null, away: null, homeScore: null, awayScore: null, homePen: null, awayPen: null },
+          { id: "q2", home: null, away: null, homeScore: null, awayScore: null, homePen: null, awayPen: null },
+          { id: "q3", home: null, away: null, homeScore: null, awayScore: null, homePen: null, awayPen: null },
+          { id: "q4", home: null, away: null, homeScore: null, awayScore: null, homePen: null, awayPen: null }
+        ],
+        semis: [
+          { id: "s1", home: null, away: null, homeScore: null, awayScore: null, homePen: null, awayPen: null },
+          { id: "s2", home: null, away: null, homeScore: null, awayScore: null, homePen: null, awayPen: null }
+        ],
+        final: [
+          { id: "f1", home: null, away: null, homeScore: null, awayScore: null, homePen: null, awayPen: null }
+        ],
+        campeao: null
+      };
+    }
+
+    function atualizarInterfaceCopa() {
+      const { sortedA, sortedB } = calcularTabelaCopa();
+      renderizarTabelaGrupo('a', sortedA);
+      renderizarTabelaGrupo('b', sortedB);
+      renderizarRodadasCopa();
+
+      const mataMataLiberado = verificarLiberacaoMataMata();
+      const knockoutPanel = document.getElementById('copa-knockout');
+
+      if (mataMataLiberado) {
+        if (!copaKnockoutState.quartas[0].home) {
+          definirConfrontosQuartas(sortedA, sortedB);
+        }
+        if (knockoutPanel) knockoutPanel.style.display = 'block';
+        renderizarMataMata();
+      } else {
+        if (knockoutPanel) knockoutPanel.style.display = 'none';
+        resetKnockoutState();
+        localStorage.removeItem('copa_nordeste_knockout');
+      }
+    }
+
+    function calcularTabelaCopa() {
+      const stats = {};
+      copaTeams.forEach(t => {
+        stats[t.id] = {
+          id: t.id,
+          nome: t.nome,
+          escudo: t.escudo,
+          grupo: t.grupo,
+          P: 0, J: 0, V: 0, E: 0, D: 0, GP: 0, GC: 0, SG: 0
+        };
+      });
+
+      copaMatchesState.forEach(m => {
+        if (m.homeScore !== null && m.awayScore !== null) {
+          const hs = parseInt(m.homeScore, 10);
+          const as = parseInt(m.awayScore, 10);
+          
+          if (isNaN(hs) || isNaN(as)) return;
+
+          const home = stats[m.home];
+          const away = stats[m.away];
+
+          home.J++;
+          away.J++;
+          home.GP += hs;
+          home.GC += as;
+          away.GP += as;
+          away.GC += hs;
+
+          if (hs > as) {
+            home.V++;
+            home.P += 3;
+            away.D++;
+          } else if (as > hs) {
+            away.V++;
+            away.P += 3;
+            home.D++;
+          } else {
+            home.E++;
+            home.P += 1;
+            away.E++;
+            away.P += 1;
+          }
+        }
+      });
+
+      copaTeams.forEach(t => {
+        stats[t.id].SG = stats[t.id].GP - stats[t.id].GC;
+      });
+
+      const sortedA = Object.values(stats).filter(t => t.grupo === 'A');
+      const sortedB = Object.values(stats).filter(t => t.grupo === 'B');
+
+      const compararTimes = (a, b) => {
+        if (b.P !== a.P) return b.P - a.P;
+        if (b.V !== a.V) return b.V - a.V;
+        if (b.SG !== a.SG) return b.SG - a.SG;
+        if (b.GP !== a.GP) return b.GP - a.GP;
+        return a.nome.localeCompare(b.nome);
+      };
+
+      sortedA.sort(compararTimes);
+      sortedB.sort(compararTimes);
+
+      return { sortedA, sortedB };
+    }
+
+    function renderizarTabelaGrupo(grupo, times) {
+      const tbody = document.getElementById(`table-copa-${grupo}-body`);
+      if (!tbody) return;
+      tbody.innerHTML = times.map((t, idx) => {
+        const isQualificado = idx < 4;
+        const rowClass = isQualificado ? 'row-qualificado' : 'row-normal';
+        return `
+          <tr class="${rowClass}">
+            <td style="padding: 6px 4px; font-weight: 700; color: ${isQualificado ? 'var(--primary)' : 'var(--text-muted)'};">${idx + 1}</td>
+            <td style="padding: 6px 4px;">
+              <div class="copa-team-cell">
+                <span aria-hidden="true">${t.escudo}</span>
+                <span class="team-name-text">${t.nome}</span>
+              </div>
+            </td>
+            <td style="padding: 6px 4px; text-align: center; font-weight: 700; color: #fff;">${t.P}</td>
+            <td style="padding: 6px 4px; text-align: center;">${t.J}</td>
+            <td style="padding: 6px 4px; text-align: center;">${t.V}</td>
+            <td style="padding: 6px 4px; text-align: center;">${t.E}</td>
+            <td style="padding: 6px 4px; text-align: center;">${t.D}</td>
+            <td style="padding: 6px 4px; text-align: center;">${t.GP}</td>
+            <td style="padding: 6px 4px; text-align: center;">${t.GC}</td>
+            <td style="padding: 6px 4px; text-align: center; font-weight: 600; color: ${t.SG > 0 ? 'var(--primary)' : t.SG < 0 ? 'var(--accent-orange)' : 'var(--text-muted)'};">${t.SG > 0 ? '+' + t.SG : t.SG}</td>
+          </tr>
+        `;
+      }).join('');
+    }
+
+    function renderizarRodadasCopa() {
+      const container = document.getElementById('copa-rodadas-container');
+      if (!container) return;
+      
+      const rodadas = { 1: [], 2: [], 3: [], 4: [] };
+      copaMatchesState.forEach(m => {
+        rodadas[m.round].push(m);
+      });
+
+      container.innerHTML = Object.entries(rodadas).map(([rodadaNum, partidas]) => {
+        const partidasHTML = partidas.map(m => {
+          const homeTeam = encontrarTimeCopa(m.home);
+          const awayTeam = encontrarTimeCopa(m.away);
+          const hsValue = m.homeScore !== null ? m.homeScore : '';
+          const asValue = m.awayScore !== null ? m.awayScore : '';
+
+          return `
+            <div class="match-item" data-match-id="${m.id}">
+              <div class="match-team home" title="${homeTeam.nome}">
+                <span class="team-name-text">${homeTeam.nome}</span>
+                <span aria-hidden="true">${homeTeam.escudo}</span>
+              </div>
+              <div class="match-scores">
+                <input type="number" min="0" class="match-score-input" value="${hsValue}" onchange="salvarPlacarCopa(${m.id}, 'home', this.value)" aria-label="Gols do ${homeTeam.nome}">
+                <span class="match-vs">x</span>
+                <input type="number" min="0" class="match-score-input" value="${asValue}" onchange="salvarPlacarCopa(${m.id}, 'away', this.value)" aria-label="Gols do ${awayTeam.nome}">
+              </div>
+              <div class="match-team away" title="${awayTeam.nome}">
+                <span aria-hidden="true">${awayTeam.escudo}</span>
+                <span class="team-name-text">${awayTeam.nome}</span>
+              </div>
+            </div>
+          `;
+        }).join('');
+
+        return `
+          <div class="rodada-card">
+            <h4 class="rodada-title">RODADA ${rodadaNum}</h4>
+            <div class="rodada-matches">
+              ${partidasHTML}
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function salvarPlacarCopa(matchId, type, val) {
+      const match = copaMatchesState.find(m => m.id === matchId);
+      if (match) {
+        const parsed = parseInt(val, 10);
+        if (val === '' || isNaN(parsed) || parsed < 0) {
+          if (type === 'home') match.homeScore = null;
+          else match.awayScore = null;
+        } else {
+          if (type === 'home') match.homeScore = parsed;
+          else match.awayScore = parsed;
+        }
+        localStorage.setItem('copa_nordeste_matches', JSON.stringify(copaMatchesState));
+        atualizarInterfaceCopa();
+      }
+    }
+
+    function verificarLiberacaoMataMata() {
+      return copaMatchesState.every(m => m.homeScore !== null && m.awayScore !== null);
+    }
+
+    function definirConfrontosQuartas(sortedA, sortedB) {
+      copaKnockoutState.quartas[0].home = sortedA[0].id;
+      copaKnockoutState.quartas[0].away = sortedB[3].id;
+
+      copaKnockoutState.quartas[1].home = sortedB[1].id;
+      copaKnockoutState.quartas[1].away = sortedA[2].id;
+
+      copaKnockoutState.quartas[2].home = sortedB[0].id;
+      copaKnockoutState.quartas[2].away = sortedA[3].id;
+
+      copaKnockoutState.quartas[3].home = sortedA[1].id;
+      copaKnockoutState.quartas[3].away = sortedB[2].id;
+
+      localStorage.setItem('copa_nordeste_knockout', JSON.stringify(copaKnockoutState));
+    }
+
+    function processarAvancoMataMata() {
+      const winnerQ1 = obterVencedor(copaKnockoutState.quartas[0]);
+      const winnerQ2 = obterVencedor(copaKnockoutState.quartas[1]);
+      copaKnockoutState.semis[0].home = winnerQ1 ? winnerQ1.id : null;
+      copaKnockoutState.semis[0].away = winnerQ2 ? winnerQ2.id : null;
+
+      const winnerQ3 = obterVencedor(copaKnockoutState.quartas[2]);
+      const winnerQ4 = obterVencedor(copaKnockoutState.quartas[3]);
+      copaKnockoutState.semis[1].home = winnerQ3 ? winnerQ3.id : null;
+      copaKnockoutState.semis[1].away = winnerQ4 ? winnerQ4.id : null;
+
+      copaKnockoutState.semis.forEach(s => {
+        if (!s.home || !s.away) {
+          s.homeScore = null; s.awayScore = null; s.homePen = null; s.awayPen = null;
+        }
+      });
+
+      const winnerS1 = obterVencedor(copaKnockoutState.semis[0]);
+      const winnerS2 = obterVencedor(copaKnockoutState.semis[1]);
+      copaKnockoutState.final[0].home = winnerS1 ? winnerS1.id : null;
+      copaKnockoutState.final[0].away = winnerS2 ? winnerS2.id : null;
+
+      if (!copaKnockoutState.final[0].home || !copaKnockoutState.final[0].away) {
+        copaKnockoutState.final[0].homeScore = null;
+        copaKnockoutState.final[0].awayScore = null;
+        copaKnockoutState.final[0].homePen = null;
+        copaKnockoutState.final[0].awayPen = null;
+      }
+
+      const winnerFinal = obterVencedor(copaKnockoutState.final[0]);
+      copaKnockoutState.campeao = winnerFinal ? winnerFinal.id : null;
+
+      localStorage.setItem('copa_nordeste_knockout', JSON.stringify(copaKnockoutState));
+      renderizarMataMata();
+    }
+
+    function obterVencedor(partida) {
+      if (partida.homeScore === null || partida.awayScore === null) return null;
+      const hs = parseInt(partida.homeScore, 10);
+      const as = parseInt(partida.awayScore, 10);
+      if (isNaN(hs) || isNaN(as)) return null;
+
+      if (hs > as) return encontrarTimeCopa(partida.home);
+      if (as > hs) return encontrarTimeCopa(partida.away);
+
+      if (partida.homePen !== null && partida.awayPen !== null) {
+        const hp = parseInt(partida.homePen, 10);
+        const ap = parseInt(partida.awayPen, 10);
+        if (isNaN(hp) || isNaN(ap)) return null;
+        if (hp > ap) return encontrarTimeCopa(partida.home);
+        if (ap > hp) return encontrarTimeCopa(partida.away);
+      }
+      return null;
+    }
+
+    function renderizarMataMata() {
+      const container = document.getElementById('copa-knockout-bracket');
+      if (!container) return;
+
+      const renderPartidaMataMata = (partida, fase, indice) => {
+        const homeTeam = partida.home ? encontrarTimeCopa(partida.home) : null;
+        const awayTeam = partida.away ? encontrarTimeCopa(partida.away) : null;
+
+        const homeName = homeTeam ? homeTeam.nome : 'A definir';
+        const homeEscudo = homeTeam ? homeTeam.escudo : '❓';
+        const awayName = awayTeam ? awayTeam.nome : 'A definir';
+        const awayEscudo = awayTeam ? awayTeam.escudo : '❓';
+
+        const hsValue = partida.homeScore !== null ? partida.homeScore : '';
+        const asValue = partida.awayScore !== null ? partida.awayScore : '';
+        const hpValue = partida.homePen !== null ? partida.homePen : '';
+        const apValue = partida.awayPen !== null ? partida.awayPen : '';
+
+        const isTie = partida.homeScore !== null && partida.awayScore !== null && parseInt(partida.homeScore, 10) === parseInt(partida.awayScore, 10);
+
+        return `
+          <div class="knockout-match-card">
+            <div class="knockout-team-row">
+              <div class="knockout-team-info" title="${homeName}">
+                <span aria-hidden="true">${homeEscudo}</span>
+                <span class="team-name-text" style="font-weight: ${partida.home && (obterVencedor(partida)?.id === partida.home) ? '700' : 'normal'}; color: ${partida.home && (obterVencedor(partida)?.id === partida.home) ? '#fff' : 'var(--text-muted)'};">${homeName}</span>
+              </div>
+              <input type="number" min="0" class="knockout-score-input" value="${hsValue}" 
+                onchange="salvarPlacarMataMata('${fase}', ${indice}, 'home', this.value)" 
+                ${!partida.home || !partida.away ? 'disabled' : ''} 
+                aria-label="Gols do ${homeName}">
+            </div>
+
+            <div class="knockout-team-row">
+              <div class="knockout-team-info" title="${awayName}">
+                <span aria-hidden="true">${awayEscudo}</span>
+                <span class="team-name-text" style="font-weight: ${partida.away && (obterVencedor(partida)?.id === partida.away) ? '700' : 'normal'}; color: ${partida.away && (obterVencedor(partida)?.id === partida.away) ? '#fff' : 'var(--text-muted)'};">${awayName}</span>
+              </div>
+              <input type="number" min="0" class="knockout-score-input" value="${asValue}" 
+                onchange="salvarPlacarMataMata('${fase}', ${indice}, 'away', this.value)" 
+                ${!partida.home || !partida.away ? 'disabled' : ''} 
+                aria-label="Gols do ${awayName}">
+            </div>
+
+            ${isTie ? `
+              <div class="penalty-wrap" style="display: flex; align-items: center; justify-content: center; gap: 6px; font-size: 0.72rem; color: var(--accent); border-top: 1px dashed rgba(255,214,0,0.15); padding-top: 6px; margin-top: 4px;">
+                <span style="font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Pên.:</span>
+                <input type="number" min="0" class="match-score-input" style="width: 25px; height: 18px; font-size: 0.72rem; padding: 0; border-color: var(--accent);" value="${hpValue}" 
+                  onchange="salvarPenaltiesMataMata('${fase}', ${indice}, 'home', this.value)" 
+                  aria-label="Pênaltis do ${homeName}">
+                <span>-</span>
+                <input type="number" min="0" class="match-score-input" style="width: 25px; height: 18px; font-size: 0.72rem; padding: 0; border-color: var(--accent);" value="${apValue}" 
+                  onchange="salvarPenaltiesMataMata('${fase}', ${indice}, 'away', this.value)" 
+                  aria-label="Pênaltis do ${awayName}">
+              </div>
+            ` : ''}
+          </div>
+        `;
+      };
+
+      const quartasHTML = copaKnockoutState.quartas.map((p, idx) => renderPartidaMataMata(p, 'quartas', idx)).join('');
+      const semisHTML = copaKnockoutState.semis.map((p, idx) => renderPartidaMataMata(p, 'semis', idx)).join('');
+      const finalHTML = copaKnockoutState.final.map((p, idx) => renderPartidaMataMata(p, 'final', idx)).join('');
+
+      let campeaoHTML = '';
+      if (copaKnockoutState.campeao) {
+        const camp = encontrarTimeCopa(copaKnockoutState.campeao);
+        campeaoHTML = `
+          <div class="champion-box">
+            <span class="champion-trophy" aria-hidden="true">🏆</span>
+            <div style="font-size: 0.72rem; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; color: var(--accent);">CAMPEÃO</div>
+            <div class="champion-name">${camp.escudo} ${camp.nome}</div>
+            <p style="font-size: 0.7rem; color: var(--text-muted); line-height: 1.2; margin-top: 4px;">O Nordeste tem dono! Parabéns ao grande vencedor do Nordestão 2026!</p>
+          </div>
+        `;
+      } else {
+        campeaoHTML = `
+          <div class="champion-box" style="border-color: rgba(128, 203, 196, 0.15); background: rgba(14,28,20,0.3); animation: none; box-shadow: none; opacity: 0.6;">
+            <span class="champion-trophy" style="filter: grayscale(1); animation: none;" aria-hidden="true">🏆</span>
+            <div class="champion-name" style="color: var(--text-muted); font-size: 1rem;">A definir</div>
+          </div>
+        `;
+      }
+
+      container.innerHTML = `
+        <div class="bracket-column">
+          <h4>Quartas de Final</h4>
+          <div class="bracket-matches">${quartasHTML}</div>
+        </div>
+        <div class="bracket-column">
+          <h4>Semifinais</h4>
+          <div class="bracket-matches">${semisHTML}</div>
+        </div>
+        <div class="bracket-column">
+          <h4>Final</h4>
+          <div class="bracket-matches">${finalHTML}</div>
+        </div>
+        <div class="bracket-column">
+          <h4>Campeão</h4>
+          <div class="bracket-matches" style="justify-content: center;">${campeaoHTML}</div>
+        </div>
+      `;
+    }
+
+    function salvarPlacarMataMata(fase, matchIndex, type, val) {
+      const match = copaKnockoutState[fase][matchIndex];
+      if (match) {
+        const parsed = parseInt(val, 10);
+        if (val === '' || isNaN(parsed) || parsed < 0) {
+          if (type === 'home') match.homeScore = null;
+          else match.awayScore = null;
+        } else {
+          if (type === 'home') match.homeScore = parsed;
+          else match.awayScore = parsed;
+        }
+        
+        if (match.homeScore !== match.awayScore) {
+          match.homePen = null;
+          match.awayPen = null;
+        }
+        
+        processarAvancoMataMata();
+      }
+    }
+
+    function salvarPenaltiesMataMata(fase, matchIndex, type, val) {
+      const match = copaKnockoutState[fase][matchIndex];
+      if (match) {
+        const parsed = parseInt(val, 10);
+        if (val === '' || isNaN(parsed) || parsed < 0) {
+          if (type === 'home') match.homePen = null;
+          else match.awayPen = null;
+        } else {
+          if (type === 'home') match.homePen = parsed;
+          else match.awayPen = parsed;
+        }
+        processarAvancoMataMata();
+      }
+    }
+
+    function simularPalpitesCopa() {
+      copaMatchesState.forEach(m => {
+        if (m.homeScore === null) m.homeScore = gerarPlacarAleatorio();
+        if (m.awayScore === null) m.awayScore = gerarPlacarAleatorio();
+      });
+      localStorage.setItem('copa_nordeste_matches', JSON.stringify(copaMatchesState));
+
+      const { sortedA, sortedB } = calcularTabelaCopa();
+      definirConfrontosQuartas(sortedA, sortedB);
+
+      copaKnockoutState.quartas.forEach(p => {
+        if (p.homeScore === null) p.homeScore = gerarPlacarAleatorio();
+        if (p.awayScore === null) p.awayScore = gerarPlacarAleatorio();
+        if (p.homeScore === p.awayScore && p.homePen === null) {
+          p.homePen = Math.floor(Math.random() * 3) + 3;
+          p.awayPen = p.homePen + (Math.random() > 0.5 ? 1 : -1);
+          if (p.awayPen < 0) p.awayPen = 0;
+        }
+      });
+      
+      const winnerQ1 = obterVencedor(copaKnockoutState.quartas[0]);
+      const winnerQ2 = obterVencedor(copaKnockoutState.quartas[1]);
+      copaKnockoutState.semis[0].home = winnerQ1 ? winnerQ1.id : null;
+      copaKnockoutState.semis[0].away = winnerQ2 ? winnerQ2.id : null;
+      
+      const winnerQ3 = obterVencedor(copaKnockoutState.quartas[2]);
+      const winnerQ4 = obterVencedor(copaKnockoutState.quartas[3]);
+      copaKnockoutState.semis[1].home = winnerQ3 ? winnerQ3.id : null;
+      copaKnockoutState.semis[1].away = winnerQ4 ? winnerQ4.id : null;
+
+      copaKnockoutState.semis.forEach(p => {
+        if (p.homeScore === null) p.homeScore = gerarPlacarAleatorio();
+        if (p.awayScore === null) p.awayScore = gerarPlacarAleatorio();
+        if (p.homeScore === p.awayScore && p.homePen === null) {
+          p.homePen = Math.floor(Math.random() * 3) + 3;
+          p.awayPen = p.homePen + (Math.random() > 0.5 ? 1 : -1);
+          if (p.awayPen < 0) p.awayPen = 0;
+        }
+      });
+
+      const winnerS1 = obterVencedor(copaKnockoutState.semis[0]);
+      const winnerS2 = obterVencedor(copaKnockoutState.semis[1]);
+      copaKnockoutState.final[0].home = winnerS1 ? winnerS1.id : null;
+      copaKnockoutState.final[0].away = winnerS2 ? winnerS2.id : null;
+
+      copaKnockoutState.final.forEach(p => {
+        if (p.homeScore === null) p.homeScore = gerarPlacarAleatorio();
+        if (p.awayScore === null) p.awayScore = gerarPlacarAleatorio();
+        if (p.homeScore === p.awayScore && p.homePen === null) {
+          p.homePen = Math.floor(Math.random() * 3) + 3;
+          p.awayPen = p.homePen + (Math.random() > 0.5 ? 1 : -1);
+          if (p.awayPen < 0) p.awayPen = 0;
+        }
+      });
+
+      const winnerFinal = obterVencedor(copaKnockoutState.final[0]);
+      copaKnockoutState.campeao = winnerFinal ? winnerFinal.id : null;
+
+      localStorage.setItem('copa_nordeste_knockout', JSON.stringify(copaKnockoutState));
+      atualizarInterfaceCopa();
+    }
+
+    function gerarPlacarAleatorio() {
+      const r = Math.random();
+      if (r < 0.25) return 0;
+      if (r < 0.6) return 1;
+      if (r < 0.85) return 2;
+      if (r < 0.95) return 3;
+      return 4;
+    }
+
+    function limparPalpitesCopa() {
+      if (confirm('Deseja realmente limpar todos os palpites da Copa do Nordeste?')) {
+        copaMatchesState = JSON.parse(JSON.stringify(copaMatchesTemplate));
+        resetKnockoutState();
+        localStorage.removeItem('copa_nordeste_matches');
+        localStorage.removeItem('copa_nordeste_knockout');
+        atualizarInterfaceCopa();
+      }
+    }
 
     // Estado da Aplicação
     let noticiasRecentes = null;
@@ -2382,23 +3264,39 @@
 
     // ══ ABAS DE NAVEGAÇÃO ══
     function switchTab(tipo) {
-      ['masc', 'fem', 'jogad', 'stats', 'clubs'].forEach(t => {
+      ['masc', 'fem', 'jogad', 'stats', 'clubs', 'copa'].forEach(t => {
         const tabEl = document.getElementById(`tab-${t}`);
-        tabEl.classList.remove('active-masc', 'active-fem', 'active-jogad', 'active-stats', 'active-clubs');
-        tabEl.setAttribute('aria-selected', 'false');
-        document.getElementById(`panel-${t}`).classList.remove('active');
+        if (tabEl) {
+          tabEl.classList.remove('active-masc', 'active-fem', 'active-jogad', 'active-stats', 'active-clubs', 'active-copa');
+          tabEl.setAttribute('aria-selected', 'false');
+        }
+        const panelEl = document.getElementById(`panel-${t}`);
+        if (panelEl) {
+          panelEl.classList.remove('active');
+        }
       });
 
-      const cl = tipo === 'fem' ? 'active-fem' : tipo === 'jogad' ? 'active-jogad' : tipo === 'stats' ? 'active-stats' : tipo === 'clubs' ? 'active-clubs' : 'active-masc';
+      const cl = tipo === 'fem' ? 'active-fem' : 
+                 tipo === 'jogad' ? 'active-jogad' : 
+                 tipo === 'stats' ? 'active-stats' : 
+                 tipo === 'clubs' ? 'active-clubs' : 
+                 tipo === 'copa' ? 'active-copa' : 'active-masc';
       const activeTab = document.getElementById(`tab-${tipo}`);
-      activeTab.classList.add(cl);
-      activeTab.setAttribute('aria-selected', 'true');
-      document.getElementById(`panel-${tipo}`).classList.add('active');
+      if (activeTab) {
+        activeTab.classList.add(cl);
+        activeTab.setAttribute('aria-selected', 'true');
+      }
+      const activePanel = document.getElementById(`panel-${tipo}`);
+      if (activePanel) {
+        activePanel.classList.add('active');
+      }
 
       if (tipo === 'stats') {
         carregarMetricas();
       } else if (tipo === 'clubs') {
         carregarClubes();
+      } else if (tipo === 'copa') {
+        inicializarCopa();
       }
     }
 
