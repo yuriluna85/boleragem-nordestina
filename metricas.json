@@ -1,23 +1,23 @@
 {
-  "geradoEm": "2026-06-06T21:36:30.500Z",
+  "geradoEm": "2026-06-06T23:01:41.423Z",
   "totais": {
-    "totalGeral": 288,
+    "totalGeral": 289,
     "porCategoria": {
-      "masculino": 108,
+      "masculino": 109,
       "feminino": 91,
       "jogadores": 89
     }
   },
   "porEstado": {
     "PE": 215,
-    "CE": 283,
-    "BA": 96,
-    "AL": 217,
+    "CE": 284,
+    "BA": 97,
+    "AL": 218,
     "RN": 26,
     "PB": 24,
     "MA": 274,
     "PI": 10,
-    "SE": 42
+    "SE": 43
   },
   "topClubes": [
     {
@@ -63,15 +63,15 @@
       "total": 24
     },
     {
+      "nome": "Gazeta Esportiva",
+      "total": 22
+    },
+    {
       "nome": "Maranhão Esportivo",
       "total": 21
     },
     {
       "nome": "Recife Gols",
-      "total": 21
-    },
-    {
-      "nome": "Gazeta Esportiva",
       "total": 21
     },
     {

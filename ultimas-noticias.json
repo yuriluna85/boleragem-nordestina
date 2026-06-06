@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-06-06T21:36:30.484Z",
+  "ultimaAtualizacao": "2026-06-06T23:01:41.406Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Catar empata com El Salvador e encerra preparação para a Copa do Mundo",
+        "desc": "Catar fica no 0 a 0 com El Salvador em amistoso preparatório e encerra preparação para a Copa do Mundo de 2026 sem vencer.\nO post Catar empata com El Salvador e encerra preparação ...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/catar-empata-com-el-salvador-e-encerra-preparacao-para-a-copa-do-mundo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260606__2280223400__v1__MidRes__QatarVElSalvadorInternationalFriendly.webp",
+        "data": "2026-06-06T22:01:05.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Veja as fotos do amistoso entre Catar e El Salvador",
         "desc": "O post Veja as fotos do amistoso entre Catar e El Salvador apareceu primeiro em Gazeta Esportiva.",
@@ -89,14 +97,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260606__B68E72U__v1__HighRes__FblBelTunFriendly.webp",
         "data": "2026-06-06T13:32:52.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Gabigol recupera protagonismo e vive temporada artilheira no Santos",
-        "desc": "Gabigol vem vivendo grande fase nesta temporada; confira seus números.\nO post Gabigol recupera protagonismo e vive temporada artilheira no Santos apareceu primeiro em Gazeta Esport...",
-        "url": "https://www.gazetaesportiva.com/times/santos/gabigol-recupera-protagonismo-e-vive-temporada-artilheira-no-santos/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55304550415_313e64c7e7_k.webp",
-        "data": "2026-06-06T10:00:08.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -106,7 +106,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-06",
-        "data": "2026-06-06T21:36:30.482Z",
+        "data": "2026-06-06T23:01:41.403Z",
         "id": "curado-feminino-0"
       },
       {
@@ -123,7 +123,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-06",
-        "data": "2026-06-06T18:36:30.482Z",
+        "data": "2026-06-06T20:01:41.403Z",
         "id": "curado-feminino-1"
       },
       {
@@ -132,7 +132,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-06",
-        "data": "2026-06-06T15:36:30.482Z",
+        "data": "2026-06-06T17:01:41.403Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -143,7 +143,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-06",
-        "data": "2026-06-06T21:36:30.482Z",
+        "data": "2026-06-06T23:01:41.403Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -152,7 +152,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-06",
-        "data": "2026-06-06T18:36:30.482Z",
+        "data": "2026-06-06T20:01:41.403Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -161,7 +161,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-06",
-        "data": "2026-06-06T15:36:30.482Z",
+        "data": "2026-06-06T17:01:41.403Z",
         "id": "curado-jogadores-2"
       }
     ]
