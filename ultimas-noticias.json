@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-06-06T18:47:27.361Z",
+  "ultimaAtualizacao": "2026-06-06T20:07:18.602Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Austrália x Suíça: veja fotos do amistoso pré-Copa do Mundo",
+        "desc": "O post Austrália x Suíça: veja fotos do amistoso pré-Copa do Mundo apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/australia/australia-x-suica-veja-fotos-do-amistoso-pre-copa-do-mundo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260606__2280214702__v1__MidRes__AustraliaVSwitzerlandInternationalFriendly.webp",
+        "data": "2026-06-06T19:48:02.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Estados Unidos x Alemanha: veja fotos do amistoso pré-Copa",
+        "desc": "O post Estados Unidos x Alemanha: veja fotos do amistoso pré-Copa apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/alemanha/estados-unidos-x-alemanha-veja-fotos-do-amistoso-pre-copa/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260606__2280211913__v1__MidRes__UnitedStatesVGermanyInternationalFriendly.webp",
+        "data": "2026-06-06T19:19:43.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Seleção Brasileira viaja para Cleveland para teste contra o Egito",
         "desc": "Brasil enfrenta o Egito em seu último amistoso antes da Copa do Mundo.\nO post Seleção Brasileira viaja para Cleveland para teste contra o Egito apareceu primeiro em Gazeta Esportiv...",
@@ -82,7 +98,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-06",
-        "data": "2026-06-06T18:47:27.359Z",
+        "data": "2026-06-06T20:07:18.599Z",
         "id": "curado-feminino-0"
       },
       {
@@ -91,7 +107,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-06",
-        "data": "2026-06-06T15:47:27.359Z",
+        "data": "2026-06-06T17:07:18.599Z",
         "id": "curado-feminino-1"
       },
       {
@@ -100,7 +116,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-06",
-        "data": "2026-06-06T12:47:27.359Z",
+        "data": "2026-06-06T14:07:18.599Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -111,7 +127,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-06",
-        "data": "2026-06-06T18:47:27.359Z",
+        "data": "2026-06-06T20:07:18.599Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -120,7 +136,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-06",
-        "data": "2026-06-06T15:47:27.359Z",
+        "data": "2026-06-06T17:07:18.599Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -129,7 +145,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-06",
-        "data": "2026-06-06T12:47:27.359Z",
+        "data": "2026-06-06T14:07:18.599Z",
         "id": "curado-jogadores-2"
       }
     ]
