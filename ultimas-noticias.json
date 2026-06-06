@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao": "2026-06-06T17:10:02.994Z",
+  "ultimaAtualizacao": "2026-06-06T18:47:27.361Z",
   "dados": {
     "masculino": [
       {
@@ -73,22 +73,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260606__B67M9UN__v1__HighRes__FootballMatchesAmicauxHaitiPerou.webp",
         "data": "2026-06-06T01:15:54.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Portugal x Chile: veja prováveis escalações e onde assistir ao amistoso",
-        "desc": "Confira onde assistir ao amistoso entre Portugal e Chile\nO post Portugal x Chile: veja prováveis escalações e onde assistir ao amistoso apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/portugal/portugal-x-chile-veja-provaveis-escalacoes-e-onde-assistir-ao-amistoso/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260601__B4NE2Y8__v1__MidRes__FblWc2026PorTraining.webp",
-        "data": "2026-06-05T23:00:07.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Vitória x Fortaleza pela final da Copa do Nordeste: onde assistir e prováveis escalações",
-        "desc": "Vitória e Fortaleza decidem neste sábado o título da Copa do Nordeste, no Barradão. Após vencer o jogo de ida por 2 a 1, o time baiano joga pelo empate para conquistar a taça diant...",
-        "url": "https://www.gazetaesportiva.com/times/vitoria/vitoria-x-fortaleza-pela-final-da-copa-do-nordeste-onde-assistir-e-provaveis-escalacoes/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55312917538_ba6478ce0e_o.webp",
-        "data": "2026-06-05T23:00:03.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -98,7 +82,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-06",
-        "data": "2026-06-06T17:10:02.991Z",
+        "data": "2026-06-06T18:47:27.359Z",
         "id": "curado-feminino-0"
       },
       {
@@ -107,7 +91,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-06",
-        "data": "2026-06-06T14:10:02.991Z",
+        "data": "2026-06-06T15:47:27.359Z",
         "id": "curado-feminino-1"
       },
       {
@@ -116,7 +100,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-06",
-        "data": "2026-06-06T11:10:02.991Z",
+        "data": "2026-06-06T12:47:27.359Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -127,7 +111,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-06",
-        "data": "2026-06-06T17:10:02.991Z",
+        "data": "2026-06-06T18:47:27.359Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -136,7 +120,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-06",
-        "data": "2026-06-06T14:10:02.991Z",
+        "data": "2026-06-06T15:47:27.359Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -145,7 +129,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-06",
-        "data": "2026-06-06T11:10:02.991Z",
+        "data": "2026-06-06T12:47:27.359Z",
         "id": "curado-jogadores-2"
       }
     ]
