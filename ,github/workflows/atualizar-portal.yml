@@ -1,0 +1,37 @@
+name: Atualização Editorial - Compilador Nordestão FC
+
+on:
+  schedule:
+    # Executa a cada 30 minutos (GitHub Actions executa no melhor esforço de tempo)
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Permite rodar manualmente no painel do GitHub Actions
+
+jobs:
+  run-compilador:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # Permissão necessária para commitar as atualizações editoriais de volta ao repositório
+
+    steps:
+    - name: Clonar Repositório
+      uses: actions/checkout@v4
+
+    - name: Configurar Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 18
+
+    - name: Executar Compilador de Notícias
+      run: node compilador.js
+
+    - name: Commitar Alterações Editoriais
+      run: |
+        git config --local user.email "redacao@nordestaofc.com.br"
+        git config --local user.name "Editor Nordestão FC"
+        git add DATA/ ultimas-noticias.json metricas.json
+        # Commita apenas se houver novidades na curadoria
+        git diff-index --quiet HEAD || git commit -m "editorial: curadoria diária de notícias futebolísticas do Nordeste [skip ci]"
+
+    - name: Enviar Atualizações para o GitHub
+      run: git push origin HEAD
