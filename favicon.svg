@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Círculo de fundo escuro para alto contraste e destaque nas abas do navegador -->
+  <circle cx="256" cy="256" r="240" fill="#050a07" stroke="#00e676" stroke-width="16" />
+  
+  <!-- Corpo da Bola de Futebol (Representada por um Sol Nordestino) -->
+  <circle cx="256" cy="256" r="170" fill="#ffd600" />
+  
+  <!-- Raios solares / Gomos da bola estilizados em arco -->
+  <path d="M 256,86 A 170,170 0 0,1 426,256 A 170,170 0 0,1 256,426 A 170,170 0 0,1 86,256 A 170,170 0 0,1 256,86 Z" fill="none" stroke="#050a07" stroke-width="8" />
+  
+  <!-- Costuras clássicas da bola de futebol dividindo o sol -->
+  <path d="M 256,86 L 256,160 M 256,352 L 256,426 M 86,256 L 160,256 M 352,256 L 426,256" stroke="#050a07" stroke-width="12" stroke-linecap="round" />
+  <path d="M 136,136 L 190,190 M 322,322 L 376,376 M 376,136 L 322,190 M 190,322 L 136,376" stroke="#050a07" stroke-width="12" stroke-linecap="round" />
+  
+  <!-- Núcleo Central: Um Cacto Mandacaru estilizado representando o Sertão -->
+  <g fill="#00e676" stroke="#050a07" stroke-width="10" stroke-linejoin="round" stroke-linecap="round">
+    <!-- Tronco principal do cacto -->
+    <path d="M 240,330 L 240,200 C 240,185 272,185 272,200 L 272,330 Z" />
+    <!-- Braço esquerdo -->
+    <path d="M 240,260 L 210,260 C 195,260 195,220 210,220 L 210,230" />
+    <!-- Braço direito -->
+    <path d="M 272,280 L 302,280 C 317,280 317,240 302,240 L 302,250" />
+  </g>
+  
+  <!-- Brilho no topo do Cacto -->
+  <circle cx="256" cy="192" r="5" fill="#ffffff" />
+</svg>

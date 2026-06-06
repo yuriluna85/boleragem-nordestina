@@ -1,0 +1,276 @@
+[
+  {
+    "estado": "Alagoas",
+    "sigla": "AL",
+    "clubes": [
+      {
+        "nome": "Clube de Regatas Brasil",
+        "nomeCurto": "CRB",
+        "escudo": "🔴",
+        "cidade": "Maceió",
+        "divisao": "Série B",
+        "copaDoBrasil": "Quartas de Final (2024)",
+        "copaDoNordeste": "Vice-campeão (1994, 2024)",
+        "destaque": "Um dos clubes mais tradicionais de Alagoas, forte presença na Série B nacional e rival histórico do CSA."
+      },
+      {
+        "nome": "Centro Sportivo Alagoano",
+        "nomeCurto": "CSA",
+        "escudo": "🔵",
+        "cidade": "Maceió",
+        "divisao": "Série C",
+        "copaDoBrasil": "Quartas de Final (1992)",
+        "copaDoNordeste": "Vice-campeão (1999)",
+        "destaque": "Único clube de Alagoas a disputar uma final internacional (Copa CONMEBOL em 1999). Possui grande torcida."
+      }
+    ]
+  },
+  {
+    "estado": "Bahia",
+    "sigla": "BA",
+    "clubes": [
+      {
+        "nome": "Esporte Clube Bahia",
+        "nomeCurto": "Bahia",
+        "escudo": "🔵",
+        "cidade": "Salvador",
+        "divisao": "Série A",
+        "copaDoBrasil": "Quartas de Final (Várias edições)",
+        "copaDoNordeste": "4 Títulos (2001, 2002, 2017, 2021)",
+        "destaque": "Bicampeão Brasileiro (1959 e 1988), gerido em modelo SAF pelo prestigiado City Football Group."
+      },
+      {
+        "nome": "Esporte Clube Vitória",
+        "nomeCurto": "Vitória",
+        "escudo": "🦅",
+        "cidade": "Salvador",
+        "divisao": "Série A",
+        "copaDoBrasil": "Vice-campeão (2010)",
+        "copaDoNordeste": "4 Títulos (1997, 1999, 2003, 2010)",
+        "destaque": "Possui uma das divisões de base mais vitoriosas do futebol brasileiro. Campeão da Série B em 2023."
+      }
+    ]
+  },
+  {
+    "estado": "Ceará",
+    "sigla": "CE",
+    "clubes": [
+      {
+        "nome": "Fortaleza Esporte Clube",
+        "nomeCurto": "Fortaleza",
+        "escudo": "🦁",
+        "cidade": "Fortaleza",
+        "divisao": "Série A",
+        "copaDoBrasil": "Semifinalista (2021)",
+        "copaDoNordeste": "3 Títulos (2019, 2022, 2024)",
+        "destaque": "Primeiro clube cearense finalista da Copa Sul-Americana (2023). Apresenta um dos crescimentos estruturais mais rápidos do país."
+      },
+      {
+        "nome": "Ceará Sporting Club",
+        "nomeCurto": "Ceará",
+        "escudo": "🐢",
+        "cidade": "Fortaleza",
+        "divisao": "Série B",
+        "copaDoBrasil": "Vice-campeão (1994)",
+        "copaDoNordeste": "3 Títulos (2015, 2020, 2023)",
+        "destaque": "Clube com forte apelo popular e recordista nordestino de público em diversas campanhas nacionais e internacionais."
+      },
+      {
+        "nome": "Ferroviário Atlético Clube",
+        "nomeCurto": "Ferroviário",
+        "escudo": "🚂",
+        "cidade": "Fortaleza",
+        "divisao": "Série C",
+        "copaDoBrasil": "Fases Iniciais",
+        "copaDoNordeste": "Fases de Grupo",
+        "destaque": "Bicampeão Invicto da Série D do Campeonato Brasileiro (2018 e 2023). Um dos times operários mais queridos da capital cearense."
+      },
+      {
+        "nome": "Floresta Esporte Clube",
+        "nomeCurto": "Floresta",
+        "escudo": "🟢",
+        "cidade": "Fortaleza",
+        "divisao": "Série C",
+        "copaDoBrasil": "Fases Iniciais",
+        "copaDoNordeste": "Fases de Grupo",
+        "destaque": "Clube-empresa de ascensão meteórica nas divisões nacionais, conquistando espaço na Série C do futebol nacional."
+      }
+    ]
+  },
+  {
+    "estado": "Maranhão",
+    "sigla": "MA",
+    "clubes": [
+      {
+        "nome": "Sampaio Corrêa Futebol Clube",
+        "nomeCurto": "Sampaio Corrêa",
+        "escudo": "🌊",
+        "cidade": "São Luís",
+        "divisao": "Série C",
+        "copaDoBrasil": "Oitavas de Final (Várias edições)",
+        "copaDoNordeste": "1 Título (2018)",
+        "destaque": "O 'Tubarão' é o único clube do Brasil a possuir os títulos das séries B (1972), C (1997) e D (2012) do Brasileirão."
+      },
+      {
+        "nome": "Moto Club de São Luís",
+        "nomeCurto": "Moto Club",
+        "escudo": "🏍️",
+        "cidade": "São Luís",
+        "divisao": "Série D",
+        "copaDoBrasil": "Fases Iniciais",
+        "copaDoNordeste": "Fases de Grupo",
+        "destaque": "O 'Papão do Norte' é um dos clubes de maior torcida e tradição no estado do Maranhão, travando clássico histórico com o Sampaio."
+      }
+    ]
+  },
+  {
+    "estado": "Paraíba",
+    "sigla": "PB",
+    "clubes": [
+      {
+        "nome": "Botafogo Futebol Clube",
+        "nomeCurto": "Botafogo-PB",
+        "escudo": "⭐",
+        "cidade": "João Pessoa",
+        "divisao": "Série C",
+        "copaDoBrasil": "Oitavas de Final (Várias edições)",
+        "copaDoNordeste": "Vice-campeão (2019)",
+        "destaque": "O 'Belo' é o maior vencedor da história do futebol paraibano e possui presença contínua e competitiva na Série C nacional."
+      },
+      {
+        "nome": "Campinense Clube",
+        "nomeCurto": "Campinense",
+        "escudo": "🦊",
+        "cidade": "Campina Grande",
+        "divisao": "Série D",
+        "copaDoBrasil": "Fases Iniciais",
+        "copaDoNordeste": "1 Título (2013)",
+        "destaque": "A 'Raposa' conquistou um feito histórico ao faturar a Copa do Nordeste em 2013, projetando o estado paraibano nacionalmente."
+      },
+      {
+        "nome": "Treze Futebol Clube",
+        "nomeCurto": "Treze",
+        "escudo": "🐓",
+        "cidade": "Campina Grande",
+        "divisao": "Série D",
+        "copaDoBrasil": "Quartas de Final (2005)",
+        "copaDoNordeste": "Fases Finais",
+        "destaque": "O 'Galo da Borborema' eliminou equipes gigantes na sua campanha histórica na Copa do Brasil de 2005, parando nas quartas."
+      }
+    ]
+  },
+  {
+    "estado": "Pernambuco",
+    "sigla": "PE",
+    "clubes": [
+      {
+        "nome": "Sport Club do Recife",
+        "nomeCurto": "Sport",
+        "escudo": "🔴",
+        "cidade": "Recife",
+        "divisao": "Série B",
+        "copaDoBrasil": "Campeão (2008)",
+        "copaDoNordeste": "3 Títulos (1994, 2000, 2014)",
+        "destaque": "Campeão Brasileiro de 1987 e Campeão da Copa do Brasil de 2008. Tradicional potência regional com enorme torcida na Ilha do Retiro."
+      },
+      {
+        "nome": "Clube Náutico Capibaribe",
+        "nomeCurto": "Náutico",
+        "escudo": "⚓",
+        "cidade": "Recife",
+        "divisao": "Série C",
+        "copaDoBrasil": "Semifinalista (1990)",
+        "copaDoNordeste": "Vice-campeão (2022)",
+        "destaque": "O 'Timbu' possui o histórico feito do Hexacampeonato Pernambucano consecutivo (1963-1968) e grande rivalidades estaduais."
+      },
+      {
+        "nome": "Santa Cruz Futebol Clube",
+        "nomeCurto": "Santa Cruz",
+        "escudo": "❌",
+        "cidade": "Recife",
+        "divisao": "Estadual / Sem Divisão",
+        "copaDoBrasil": "Oitavas de Final (Várias edições)",
+        "copaDoNordeste": "1 Título (2016)",
+        "destaque": "Uma das torcidas mais apaixonadas e fiéis do país, famosa por lotar o Estádio do Arruda mesmo em momentos de crise de divisão."
+      }
+    ]
+  },
+  {
+    "estado": "Piauí",
+    "sigla": "PI",
+    "clubes": [
+      {
+        "nome": "River Atlético Clube",
+        "nomeCurto": "River-PI",
+        "escudo": "⚪",
+        "cidade": "Teresina",
+        "divisao": "Série D",
+        "copaDoBrasil": "Fases Iniciais",
+        "copaDoNordeste": "Vice-campeão (Nacional Norte-Nordeste 1970)",
+        "destaque": "Maior campeão do estado do Piauí e primeiro time do estado a disputar uma final de divisão nacional (Série D 2015)."
+      },
+      {
+        "nome": "Associação Atlética de Altos",
+        "nomeCurto": "Altos",
+        "escudo": "🟢",
+        "cidade": "Altos",
+        "divisao": "Série D",
+        "copaDoBrasil": "3ª Fase (2022)",
+        "copaDoNordeste": "Fases de Grupo",
+        "destaque": "Clube jovem que obteve destaque rápido ao alcançar a Série C nacional e travar grandes jogos contra times da Série A na Copa do Brasil."
+      }
+    ]
+  },
+  {
+    "estado": "Rio Grande do Norte",
+    "sigla": "RN",
+    "clubes": [
+      {
+        "nome": "ABC Futebol Clube",
+        "nomeCurto": "ABC",
+        "escudo": "⚫",
+        "cidade": "Natal",
+        "divisao": "Série C",
+        "copaDoBrasil": "Quartas de Final (2014)",
+        "copaDoNordeste": "Vice-campeão (2010)",
+        "destaque": "Clube com o maior número de títulos estaduais do futebol mundial (mais de 57 conquistas). Forte tradição em Natal."
+      },
+      {
+        "nome": "América Futebol Clube",
+        "nomeCurto": "América-RN",
+        "escudo": "⚪",
+        "cidade": "Natal",
+        "divisao": "Série D",
+        "copaDoBrasil": "Quartas de Final (2014)",
+        "copaDoNordeste": "1 Título (1998)",
+        "destaque": "O 'Mecão' possui um título da Copa do Nordeste (1998) e rivaliza intensamente com o ABC na Arena das Dunas."
+      }
+    ]
+  },
+  {
+    "estado": "Sergipe",
+    "sigla": "SE",
+    "clubes": [
+      {
+        "nome": "Associação Desportiva Confiança",
+        "nomeCurto": "Confiança",
+        "escudo": "🐉",
+        "cidade": "Aracaju",
+        "divisao": "Série C",
+        "copaDoBrasil": "Oitavas de Final (2002)",
+        "copaDoNordeste": "Semifinalista (2020)",
+        "destaque": "O 'Dragão do Bairro Industrial' tem tido campanhas competitivas em nível regional e nacional, ostentando grande torcida em Aracaju."
+      },
+      {
+        "nome": "Club Sportivo Sergipe",
+        "nomeCurto": "Sergipe",
+        "escudo": "🔴",
+        "cidade": "Aracaju",
+        "divisao": "Série D",
+        "copaDoBrasil": "Fases Iniciais",
+        "copaDoNordeste": "Semifinalista (2000)",
+        "destaque": "O 'Gipão' é o maior detentor de títulos do Campeonato Sergipano e um dos clubes mais antigos e tradicionais do estado."
+      }
+    ]
+  }
+]

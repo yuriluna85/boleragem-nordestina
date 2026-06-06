@@ -1,0 +1,102 @@
+{
+  "geradoEm": "2026-06-06T14:13:40.496Z",
+  "totais": {
+    "totalGeral": 274,
+    "porCategoria": {
+      "masculino": 98,
+      "feminino": 87,
+      "jogadores": 89
+    }
+  },
+  "porEstado": {
+    "PE": 209,
+    "CE": 273,
+    "BA": 86,
+    "AL": 211,
+    "RN": 24,
+    "PB": 24,
+    "MA": 266,
+    "PI": 10,
+    "SE": 37
+  },
+  "topClubes": [
+    {
+      "nome": "Sport",
+      "total": 190
+    },
+    {
+      "nome": "Vitória",
+      "total": 52
+    },
+    {
+      "nome": "Ceará",
+      "total": 44
+    },
+    {
+      "nome": "Bahia",
+      "total": 35
+    },
+    {
+      "nome": "Fortaleza",
+      "total": 32
+    }
+  ],
+  "fontesRanking": [
+    {
+      "nome": "Diário do Ceará",
+      "total": 28
+    },
+    {
+      "nome": "Bahia Esportes",
+      "total": 28
+    },
+    {
+      "nome": "Ceará Notícias",
+      "total": 27
+    },
+    {
+      "nome": "Pernambuco Press",
+      "total": 24
+    },
+    {
+      "nome": "Salvador Esportes",
+      "total": 24
+    },
+    {
+      "nome": "Maranhão Esportivo",
+      "total": 21
+    },
+    {
+      "nome": "Recife Gols",
+      "total": 21
+    },
+    {
+      "nome": "RN Esportivo",
+      "total": 18
+    },
+    {
+      "nome": "Portal Paraíba",
+      "total": 18
+    },
+    {
+      "nome": "Futebol Coral",
+      "total": 18
+    },
+    {
+      "nome": "Alagoas Alerta",
+      "total": 18
+    },
+    {
+      "nome": "Maceió Sports",
+      "total": 18
+    },
+    {
+      "nome": "Gazeta Esportiva",
+      "total": 10
+    },
+    {
+      "nome": "Vozão Diário",
+      "total": 1
+    }
+  ]
+}
