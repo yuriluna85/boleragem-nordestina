@@ -1370,6 +1370,307 @@
         text-align: center;
       }
     }
+
+    /* ══ MODAL DE ATLETA PREMIUM ══ */
+    .modal-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(4, 9, 6, 0.85);
+      backdrop-filter: blur(8px);
+      z-index: 2000;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 1.5rem;
+      animation: fadeIn 0.25s var(--transition-org);
+    }
+
+    .modal-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-glow);
+      box-shadow: var(--shadow-soft);
+      border-radius: 16px;
+      width: 100%;
+      max-width: 680px;
+      max-height: 85vh;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      animation: slideUp 0.3s var(--transition-org);
+    }
+
+    .modal-close-btn {
+      position: absolute;
+      top: 1rem;
+      right: 1.2rem;
+      background: transparent;
+      border: none;
+      color: var(--text-muted);
+      font-size: 2rem;
+      cursor: pointer;
+      line-height: 1;
+      z-index: 10;
+      transition: color 0.2s ease;
+    }
+
+    .modal-close-btn:hover {
+      color: var(--accent-orange);
+    }
+
+    .modal-hero {
+      padding: 2.2rem 2.2rem 1.5rem 2.2rem;
+      background: linear-gradient(180deg, rgba(0, 230, 118, 0.08) 0%, transparent 100%);
+      border-bottom: 1px solid rgba(0, 230, 118, 0.08);
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+    }
+
+    .modal-avatar-container {
+      position: relative;
+      width: 72px;
+      height: 72px;
+      flex-shrink: 0;
+    }
+
+    .modal-avatar-img {
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 2px solid var(--primary);
+      box-shadow: 0 0 15px rgba(0, 230, 118, 0.2);
+      background: rgba(0, 230, 118, 0.1);
+      display: block;
+    }
+
+    .modal-avatar-badge {
+      position: absolute;
+      bottom: -4px;
+      right: -4px;
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      background: var(--bg-card);
+      border: 1.5px solid var(--primary);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.1rem;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    }
+
+    .modal-header-info {
+      flex: 1;
+      min-width: 200px;
+    }
+
+    .modal-badge-time {
+      display: inline-block;
+      font-size: 0.68rem;
+      font-weight: 800;
+      background: rgba(0, 230, 118, 0.1);
+      color: var(--primary);
+      border: 1px solid rgba(0, 230, 118, 0.2);
+      padding: 2px 8px;
+      border-radius: 20px;
+      text-transform: uppercase;
+      margin-bottom: 6px;
+    }
+
+    .modal-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1.6rem;
+      font-weight: 800;
+      color: #fff;
+    }
+
+    .modal-subtitle {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      margin-top: 2px;
+    }
+
+    .modal-body-content {
+      padding: 1.8rem 2.2rem 2.2rem 2.2rem;
+    }
+
+    .modal-tabs {
+      display: flex;
+      gap: 8px;
+      border-bottom: 1px solid rgba(128, 203, 196, 0.1);
+      margin-bottom: 1.5rem;
+    }
+
+    .modal-tabs button {
+      background: transparent;
+      border: none;
+      border-bottom: 2px solid transparent;
+      color: var(--text-muted);
+      padding: 8px 16px;
+      font-family: inherit;
+      font-size: 0.9rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .modal-tabs button:hover {
+      color: #fff;
+    }
+
+    .modal-tabs button.modal-tabactive {
+      color: var(--primary);
+      border-bottom-color: var(--primary);
+    }
+
+    .modal-panel {
+      display: none;
+    }
+
+    .modal-panel.active-panel {
+      display: block;
+      animation: fadeIn 0.2s ease;
+    }
+
+    .bio-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1.2rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .bio-item {
+      font-size: 0.88rem;
+      color: var(--text-main);
+      border-bottom: 1px solid rgba(128, 203, 196, 0.05);
+      padding-bottom: 6px;
+    }
+
+    .bio-item strong {
+      color: var(--text-muted);
+      display: block;
+      font-size: 0.75rem;
+      margin-bottom: 2px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .bio-item.full-width {
+      grid-column: 1 / -1;
+    }
+
+    .bio-description-box {
+      background: rgba(14, 28, 20, 0.4);
+      border: 1px solid rgba(0, 230, 118, 0.05);
+      padding: 1.2rem;
+      border-radius: 8px;
+      margin-top: 1.5rem;
+    }
+
+    .bio-description-box h3 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: var(--primary);
+      margin-bottom: 8px;
+    }
+
+    .bio-description-box p {
+      font-size: 0.85rem;
+      line-height: 1.6;
+      color: var(--text-main);
+    }
+
+    .modal-news-list {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      max-height: 45vh;
+      overflow-y: auto;
+      padding-right: 6px;
+    }
+
+    .modal-news-card {
+      display: flex;
+      gap: 1rem;
+      background: rgba(14, 28, 20, 0.4);
+      border: 1px solid rgba(128, 203, 196, 0.05);
+      border-radius: 8px;
+      padding: 0.8rem;
+      transition: transform 0.2s ease, border-color 0.2s ease;
+    }
+
+    .modal-news-card:hover {
+      transform: translateY(-2px);
+      border-color: rgba(0, 230, 118, 0.2);
+    }
+
+    .modal-news-img {
+      width: 80px;
+      height: 60px;
+      border-radius: 4px;
+      object-fit: cover;
+      flex-shrink: 0;
+      background: #102016;
+    }
+
+    .modal-news-info {
+      flex: 1;
+    }
+
+    .modal-news-title {
+      font-size: 0.82rem;
+      font-weight: 700;
+      color: #fff;
+      line-height: 1.3;
+      margin-bottom: 4px;
+    }
+
+    .modal-news-desc {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      line-height: 1.4;
+      margin-bottom: 6px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .modal-news-meta {
+      font-size: 0.65rem;
+      color: rgba(128, 203, 196, 0.5);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .modal-news-link {
+      color: var(--primary);
+      text-decoration: none;
+      font-weight: 700;
+    }
+
+    .modal-news-link:hover {
+      text-decoration: underline;
+    }
+
+    /* Animações */
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    @keyframes slideUp {
+      from { transform: translateY(20px); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
   </style>
 </head>
 <body>
@@ -1631,6 +1932,76 @@
     </div>
   </footer>
 
+  <!-- MODAL DE ATLETA PREMIUM -->
+  <div id="atletaModal" class="modal-overlay" style="display: none;" role="dialog" aria-modal="true" aria-labelledby="atletaModalTitle" onkeydown="handleModalKeyDown(event)" tabindex="-1">
+    <div class="modal-card">
+      <button class="modal-close-btn" onclick="fecharModalAtleta()" aria-label="Fechar detalhes do atleta">×</button>
+      <div class="modal-hero">
+        <div class="modal-avatar-container">
+          <img id="modalAtletaFoto" class="modal-avatar-img" src="" alt="Foto do atleta" onerror="this.src='https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=200&auto=format&fit=crop'" />
+          <div class="modal-avatar-badge" id="modalAtletaIcone"></div>
+        </div>
+        <div class="modal-header-info">
+          <span class="modal-badge-time" id="modalAtletaTime"></span>
+          <h2 id="atletaModalTitle" class="modal-title"></h2>
+          <p class="modal-subtitle" id="modalAtletaCargo"></p>
+        </div>
+      </div>
+      <div class="modal-body-content">
+        <!-- Abas Internas do Modal: Currículo e Notícias -->
+        <div class="modal-tabs" role="tablist">
+          <button class="modal-tabactive" id="modal-tab-bio" onclick="switchModalTab('bio')" role="tab" aria-selected="true" aria-controls="modal-panel-bio">📋 Currículo</button>
+          <button id="modal-tab-news" onclick="switchModalTab('news')" role="tab" aria-selected="false" aria-controls="modal-panel-news">📰 Notícias (<span id="modalAtletaNoticiasCount">0</span>)</button>
+        </div>
+        
+        <!-- Painel Biografia -->
+        <div class="modal-panel active-panel" id="modal-panel-bio" role="tabpanel" aria-labelledby="modal-tab-bio">
+          <div class="bio-grid">
+            <div class="bio-item"><strong>Nome Completo:</strong> <span id="modalAtletaNomeCompleto"></span></div>
+            <div class="bio-item"><strong>Nascimento:</strong> <span id="modalAtletaNascimento"></span></div>
+            <div class="bio-item"><strong>Naturalidade:</strong> <span id="modalAtletaNaturalidade"></span></div>
+            <div class="bio-item"><strong>Gols Monitorados:</strong> <span id="modalAtletaGols"></span></div>
+            <div class="bio-item full-width"><strong>Clubes Anteriores:</strong> <span id="modalAtletaClubesAnteriores"></span></div>
+            <div class="bio-item full-width"><strong>Principais Conquistas:</strong> <span id="modalAtletaConquistas"></span></div>
+          </div>
+          <div class="bio-description-box">
+            <h3>Sobre o Atleta</h3>
+            <p id="modalAtletaBiografia"></p>
+          </div>
+        </div>
+        
+        <!-- Painel Notícias -->
+        <div class="modal-panel" id="modal-panel-news" role="tabpanel" aria-labelledby="modal-tab-news">
+          <div class="modal-news-list" id="modalAtletaNewsList"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL DE NOTÍCIA COMPLETA -->
+  <div id="noticiaModal" class="modal-overlay" style="display: none;" role="dialog" aria-modal="true" aria-labelledby="noticiaModalTitle" onkeydown="handleNoticiaModalKeyDown(event)" tabindex="-1">
+    <div class="modal-card" style="max-width: 600px;">
+      <button class="modal-close-btn" onclick="fecharModalNoticia()" aria-label="Fechar notícia">×</button>
+      <div class="modal-news-hero" id="noticiaModalHero" style="height: 220px; background-size: cover; background-position: center; position: relative; border-radius: 16px 16px 0 0;">
+        <div style="position: absolute; bottom: 0; left: 0; width: 100%; height: 60%; background: linear-gradient(0deg, rgba(14,28,20,1) 0%, rgba(14,28,20,0) 100%);"></div>
+      </div>
+      <div class="modal-body-content" style="padding: 1.5rem 2rem 2rem 2rem;">
+        <span class="modal-badge-time" id="noticiaModalFonte" style="margin-bottom: 8px;"></span>
+        <h2 id="noticiaModalTitle" class="modal-title" style="font-size: 1.3rem; line-height: 1.4; margin-bottom: 10px;"></h2>
+        <p style="font-size: 0.72rem; color: var(--text-muted); margin-bottom: 1.2rem;" id="noticiaModalData"></p>
+        
+        <div style="background: rgba(14, 28, 20, 0.4); border: 1px solid rgba(0, 230, 118, 0.05); padding: 1.2rem; border-radius: 8px; margin-bottom: 1.5rem;">
+          <p id="noticiaModalDesc" style="font-size: 0.88rem; line-height: 1.6; color: var(--text-main); white-space: pre-line;"></p>
+        </div>
+        
+        <div style="display: flex; gap: 10px; justify-content: flex-end;">
+          <button class="btn-action btn-outline-style" onclick="fecharModalNoticia()">Fechar</button>
+          <a id="noticiaModalLink" class="btn-action btn-primary-style" href="" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-flex; align-items: center; justify-content: center; height: 36px; padding: 0 16px;">Ler no portal original ➔</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <!-- SCRIPT FRONTEND -->
   <script>
     // Configurações
@@ -1663,24 +2034,8 @@
       {nome:"ABC Feminino", estado:"RN", icone:"⚫", serie:"Reg."}
     ];
 
-    const JOGADORES = [
-      {nome:"Renato Kayzer", time:"Fortaleza EC", pos:"Atacante", gols: 15, icone:"🦁"},
-      {nome:"Everton Ribeiro", time:"Bahia", pos:"Meia", gols: 8, icone:"🔵"},
-      {nome:"Thiago Galhardo", time:"Sport", pos:"Atacante", gols: 11, icone:"🔴"},
-      {nome:"Yago Pikachu", time:"Fortaleza EC", pos:"Lateral-dir.", gols: 9, icone:"🦁"},
-      {nome:"Kanu", time:"Bahia", pos:"Zagueiro", gols: 2, icone:"🔵"},
-      {nome:"João Ricardo", time:"Fortaleza EC", pos:"Goleiro", gols: 0, icone:"🦁"},
-      {nome:"Léo Gamalho", time:"Bahia", pos:"Atacante", gols: 12, icone:"🔵"}
-    ];
-
-    const JOGADORAS = [
-      {nome:"Cristiane", time:"Bahia Feminino", pos:"Atacante", gols: 16, icone:"🔵"},
-      {nome:"Maysa", time:"Fortaleza Feminino", pos:"Meia", gols: 8, icone:"🦁"},
-      {nome:"Geyse", time:"Sport Feminino", pos:"Atacante", gols: 12, icone:"🔴"},
-      {nome:"Pricila", time:"Ceará Feminino", pos:"Zagueira", gols: 2, icone:"🐢"},
-      {nome:"Karen", time:"Bahia Feminino", pos:"Goleira", gols: 0, icone:"🔵"},
-      {nome:"Juliana", time:"Sport Feminino", pos:"Meia", gols: 6, icone:"🔴"}
-    ];
+    let JOGADORES = [];
+    let JOGADORAS = [];
 
     const TICKER_ITEMS = [
       "Sport busca novos reforços no mercado sul-americano",
@@ -2004,7 +2359,7 @@
         });
 
         return `
-          <a class="card ${featClass}" href="${n.url}" target="_blank" rel="noopener" aria-label="Notícia: ${n.titulo}. Fonte: ${n.fonte}. Publicado em ${dataFormatada}">
+          <a class="card ${featClass}" href="${n.url}" target="_blank" rel="noopener" onclick="cliqueCardNoticia(event, '${tipo}', ${i})" aria-label="Notícia: ${n.titulo}. Fonte: ${n.fonte}. Publicado em ${dataFormatada}">
             <span class="card-tag ${cc}">${label}</span>
             <div class="card-img-wrap">
               <img src="${n.imagem}" alt="" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop'">
@@ -2073,29 +2428,236 @@
         </li>
       `).join('');
 
-      // Jogadores Monitorados
-      document.getElementById('lista-jogad').innerHTML = JOGADORES.map(j => `
-        <div class="player-row" onclick="filtrarBusca('${j.nome}')" role="button" aria-label="Filtrar por ${j.nome}">
-          <div class="player-avatar" aria-hidden="true">${j.icone}</div>
-          <div style="flex-grow: 1;">
-            <div class="player-name">${j.nome}</div>
-            <div class="player-meta">${j.pos} · ${j.time}</div>
-          </div>
-          <div class="player-stats" aria-label="${j.gols} gols marcados">⚽ ${j.gols}</div>
-        </div>
-      `).join('');
+      // Carrega atletas monitorados de forma dinâmica
+      carregarAtletasConfig();
+    }
 
-      // Jogadoras Monitoradas
-      document.getElementById('lista-jogadas').innerHTML = JOGADORAS.map(j => `
-        <div class="player-row" onclick="filtrarBusca('${j.nome}')" role="button" aria-label="Filtrar por ${j.nome}">
-          <div class="player-avatar" aria-hidden="true">${j.icone}</div>
-          <div style="flex-grow: 1;">
-            <div class="player-name">${j.nome}</div>
-            <div class="player-meta">${j.pos} · ${j.time}</div>
+    // Carrega e exibe a lista de atletas monitorados de atletas.json
+    async function carregarAtletasConfig() {
+      try {
+        const atletas = await fetchJSON('atletas.json');
+        JOGADORES = atletas.jogadores;
+        JOGADORAS = atletas.jogadoras;
+        
+        // Jogadores Monitorados
+        document.getElementById('lista-jogad').innerHTML = JOGADORES.map(j => `
+          <div class="player-row" onclick="abrirModalAtleta('${j.slug}')" role="button" aria-label="Detalhes de ${j.nome}">
+            <div class="player-avatar" aria-hidden="true">${j.icone}</div>
+            <div style="flex-grow: 1;">
+              <div class="player-name">${j.nome}</div>
+              <div class="player-meta">${j.pos} · ${j.time}</div>
+            </div>
+            <div class="player-stats" aria-label="${j.gols} gols marcados">⚽ ${j.gols}</div>
           </div>
-          <div class="player-stats" aria-label="${j.gols} gols marcados">⚽ ${j.gols}</div>
-        </div>
-      `).join('');
+        `).join('');
+
+        // Jogadoras Monitoradas
+        document.getElementById('lista-jogadas').innerHTML = JOGADORAS.map(j => `
+          <div class="player-row" onclick="abrirModalAtleta('${j.slug}')" role="button" aria-label="Detalhes de ${j.nome}">
+            <div class="player-avatar" aria-hidden="true">${j.icone}</div>
+            <div style="flex-grow: 1;">
+              <div class="player-name">${j.nome}</div>
+              <div class="player-meta">${j.pos} · ${j.time}</div>
+            </div>
+            <div class="player-stats" aria-label="${j.gols} gols marcados">⚽ ${j.gols}</div>
+          </div>
+        `).join('');
+        
+      } catch (err) {
+        console.error("Erro ao carregar atletas.json:", err);
+      }
+    }
+
+    // Função para abrir o modal de detalhes e biografia do atleta
+    let activeAthlete = null;
+
+    async function abrirModalAtleta(slug) {
+      try {
+        const perfil = await fetchJSON(`DATA/atletas/${slug}.json`);
+        activeAthlete = perfil;
+        
+        // Preenche o modal
+        const fotoImg = document.getElementById('modalAtletaFoto');
+        if (perfil.fotoUrl) {
+          fotoImg.src = perfil.fotoUrl;
+        } else {
+          fotoImg.src = 'https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=200&auto=format&fit=crop';
+        }
+        document.getElementById('modalAtletaIcone').textContent = perfil.icone || "⭐";
+        document.getElementById('modalAtletaTime').textContent = perfil.time;
+        document.getElementById('atletaModalTitle').textContent = perfil.nome;
+        document.getElementById('modalAtletaCargo').textContent = `${perfil.pos} · Destaque do ${perfil.time}`;
+        
+        document.getElementById('modalAtletaNomeCompleto').textContent = perfil.nomeCompleto || perfil.nome;
+        document.getElementById('modalAtletaNascimento').textContent = perfil.nascimento || "Não informado";
+        document.getElementById('modalAtletaNaturalidade').textContent = perfil.naturalidade || "Não informada";
+        document.getElementById('modalAtletaGols').textContent = `${perfil.gols} gol(s) monitorados`;
+        document.getElementById('modalAtletaClubesAnteriores').textContent = perfil.clubesAnteriores || "Nenhum registrado";
+        document.getElementById('modalAtletaConquistas').textContent = perfil.conquistas || "Nenhuma registrada";
+        document.getElementById('modalAtletaBiografia').textContent = perfil.biografia || "Sem biografia cadastrada.";
+        
+        // Preenche a lista de notícias
+        const newsCount = perfil.noticias ? perfil.noticias.length : 0;
+        document.getElementById('modalAtletaNoticiasCount').textContent = newsCount;
+        
+        const newsListHTML = newsCount > 0
+          ? perfil.noticias.map((n, i) => `
+              <div class="modal-news-card">
+                <img class="modal-news-img" src="${n.imagem}" alt="Capa da notícia" onerror="this.src='https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=200&auto=format&fit=crop'">
+                <div class="modal-news-info">
+                  <div class="modal-news-title">${n.titulo}</div>
+                  <div class="modal-news-desc">${n.desc}</div>
+                  <div class="modal-news-meta">
+                    <span>📅 ${new Date(n.data).toLocaleDateString('pt-BR')} · ✍️ ${n.fonte}</span>
+                    <a class="modal-news-link" href="${n.url}" target="_blank" rel="noopener noreferrer" onclick="cliqueNoticiaAtleta(event, ${i})">Ler Matéria</a>
+                  </div>
+                </div>
+              </div>
+            `).join('')
+          : `<div style="text-align: center; color: var(--text-muted); font-size: 0.8rem; padding: 2.5rem 0;">Nenhuma notícia compilada que mencione o atleta no momento.</div>`;
+          
+        document.getElementById('modalAtletaNewsList').innerHTML = newsListHTML;
+        
+        // Abre o modal
+        const modal = document.getElementById('atletaModal');
+        modal.style.display = 'flex';
+        modal.focus();
+        
+        // Default Tab: Bio
+        switchModalTab('bio');
+        
+        // Bloqueia o scroll do body
+        document.body.style.overflow = 'hidden';
+        
+      } catch (err) {
+        console.error("Erro ao carregar perfil do atleta:", err);
+        alert("Não foi possível carregar as informações do atleta no momento.");
+      }
+    }
+
+    function fecharModalAtleta() {
+      document.getElementById('atletaModal').style.display = 'none';
+      document.body.style.overflow = '';
+      activeAthlete = null;
+    }
+
+    function switchModalTab(tab) {
+      const bioTab = document.getElementById('modal-tab-bio');
+      const newsTab = document.getElementById('modal-tab-news');
+      const bioPanel = document.getElementById('modal-panel-bio');
+      const newsPanel = document.getElementById('modal-panel-news');
+      
+      if (tab === 'bio') {
+        bioTab.classList.add('modal-tabactive');
+        bioTab.setAttribute('aria-selected', 'true');
+        newsTab.classList.remove('modal-tabactive');
+        newsTab.setAttribute('aria-selected', 'false');
+        
+        bioPanel.classList.add('active-panel');
+        newsPanel.classList.remove('active-panel');
+      } else {
+        newsTab.classList.add('modal-tabactive');
+        newsTab.setAttribute('aria-selected', 'true');
+        bioTab.classList.remove('modal-tabactive');
+        bioTab.setAttribute('aria-selected', 'false');
+        
+        newsPanel.classList.add('active-panel');
+        bioPanel.classList.remove('active-panel');
+      }
+    }
+
+    function handleModalKeyDown(event) {
+      if (event.key === 'Escape') {
+        fecharModalAtleta();
+      }
+    }
+
+    // ══ CONTROLE DE MODAL DE LEITURA INTERNA DE NOTÍCIAS ══
+    function tratarCliqueNoticia(event, noticia) {
+      const url = noticia.url || '';
+      // Verifica se é uma URL de fallback/fictícia
+      const ehFicticia = url.includes('curado-') || 
+                         url.includes('/noticias/') || 
+                         url === 'https://www.gazetaesportiva.com' || 
+                         url === 'https://www.gazetaesportiva.com/';
+                         
+      if (ehFicticia) {
+        event.preventDefault(); // Impede o link de abrir a aba externa vazia
+        abrirModalNoticia(noticia);
+      }
+    }
+
+    function cliqueCardNoticia(event, tipo, index) {
+      const lista = modoHistorico ? dadosHistorico[tipo] : noticiasRecentes[tipo];
+      if (!lista) return;
+      const noticia = lista[index];
+      if (noticia) {
+        tratarCliqueNoticia(event, noticia);
+      }
+    }
+
+    function cliqueNoticiaAtleta(event, index) {
+      if (!activeAthlete || !activeAthlete.noticias) return;
+      const noticia = activeAthlete.noticias[index];
+      if (noticia) {
+        tratarCliqueNoticia(event, noticia);
+      }
+    }
+
+    function abrirModalNoticia(noticia) {
+      document.getElementById('noticiaModalTitle').textContent = noticia.titulo;
+      document.getElementById('noticiaModalDesc').textContent = noticia.desc;
+      document.getElementById('noticiaModalFonte').textContent = `✍️ Fonte: ${noticia.fonte}`;
+      
+      const dataFormatada = new Date(noticia.data).toLocaleDateString('pt-BR', {
+        day: '2-digit',
+        month: 'long',
+        year: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit'
+      });
+      document.getElementById('noticiaModalData').textContent = `📅 Publicado em: ${dataFormatada}`;
+      
+      // Imagem de capa
+      const heroEl = document.getElementById('noticiaModalHero');
+      const imagemUrl = noticia.imagem || 'https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop';
+      heroEl.style.backgroundImage = `url('${imagemUrl}')`;
+      
+      // Link do portal original
+      const linkEl = document.getElementById('noticiaModalLink');
+      const url = noticia.url || '';
+      const ehFicticiaTotal = url === 'https://www.gazetaesportiva.com' || url === 'https://www.gazetaesportiva.com/';
+      
+      if (ehFicticiaTotal || url.includes('curado-')) {
+        // Oculta o botão de ir para o portal, pois é uma notícia simulada/histórica
+        linkEl.style.display = 'none';
+      } else {
+        linkEl.style.display = 'inline-flex';
+        linkEl.href = url;
+      }
+      
+      // Abre o modal
+      const modal = document.getElementById('noticiaModal');
+      modal.style.display = 'flex';
+      modal.focus();
+      
+      // Bloqueia scroll do body
+      document.body.style.overflow = 'hidden';
+    }
+
+    function fecharModalNoticia() {
+      document.getElementById('noticiaModal').style.display = 'none';
+      // Restaura o scroll do body apenas se o modal de atleta não estiver aberto
+      const atletaModal = document.getElementById('atletaModal');
+      if (atletaModal && atletaModal.style.display !== 'flex') {
+        document.body.style.overflow = '';
+      }
+    }
+
+    function handleNoticiaModalKeyDown(event) {
+      if (event.key === 'Escape') {
+        fecharModalNoticia();
+      }
     }
 
     function montarTicker() {

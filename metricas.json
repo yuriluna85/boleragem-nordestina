@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-06-06T14:25:27.496Z",
+  "geradoEm": "2026-06-06T15:07:25.700Z",
   "totais": {
     "totalGeral": 277,
     "porCategoria": {
@@ -95,15 +95,15 @@
       "total": 10
     },
     {
+      "nome": "Vozão Diário",
+      "total": 1
+    },
+    {
       "nome": "Ceará Esportes",
       "total": 1
     },
     {
       "nome": "Salvador News",
-      "total": 1
-    },
-    {
-      "nome": "Vozão Diário",
       "total": 1
     }
   ]

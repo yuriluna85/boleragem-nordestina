@@ -347,13 +347,14 @@ function salvarHistorico(tema, noticias, dataEspecifica = null) {
   fs.writeFileSync(jsonPath, JSON.stringify(historicoDia, null, 2), 'utf-8');
 }
 
-// Busca recursiva por arquivos JSON de histórico
+// Busca recursiva por arquivos JSON de histórico, ignorando a pasta de perfis individuais de atletas
 function buscarArquivosJSON(dir, filesList = []) {
   if (!fs.existsSync(dir)) return filesList;
   const files = fs.readdirSync(dir);
   for (const file of files) {
     const name = path.join(dir, file);
     if (fs.statSync(name).isDirectory()) {
+      if (file === 'atletas') continue; // Ignora currículos de atletas no histórico geral de notícias
       buscarArquivosJSON(name, filesList);
     } else if (file.endsWith('.json')) {
       filesList.push(name);
@@ -633,6 +634,242 @@ function verificarEGerarHistoricoRetroativo() {
   console.log("Dados históricos retroativos criados com sucesso!");
 }
 
+const BIOGRAFIAS_PADRAO = {
+  "renato-kayzer": {
+    nomeCompleto: "Renato Kayzer de Souza",
+    nascimento: "17/02/1996 (30 anos)",
+    naturalidade: "Jaciara (MT)",
+    clubesAnteriores: "Vasco, Athletico-PR, Ceará, América-MG",
+    conquistas: "Copa do Brasil (2020), Campeonato Cearense (2023, 2024)",
+    biografia: "Centroavante de forte presença de área e faro de gol, Renato Kayzer se firmou como um dos principais artilheiros do futebol nordestino com gols decisivos em competições regionais e nacionais.",
+    fotoUrl: "https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?q=80&w=300&auto=format&fit=crop"
+  },
+  "everton-ribeiro": {
+    nomeCompleto: "Éverton Augusto de Barros Ribeiro",
+    nascimento: "10/04/1989 (37 anos)",
+    naturalidade: "Arujá (SP)",
+    clubesAnteriores: "Coritiba, Cruzeiro, Al-Ahli, Flamengo",
+    conquistas: "Libertadores (2019, 2022), Campeonato Brasileiro (2013, 2014, 2019, 2020), Copa do Brasil (2022)",
+    biografia: "Meio-campista clássico de técnica refinada, visão de jogo excepcional e liderança nata. Everton Ribeiro comanda as ações ofensivas no futebol nordestino, agregando experiência de Seleção Brasileira.",
+    fotoUrl: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=300&auto=format&fit=crop"
+  },
+  "thiago-galhardo": {
+    nomeCompleto: "Thiago Galhardo do Nascimento Rocha",
+    nascimento: "20/07/1989 (36 anos)",
+    naturalidade: "São João del Rei (MG)",
+    clubesAnteriores: "Botafogo, Vasco, Ceará, Internacional, Fortaleza, Coritiba",
+    conquistas: "Campeonato Cearense (2023), Copa do Nordeste (2024)",
+    biografia: "Jogador versátil que atua tanto como meia de ligação quanto como centroavante. Thiago Galhardo destaca-se pela inteligência tática, movimentação constante e facilidade de finalização.",
+    fotoUrl: "https://images.unsplash.com/photo-1518281400280-854e0c69114c?q=80&w=300&auto=format&fit=crop"
+  },
+  "yago-pikachu": {
+    nomeCompleto: "Glaybson Yago Souza Lisboa",
+    nascimento: "05/06/1992 (34 anos)",
+    naturalidade: "Belém (PA)",
+    clubesAnteriores: "Paysandu, Vasco da Gama, Shimizu S-Pulse",
+    conquistas: "Copa do Nordeste (2022, 2024), Campeonato Cearense (2021, 2022, 2023)",
+    biografia: "Ala-direito icônico, reconhecido por sua incrível capacidade de marcar gols e dar assistências. Yago Pikachu é um dos atletas mais decisivos e queridos da torcida no futebol nordestino.",
+    fotoUrl: "https://images.unsplash.com/photo-1517466787929-bc90951d0974?q=80&w=300&auto=format&fit=crop"
+  },
+  "kanu": {
+    nomeCompleto: "Victor Hugo Oliveira do Nascimento",
+    nascimento: "03/05/1997 (29 anos)",
+    naturalidade: "Salvador (BA)",
+    clubesAnteriores: "Cabofriense, Botafogo",
+    conquistas: "Campeonato Brasileiro - Série B (2021), Campeonato Baiano (2024)",
+    biografia: "Zagueiro de vigor físico imponente, precisão nos desarmes e excelente jogo aéreo. Kanu destaca-se como o xerife e um dos pilares defensivos da equipe no cenário regional e nacional.",
+    fotoUrl: "https://images.unsplash.com/photo-1486282414372-3580f3c4eedb?q=80&w=300&auto=format&fit=crop"
+  },
+  "joao-ricardo": {
+    nomeCompleto: "João Ricardo Riedi",
+    nascimento: "06/09/1988 (37 anos)",
+    naturalidade: "Mariano Moro (RS)",
+    clubesAnteriores: "América-MG, Chapecoense, Ceará",
+    conquistas: "Copa do Nordeste (2020, 2024), Campeonato Cearense (2023, 2024)",
+    biografia: "Goleiro de reflexos apurados e extrema segurança sob as traves. João Ricardo é conhecido por grandes defesas em clássicos regionais e cobranças de pênaltis decisivas.",
+    fotoUrl: "https://images.unsplash.com/photo-1516731415730-0c6419000676?q=80&w=300&auto=format&fit=crop"
+  },
+  "leo-gamalho": {
+    nomeCompleto: "Léo Gamalho de Souza",
+    nascimento: "30/01/1986 (40 anos)",
+    naturalidade: "Porto Alegre (RS)",
+    clubesAnteriores: "Santa Cruz, Bahia, Goiás, Ponte Preta, Vitória",
+    conquistas: "Campeonato Pernambucano (2015), Campeonato Baiano (2015), Campeonato Brasileiro - Série B (2023)",
+    biografia: "O lendário 'Ibra do Nordeste'. Léo Gamalho é sinônimo de gols por onde passa no futebol nordestino, sendo um centroavante de área clássico, com excelente posicionamento e força aérea.",
+    fotoUrl: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=300&auto=format&fit=crop"
+  },
+  "cristiane": {
+    nomeCompleto: "Cristiane Rozeira de Souza Silva",
+    nascimento: "15/05/1985 (41 anos)",
+    naturalidade: "Osasco (SP)",
+    clubesAnteriores: "Santos, PSG, Chicago Red Stars, São Paulo",
+    conquistas: "Medalha de Ouro nos Jogos Pan-Americanos (2003, 2007), Vice-Campeã Mundial (2007), Vice-Campeã Olímpica (2004, 2008)",
+    biografia: "Uma das maiores lendas da história do futebol feminino mundial. Cristiane rozeira agregou classe, faro de gol absurdo e peso internacional ao futebol feminino da região Nordeste.",
+    fotoUrl: "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=300&auto=format&fit=crop"
+  },
+  "maysa": {
+    nomeCompleto: "Maysa Caroline Oliveira da Silva",
+    nascimento: "12/03/2002 (24 anos)",
+    naturalidade: "Fortaleza (CE)",
+    clubesAnteriores: "Categorias de base do Fortaleza",
+    conquistas: "Campeonato Cearense Feminino (2022, 2024)",
+    biografia: "Revelação promissora do futebol feminino cearense, Maysa destaca-se por sua visão de jogo apurada no meio-campo, passes em profundidade e chegada dinâmica na área de ataque.",
+    fotoUrl: "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=300&auto=format&fit=crop"
+  },
+  "geyse": {
+    nomeCompleto: "Geyse da Silva Ferreira",
+    nascimento: "27/03/1998 (28 anos)",
+    naturalidade: "Maragogi (AL)",
+    clubesAnteriores: "Benfica, Barcelona, Manchester United",
+    conquistas: "Copa América Feminina (2022), Champions League Feminina (2022/2023), Campeonato Espanhol Feminino (2022/2023)",
+    biografia: "Atacante de velocidade explosiva, dribles desconcertantes e presença internacional de destaque. Geyse orgulha o esporte regional com conquistas de peso na Europa e Seleção.",
+    fotoUrl: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=300&auto=format&fit=crop"
+  },
+  "pricila": {
+    nomeCompleto: "Pricila da Silva Pinheiro",
+    nascimento: "08/08/2000 (25 anos)",
+    naturalidade: "Juazeiro do Norte (CE)",
+    clubesAnteriores: "Juventude-CE, Ceará SC",
+    conquistas: "Campeonato Cearense Feminino (2021, 2023)",
+    biografia: "Zagueira de ótima recuperação, desarme limpo e espírito de liderança em campo. Pricila vem crescendo como uma das referências defensivas no futebol feminino regional.",
+    fotoUrl: "https://images.unsplash.com/photo-1516731415730-0c6419000676?q=80&w=300&auto=format&fit=crop"
+  },
+  "karen": {
+    nomeCompleto: "Karen Aline Xavier de Almeida",
+    nascimento: "24/10/1995 (30 anos)",
+    naturalidade: "Salvador (BA)",
+    clubesAnteriores: "Vitória-BA, Bahia",
+    conquistas: "Campeonato Baiano Feminino (2022, 2023, 2024)",
+    biografia: "Goleira ágil, segura e de excelente liderança verbal na linha de defesa. Karen é uma das goleiras mais consistentes e experientes do futebol feminino baiano nos últimos anos.",
+    fotoUrl: "https://images.unsplash.com/photo-1628891890467-b79f2c879657?q=80&w=300&auto=format&fit=crop"
+  },
+  "juliana": {
+    nomeCompleto: "Juliana Maria dos Santos",
+    nascimento: "14/09/1997 (28 anos)",
+    naturalidade: "Recife (PE)",
+    clubesAnteriores: "Náutico, Sport Recife",
+    conquistas: "Campeonato Pernambucano Feminino (2022, 2024)",
+    biografia: "Meio-campista clássica e versátil, Juliana distribui o jogo com maestria no meio de campo das Leoas da Ilha, sendo perigosa em finalizações de média distância.",
+    fotoUrl: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=300&auto=format&fit=crop"
+  }
+};
+
+// Gera currículo e histórico de notícias individual para cada jogador/jogadora monitorado
+function atualizarPerfisAtletas() {
+  console.log("Atualizando currículos e históricos individuais dos atletas...");
+  const atletasPath = path.join(__dirname, 'atletas.json');
+  
+  if (!fs.existsSync(atletasPath)) {
+    console.warn("Aviso: Arquivo atletas.json não encontrado na raiz. Pulando perfis...");
+    return;
+  }
+
+  let configAtletas = { jogadores: [], jogadoras: [] };
+  try {
+    configAtletas = JSON.parse(fs.readFileSync(atletasPath, 'utf-8'));
+  } catch (e) {
+    console.error("Erro ao ler atletas.json:", e.message);
+    return;
+  }
+
+  // 1. Carrega todas as notícias do histórico para buscar menções (buscarArquivosJSON agora ignora atletas/)
+  const dataDirPath = path.join(__dirname, 'DATA');
+  const jsonFiles = buscarArquivosJSON(dataDirPath);
+  let todasNoticias = [];
+
+  jsonFiles.forEach(file => {
+    try {
+      const content = JSON.parse(fs.readFileSync(file, 'utf-8'));
+      if (Array.isArray(content)) {
+        todasNoticias = todasNoticias.concat(content);
+      }
+    } catch (e) {}
+  });
+
+  // Remove duplicatas gerais do histórico
+  const urlsUnicas = new Set();
+  const noticiasUnicas = [];
+  todasNoticias.forEach(n => {
+    if (!urlsUnicas.has(n.url)) {
+      urlsUnicas.add(n.url);
+      noticiasUnicas.push(n);
+    }
+  });
+
+  // 2. Garante a pasta DATA/atletas/
+  const atletasDir = path.join(dataDirPath, 'atletas');
+  criarDiretorioRobustamente(atletasDir);
+
+  const listaAtletas = [...configAtletas.jogadores, ...configAtletas.jogadoras];
+
+  listaAtletas.forEach(atleta => {
+    const slug = atleta.slug || atleta.nome.toLowerCase().replace(/ /g, '-');
+    const atletaFile = path.join(atletasDir, `${slug}.json`);
+
+    let perfil = {};
+    if (fs.existsSync(atletaFile)) {
+      try {
+        perfil = JSON.parse(fs.readFileSync(atletaFile, 'utf-8'));
+      } catch (e) {
+        perfil = {};
+      }
+    }
+
+    const bioPredefinida = BIOGRAFIAS_PADRAO[slug] || {
+      nomeCompleto: atleta.nome,
+      nascimento: "Não informado",
+      naturalidade: "Região Nordeste",
+      clubesAnteriores: atleta.time,
+      conquistas: "Destaque regional",
+      biografia: `Atleta em destaque monitorado pelo portal no futebol do Nordeste. Atua como ${atleta.pos} defendendo as cores do ${atleta.time}.`
+    };
+
+    perfil.nome = atleta.nome;
+    perfil.time = atleta.time;
+    perfil.pos = atleta.pos;
+    perfil.gols = atleta.gols;
+    perfil.icone = atleta.icone;
+    perfil.slug = slug;
+
+    perfil.nomeCompleto = perfil.nomeCompleto || bioPredefinida.nomeCompleto;
+    perfil.nascimento = perfil.nascimento || bioPredefinida.nascimento;
+    perfil.naturalidade = perfil.naturalidade || bioPredefinida.naturalidade;
+    perfil.clubesAnteriores = perfil.clubesAnteriores || bioPredefinida.clubesAnteriores;
+    perfil.conquistas = perfil.conquistas || bioPredefinida.conquistas;
+    perfil.biografia = perfil.biografia || bioPredefinida.biografia;
+    perfil.fotoUrl = perfil.fotoUrl || bioPredefinida.fotoUrl;
+
+    // 3. Busca menções nas notícias
+    const noticiasAtleta = [];
+    const termosBusca = atleta.termos || [atleta.nome.toLowerCase()];
+
+    noticiasUnicas.forEach(n => {
+      const texto = (n.titulo + ' ' + n.desc).toLowerCase();
+      if (termosBusca.some(t => texto.includes(t.toLowerCase()))) {
+        noticiasAtleta.push({
+          data: n.data,
+          titulo: n.titulo,
+          desc: n.desc,
+          fonte: n.fonte,
+          url: n.url,
+          imagem: n.imagem
+        });
+      }
+    });
+
+    noticiasAtleta.sort((a, b) => new Date(b.data) - new Date(a.data));
+    perfil.noticias = noticiasAtleta;
+
+    try {
+      fs.writeFileSync(atletaFile, JSON.stringify(perfil, null, 2), 'utf-8');
+    } catch (e) {
+      console.warn(`Aviso: Não foi possível salvar o perfil local do atleta '${atleta.nome}':`, e.message);
+    }
+  });
+
+  console.log(`Perfis de atletas atualizados com sucesso em: ${atletasDir}`);
+}
+
 // Execução principal
 async function executarCompilador() {
   console.log(`--- Iniciando Compilador de Notícias Nordestão FC (${new Date().toLocaleString()}) ---`);
@@ -664,6 +901,9 @@ async function executarCompilador() {
   
   // 5. Compila estatísticas gerais atualizadas
   gerarMetricas();
+
+  // 6. Atualiza currículos e históricos individuais dos atletas
+  atualizarPerfisAtletas();
   
   console.log('--- Execução do Compilador finalizada com sucesso! ---');
 }

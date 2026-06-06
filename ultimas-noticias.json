@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao": "2026-06-06T14:25:27.480Z",
+  "ultimaAtualizacao": "2026-06-06T15:07:25.057Z",
   "dados": {
     "masculino": [
       {
@@ -73,14 +73,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/54578692570-0b41573eb1-k.webp",
         "data": "2026-06-05T22:17:16.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Futebol vai destronar NFL nos EUA, prevê arquiteto da Copa do Mundo de 1994",
-        "desc": "Trinta e dois anos após liderar a organização da Copa do Mundo de 1994, um sucesso estrondoso que impulsionou o futebol nos Estados Unidos, Alan Rothenberg acredita que o esporte e...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/futebol-vai-destronar-nfl-nos-eua-preve-arquiteto-da-copa-do-mundo-de-1994/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260605__B6744FN__v1__MidRes__MexicoFblWc2026StadiumPreparations.webp",
-        "data": "2026-06-05T20:58:12.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -90,7 +82,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-06",
-        "data": "2026-06-06T14:25:27.478Z",
+        "data": "2026-06-06T15:07:24.950Z",
         "id": "curado-feminino-0"
       },
       {
@@ -99,7 +91,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-06",
-        "data": "2026-06-06T11:25:27.478Z",
+        "data": "2026-06-06T12:07:24.950Z",
         "id": "curado-feminino-1"
       },
       {
@@ -108,7 +100,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-06",
-        "data": "2026-06-06T08:25:27.478Z",
+        "data": "2026-06-06T09:07:24.950Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -119,7 +111,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-06",
-        "data": "2026-06-06T14:25:27.478Z",
+        "data": "2026-06-06T15:07:24.951Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -128,7 +120,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-06",
-        "data": "2026-06-06T11:25:27.478Z",
+        "data": "2026-06-06T12:07:24.951Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -137,7 +129,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-06",
-        "data": "2026-06-06T08:25:27.478Z",
+        "data": "2026-06-06T09:07:24.951Z",
         "id": "curado-jogadores-2"
       }
     ]

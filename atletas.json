@@ -1,0 +1,123 @@
+{
+  "jogadores": [
+    {
+      "nome": "Renato Kayzer",
+      "time": "Fortaleza EC",
+      "pos": "Atacante",
+      "gols": 15,
+      "icone": "🦁",
+      "slug": "renato-kayzer",
+      "termos": ["renato kayzer", "kayzer"]
+    },
+    {
+      "nome": "Everton Ribeiro",
+      "time": "Bahia",
+      "pos": "Meia",
+      "gols": 8,
+      "icone": "🔵",
+      "slug": "everton-ribeiro",
+      "termos": ["everton ribeiro", "everton ribeiro"]
+    },
+    {
+      "nome": "Thiago Galhardo",
+      "time": "Sport Recife",
+      "pos": "Atacante",
+      "gols": 11,
+      "icone": "🔴",
+      "slug": "thiago-galhardo",
+      "termos": ["thiago galhardo", "galhardo"]
+    },
+    {
+      "nome": "Yago Pikachu",
+      "time": "Fortaleza EC",
+      "pos": "Lateral-dir.",
+      "gols": 9,
+      "icone": "🦁",
+      "slug": "yago-pikachu",
+      "termos": ["yago pikachu", "pikachu"]
+    },
+    {
+      "nome": "Kanu",
+      "time": "Bahia",
+      "pos": "Zagueiro",
+      "gols": 2,
+      "icone": "🔵",
+      "slug": "kanu",
+      "termos": ["kanu", "zagueiro kanu"]
+    },
+    {
+      "nome": "João Ricardo",
+      "time": "Fortaleza EC",
+      "pos": "Goleiro",
+      "gols": 0,
+      "icone": "🦁",
+      "slug": "joao-ricardo",
+      "termos": ["joão ricardo", "joao ricardo"]
+    },
+    {
+      "nome": "Léo Gamalho",
+      "time": "Bahia",
+      "pos": "Atacante",
+      "gols": 12,
+      "icone": "🔵",
+      "slug": "leo-gamalho",
+      "termos": ["léo gamalho", "leo gamalho", "gamalho"]
+    }
+  ],
+  "jogadoras": [
+    {
+      "nome": "Cristiane",
+      "time": "Bahia Feminino",
+      "pos": "Atacante",
+      "gols": 16,
+      "icone": "🔵",
+      "slug": "cristiane",
+      "termos": ["cristiane", "cristiane rozeira"]
+    },
+    {
+      "nome": "Maysa",
+      "time": "Fortaleza Feminino",
+      "pos": "Meia",
+      "gols": 8,
+      "icone": "🦁",
+      "slug": "maysa",
+      "termos": ["maysa", "jogadora maysa"]
+    },
+    {
+      "nome": "Geyse",
+      "time": "Sport Feminino",
+      "pos": "Atacante",
+      "gols": 12,
+      "icone": "🔴",
+      "slug": "geyse",
+      "termos": ["geyse", "geyse ferreira"]
+    },
+    {
+      "nome": "Pricila",
+      "time": "Ceará Feminino",
+      "pos": "Zagueira",
+      "gols": 2,
+      "icone": "🐢",
+      "slug": "pricila",
+      "termos": ["pricila", "zagueira pricila"]
+    },
+    {
+      "nome": "Karen",
+      "time": "Bahia Feminino",
+      "pos": "Goleira",
+      "gols": 0,
+      "icone": "🔵",
+      "slug": "karen",
+      "termos": ["karen", "goleira karen"]
+    },
+    {
+      "nome": "Juliana",
+      "time": "Sport Feminino",
+      "pos": "Meia",
+      "gols": 6,
+      "icone": "🔴",
+      "slug": "juliana",
+      "termos": ["juliana", "meia juliana"]
+    }
+  ]
+}
