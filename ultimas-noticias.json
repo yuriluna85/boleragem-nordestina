@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-06-07T21:10:03.082Z",
+  "ultimaAtualizacao": "2026-06-07T22:35:59.009Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "São Bernardo vence o CRB fora de casa e dorme na liderança da Série B",
+        "desc": "O São Bernardo venceu o CRB por 3 a 2 em um jogo equilibrado pela Série B, com alternância constante no placar. A equipe paulista abriu o marcador, sofreu o empate ainda no primeir...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/sao-bernardo-vence-o-crb-fora-de-casa-e-dorme-na-lideranca-da-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55320637024_855607f6fc_o.webp",
+        "data": "2026-06-07T21:22:13.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Jefté passa por cirurgia após lesão no joelho e vira desfalque no Palmeiras; veja prazo de recuperação",
         "desc": "O Palmeiras perdeu o lateral esquerdo Jefté para a sequência da temporada. O camisa 6 do Verdão sofreu uma lesão no menisco do joelho direito após uma torção durante a vitória por ...",
@@ -81,22 +89,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260606__2280234763__v1__HighRes__BrazilVEgyptInternationalFriendly.webp",
         "data": "2026-06-07T01:14:07.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Endrick celebra gol pela Seleção e projeta Copa: &#8220;Vou realizar um sonho&#8221;",
-        "desc": "O Brasil venceu o Egito por 2 a 1, em Cleveland, no último amistoso antes da Copa do Mundo. Endrick saiu do banco e marcou o gol da vitória, celebrando a realização do sonho de dis...",
-        "url": "https://www.gazetaesportiva.com/times/brasil/endrick-celebra-gol-pela-selecao-e-projeta-copa-vou-realizar-um-sonho/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260606__2280238779__v1__HighRes__BrazilVEgyptInternationalFriendly.webp",
-        "data": "2026-06-07T00:38:56.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja galeria de fotos do amistoso entre Brasil e Egito em Cleveland",
-        "desc": "O post Veja galeria de fotos do amistoso entre Brasil e Egito em Cleveland apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/brasil/veja-galeria-de-fotos-do-amistoso-entre-brasil-e-egito-em-cleveland/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260606__2280233743__v1__HighRes__BrazilVEgyptInternationalFriendly.webp",
-        "data": "2026-06-06T23:32:32.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -106,8 +98,16 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-07",
-        "data": "2026-06-07T21:10:03.079Z",
+        "data": "2026-06-07T22:35:59.006Z",
         "id": "curado-feminino-0"
+      },
+      {
+        "titulo": "Bastidores: vitória tranquila da França feminina sobre a Polônia fora de casa",
+        "desc": "Confira os bastidores da vitória da França por 2 a 0 sobre a Polônia na Polsat Plus Arena, em Gdansk, com gols de Melvine Malard e Sandy Baltimore pelas Les Bleues nas Eliminatória...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/bastidores-vitoria-tranquila-da-franca-feminina-sobre-a-polonia-fora-de-casa/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/vito.webp",
+        "data": "2026-06-07T21:27:08.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Sport Feminino atrai público recorde na Arena de Pernambuco",
@@ -115,7 +115,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-07",
-        "data": "2026-06-07T18:10:03.079Z",
+        "data": "2026-06-07T19:35:59.006Z",
         "id": "curado-feminino-1"
       },
       {
@@ -124,16 +124,8 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-07",
-        "data": "2026-06-07T15:10:03.079Z",
+        "data": "2026-06-07T16:35:59.006Z",
         "id": "curado-feminino-2"
-      },
-      {
-        "titulo": "Palmeirenses brilham, e Brasil vence os EUA de virada no futebol feminino",
-        "desc": "Com protagonismo de Bia Zaneratto e Tainá Maranhão, a Seleção Brasileira superou os Estados Unidos em amistoso disputado na Neo Química Arena.\nO post Palmeirenses brilham, e Brasil...",
-        "url": "https://www.gazetaesportiva.com/times/brasil/palmeirenses-brilham-e-brasil-vence-os-eua-de-virada-no-futebol-feminino/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260606__B69A4C6__v1__HighRes__FblBraUsaWomenFriendly.webp",
-        "data": "2026-06-06T23:41:38.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "jogadores": [
@@ -143,8 +135,17 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-07",
-        "data": "2026-06-07T21:10:03.079Z",
+        "data": "2026-06-07T22:35:59.006Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
+        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
+        "fonte": "Diário do Ceará",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-07",
+        "data": "2026-06-07T19:35:59.006Z",
+        "id": "curado-jogadores-1"
       },
       {
         "titulo": "12 anos sem Fernandão: relembre grandes momentos do atacante no Internacional",
@@ -155,21 +156,12 @@
         "fonte": "Gazeta Esportiva"
       },
       {
-        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
-        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
-        "fonte": "Diário do Ceará",
-        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-07",
-        "data": "2026-06-07T18:10:03.079Z",
-        "id": "curado-jogadores-1"
-      },
-      {
         "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
         "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-07",
-        "data": "2026-06-07T15:10:03.079Z",
+        "data": "2026-06-07T16:35:59.006Z",
         "id": "curado-jogadores-2"
       }
     ]
