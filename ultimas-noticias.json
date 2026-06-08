@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-06-07T22:35:59.009Z",
+  "ultimaAtualizacao": "2026-06-08T00:04:18.907Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Melhores momentos da vitória do São Bernardo sobre o CRB pela Série B",
+        "desc": "Melhores momentos da vitória do São Bernardo sobre o CRB pela Série B\nO post Melhores momentos da vitória do São Bernardo sobre o CRB pela Série B apareceu primeiro em Gazeta Espor...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-da-vitoria-do-sao-bernardo-sobre-o-crb-pela-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55320637024_855607f6fc_o.webp",
+        "data": "2026-06-07T22:44:44.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "São Bernardo vence o CRB fora de casa e dorme na liderança da Série B",
         "desc": "O São Bernardo venceu o CRB por 3 a 2 em um jogo equilibrado pela Série B, com alternância constante no placar. A equipe paulista abriu o marcador, sofreu o empate ainda no primeir...",
@@ -65,30 +73,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/HKLR_m7WoAAIQ2a.webp",
         "data": "2026-06-07T09:00:02.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Confira as fotos do amistoso entre Argentina e Honduras",
-        "desc": "O post Confira as fotos do amistoso entre Argentina e Honduras apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/argentina/confira-as-fotos-do-amistoso-entre-argentina-e-honduras/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260607__B69C73Y__v1__MidRes__FootballFriendlyMatchArgentinaVHonduras.webp",
-        "data": "2026-06-07T01:23:00.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Assista aos gols da vitória do Brasil sobre o Egito em Cleveland",
-        "desc": "Brasil vence o Egito em Cleveland; veja os gols\nO post Assista aos gols da vitória do Brasil sobre o Egito em Cleveland apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/assista-aos-gols-da-vitoria-do-brasil-sobre-o-egito-em-cleveland/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/Captura-de-tela-2026-06-06-212557.webp",
-        "data": "2026-06-07T01:22:45.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Ancelotti elogia Seleção e diz que já tem escalação definida para estreia na Copa: &#8220;Ideia clara&#8221;",
-        "desc": "Carlo Ancelotti aprovou o desempenho do Brasil na vitória por 2 a 1 sobre o Egito e destacou a intensidade e organização da equipe nos primeiros 60 minutos, apesar de apontar a fal...",
-        "url": "https://www.gazetaesportiva.com/times/brasil/ancelotti-elogia-selecao-e-diz-que-ja-tem-escalacao-definida-para-estreia-na-copa-ideia-clara/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260606__2280234763__v1__HighRes__BrazilVEgyptInternationalFriendly.webp",
-        "data": "2026-06-07T01:14:07.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -97,9 +81,17 @@
         "desc": "As Leoas venceram o clássico com autoridade por 4 a 1 e continuam invictas na competição nacional de futebol feminino.",
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-07",
-        "data": "2026-06-07T22:35:59.006Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-08",
+        "data": "2026-06-08T00:04:18.905Z",
         "id": "curado-feminino-0"
+      },
+      {
+        "titulo": "Arthur Elias celebra nova vitória sobre os EUA e projeta jogo em Fortaleza",
+        "desc": "Seleção Brasileira Feminina venceu os Estados Unidos por 2 a 1, na Neo Química Arena, e repete o amistoso daqui dois dias, na Arena Castelão.\nO post Arthur Elias celebra nova vitór...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/arthur-elias-celebra-nova-vitoria-sobre-os-eua-e-projeta-jogo-em-fortaleza/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/Arthur-Elias.jpg",
+        "data": "2026-06-07T23:49:44.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Bastidores: vitória tranquila da França feminina sobre a Polônia fora de casa",
@@ -115,17 +107,8 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-07",
-        "data": "2026-06-07T19:35:59.006Z",
+        "data": "2026-06-07T21:04:18.905Z",
         "id": "curado-feminino-1"
-      },
-      {
-        "titulo": "Bahia Feminino contrata dupla de ataque campeã sul-americana",
-        "desc": "O Tricolor de Aço se reforça visando a disputa do mata-mata do Brasileiro Feminino A2. Apresentação das novas atletas ocorre nesta segunda.",
-        "fonte": "Salvador News",
-        "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-07",
-        "data": "2026-06-07T16:35:59.006Z",
-        "id": "curado-feminino-2"
       }
     ],
     "jogadores": [
@@ -134,8 +117,8 @@
         "desc": "O veterano meia do Bahia comandou a vitória tricolor com passes decisivos e um belíssimo gol de fora da área, aplaudido de pé.",
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-07",
-        "data": "2026-06-07T22:35:59.006Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-08",
+        "data": "2026-06-08T00:04:18.905Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -144,7 +127,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-07",
-        "data": "2026-06-07T19:35:59.006Z",
+        "data": "2026-06-07T21:04:18.905Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -161,7 +144,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-07",
-        "data": "2026-06-07T16:35:59.006Z",
+        "data": "2026-06-07T18:04:18.905Z",
         "id": "curado-jogadores-2"
       }
     ]
