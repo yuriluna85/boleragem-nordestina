@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-06-10T15:27:24.387Z",
+  "ultimaAtualizacao": "2026-06-10T18:14:08.620Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Gol de Bruno Guimarães pelo Brasil contra o Egito",
+        "desc": "Capitão do Newcastle, Bruno Guimarães abriu o placar na vitória por 2 a 1 da Seleção Brasileira sobre o Egito em amistoso de preparação para a Copa do Mundo de 2026.\nO post Gol de ...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/gol-de-bruno-guimaraes-pelo-brasil-contra-o-egito/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/Gol-de-Bruno-Guimaraes.webp",
+        "data": "2026-06-10T16:32:33.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Veja galeria de fotos do treino da Seleção Brasileira em Nova Jersey nesta quarta-feira",
+        "desc": "O post Veja galeria de fotos do treino da Seleção Brasileira em Nova Jersey nesta quarta-feira apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/brasil/veja-galeria-de-fotos-do-treino-da-selecao-brasileira-em-nova-jersey-nesta-quarta-feira/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260610__B6M96BP__v3__HighRes__FblWc2026TrainingBra.webp",
+        "data": "2026-06-10T16:18:46.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Treinador de goleiros suíço tenta uma cobrança de efeito",
         "desc": "Treinador de goleiros suíço tenta uma cobrança de efeito\nO post Treinador de goleiros suíço tenta uma cobrança de efeito apareceu primeiro em Gazeta Esportiva.",
@@ -25,22 +41,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260610__2280810565__v1__HighRes__ArgentinaVIcelandInternationalFriendly.webp",
         "data": "2026-06-10T13:23:47.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja as fotos do amistoso entre Argentina e Islândia",
-        "desc": "O post Veja as fotos do amistoso entre Argentina e Islândia apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/argentina/veja-as-fotos-do-amistoso-entre-argentina-e-islandia/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260610__2280794637__v1__HighRes__ArgentinaVIcelandInternationalFriendly-1.webp",
-        "data": "2026-06-10T01:54:24.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Com um a menos, Fortaleza vence o Náutico e entra no G6 da Série B",
-        "desc": "Fortaleza bate o Náutico nos Aflitos, ultrapassa rival direto na tabela e entra no G6 da Série B após a 12ª rodada do Brasileirão.\nO post Com um a menos, Fortaleza vence o Náutico ...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/com-um-a-menos-fortaleza-vence-o-nautico-e-entra-no-g6-da-serie-b/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/8V1A2441-1.webp",
-        "data": "2026-06-10T00:06:36.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -50,7 +50,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-10",
-        "data": "2026-06-10T15:27:24.383Z",
+        "data": "2026-06-10T18:14:08.615Z",
         "id": "curado-feminino-0"
       },
       {
@@ -67,27 +67,35 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-10",
-        "data": "2026-06-10T12:27:24.383Z",
+        "data": "2026-06-10T15:14:08.615Z",
         "id": "curado-feminino-1"
       },
       {
-        "titulo": "Com gol contra, Seleção feminina é derrotada pelos Estados Unidos em amistoso",
-        "desc": "A Seleção Brasileira feminina foi derrotada pelos Estados Unidos por 1 a 0, em Fortaleza, em amistoso que registrou recorde de público no Nordeste.\nO post Com gol contra, Seleção f...",
-        "url": "https://www.gazetaesportiva.com/times/brasil/com-gol-contra-selecao-feminina-e-derrotada-pelos-estados-unidos-em-amistoso/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/Kely_Pereira_Staff_Images_CBF_62_c715c005ff.webp",
-        "data": "2026-06-10T02:59:19.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Bahia Feminino contrata dupla de ataque campeã sul-americana",
+        "desc": "O Tricolor de Aço se reforça visando a disputa do mata-mata do Brasileiro Feminino A2. Apresentação das novas atletas ocorre nesta segunda.",
+        "fonte": "Salvador News",
+        "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-10",
+        "data": "2026-06-10T12:14:08.615Z",
+        "id": "curado-feminino-2"
       }
     ],
     "jogadores": [
       {
-        "titulo": "Everton Ribeiro completa 120 jogos pelo Bahia com golaço na Fonte Nova",
-        "desc": "O veterano meia do Bahia comandou a vitória tricolor com passes decisivos e um belíssimo gol de fora da área, aplaudido de pé.",
-        "fonte": "Bahia Esportes",
-        "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-10",
-        "data": "2026-06-10T15:27:24.383Z",
-        "id": "curado-jogadores-0"
+        "titulo": "Após marcar pelo sub-17 do Santos, Nadson projeta clássico contra o Palmeiras no sub-20",
+        "desc": "Após reforçar a equipe sub-17 do Santos na última semana e marcar o gol da vitória sobre o Atlético-GO por 1 a 0, pelo Campeonato Brasileiro, o meia-atacante Nadson volta suas aten...",
+        "url": "https://www.gazetaesportiva.com/times/santos/apos-marcar-pelo-sub-17-do-santos-nadson-projeta-classico-contra-o-palmeiras-no-sub-20/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/WhatsApp-Image-2026-06-10-at-14.40.02.webp",
+        "data": "2026-06-10T17:54:34.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Gol da vitória de Endrick pelo Brasil contra o Egito",
+        "desc": "O atacante do Real Madrid entrou no segundo tempo e foi decisivo para a vitória do Brasil por 2 a 1 sobre o Egito em amistoso preparatório para a Copa do Mundo, disputado em Clevel...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/gol-da-vitoria-de-endrick-pelo-brasil-contra-o-egito/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/vitoria-de-Endrick.webp",
+        "data": "2026-06-10T16:21:17.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Quem foi o pior jogador do Santos no primeiro semestre? Vote!",
