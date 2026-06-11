@@ -1,7 +1,31 @@
 {
-  "ultimaAtualizacao": "2026-06-11T21:17:09.399Z",
+  "ultimaAtualizacao": "2026-06-11T23:06:22.235Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Após vitória na estreia, técnico quer &#8220;melhorar&#8221; desempenho do México",
+        "desc": "O México venceu a África do Sul por 2 a 0 na abertura da Copa do Mundo, mas o técnico Javier Aguirre destacou a necessidade de ajustes para a sequência.\nO post Após vitória na estr...",
+        "url": "https://www.gazetaesportiva.com/times/mexico/apos-vitoria-na-estreia-tecnico-quer-melhorar-desempenho-do-mexico/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260611__B6TG2CA__v1__MidRes__FblWc2026Match01MexRsa.webp",
+        "data": "2026-06-11T23:00:48.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Atlético-GO x CRB pela Série B do Brasileiro: veja prováveis escalações e onde assistir",
+        "desc": "Atlético-GO e CRB se enfrentam nesta sexta-feira (12), às 19h, no Estádio Antônio Accioly, em Goiânia, pela 13ª rodada da Série B do Campeonato Brasileiro. O time goiano chega emba...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/atletico-go-x-crb-serie-b-onde-assistir/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/HKfSEnAXcAAG3je-2.webp",
+        "data": "2026-06-11T23:00:44.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Choque violento com brasileiro fez autor de gol do México usar proteção na cabeça",
+        "desc": "Raúl Jiménez foi um dos destaques da vitória do México por 2 a 0 sobre a África do Sul, nesta quinta-feira, na abertura da Copa do Mundo de 2026. Autor do segundo gol da partida, o...",
+        "url": "https://www.gazetaesportiva.com/times/mexico/choque-violento-com-brasileiro-fez-autor-de-gol-do-mexico-usar-protecao-na-cabeca/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20201129__8W683F__v1__MidRes__FblEngPrArsenalWolves.webp",
+        "data": "2026-06-11T22:36:04.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Ganhador dos últimos cinco GPs, Antonelli quer ampliar série na Catalunha",
         "desc": "Kimi Antonelli chega ao GP da Catalunha em grande fase, com cinco vitórias seguidas e liderança folgada no Mundial, sendo apontado como favorito ao título. O piloto da Mercedes des...",
@@ -25,38 +49,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260611__B6RZ8UT__v1__MidRes__FblWc2026Match01MexRsa.webp",
         "data": "2026-06-11T18:03:55.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Bastidores da vitória de Portugal sobre o Chile em preparação para o Mundial",
-        "desc": "Acompanhe os bastidores da vitória de Portugal por 2 a 1 sobre o Chile em amistoso preparatório para a Copa do Mundo. Do vestiário ao túnel de acesso ao gramado, reviva os melhores...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/bastidores-da-vitoria-de-portugal-sobre-o-chile-em-preparacao-para-o-mundial/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/port.webp",
-        "data": "2026-06-11T16:55:42.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Casemiro marca de cabeça após bela jogada de Vinicius Jr",
-        "desc": "Casemiro subiu mais alto para marcar de cabeça após uma grande jogada de Vinicius Jr na vitória do Brasil por 6 a 2 sobre o Panamá, no Maracanã, em amistoso preparatório para a Cop...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/casemiro-marca-de-cabeca-apos-bela-jogada-de-vinicius-jr/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/e3d2dbz2.webp",
-        "data": "2026-06-11T16:22:21.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja as fotos dos novos gramados da Academia de Futebol do Palmeiras",
-        "desc": "O post Veja as fotos dos novos gramados da Academia de Futebol do Palmeiras apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/veja-as-fotos-dos-novos-gramados-da-academia-de-futebol-do-palmeiras/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/FTM_3872-1.webp",
-        "data": "2026-06-11T16:21:24.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Paquetá finaliza com categoria para marcar para o Brasil contra o Panamá",
-        "desc": "Lucas Paquetá acertou uma excelente finalização de fora da área, sem qualquer chance para o goleiro, na vitória do Brasil por 6 a 2 sobre o Panamá em amistoso preparatório para a C...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/paqueta-finaliza-com-categoria-para-marcar-para-o-brasil-contra-o-panama/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/Paqueta-finaliza.webp",
-        "data": "2026-06-11T16:20:03.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -66,7 +58,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-11",
-        "data": "2026-06-11T21:17:09.395Z",
+        "data": "2026-06-11T23:06:22.229Z",
         "id": "curado-feminino-0"
       },
       {
@@ -75,7 +67,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-11",
-        "data": "2026-06-11T18:17:09.395Z",
+        "data": "2026-06-11T20:06:22.229Z",
         "id": "curado-feminino-1"
       },
       {
@@ -84,11 +76,35 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-11",
-        "data": "2026-06-11T15:17:09.395Z",
+        "data": "2026-06-11T17:06:22.229Z",
         "id": "curado-feminino-2"
       }
     ],
     "jogadores": [
+      {
+        "titulo": "Autor do primeiro gol da Copa, Quiñones diz que o México precisa pressionar mais",
+        "desc": "O atacante Julián Quiñones comemorou o gol marcado na estreia da Copa do Mundo de 2026, na vitória do México por 2 a 0 sobre a África do Sul, no Estádio Azteca. Naturalizado mexica...",
+        "url": "https://www.gazetaesportiva.com/times/mexico/autor-do-primeiro-gol-da-copa-quinones-diz-que-o-mexico-precisa-pressionar-mais/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260611__B6TF3KD__v1__HighRes__FblWc2026Match01MexRsa.webp",
+        "data": "2026-06-11T23:03:19.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Relembre o toque de classe de Šulc, meia da República Tcheca, na vitória do Lyon contra o Nantes",
+        "desc": "Relembre o toque de classe de Šulc, meia da República Tcheca, na vitória do Lyon contra o Nantes\nO post Relembre o toque de classe de Šulc, meia da República Tcheca, na vitória do ...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/relembre-o-toque-de-classe-de-sulc-meia-da-republica-tcheca-na-vitoria-do-lyon-contra-o-nantes/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/Schick.webp",
+        "data": "2026-06-11T22:42:05.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Relembre o gol do atacante Schick, da República Tcheca na vitória do Leverkusen sobre o Werder Bremen",
+        "desc": "Relembre o gol do atacante Patrik Schick, da República Tcheca na vitória do Leverkusen sobre o Werder Bremen\nO post Relembre o gol do atacante Schick, da República Tcheca na vitóri...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/relembre-o-gol-do-atacante-schick-da-republica-tcheca-na-vitoria-do-leverkusen-sobre-o-werder-bremen/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/Schick.webp",
+        "data": "2026-06-11T21:41:53.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Ex-Corinthians e São Paulo, Danilo completa 47 anos: relembre o golaço do meia contra o Bahia",
         "desc": "Relembre a bicicleta de Danilo contra o Bahia no Campeonato Brasileiro de 2018. O golaço, aos 44min do segundo tempo, garantiu a vitória do Corinthians por 2 a 1 na Arena.\nO post E...",
@@ -111,14 +127,6 @@
         "url": "https://www.gazetaesportiva.com/todas-as-noticias/atacante-da-coreia-do-sul-brilha-na-abertura-da-mls-2026-em-vitoria-sobre-o-inter-miami-relembre/",
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/Son.webp",
         "data": "2026-06-11T19:50:02.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Vinicius Jr abre o placar para o Brasil contra o Panamá",
-        "desc": "O atacante do Real Madrid acertou um chute de fora da área para marcar o primeiro gol do Brasil na vitória por 6 a 2 sobre o Panamá, no Maracanã, em partida preparatória para a Cop...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/vinicius-jr-abre-o-placar-para-o-brasil-contra-o-panama/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/Vinicius-Jr-abre.webp",
-        "data": "2026-06-11T16:24:17.000Z",
         "fonte": "Gazeta Esportiva"
       }
     ]
