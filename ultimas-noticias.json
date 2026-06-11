@@ -1,7 +1,31 @@
 {
-  "ultimaAtualizacao": "2026-06-11T01:59:37.209Z",
+  "ultimaAtualizacao": "2026-06-11T06:59:01.626Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Em reação histórica, Knicks batem Spurs e ficam a uma vitória do título da NBA",
+        "desc": "Os New York Knicks protagonizaram uma virada histórica ao derrotar o San Antonio Spurs por 107 a 106 no jogo 4 das finais da NBA, no Madison Square Garden. Após estarem perdendo po...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/nba/em-reacao-historica-knicks-batem-spurs-e-ficam-a-uma-vitoria-do-titulo-da-nba/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260611__2280993866__v1__HighRes__2026NbaFinalsGameFour.webp",
+        "data": "2026-06-11T03:55:07.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Ex-Santos, Sampaoli é anunciado como técnico de time argentino",
+        "desc": "O argentino Jorge Sampaoli foi anunciado como novo diretor técnico do Talleres, de Córdoba, iniciando uma nova fase no projeto esportivo do clube. Com passagem marcante por seleçõe...",
+        "url": "https://www.gazetaesportiva.com/times/santos/jorge-sampaoli-talleres-tecnico/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2025/09/49179130972_90e5586067_c.webp",
+        "data": "2026-06-11T02:50:27.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Veja as fotos de Sport x Athletic pela Série B do Brasileiro",
+        "desc": "O post Veja as fotos de Sport x Athletic pela Série B do Brasileiro apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/sport/veja-as-fotos-de-sport-x-athletic-pela-serie-b-do-brasileiro/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55327973390_0f60337e17_k.webp",
+        "data": "2026-06-11T02:04:22.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Sport empata com o Athletic e perde chance de assumir a liderança da Série B",
         "desc": "Sport ficou no 1 a 1 com o Athletic, em Recife, e desperdiçou a oportunidade de assumir a liderança da Série B do Campeonato Brasileiro.\nO post Sport empata com o Athletic e perde ...",
@@ -98,7 +122,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-11",
-        "data": "2026-06-11T01:59:37.205Z",
+        "data": "2026-06-11T06:59:01.622Z",
         "id": "curado-feminino-0"
       },
       {
@@ -106,8 +130,8 @@
         "desc": "Mais de 15 mil torcedores empurraram as Leoas na vitória histórica contra o Bahia. Um novo marco para o esporte feminino no Nordeste.",
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-10",
-        "data": "2026-06-10T22:59:37.205Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-11",
+        "data": "2026-06-11T03:59:01.622Z",
         "id": "curado-feminino-1"
       },
       {
@@ -115,8 +139,8 @@
         "desc": "O Tricolor de Aço se reforça visando a disputa do mata-mata do Brasileiro Feminino A2. Apresentação das novas atletas ocorre nesta segunda.",
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-10",
-        "data": "2026-06-10T19:59:37.205Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-11",
+        "data": "2026-06-11T00:59:01.622Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -127,7 +151,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-11",
-        "data": "2026-06-11T01:59:37.205Z",
+        "data": "2026-06-11T06:59:01.622Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -135,8 +159,8 @@
         "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-10",
-        "data": "2026-06-10T22:59:37.205Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-11",
+        "data": "2026-06-11T03:59:01.622Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -144,17 +168,9 @@
         "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-10",
-        "data": "2026-06-10T19:59:37.205Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-11",
+        "data": "2026-06-11T00:59:01.622Z",
         "id": "curado-jogadores-2"
-      },
-      {
-        "titulo": "Ceará rescinde com o atacante Fernandinho, alvo do Mirassol",
-        "desc": "O Ceará anunciou, nesta quarta-feira, a rescisão contratual do atacante Fernandinho. Especulado no Mirassol, o jogador de 28 anos agora está livre no mercado para assinar novo vínc...",
-        "url": "https://www.gazetaesportiva.com/times/ceara/ceara-rescinde-com-o-atacante-fernandinho-alvo-do-mirassol/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/HFqoVfhX0AACLd7-1.webp",
-        "data": "2026-06-10T19:23:31.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ]
   }
