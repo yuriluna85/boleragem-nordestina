@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao": "2026-06-13T12:54:17.848Z",
+  "ultimaAtualizacao": "2026-06-13T14:58:35.605Z",
   "dados": {
     "masculino": [
       {
@@ -33,14 +33,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55331297006_36638bc2b8_o.webp",
         "data": "2026-06-13T00:04:38.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Capitão dos EUA, Pulisic faz dois na vitória do Milan sobre a Udinese; assista",
-        "desc": "Capitão dos EUA, Pulisic faz dois na vitória do Milan sobre a Udinese; assista\nO post Capitão dos EUA, Pulisic faz dois na vitória do Milan sobre a Udinese; assista apareceu primei...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/capitao-dos-eua-pulisic-faz-dois-na-vitoria-do-milan-sobre-a-udinese-assista/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/Pulisic-f.webp",
-        "data": "2026-06-12T22:44:11.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -50,7 +42,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-13",
-        "data": "2026-06-13T12:54:17.842Z",
+        "data": "2026-06-13T14:58:35.600Z",
         "id": "curado-feminino-0"
       },
       {
@@ -59,7 +51,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-13",
-        "data": "2026-06-13T09:54:17.842Z",
+        "data": "2026-06-13T11:58:35.600Z",
         "id": "curado-feminino-1"
       },
       {
@@ -68,7 +60,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-13",
-        "data": "2026-06-13T06:54:17.842Z",
+        "data": "2026-06-13T08:58:35.600Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -79,7 +71,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-13",
-        "data": "2026-06-13T12:54:17.842Z",
+        "data": "2026-06-13T14:58:35.600Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -88,7 +80,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-13",
-        "data": "2026-06-13T09:54:17.842Z",
+        "data": "2026-06-13T11:58:35.600Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -97,7 +89,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-13",
-        "data": "2026-06-13T06:54:17.842Z",
+        "data": "2026-06-13T08:58:35.600Z",
         "id": "curado-jogadores-2"
       },
       {
