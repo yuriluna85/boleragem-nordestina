@@ -1,23 +1,23 @@
 {
-  "geradoEm": "2026-06-13T10:59:03.187Z",
+  "geradoEm": "2026-06-13T12:54:17.875Z",
   "totais": {
-    "totalGeral": 461,
+    "totalGeral": 462,
     "porCategoria": {
-      "masculino": 213,
+      "masculino": 214,
       "feminino": 119,
       "jogadores": 129
     }
   },
   "porEstado": {
-    "PE": 319,
-    "CE": 393,
+    "PE": 320,
+    "CE": 394,
     "BA": 192,
-    "AL": 307,
+    "AL": 308,
     "RN": 44,
     "PB": 24,
-    "MA": 360,
-    "PI": 26,
-    "SE": 134
+    "MA": 361,
+    "PI": 27,
+    "SE": 135
   },
   "topClubes": [
     {
@@ -34,7 +34,7 @@
     },
     {
       "nome": "Ceará",
-      "total": 53
+      "total": 54
     },
     {
       "nome": "Fortaleza",
@@ -104,7 +104,7 @@
     },
     {
       "nome": "Vozão Diário",
-      "total": 6
+      "total": 7
     }
   ]
 }
