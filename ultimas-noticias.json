@@ -1,7 +1,31 @@
 {
-  "ultimaAtualizacao": "2026-06-13T19:21:08.767Z",
+  "ultimaAtualizacao": "2026-06-13T20:47:40.157Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Corinthians bate Portuguesa Santista e alcança segunda vitória no Paulista Sub-20",
+        "desc": "O Corinthians venceu a Portuguesa Santista por 2 a 0 neste sábado, na Fazendinha, pela terceira rodada do Campeonato Paulista Sub-20. Os gols da partida foram marcados por Levy Dia...",
+        "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-portuguesa-santista-paulista-sub-20/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/05/244550.webp",
+        "data": "2026-06-13T20:11:46.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Palmeiras bate o Audax e emenda segunda vitória seguida no Paulista sub-20",
+        "desc": "O Palmeiras bateu o Audax por 2 a 0 neste sábado, na Academia de Futebol 2, em Guarulhos (SP), pela terceira rodada do Paulista sub-20.\nO post Palmeiras bate o Audax e emenda segun...",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-bate-o-audax-e-emenda-segunda-vitoria-seguida-no-paulista-sub-20/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/IMG_8834-2000x1200-1.webp",
+        "data": "2026-06-13T19:57:06.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Veja fotos do duelo entre Catar e Suiça pela Copa do Mundo",
+        "desc": "O post Veja fotos do duelo entre Catar e Suiça pela Copa do Mundo apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/veja-fotos-do-duelo-entre-catar-e-suica-pela-copa-do-mundo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260613__2281430651__v1__MidRes__QatarVSwitzerlandGroupBFifaWorldCup2026.webp",
+        "data": "2026-06-13T19:36:43.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Roubo de material de treino da Inglaterra em Kansas City está sob investigação oficial",
         "desc": "Autoridades dos EUA investigam o roubo de materiais de treino da seleção inglesa (como bolas e chuteiras) durante o transporte até Kansas City, antes do início da Copa do Mundo de ...",
@@ -50,7 +74,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-13",
-        "data": "2026-06-13T19:21:08.763Z",
+        "data": "2026-06-13T20:47:40.153Z",
         "id": "curado-feminino-0"
       },
       {
@@ -59,7 +83,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-13",
-        "data": "2026-06-13T16:21:08.763Z",
+        "data": "2026-06-13T17:47:40.153Z",
         "id": "curado-feminino-1"
       },
       {
@@ -68,7 +92,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-13",
-        "data": "2026-06-13T13:21:08.763Z",
+        "data": "2026-06-13T14:47:40.153Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -79,7 +103,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-13",
-        "data": "2026-06-13T19:21:08.763Z",
+        "data": "2026-06-13T20:47:40.153Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -88,7 +112,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-13",
-        "data": "2026-06-13T16:21:08.763Z",
+        "data": "2026-06-13T17:47:40.153Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -97,7 +121,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-13",
-        "data": "2026-06-13T13:21:08.763Z",
+        "data": "2026-06-13T14:47:40.153Z",
         "id": "curado-jogadores-2"
       }
     ]
