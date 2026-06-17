@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-06-16T23:06:10.242Z",
+  "ultimaAtualizacao": "2026-06-17T02:00:40.672Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "América-MG vence Fortaleza fora de casa e conquista a primeira vitória na Série B",
+        "desc": "O Fortaleza tropeçou nesta terça-feira, em partida que encerra a 13ª rodada da Série B. Os cearenses foram derrotados por 3 a 0 na Arena Castelão pelo lanterna América-MG, que conq...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/america-mg-vence-fortaleza-fora-de-casa-e-conquista-a-primeira-vitoria-na-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/IMG_5544.webp",
+        "data": "2026-06-17T01:14:00.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Com dois de Haaland, Noruega goleia Iraque e lidera grupo no Mundial",
+        "desc": "A Noruega estreou na Copa do Mundo de 2026 com uma vitória por 4 a 1 sobre o Iraque, nesta terça-feira, em duelo do Grupo I, disputado no Gillette Stadium, em Boston (EUA). Haaland...",
+        "url": "https://www.gazetaesportiva.com/noruega/com-dois-de-haaland-noruega-goleia-iraque-e-lidera-grupo-no-mundial/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260616__2281948522__v1__MidRes__IraqVNorwayGroupIFifaWorldCup2026.webp",
+        "data": "2026-06-17T00:03:52.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Corinthians x Vitória: saiba onde assistir ao duelo pelo Brasileiro sub-20",
         "desc": "Corinthians e Vitória duelam na tarde desta quarta-feira, às 15h (de Brasília), no Estádio Alfredo Schurig (Fazendinha), em compromisso válido pela 16ª rodada do Campeonato Brasile...",
@@ -81,22 +97,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/neymar-selecao-eua-3.webp",
         "data": "2026-06-16T18:02:12.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Adams: &#8216;Pulisic entrega muito mais do que apenas gols&#8217;",
-        "desc": "Adams: 'Pulisic entrega muito mais do que apenas gols'\nO post Adams: &#8216;Pulisic entrega muito mais do que apenas gols&#8217; apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/adams-pulisic-entrega-muito-mais-do-que-apenas-gols/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/u220av1y-1920.webp",
-        "data": "2026-06-16T17:40:51.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Zverev vence em Halle em sua volta após ser campeão em Roland Garros",
-        "desc": "Alexander Zverev iniciou sua campanha no ATP de Halle com vitória em três sets sobre Vit Kopriva, marcando seu primeiro jogo de simples desde o título em Roland Garros. Enquanto o ...",
-        "url": "https://www.gazetaesportiva.com/mais-esportes/tenis/zverev-vence-em-halle-em-sua-volta-apos-vencer-roland-garros/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/05/AFP__20260531__B4JV8F8__v1__HighRes__TennisFraOpen2026.webp",
-        "data": "2026-06-16T16:48:28.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -105,8 +105,8 @@
         "desc": "As Leoas venceram o clássico com autoridade por 4 a 1 e continuam invictas na competição nacional de futebol feminino.",
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-16",
-        "data": "2026-06-16T23:06:10.237Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-17",
+        "data": "2026-06-17T02:00:40.667Z",
         "id": "curado-feminino-0"
       },
       {
@@ -115,7 +115,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-16",
-        "data": "2026-06-16T20:06:10.237Z",
+        "data": "2026-06-16T23:00:40.667Z",
         "id": "curado-feminino-1"
       },
       {
@@ -124,7 +124,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-16",
-        "data": "2026-06-16T17:06:10.237Z",
+        "data": "2026-06-16T20:00:40.667Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -134,8 +134,8 @@
         "desc": "O veterano meia do Bahia comandou a vitória tricolor com passes decisivos e um belíssimo gol de fora da área, aplaudido de pé.",
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-16",
-        "data": "2026-06-16T23:06:10.237Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-17",
+        "data": "2026-06-17T02:00:40.667Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -144,16 +144,8 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-16",
-        "data": "2026-06-16T20:06:10.237Z",
+        "data": "2026-06-16T23:00:40.667Z",
         "id": "curado-jogadores-1"
-      },
-      {
-        "titulo": "Sensação da Nova Zelândia, Tim Payne está próximo de reforçar o Olimpia",
-        "desc": "O lateral-direito Tim Payne, da seleção da Nova Zelândia e do Wellington Phoenix, está próximo de acertar com o Olimpia, do Paraguai, segundo a Sky Sports. O jogador de 32 anos gan...",
-        "url": "https://www.gazetaesportiva.com/times/nova-zelandia/tim-payne-olimpia-transferencia-copa-2026/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260616__2281793662__v1__HighRes__IrIranVNewZealandGroupGFifaWorldCup2026.webp",
-        "data": "2026-06-16T17:30:51.000Z",
-        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
@@ -161,7 +153,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-16",
-        "data": "2026-06-16T17:06:10.237Z",
+        "data": "2026-06-16T20:00:40.667Z",
         "id": "curado-jogadores-2"
       }
     ]
