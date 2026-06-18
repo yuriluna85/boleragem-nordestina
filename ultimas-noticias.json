@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-06-18T12:50:27.465Z",
+  "ultimaAtualizacao": "2026-06-18T16:27:58.542Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Veja fotos do último treino da Seleção antes do jogo contra Haiti pela Copa do Mundo",
+        "desc": "O post Veja fotos do último treino da Seleção antes do jogo contra Haiti pela Copa do Mundo apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/futebol/veja-fotos-do-ultimo-treino-da-selecao-antes-do-jogo-contra-haiti-pela-copa-do-mundo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260618__B7JN7Z2__v1__MidRes__FblWc2026TrainingBra.webp",
+        "data": "2026-06-18T15:15:15.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Torcida da Inglaterra faz festa no Boxpark Croydon após vitória sobre a Croácia",
         "desc": "Os torcedores ingleses comemoraram com muita festa no Boxpark Croydon após a vitória por 4 a 2 sobre a Croácia na estreia da Inglaterra na Copa do Mundo.\nO post Torcida da Inglater...",
@@ -73,38 +81,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55341593986_39e6fedc69_o.webp",
         "data": "2026-06-17T23:23:28.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Sport x Atlético-GO pela série B do Campeonato Brasileiro: veja onde assistir e prováveis escalações",
-        "desc": "Sport e Atlético-GO se enfrentam nesta quinta-feira pela 14ª rodada da Série B do Campeonato Brasileiro, na Ilha do Retiro, em Recife. O Leão busca se manter na parte de cima da ta...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/sport-x-atletico-go-serie-b-14-rodada/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55328000440_5cd0bec78c_k.webp",
-        "data": "2026-06-17T23:00:05.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Kane iguala Lineker no topo da artilharia da Inglaterra em Copas do Mundo",
-        "desc": "Harry Kane alcançou uma marca histórica com a camisa da Inglaterra nesta terça-feira. Autor de dois gols na vitória por 4 a 2 sobre a Croácia, pela primeira rodada do Grupo L da Co...",
-        "url": "https://www.gazetaesportiva.com/times/inglaterra/kane-iguala-lineker-no-topo-da-artilharia-da-inglaterra-em-copas-do-mundo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260617__B7G324B__v1__MidRes__FblWc2026Match22EngCro.webp",
-        "data": "2026-06-17T22:02:49.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Com dois de Kane, Inglaterra faz quatro na Croácia pela Copa do Mundo",
-        "desc": "A Inglaterra estreou com vitória na Copa do Mundo de 2026 ao vencer a Croácia por 4 a 2 em um jogo movimentado. Harry Kane marcou duas vezes, enquanto Bellingham e Rashford complet...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/com-dois-de-kane-inglaterra-faz-quatro-na-croacia-pela-copa-do-mundo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260617__B7G39QV__v1__MidRes__FblWc2026Match22EngCro.webp",
-        "data": "2026-06-17T22:01:09.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Ceará cita acordo com time japonês por Lucas Rian e garante fim de transfer ban",
-        "desc": "Após entrar em contato com a Fifa, o Ceará conseguiu revogar o transfer ban aplicado ao clube pela manhã desta quarta-feira. De acordo com o Vozão, a penalidade foi erroneamente ap...",
-        "url": "https://www.gazetaesportiva.com/times/ceara/ceara-reverte-transfer-ban-da-fifa-horas-depois-de-punicao-equivocada/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/Lucas_Rian_Easy-Resize.com_.webp",
-        "data": "2026-06-17T21:36:26.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -114,8 +90,16 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-18",
-        "data": "2026-06-18T12:50:27.460Z",
+        "data": "2026-06-18T16:27:58.536Z",
         "id": "curado-feminino-0"
+      },
+      {
+        "titulo": "Brasil vence Bélgica no tie-break e mantém invencibilidade na Liga das Nações de Vôlei",
+        "desc": "O Brasil venceu a Bélgica por 3 sets a 2 em jogo equilibrado pela Liga das Nações de Vôlei Feminino, manteve a invencibilidade e segue líder isolado com seis vitórias. A equipe mos...",
+        "url": "https://www.gazetaesportiva.com/mais-esportes/volei/brasil-vence-belgica-liga-nacoes-volei-2026/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/y8ulnw5dntay5cgsrxs9.webp",
+        "data": "2026-06-18T15:48:11.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Sport Feminino atrai público recorde na Arena de Pernambuco",
@@ -123,7 +107,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-18",
-        "data": "2026-06-18T09:50:27.460Z",
+        "data": "2026-06-18T13:27:58.536Z",
         "id": "curado-feminino-1"
       },
       {
@@ -132,7 +116,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-18",
-        "data": "2026-06-18T06:50:27.460Z",
+        "data": "2026-06-18T10:27:58.536Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -143,7 +127,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-18",
-        "data": "2026-06-18T12:50:27.460Z",
+        "data": "2026-06-18T16:27:58.536Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -152,8 +136,16 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-18",
-        "data": "2026-06-18T09:50:27.460Z",
+        "data": "2026-06-18T13:27:58.536Z",
         "id": "curado-jogadores-1"
+      },
+      {
+        "titulo": "Mourinho e reforços! Como fica o Real Madrid em 2026/27?",
+        "desc": "Mourinho e reforços! Como fica o Real Madrid em 2026/27?\nO post Mourinho e reforços! Como fica o Real Madrid em 2026/27? apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/mourinho-e-reforcos-como-fica-o-real-madrid-em-2026-27/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/Mouri.webp",
+        "data": "2026-06-18T13:24:33.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
@@ -161,16 +153,8 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-18",
-        "data": "2026-06-18T06:50:27.460Z",
+        "data": "2026-06-18T10:27:58.536Z",
         "id": "curado-jogadores-2"
-      },
-      {
-        "titulo": "Ceará rescinde com atacante ex-Corinthians",
-        "desc": "O Ceará anunciou nesta quarta-feira a rescisão contratual, em comum acordo, do atacante Pedro Henrique, que deixa o clube após pouco mais de um ano e 60 partidas disputadas, com 10...",
-        "url": "https://www.gazetaesportiva.com/times/ceara/ceara-rescinde-com-atacante-ex-corinthians/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/HLCilBiXkAA_FPd.webp",
-        "data": "2026-06-17T22:25:06.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ]
   }
