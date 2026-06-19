@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-06-19T12:03:50.470Z",
+  "ultimaAtualizacao": "2026-06-19T15:47:54.228Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Messi acerta o travessão em treino da Argentina; confira",
+        "desc": "Messi acerta o travessão em treino da Argentina; confira \nO post Messi acerta o travessão em treino da Argentina; confira apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/messi-acerta-o-travessao-em-treino-da-argentina-confira/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/Mess.webp",
+        "data": "2026-06-19T13:40:09.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Jogo da Paz e 7 a 1: relembre todos os duelos entre Brasil e Haiti",
         "desc": "O Brasil enfrenta o Haiti pela segunda rodada da Copa do Mundo buscando a primeira vitória após empatar na estreia com o Marrocos. A Seleção defende um retrospecto perfeito contra ...",
@@ -57,30 +65,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/nelsinho.webp",
         "data": "2026-06-18T22:07:23.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Suíça deslancha no 2º tempo, goleia Bósnia e vence a primeira na Copa",
-        "desc": "A Suíça se recuperou da estreia e goleou a Bósnia por 4 a 1, no SoFi Stadium, conquistando sua primeira vitória na Copa do Mundo. Após um primeiro tempo equilibrado, os suíços domi...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/suica-deslancha-no-2o-tempo-goleia-bosnia-e-vence-a-primeira-na-copa/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260618__B7KZ4K9__v1__HighRes__FblWc2026Match26SuiBih.webp",
-        "data": "2026-06-18T20:58:32.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do treino do São Paulo nesta quinta-feira",
-        "desc": "Confira uma galeria de fotos do treino do São Paulo realizado nesta quinta-feira.\nO post Veja fotos do treino do São Paulo nesta quinta-feira apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-treino-do-sao-paulo-nesta-quinta-feira-9/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/HLHTnmvXcAEFAnv.webp",
-        "data": "2026-06-18T19:12:25.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Robinson projeta uma Austrália defensiva contra o Estados Unidos",
-        "desc": "Antonee Robinson espera uma postura retrancada da Austrália, próxima adversária dos EUA, após analisar a vitória dos australianos sobre a Turquia.\nO post Robinson projeta uma Austr...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/robinson-projeta-uma-australia-defensiva-contra-o-estados-unidos/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/Australia-defensiva-contra-o-Estados-Unidos.webp",
-        "data": "2026-06-18T18:55:02.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -90,7 +74,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-19",
-        "data": "2026-06-19T12:03:50.466Z",
+        "data": "2026-06-19T15:47:54.222Z",
         "id": "curado-feminino-0"
       },
       {
@@ -99,7 +83,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-19",
-        "data": "2026-06-19T09:03:50.466Z",
+        "data": "2026-06-19T12:47:54.222Z",
         "id": "curado-feminino-1"
       },
       {
@@ -108,7 +92,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-19",
-        "data": "2026-06-19T06:03:50.466Z",
+        "data": "2026-06-19T09:47:54.222Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -119,8 +103,16 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-19",
-        "data": "2026-06-19T12:03:50.466Z",
+        "data": "2026-06-19T15:47:54.222Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Ex-jogador de Atlético-GO e Santa Cruz é assassinado em Santa Catarina",
+        "desc": "O atacante Ivan Fiel, mais conhecido como Brasão, foi vítima de um homicídio em Santa Catarina nesta sexta-feira.\nO post Ex-jogador de Atlético-GO e Santa Cruz é assassinado em San...",
+        "url": "https://www.gazetaesportiva.com/times/santa-cruz/ex-jogador-de-atletico-go-e-santa-cruz-e-assassinado-em-santa-catarina/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/WhatsApp-Image-2026-06-19-at-09.21.02.webp",
+        "data": "2026-06-19T13:29:34.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
@@ -128,7 +120,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-19",
-        "data": "2026-06-19T09:03:50.466Z",
+        "data": "2026-06-19T12:47:54.222Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -137,7 +129,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-19",
-        "data": "2026-06-19T06:03:50.466Z",
+        "data": "2026-06-19T09:47:54.222Z",
         "id": "curado-jogadores-2"
       }
     ]
