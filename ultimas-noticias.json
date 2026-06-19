@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-06-19T02:15:53.112Z",
+  "ultimaAtualizacao": "2026-06-19T07:38:16.694Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Sport toma empate nos acréscimos do Atlético-GO e perde chance de liderar Série B",
+        "desc": "Sport e Atlético-GO empataram por 1 a 1 na Ilha do Retiro, pela 14ª rodada da Série B do Campeonato Brasileiro. O Leão abriu o placar com Perotti, mas sofreu o empate nos acréscimo...",
+        "url": "https://www.gazetaesportiva.com/times/sport/sport-toma-empate-nos-acrescimos-do-atletico-go-e-perde-chance-de-liderar-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55343817496_74b8db249b_k.webp",
+        "data": "2026-06-19T02:31:57.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Andreas Pereira, Bruno Fuchs e Jefté participam de desafio de pontaria",
         "desc": "Confira o desafio Faz teu golaço Sportingbet com Andreas Pereira, Bruno Fuchs, Jefté e Aranha; as imagens deste episódio foram gravadas com os atletas em março de 2026.\nO post Andr...",
@@ -81,14 +89,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260613__B6XP8P2__v1__HighRes__FblWc2026Match04UsaPar.webp",
         "data": "2026-06-18T17:47:51.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Bellingham silencia críticas na Inglaterra de Kane",
-        "desc": "Jude Bellingham voltou a se destacar ao marcar um gol importante na vitória da Inglaterra por 4 a 2 sobre a Croácia na estreia da Copa do Mundo de 2026. Após uma temporada irregula...",
-        "url": "https://www.gazetaesportiva.com/times/inglaterra/bellingham-inglaterra-croacia-copa/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260617__B7G46ND__v1__HighRes__FblWc2026Match22EngCro.webp",
-        "data": "2026-06-18T17:03:43.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -98,7 +98,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-19",
-        "data": "2026-06-19T02:15:53.106Z",
+        "data": "2026-06-19T07:38:16.688Z",
         "id": "curado-feminino-0"
       },
       {
@@ -106,8 +106,8 @@
         "desc": "Mais de 15 mil torcedores empurraram as Leoas na vitória histórica contra o Bahia. Um novo marco para o esporte feminino no Nordeste.",
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-18",
-        "data": "2026-06-18T23:15:53.106Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-19",
+        "data": "2026-06-19T04:38:16.688Z",
         "id": "curado-feminino-1"
       },
       {
@@ -115,8 +115,8 @@
         "desc": "O Tricolor de Aço se reforça visando a disputa do mata-mata do Brasileiro Feminino A2. Apresentação das novas atletas ocorre nesta segunda.",
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-18",
-        "data": "2026-06-18T20:15:53.106Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-19",
+        "data": "2026-06-19T01:38:16.688Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -127,7 +127,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-19",
-        "data": "2026-06-19T02:15:53.106Z",
+        "data": "2026-06-19T07:38:16.688Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -135,8 +135,8 @@
         "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-18",
-        "data": "2026-06-18T23:15:53.106Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-19",
+        "data": "2026-06-19T04:38:16.688Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -144,8 +144,8 @@
         "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-18",
-        "data": "2026-06-18T20:15:53.106Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-19",
+        "data": "2026-06-19T01:38:16.688Z",
         "id": "curado-jogadores-2"
       }
     ]
