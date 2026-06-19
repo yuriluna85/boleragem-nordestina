@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-06-19T07:38:16.694Z",
+  "ultimaAtualizacao": "2026-06-19T12:03:50.470Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Jogo da Paz e 7 a 1: relembre todos os duelos entre Brasil e Haiti",
+        "desc": "O Brasil enfrenta o Haiti pela segunda rodada da Copa do Mundo buscando a primeira vitória após empatar na estreia com o Marrocos. A Seleção defende um retrospecto perfeito contra ...",
+        "url": "https://www.gazetaesportiva.com/times/brasil/jogo-da-paz-e-7-a-1-relembre-todos-os-duelos-entre-brasil-e-haiti/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/brasil-x-haiti-jogo-da-paz-e1764967999547.webp",
+        "data": "2026-06-19T10:00:23.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Sport toma empate nos acréscimos do Atlético-GO e perde chance de liderar Série B",
         "desc": "Sport e Atlético-GO empataram por 1 a 1 na Ilha do Retiro, pela 14ª rodada da Série B do Campeonato Brasileiro. O Leão abriu o placar com Perotti, mas sofreu o empate nos acréscimo...",
@@ -73,22 +81,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/Australia-defensiva-contra-o-Estados-Unidos.webp",
         "data": "2026-06-18T18:55:02.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do desfile de campeão do New York Knicks",
-        "desc": "O post Veja fotos do desfile de campeão do New York Knicks apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/campeonatos/nba/veja-fotos-do-desfile-de-campeao-do-new-york-knicks/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260618__2282220084__v1__HighRes__NewYorkKnicksChampionshipParadeCeremony.webp",
-        "data": "2026-06-18T18:02:43.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "EUA de Balogun busca nova vitória contra a Austrália na Copa",
-        "desc": "Os Estados Unidos buscam a segunda vitória na Copa do Mundo diante da Austrália após goleada por 4 a 1 sobre o Paraguai na estreia, com destaque para Florian Balogun, autor de dois...",
-        "url": "https://www.gazetaesportiva.com/times/estados-unidos/eua-de-balogun-busca-nova-vitoria-contra-a-australia-na-copa/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260613__B6XP8P2__v1__HighRes__FblWc2026Match04UsaPar.webp",
-        "data": "2026-06-18T17:47:51.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -98,7 +90,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-19",
-        "data": "2026-06-19T07:38:16.688Z",
+        "data": "2026-06-19T12:03:50.466Z",
         "id": "curado-feminino-0"
       },
       {
@@ -107,7 +99,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-19",
-        "data": "2026-06-19T04:38:16.688Z",
+        "data": "2026-06-19T09:03:50.466Z",
         "id": "curado-feminino-1"
       },
       {
@@ -116,7 +108,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-19",
-        "data": "2026-06-19T01:38:16.688Z",
+        "data": "2026-06-19T06:03:50.466Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -127,7 +119,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-19",
-        "data": "2026-06-19T07:38:16.688Z",
+        "data": "2026-06-19T12:03:50.466Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -136,7 +128,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-19",
-        "data": "2026-06-19T04:38:16.688Z",
+        "data": "2026-06-19T09:03:50.466Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -145,7 +137,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-19",
-        "data": "2026-06-19T01:38:16.688Z",
+        "data": "2026-06-19T06:03:50.466Z",
         "id": "curado-jogadores-2"
       }
     ]
