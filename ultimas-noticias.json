@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-06-19T15:47:54.228Z",
+  "ultimaAtualizacao": "2026-06-19T17:53:46.918Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Relembre os maiores artilheiros da história da Copa do Mundo",
+        "desc": "Relembre os maiores artilheiros da história da Copa do Mundo\nO post Relembre os maiores artilheiros da história da Copa do Mundo apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/relembre-os-maiores-artilheiros-da-historia-da-copa-do-mundo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/artilheiro.webp",
+        "data": "2026-06-19T15:54:42.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Messi acerta o travessão em treino da Argentina; confira",
         "desc": "Messi acerta o travessão em treino da Argentina; confira \nO post Messi acerta o travessão em treino da Argentina; confira apareceu primeiro em Gazeta Esportiva.",
@@ -49,22 +57,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260618__2282267656__v1__MidRes__CanadaVQatarGroupBFifaWorldCup2026.webp",
         "data": "2026-06-19T00:03:14.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Escócia x Marrocos pela Copa do Mundo: veja prováveis escalações e onde assistir",
-        "desc": "Escócia e Marrocos se enfrentam pela 2ª rodada do Grupo C da Copa do Mundo de 2026, em Boston. Líder, a Escócia vem de vitória, enquanto Marrocos tenta assumir a ponta após empate ...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/escocia-x-marrocos-onde-assistir-copa-2026/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260612__2281247610__v1__HighRes__ScotlandTrainingAndPressConferenceFifaWorldC.webp",
-        "data": "2026-06-18T23:00:40.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Nelsinho Piquet busca recuperação no TCR, mas admite: &#8220;Bem difícil&#8221;",
-        "desc": "O post Nelsinho Piquet busca recuperação no TCR, mas admite: &#8220;Bem difícil&#8221; apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/nelsinho-piquet-busca-recuperacao-no-tcr-mas-admite-bem-dificil/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/nelsinho.webp",
-        "data": "2026-06-18T22:07:23.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -74,7 +66,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-19",
-        "data": "2026-06-19T15:47:54.222Z",
+        "data": "2026-06-19T17:53:46.911Z",
         "id": "curado-feminino-0"
       },
       {
@@ -83,7 +75,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-19",
-        "data": "2026-06-19T12:47:54.222Z",
+        "data": "2026-06-19T14:53:46.911Z",
         "id": "curado-feminino-1"
       },
       {
@@ -92,7 +84,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-19",
-        "data": "2026-06-19T09:47:54.222Z",
+        "data": "2026-06-19T11:53:46.911Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -103,8 +95,17 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-19",
-        "data": "2026-06-19T15:47:54.222Z",
+        "data": "2026-06-19T17:53:46.911Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
+        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
+        "fonte": "Diário do Ceará",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-19",
+        "data": "2026-06-19T14:53:46.911Z",
+        "id": "curado-jogadores-1"
       },
       {
         "titulo": "Ex-jogador de Atlético-GO e Santa Cruz é assassinado em Santa Catarina",
@@ -115,21 +116,12 @@
         "fonte": "Gazeta Esportiva"
       },
       {
-        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
-        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
-        "fonte": "Diário do Ceará",
-        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-19",
-        "data": "2026-06-19T12:47:54.222Z",
-        "id": "curado-jogadores-1"
-      },
-      {
         "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
         "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-19",
-        "data": "2026-06-19T09:47:54.222Z",
+        "data": "2026-06-19T11:53:46.911Z",
         "id": "curado-jogadores-2"
       }
     ]
