@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-06-20T04:50:27.033Z",
+  "ultimaAtualizacao": "2026-06-20T08:20:10.759Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Análise: vitória do Brasil é fundamental, mas ainda não empolga",
+        "desc": "Mesmo com vitória segura por 3 a 0 sobre o Haiti, o Brasil ainda não convenceu em termos de desempenho. A equipe brilhou apenas no primeiro tempo, com destaques para Vinicius Júnio...",
+        "url": "https://www.gazetaesportiva.com/times/brasil/analise-vitoria-do-brasil-e-fundamental-mas-ainda-nao-empolga/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260620__B7PH3HL__v1__HighRes__FblWc2026Match29BraHai.webp",
+        "data": "2026-06-20T08:00:17.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Atuações do Brasil: Vini e Matheus Cunha comandam vitória sobre o Haiti",
+        "desc": "O Brasil venceu o Haiti por 3 a 0 com boas atuações de Vinicius Júnior e Matheus Cunha, autores dos gols, além de destaque para o meio-campo consistente e a defesa segura. A única ...",
+        "url": "https://www.gazetaesportiva.com/times/brasil/atuacoes-do-brasil-vini-e-matheus-cunha-comandam-vitoria-sobre-o-haiti/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260620__B7PJ4Y2__v1__HighRes__FblWc2026Match29BraHai.webp",
+        "data": "2026-06-20T07:00:13.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Ancelotti elogia atuação do Brasil e confirma volta de Neymar contra a Escócia",
         "desc": "Após a vitória por 3 a 0 sobre o Haiti, Carlo Ancelotti confirmou que Neymar deve estar à disposição para o confronto contra a Escócia, pela última rodada da fase de grupos da Copa...",
@@ -89,14 +105,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260619__063_2282392131__v1__HighRes__UsaVAustraliaGroupDFifaWorldCup2026.webp",
         "data": "2026-06-19T19:26:02.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Tyler Adams blinda o USA contra o salto alto e a empolgação",
-        "desc": "O capitão Tyler Adams analisa a enorme atenção recebida após a vitória na estreia sobre o Paraguai e prega foco total.\nO post Tyler Adams blinda o USA contra o salto alto e a empol...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/tyler-adams-blinda-o-usa-contra-o-salto-alto-e-a-empolgacao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/Tyler.webp",
-        "data": "2026-06-19T17:59:45.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -106,7 +114,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-20",
-        "data": "2026-06-20T04:50:27.025Z",
+        "data": "2026-06-20T08:20:10.753Z",
         "id": "curado-feminino-0"
       },
       {
@@ -115,7 +123,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-20",
-        "data": "2026-06-20T01:50:27.025Z",
+        "data": "2026-06-20T05:20:10.753Z",
         "id": "curado-feminino-1"
       },
       {
@@ -123,8 +131,8 @@
         "desc": "O Tricolor de Aço se reforça visando a disputa do mata-mata do Brasileiro Feminino A2. Apresentação das novas atletas ocorre nesta segunda.",
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-19",
-        "data": "2026-06-19T22:50:27.025Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-20",
+        "data": "2026-06-20T02:20:10.753Z",
         "id": "curado-feminino-2"
       }
     ],
