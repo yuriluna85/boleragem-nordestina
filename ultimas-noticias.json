@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao": "2026-06-20T14:41:00.064Z",
+  "ultimaAtualizacao": "2026-06-20T16:15:07.175Z",
   "dados": {
     "masculino": [
       {
@@ -89,22 +89,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260620__B7PH4DR__v1__HighRes__FblWc2026Match29BraHai.webp",
         "data": "2026-06-20T01:07:47.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Holanda x Suécia: veja prováveis escalações e onde assistir ao confronto pela Copa do Mundo",
-        "desc": "Holanda e Suécia se enfrentam neste sábado pela segunda rodada do Grupo F da Copa do Mundo de 2026. A seleção holandesa busca a primeira vitória após empatar por 2 a 2 com o Japão,...",
-        "url": "https://www.gazetaesportiva.com/times/holanda/holanda-x-suecia-veja-provaveis-escalacoes-e-onde-assistir-ao-confronto-pela-copa-do-mundo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260618__B7JV3ER__v3__HighRes__FblWc2026TrainingNed.webp",
-        "data": "2026-06-19T23:00:33.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Vila Nova x Náutico pela Série B do Brasileiro: veja prováveis escalações e onde assistir",
-        "desc": "Vila Nova e Náutico se enfrentam neste sábado pela 14ª rodada da Série B, em Goiânia. Enquanto o time goiano briga pela liderança com 25 pontos, o Náutico busca se recuperar após t...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/vila-nova-x-nautico-onde-assistir-serie-b-2026/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55342954254_b124f0219e_o.webp",
-        "data": "2026-06-19T23:00:23.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -114,8 +98,16 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-20",
-        "data": "2026-06-20T14:41:00.058Z",
+        "data": "2026-06-20T16:15:07.169Z",
         "id": "curado-feminino-0"
+      },
+      {
+        "titulo": "Brasil vence China e mantém liderança isolada da Liga das Nações",
+        "desc": "O Brasil venceu a China por 3 sets a 1 e manteve a invencibilidade na Liga das Nações de Vôlei Feminino. Com sete vitórias, a equipe lidera a competição e segue firme rumo à classi...",
+        "url": "https://www.gazetaesportiva.com/mais-esportes/volei/brasil-china-volei-vnl-invicto-lideranca/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/dsw6ciyon92si4s7ksqr.webp",
+        "data": "2026-06-20T14:57:07.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Sport Feminino atrai público recorde na Arena de Pernambuco",
@@ -123,7 +115,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-20",
-        "data": "2026-06-20T11:41:00.058Z",
+        "data": "2026-06-20T13:15:07.169Z",
         "id": "curado-feminino-1"
       },
       {
@@ -132,11 +124,19 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-20",
-        "data": "2026-06-20T08:41:00.058Z",
+        "data": "2026-06-20T10:15:07.169Z",
         "id": "curado-feminino-2"
       }
     ],
     "jogadores": [
+      {
+        "titulo": "Raphinha faz exames após deixar jogo do Brasil com dores na coxa",
+        "desc": "Raphinha realizou exames após sentir dores na coxa direita na vitória sobre o Haiti, mas a CBF ainda não divulgou o resultado. A expectativa é de que o atacante não seja cortado. O...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/raphinha-faz-exames-apos-deixar-jogo-do-brasil-com-dores-na-coxa/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260620__B7PH97A__v3__HighRes__TopshotFblWc2026Match29BraHai.webp",
+        "data": "2026-06-20T16:03:13.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Vini Jr. se vê perto do nível ideal e diz que vitória do Brasil &#8220;dá confiança&#8221;",
         "desc": "Vinicius Júnior destacou a importância da vitória do Brasil por 3 a 0 sobre o Haiti e afirmou que o resultado traz confiança para a sequência da Copa do Mundo. O atacante disse est...",
