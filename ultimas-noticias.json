@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-06-21T14:03:43.499Z",
+  "ultimaAtualizacao": "2026-06-21T16:14:37.603Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Espanha e Uruguai voltam a campo e querem se juntar aos campeões que já venceram",
+        "desc": "Espanha e Uruguai entram em campo neste domingo buscando a primeira vitória na Copa do Mundo para se manterem na disputa entre os campeões do torneio. A seleção espanhola tenta sup...",
+        "url": "https://www.gazetaesportiva.com/times/espanha/espanha-uruguai-buscam-vitoria-copa-mundo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260620__2282499397__v1__HighRes__SpainTrainingAndPressConferenceFifaWorldCup2.webp",
+        "data": "2026-06-21T14:23:38.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Messi e os dois presentes de aniversário que o aguardam contra a Áustria",
         "desc": "Lionel Messi protagonizou uma estreia memorável na Copa do Mundo de 2026 ao marcar três gols na vitória da Argentina por 3 a 0 sobre a Argélia, alcançando os 16 gols e empatando co...",
@@ -105,30 +113,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/YMIRJXyt-1280.webp",
         "data": "2026-06-20T21:26:52.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "João Fonseca e Altmaier vencem e estão na final de Halle em duplas",
-        "desc": "João Fonseca garantiu vaga na final de duplas do ATP 500 de Halle ao lado do alemão Daniel Altmaier após uma vitória equilibrada sobre Flavio Cobolli e Ben Shelton. Em uma partida ...",
-        "url": "https://www.gazetaesportiva.com/mais-esportes/tenis/joao-fonseca-final-duplas-halle/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260602__B4T67K9__v1__MidRes__TennisFraOpen2026.webp",
-        "data": "2026-06-20T20:55:44.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Santos sofre dois gols no fim e é derrotado pelo Bahia no Sub-20",
-        "desc": "O Bahia venceu o Santos por 2 a 0, no CT Rei Pelé, pela rodada do Campeonato Brasileiro Sub-20. Dell abriu o placar nos minutos finais, e Carioca, de pênalti, ampliou. Com o result...",
-        "url": "https://www.gazetaesportiva.com/times/santos/santos-sofre-dois-gols-no-fim-e-e-derrotado-pelo-bahia-no-sub-20/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55331637209_8a83f1e561_k.webp",
-        "data": "2026-06-20T20:41:38.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Raphinha tem lesão diagnosticada, mas segue com a Seleção na Copa",
-        "desc": "A CBF confirmou que Raphinha sofreu uma lesão muscular na coxa direita durante a vitória sobre o Haiti, mas não será cortado da Copa do Mundo e seguirá em tratamento nos EUA. A exp...",
-        "url": "https://www.gazetaesportiva.com/times/brasil/raphinha-tem-lesao-diagnosticada-mas-segue-com-a-selecao-na-copa/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260620__B7PK9W4__v1__HighRes__FblWc2026Match29BraHai.webp",
-        "data": "2026-06-20T20:34:08.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -138,7 +122,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-21",
-        "data": "2026-06-21T14:03:43.492Z",
+        "data": "2026-06-21T16:14:37.594Z",
         "id": "curado-feminino-0"
       },
       {
@@ -147,7 +131,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-21",
-        "data": "2026-06-21T11:03:43.492Z",
+        "data": "2026-06-21T13:14:37.594Z",
         "id": "curado-feminino-1"
       },
       {
@@ -156,7 +140,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-21",
-        "data": "2026-06-21T08:03:43.492Z",
+        "data": "2026-06-21T10:14:37.594Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -167,8 +151,16 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-21",
-        "data": "2026-06-21T14:03:43.492Z",
+        "data": "2026-06-21T16:14:37.594Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Esposa de Raphinha apoia marido após lesão: &#8220;Voltará como fênix&#8221;",
+        "desc": "Natália Beloli, esposa de Raphinha, publicou um texto de apoio ao jogador após sua lesão muscular na coxa direita, sofrida na vitória do Brasil sobre o Haiti. Ela exaltou o caráter...",
+        "url": "https://www.gazetaesportiva.com/times/brasil/esposa-de-raphinha-apoia-marido-apos-lesao-voltara-como-fenix/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260620__B7PK9VT__v1__HighRes__FblWc2026Match29BraHai.webp",
+        "data": "2026-06-21T15:38:25.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
@@ -176,7 +168,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-21",
-        "data": "2026-06-21T11:03:43.492Z",
+        "data": "2026-06-21T13:14:37.594Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -185,14 +177,6 @@
         "url": "https://www.gazetaesportiva.com/times/sao-paulo/elenco-do-sao-paulo-faz-avaliacoes-fisicas-e-realiza-treino-com-bola/",
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/7Ip9jIWs-1280.webp",
         "data": "2026-06-20T21:27:10.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Neymar faz trabalho com bola e deve reforçar Seleção contra a Escócia",
-        "desc": "Após a vitória sobre o Haiti, a Seleção Brasileira treinou neste sábado nos EUA, com trabalhos internos para a maioria dos jogadores. Neymar, porém, foi a campo e intensificou a re...",
-        "url": "https://www.gazetaesportiva.com/times/brasil/neymar-faz-trabalho-com-bola-e-deve-reforcar-selecao-contra-a-escocia/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/20JUNHO26_TREINO_44.webp",
-        "data": "2026-06-20T19:55:28.000Z",
         "fonte": "Gazeta Esportiva"
       }
     ]
