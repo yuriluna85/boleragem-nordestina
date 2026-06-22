@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-06-21T23:10:19.015Z",
+  "ultimaAtualizacao": "2026-06-22T02:01:31.828Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Cabo-verdiano brilha, Operário faz três no Goiás e entra no G6 da Série B",
+        "desc": "O Operário conquistou uma grande vitória na noite deste domingo, ao superar o Goiás no Estádio Hailé Pinheiro por 3 a 0, pela 14ª rodada da Série B do Campeonato Brasileiro. No tri...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/cabo-verdiano-brilha-operario-faz-tres-no-goias-e-entra-no-g6-da-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/IMG_5568.webp",
+        "data": "2026-06-21T23:22:21.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Fortaleza busca empate com o CRB fora de casa pela Série B do Brasileiro",
         "desc": "CRB e Fortaleza empataram em 1 a 1 neste domingo, no Estádio Rei Pelé, pela 14ª rodada da Série B do Campeonato Brasileiro. Mikael abriu o placar para os alagoanos ainda no início ...",
@@ -33,22 +41,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260621__B7T688M__v1__HighRes__FblWc2026TrainingBra.webp",
         "data": "2026-06-21T16:14:47.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Espanha e Uruguai voltam a campo e querem se juntar aos campeões que já venceram",
-        "desc": "Espanha e Uruguai entram em campo neste domingo buscando a primeira vitória na Copa do Mundo para se manterem na disputa entre os campeões do torneio. A seleção espanhola tenta sup...",
-        "url": "https://www.gazetaesportiva.com/times/espanha/espanha-uruguai-buscam-vitoria-copa-mundo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260620__2282499397__v1__HighRes__SpainTrainingAndPressConferenceFifaWorldCup2.webp",
-        "data": "2026-06-21T14:23:38.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Messi e os dois presentes de aniversário que o aguardam contra a Áustria",
-        "desc": "Lionel Messi protagonizou uma estreia memorável na Copa do Mundo de 2026 ao marcar três gols na vitória da Argentina por 3 a 0 sobre a Argélia, alcançando os 16 gols e empatando co...",
-        "url": "https://www.gazetaesportiva.com/times/argentina/messi-e-os-dois-presentes-de-aniversario-que-o-aguardam-contra-a-austria/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260618__B7L84HB__v1__HighRes__FblWc2026TrainingArg.webp",
-        "data": "2026-06-21T12:41:11.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -57,8 +49,8 @@
         "desc": "As Leoas venceram o clássico com autoridade por 4 a 1 e continuam invictas na competição nacional de futebol feminino.",
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-21",
-        "data": "2026-06-21T23:10:19.005Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-22",
+        "data": "2026-06-22T02:01:31.822Z",
         "id": "curado-feminino-0"
       },
       {
@@ -67,7 +59,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-21",
-        "data": "2026-06-21T20:10:19.005Z",
+        "data": "2026-06-21T23:01:31.822Z",
         "id": "curado-feminino-1"
       },
       {
@@ -76,7 +68,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-21",
-        "data": "2026-06-21T17:10:19.005Z",
+        "data": "2026-06-21T20:01:31.822Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -86,8 +78,8 @@
         "desc": "O veterano meia do Bahia comandou a vitória tricolor com passes decisivos e um belíssimo gol de fora da área, aplaudido de pé.",
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-21",
-        "data": "2026-06-21T23:10:19.005Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-22",
+        "data": "2026-06-22T02:01:31.822Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -96,7 +88,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-21",
-        "data": "2026-06-21T20:10:19.005Z",
+        "data": "2026-06-21T23:01:31.822Z",
         "id": "curado-jogadores-1"
       },
       {
