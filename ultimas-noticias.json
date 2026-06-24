@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-06-24T01:24:34.542Z",
+  "ultimaAtualizacao": "2026-06-24T05:34:26.383Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Veja fotos do duelo entre Colômbia e RD Congo pela Copa do Mundo",
+        "desc": "O post Veja fotos do duelo entre Colômbia e RD Congo pela Copa do Mundo apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/veja-fotos-do-duelo-entre-colombia-e-rd-congo-pela-copa-do-mundo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260624__B83Y327__v1__HighRes__FblWc2026Match48ColCod.webp",
+        "data": "2026-06-24T02:14:15.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Veja fotos do duelo entre América-MG e Criciúma pela Série B",
+        "desc": "O post Veja fotos do duelo entre América-MG e Criciúma pela Série B apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/veja-fotos-do-duelo-entre-america-mg-e-criciuma-pela-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55353891729_711329dbb2_k.webp",
+        "data": "2026-06-24T02:00:45.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Veja galeria de fotos do duelo entre Panamá e Croácia pela Copa do Mundo",
         "desc": "O post Veja galeria de fotos do duelo entre Panamá e Croácia pela Copa do Mundo apareceu primeiro em Gazeta Esportiva.",
@@ -65,30 +81,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260623__B83G734__v1__HighRes__FblWc2026Match45EngGha.webp",
         "data": "2026-06-23T20:48:57.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Brilho de Messi na Copa do Mundo será suficiente para a Argentina?",
-        "desc": "A Argentina começou a Copa do Mundo de forma perfeita, com duas vitórias e classificação garantida, impulsionada por um Lionel Messi em estado excepcional. Aos 38 anos, o craque ma...",
-        "url": "https://www.gazetaesportiva.com/times/argentina/brilho-de-messi-na-copa-do-mundo-sera-suficiente-para-a-argentina/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260622__B7X87Y8__v4__HighRes__TopshotFblWc2026Match43ArgAut.webp",
-        "data": "2026-06-23T18:15:41.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Confira as fotos de Portugal x Uzbequistão pela Copa do Mundo",
-        "desc": "O post Confira as fotos de Portugal x Uzbequistão pela Copa do Mundo apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/portugal/confira-as-fotos-de-portugal-x-uzbequistao-pela-copa-do-mundo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260623__B82W9TD__v1__MidRes__FblWc2026Match47PorUzb.webp",
-        "data": "2026-06-23T17:48:35.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do último treino da Seleção Brasileira antes do jogo contra a Escócia",
-        "desc": "O post Veja fotos do último treino da Seleção Brasileira antes do jogo contra a Escócia apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/brasil/veja-fotos-do-ultimo-treino-da-selecao-brasileira-antes-do-jogo-contra-a-escocia/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/23JUN2026TREINOREDBULL5-CASEMIRO.webp",
-        "data": "2026-06-23T17:16:18.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -98,7 +90,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-24",
-        "data": "2026-06-24T01:24:34.535Z",
+        "data": "2026-06-24T05:34:26.376Z",
         "id": "curado-feminino-0"
       },
       {
@@ -106,9 +98,18 @@
         "desc": "Mais de 15 mil torcedores empurraram as Leoas na vitória histórica contra o Bahia. Um novo marco para o esporte feminino no Nordeste.",
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-23",
-        "data": "2026-06-23T22:24:34.535Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-24",
+        "data": "2026-06-24T02:34:26.376Z",
         "id": "curado-feminino-1"
+      },
+      {
+        "titulo": "Bahia Feminino contrata dupla de ataque campeã sul-americana",
+        "desc": "O Tricolor de Aço se reforça visando a disputa do mata-mata do Brasileiro Feminino A2. Apresentação das novas atletas ocorre nesta segunda.",
+        "fonte": "Salvador News",
+        "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-23",
+        "data": "2026-06-23T23:34:26.376Z",
+        "id": "curado-feminino-2"
       },
       {
         "titulo": "Bicampeã da Prova Ciclística 9 de Julho vai em busca do tri na edição de 2026",
@@ -117,18 +118,27 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/467145_1208455_whatsapp_image_2026_06_22_at_16.07.38.webp",
         "data": "2026-06-23T20:22:32.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Bahia Feminino contrata dupla de ataque campeã sul-americana",
-        "desc": "O Tricolor de Aço se reforça visando a disputa do mata-mata do Brasileiro Feminino A2. Apresentação das novas atletas ocorre nesta segunda.",
-        "fonte": "Salvador News",
-        "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-23",
-        "data": "2026-06-23T19:24:34.535Z",
-        "id": "curado-feminino-2"
       }
     ],
     "jogadores": [
+      {
+        "titulo": "Everton Ribeiro completa 120 jogos pelo Bahia com golaço na Fonte Nova",
+        "desc": "O veterano meia do Bahia comandou a vitória tricolor com passes decisivos e um belíssimo gol de fora da área, aplaudido de pé.",
+        "fonte": "Bahia Esportes",
+        "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-24",
+        "data": "2026-06-24T05:34:26.376Z",
+        "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
+        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
+        "fonte": "Diário do Ceará",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-24",
+        "data": "2026-06-24T02:34:26.376Z",
+        "id": "curado-jogadores-1"
+      },
       {
         "titulo": "Vasco treina forte no CT Moacyr Barbosa",
         "desc": "Elenco Cruz-Maltino dá duro na intertemporada enquanto segue na busca por um novo comandante.\nO post Vasco treina forte no CT Moacyr Barbosa apareceu primeiro em Gazeta Esportiva.",
@@ -143,22 +153,6 @@
         "url": "https://www.gazetaesportiva.com/times/portugal/autor-de-dois-gols-cristiano-ronaldo-responde-aos-criticos-eu-sempre-chego/",
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260623__B83699W__v1__HighRes__FblWc2026Match47PorUzb.webp",
         "data": "2026-06-23T22:23:11.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Após fala de Julián Álvarez, Atlético estuda ação contra o Barcelona por negociação irregular",
-        "desc": "O Atlético de Madrid avalia acionar a justiça desportiva da FIFA contra o Barcelona por suposta negociação irregular com Julián Álvarez. A movimentação ocorre após o atacante argen...",
-        "url": "https://www.gazetaesportiva.com/times/atletico-de-madrid/apos-fala-de-julian-alvarez-atletico-estuda-acao-contra-o-barcelona-por-negociacao-irregular/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260617__B7FQ66C__v1__HighRes__FblWc2026TrainingArg.webp",
-        "data": "2026-06-23T18:18:14.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Raphinha se pronuncia pela primeira vez após lesão e críticas na Seleção",
-        "desc": "Raphinha se pronunciou pela primeira vez após sofrer uma lesão na coxa direita durante a vitória do Brasil por 3 a 0 sobre o Haiti na Copa do Mundo de 2026. O atacante destacou sua...",
-        "url": "https://www.gazetaesportiva.com/times/brasil/raphinha-se-pronuncia-pela-primeira-vez-apos-lesao-e-criticas-na-selecao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260620__B7PK9VW__v1__MidRes__FblWc2026Match29BraHai.webp",
-        "data": "2026-06-23T17:02:59.000Z",
         "fonte": "Gazeta Esportiva"
       }
     ]
