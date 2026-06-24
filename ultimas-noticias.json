@@ -1,7 +1,47 @@
 {
-  "ultimaAtualizacao": "2026-06-24T21:09:09.334Z",
+  "ultimaAtualizacao": "2026-06-24T22:45:52.705Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Botafogo dá sequência a intertemporada no Rio",
+        "desc": "Confira o treinamento do Glorioso nesta quarta-feira no CT Lonier.\nO post Botafogo dá sequência a intertemporada no Rio apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/botafogo-da-sequencia-a-intertemporada-no-rio/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/g8mdrqo6-1920.webp",
+        "data": "2026-06-24T22:17:48.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Antes da 75ª edição, conheça história da Prova Ciclística 9 de Julho",
+        "desc": "O post Antes da 75ª edição, conheça história da Prova Ciclística 9 de Julho apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/videos/antes-da-75a-edicao-conheca-historia-da-prova-ciclistica-9-de-julho/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/03.webp",
+        "data": "2026-06-24T22:07:37.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Veja fotos do treino do Santos nesta quarta-feira",
+        "desc": "O post Veja fotos do treino do Santos nesta quarta-feira apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/santos/veja-fotos-do-treino-do-santos-nesta-quarta-feira-4/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55354946159_31f7cd71a9_k-1.webp",
+        "data": "2026-06-24T22:01:03.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Veja galeria de fotos do treino do São Paulo nesta quarta-feira",
+        "desc": "O post Veja galeria de fotos do treino do São Paulo nesta quarta-feira apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/sao-paulo/veja-galeria-de-fotos-do-treino-do-sao-paulo-nesta-quarta-feira-2/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55355360099_f61e9d9ae8_k.webp",
+        "data": "2026-06-24T21:37:31.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Novo formato ressuscita fantasma da manipulação de resultados na Copa",
+        "desc": "Um jogo disputado há 44 anos em Gijón — na qual Alemanha Ocidental e Áustria combinaram uma vitória por 1 a 0 para os alemães, classificando ambas as equipes e eliminando a Argélia...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/novo-formato-ressuscita-fantasma-da-manipulacao-de-resultados-na-copa/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/02/AFP__20260225__98Y28CL__v1__HighRes__MexicoCrimeFblWc2026.webp",
+        "data": "2026-06-24T21:17:07.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Juan Manuel Cerúndolo avança para as quartas de final em Eastbourne",
         "desc": "O tênis argentino terá um representante nas quartas de final do torneio ATP 250 de Eastbourne (Reino Unido), após a vitória de Juan Manuel Cerúndolo nesta quarta-feira (24), na seg...",
@@ -49,14 +89,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/lmlu8jol-1920Weah-curte.webp",
         "data": "2026-06-24T15:16:50.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Relembre em fotos o último jogo entre Brasil e Escócia na Copa do Mundo",
-        "desc": "O post Relembre em fotos o último jogo entre Brasil e Escócia na Copa do Mundo apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/relembre-em-fotos-o-ultimo-jogo-entre-brasil-e-escocia-na-copa-do-mundo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/brasil-x-escocia-1.webp",
-        "data": "2026-06-24T11:00:37.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -66,7 +98,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-24",
-        "data": "2026-06-24T21:09:09.326Z",
+        "data": "2026-06-24T22:45:52.694Z",
         "id": "curado-feminino-0"
       },
       {
@@ -75,7 +107,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-24",
-        "data": "2026-06-24T18:09:09.326Z",
+        "data": "2026-06-24T19:45:52.694Z",
         "id": "curado-feminino-1"
       },
       {
@@ -84,7 +116,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-24",
-        "data": "2026-06-24T15:09:09.326Z",
+        "data": "2026-06-24T16:45:52.694Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -95,8 +127,16 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-24",
-        "data": "2026-06-24T21:09:09.326Z",
+        "data": "2026-06-24T22:45:52.694Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "O gol do Paulo Sérgio! Ex-jogador guarda carro dado por Silvio Santos pelo tetra",
+        "desc": "O post O gol do Paulo Sérgio! Ex-jogador guarda carro dado por Silvio Santos pelo tetra apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/futebol/o-gol-do-paulo-sergio-ex-jogador-guarda-carro-dado-por-silvio-santos-pelo-tetra/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/PP.webp",
+        "data": "2026-06-24T22:11:01.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Na academia e no campo; confira o treino do Vasco",
@@ -105,15 +145,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/Elenco-Cruz-Maltino.webp",
         "data": "2026-06-24T19:19:48.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
-        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
-        "fonte": "Diário do Ceará",
-        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-24",
-        "data": "2026-06-24T18:09:09.326Z",
-        "id": "curado-jogadores-1"
       },
       {
         "titulo": "Lazio é condenada por rescindir contrato de jogadora grávida; sindicato aprova sentença",
