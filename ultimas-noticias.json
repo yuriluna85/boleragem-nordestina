@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-06-25T08:20:51.814Z",
+  "ultimaAtualizacao": "2026-06-25T11:13:57.196Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "EUA volta a contar com Pulisic e tenta, contra Turquia, mais uma vitória antes do mata-mata",
+        "desc": "Christian Pulisic está recuperado de lesão na panturrilha e pronto para reforçar os Estados Unidos contra a Turquia, apesar de possível uso controlado pelo técnico Mauricio Pochett...",
+        "url": "https://www.gazetaesportiva.com/times/estados-unidos/pulisic-recuperado-eua-turquia-copa-2026/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260623__2282983759__v1__HighRes__UsaTrainingSessionFifaWorldCup2026.webp",
+        "data": "2026-06-25T11:09:43.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Marquinhos e Alisson alcançam marcas importantes pela Seleção; saiba",
+        "desc": "Marquinhos chegou a 108 jogos pela Seleção Brasileira na vitória por 3 a 0 sobre a Escócia e se tornou o segundo zagueiro com mais partidas pela Amarelinha, atrás apenas de Thiago ...",
+        "url": "https://www.gazetaesportiva.com/times/brasil/marquinhos-e-alisson-alcancam-marcas-importantes-pela-selecao-saiba/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260624__2283182085__v1__MidRes__ScotlandVBrazilGroupCFifaWorldCup2026.webp",
+        "data": "2026-06-25T11:00:45.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Com um duelo definido, segunda fase da Copa já tem 13 classificados",
         "desc": "A fase de grupos da Copa do Mundo de 2026 entra em sua reta decisiva, e o cenário da segunda fase começa a ganhar contornos mais claros. Após a vitória sobre a Coreia do Sul, a Áfr...",
@@ -113,30 +129,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55354946159_31f7cd71a9_k-1.webp",
         "data": "2026-06-24T22:01:03.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja galeria de fotos do treino do São Paulo nesta quarta-feira",
-        "desc": "O post Veja galeria de fotos do treino do São Paulo nesta quarta-feira apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/veja-galeria-de-fotos-do-treino-do-sao-paulo-nesta-quarta-feira-2/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55355360099_f61e9d9ae8_k.webp",
-        "data": "2026-06-24T21:37:31.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Novo formato ressuscita fantasma da manipulação de resultados na Copa",
-        "desc": "Um jogo disputado há 44 anos em Gijón — na qual Alemanha Ocidental e Áustria combinaram uma vitória por 1 a 0 para os alemães, classificando ambas as equipes e eliminando a Argélia...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/novo-formato-ressuscita-fantasma-da-manipulacao-de-resultados-na-copa/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/02/AFP__20260225__98Y28CL__v1__HighRes__MexicoCrimeFblWc2026.webp",
-        "data": "2026-06-24T21:17:07.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Juan Manuel Cerúndolo avança para as quartas de final em Eastbourne",
-        "desc": "O tênis argentino terá um representante nas quartas de final do torneio ATP 250 de Eastbourne (Reino Unido), após a vitória de Juan Manuel Cerúndolo nesta quarta-feira (24), na seg...",
-        "url": "https://www.gazetaesportiva.com/mais-esportes/tenis/juan-manuel-cerundolo-avanca-para-as-quartas-de-final-em-eastbourne/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/04/AFP__20260406__A6VJ9PZ__v5__MidRes__TopshotTennisAtpMonteCarlo.webp",
-        "data": "2026-06-24T21:07:03.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -146,7 +138,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-25",
-        "data": "2026-06-25T08:20:51.807Z",
+        "data": "2026-06-25T11:13:57.189Z",
         "id": "curado-feminino-0"
       },
       {
@@ -155,7 +147,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-25",
-        "data": "2026-06-25T05:20:51.807Z",
+        "data": "2026-06-25T08:13:57.189Z",
         "id": "curado-feminino-1"
       },
       {
@@ -164,7 +156,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-25",
-        "data": "2026-06-25T02:20:51.807Z",
+        "data": "2026-06-25T05:13:57.189Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -175,8 +167,16 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-25",
-        "data": "2026-06-25T08:20:51.807Z",
+        "data": "2026-06-25T11:13:57.189Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Rayan agrada Ancelotti em estreia como titular pela Seleção: &#8220;Ninguém sabe onde ele pode chegar&#8221;",
+        "desc": "A vitória do Brasil por 3 a 0 sobre a Escócia teve como destaque o jovem Rayan, de 19 anos, que foi titular e teve atuação decisiva. O atacante contribuiu com assistência, liderou ...",
+        "url": "https://www.gazetaesportiva.com/times/brasil/rayan-agrada-ancelotti-em-estreia-como-titular-pela-selecao-ninguem-sabe-onde-ele-pode-chegar/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/rayan-selecao2406260016.webp",
+        "data": "2026-06-25T10:00:01.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
@@ -184,17 +184,8 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-25",
-        "data": "2026-06-25T05:20:51.807Z",
+        "data": "2026-06-25T08:13:57.189Z",
         "id": "curado-jogadores-1"
-      },
-      {
-        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
-        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
-        "fonte": "Vozão Diário",
-        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-25",
-        "data": "2026-06-25T02:20:51.807Z",
-        "id": "curado-jogadores-2"
       },
       {
         "titulo": "O gol do Paulo Sérgio! Ex-jogador guarda carro dado por Silvio Santos pelo tetra",
