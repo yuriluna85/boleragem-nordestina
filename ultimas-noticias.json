@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-06-24T22:45:52.705Z",
+  "ultimaAtualizacao": "2026-06-25T00:08:33.502Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Escócia x Brasil: veja fotos do jogo pela Copa do Mundo",
+        "desc": "O post Escócia x Brasil: veja fotos do jogo pela Copa do Mundo apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/brasil/escocia-x-brasil-veja-fotos-do-jogo-pela-copa-do-mundo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260624__B88K8QA__v1__HighRes__FblWc2026Match49ScoBra.webp",
+        "data": "2026-06-24T23:16:47.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Marrocos x Haiti: veja fotos do jogo pela última rodada da Copa do Mundo",
+        "desc": "O post Marrocos x Haiti: veja fotos do jogo pela última rodada da Copa do Mundo apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/marrocos-x-haiti-veja-fotos-do-jogo-pela-ultima-rodada-da-copa-do-mundo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260624__2283178116__v1__HighRes__MoroccoVHaitiGroupCFifaWorldCup2026.webp",
+        "data": "2026-06-24T22:53:09.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Botafogo dá sequência a intertemporada no Rio",
         "desc": "Confira o treinamento do Glorioso nesta quarta-feira no CT Lonier.\nO post Botafogo dá sequência a intertemporada no Rio apareceu primeiro em Gazeta Esportiva.",
@@ -65,30 +81,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/HLmXWLsXQAAPs3t.webp",
         "data": "2026-06-24T19:13:44.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Confira tudo o que aconteceu na primeira noite do draft da NBA",
-        "desc": "Confira o que aconteceu durante a primeira rodada do Draft da NBA de 2026.\nO post Confira tudo o que aconteceu na primeira noite do draft da NBA apareceu primeiro em Gazeta Esporti...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/nba/confira-tudo-o-que-aconteceu-na-primeira-noite-do-draft-da-nba/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/draft-nba-2026-scaled-aspect-ratio-512-320.webp",
-        "data": "2026-06-24T17:01:22.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Astros do LA Clippers visitam o treino do Estados Unidos",
-        "desc": "Astros do LA Clippers visitam o treino do Estados Unidos\nO post Astros do LA Clippers visitam o treino do Estados Unidos apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/astros-do-la-clippers-visitam-o-treino-do-estados-unidos/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/Astros-do-LA-Clippers.webp",
-        "data": "2026-06-24T15:31:50.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Weah curte sessão de karaokê com Richards e McKenzie",
-        "desc": "Weah curte sessão de karaokê com Richards e McKenzie\nO post Weah curte sessão de karaokê com Richards e McKenzie apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/weah-curte-sessao-de-karaoke-com-richards-e-mckenzie/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/lmlu8jol-1920Weah-curte.webp",
-        "data": "2026-06-24T15:16:50.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -97,8 +89,8 @@
         "desc": "As Leoas venceram o clássico com autoridade por 4 a 1 e continuam invictas na competição nacional de futebol feminino.",
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-24",
-        "data": "2026-06-24T22:45:52.694Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-25",
+        "data": "2026-06-25T00:08:33.493Z",
         "id": "curado-feminino-0"
       },
       {
@@ -107,7 +99,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-24",
-        "data": "2026-06-24T19:45:52.694Z",
+        "data": "2026-06-24T21:08:33.493Z",
         "id": "curado-feminino-1"
       },
       {
@@ -116,7 +108,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-24",
-        "data": "2026-06-24T16:45:52.694Z",
+        "data": "2026-06-24T18:08:33.493Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -126,17 +118,26 @@
         "desc": "O veterano meia do Bahia comandou a vitória tricolor com passes decisivos e um belíssimo gol de fora da área, aplaudido de pé.",
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-24",
-        "data": "2026-06-24T22:45:52.694Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-25",
+        "data": "2026-06-25T00:08:33.493Z",
         "id": "curado-jogadores-0"
       },
       {
         "titulo": "O gol do Paulo Sérgio! Ex-jogador guarda carro dado por Silvio Santos pelo tetra",
         "desc": "O post O gol do Paulo Sérgio! Ex-jogador guarda carro dado por Silvio Santos pelo tetra apareceu primeiro em Gazeta Esportiva.",
         "url": "https://www.gazetaesportiva.com/futebol/o-gol-do-paulo-sergio-ex-jogador-guarda-carro-dado-por-silvio-santos-pelo-tetra/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/PP.webp",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/PPS.webp",
         "data": "2026-06-24T22:11:01.000Z",
         "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
+        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
+        "fonte": "Diário do Ceará",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-24",
+        "data": "2026-06-24T21:08:33.493Z",
+        "id": "curado-jogadores-1"
       },
       {
         "titulo": "Na academia e no campo; confira o treino do Vasco",
@@ -144,14 +145,6 @@
         "url": "https://www.gazetaesportiva.com/todas-as-noticias/na-academia-e-no-campo-confira-o-treino-do-vasco/",
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/Elenco-Cruz-Maltino.webp",
         "data": "2026-06-24T19:19:48.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Lazio é condenada por rescindir contrato de jogadora grávida; sindicato aprova sentença",
-        "desc": "A decisão do Tribunal Arbitral do Esporte (TAS) em favor da jogadora sueca Maja Gothberg foi classificada como histórica pela FIFPro. O caso envolve a rescisão de contrato pela Laz...",
-        "url": "https://www.gazetaesportiva.com/futebol/futebol-internacional/lazio-e-condenada-por-rescindir-contrato-de-jogadora-gravida-sindicato-aprova-sentenca/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/o_32004722_1024.webp",
-        "data": "2026-06-24T15:51:32.000Z",
         "fonte": "Gazeta Esportiva"
       }
     ]
