@@ -1,23 +1,23 @@
 {
-  "geradoEm": "2026-06-26T03:24:48.706Z",
+  "geradoEm": "2026-06-26T07:07:00.991Z",
   "totais": {
-    "totalGeral": 809,
+    "totalGeral": 810,
     "porCategoria": {
       "masculino": 456,
-      "feminino": 161,
+      "feminino": 162,
       "jogadores": 192
     }
   },
   "porEstado": {
-    "PE": 560,
+    "PE": 561,
     "CE": 636,
-    "BA": 376,
+    "BA": 377,
     "AL": 490,
     "RN": 89,
     "PB": 25,
-    "MA": 567,
+    "MA": 568,
     "PI": 52,
-    "SE": 325
+    "SE": 326
   },
   "topClubes": [
     {
@@ -30,7 +30,7 @@
     },
     {
       "nome": "Bahia",
-      "total": 108
+      "total": 109
     },
     {
       "nome": "Fortaleza",
@@ -80,7 +80,7 @@
     },
     {
       "nome": "Salvador News",
-      "total": 20
+      "total": 21
     },
     {
       "nome": "Portal Paraíba",
