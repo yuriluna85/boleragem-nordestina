@@ -1,7 +1,31 @@
 {
-  "ultimaAtualizacao": "2026-06-26T21:16:22.560Z",
+  "ultimaAtualizacao": "2026-06-26T22:43:48.984Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Guy Stéphan dedica vitória da França a Deschamps: &#8216;Estamos ansiosos para vê-lo&#8217;",
+        "desc": "Guy Stéphan dedicou a vitória da França sobre a Noruega a Didier Deschamps, que ficou fora da partida após a morte de sua mãe, na Copa do Mundo.\nO post Guy Stéphan dedica vitória d...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/guy-stephan-dedica-vitoria-da-franca-a-deschamps-estamos-ansiosos-para-ve-lo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260626__B8GN4N3__v1__HighRes__FblWc2026Match61NorFra.webp",
+        "data": "2026-06-26T22:38:42.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Davide Ancelotti esclarece gesto durante entrada de Neymar e rebate polêmica",
+        "desc": "Davide Ancelotti se pronunciou após a repercussão de um vídeo em que aparece balançando a cabeça durante a entrada de Neymar na vitória do Brasil sobre a Escócia. O auxiliar da Sel...",
+        "url": "https://www.gazetaesportiva.com/times/brasil/davide-ancelotti-esclarece-gesto-durante-entrada-de-neymar-e-rebate-polemica/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260625__B88P9U8__v1__MidRes__FblWc2026Match49ScoBra.webp",
+        "data": "2026-06-26T22:29:59.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Brasil escapa da França e pode pegar Noruega nas oitavas da Copa; veja cenários",
+        "desc": "O Brasil garantiu sua classificação em primeiro lugar do Grupo C após a tranquila vitória por 3 a 0 sobre a Escócia, na quarta-feira, e já sabe que vai pegar o Japão na segunda fas...",
+        "url": "https://www.gazetaesportiva.com/times/brasil/brasil-escapa-da-franca-e-pode-pegar-noruega-nas-oitavas-da-copa/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/ancelotti-treino-brasil-egito-escalacoes.webp",
+        "data": "2026-06-26T21:21:41.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Veja fotos do treino do São Paulo nesta sexta-feira",
         "desc": "O post Veja fotos do treino do São Paulo nesta sexta-feira apareceu primeiro em Gazeta Esportiva.",
@@ -41,14 +65,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/ABSURDO-Hoje-aconteceu-algo-que-nunca-imaginei-que-pudesse-acontecer.-Ate-onde-a-politica-suja-.webp",
         "data": "2026-06-26T16:40:33.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Presidente do Equador decreta feriado após vitória sobre a Alemanha na Copa do Mundo",
-        "desc": "O Equador celebrou uma vitória histórica sobre a Alemanha por 2 a 1 na Copa do Mundo de 2026, garantindo vaga na segunda fase do torneio. Em reconhecimento ao feito, o presidente D...",
-        "url": "https://www.gazetaesportiva.com/times/equador/equador-vence-alemanha-feriado-classificacao-copa/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260625__B8CR2JJ__v2__HighRes__TopshotFblWc2026Match56EcuGer.webp",
-        "data": "2026-06-26T11:13:42.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -58,7 +74,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-26",
-        "data": "2026-06-26T21:16:22.552Z",
+        "data": "2026-06-26T22:43:48.974Z",
         "id": "curado-feminino-0"
       },
       {
@@ -67,7 +83,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-26",
-        "data": "2026-06-26T18:16:22.552Z",
+        "data": "2026-06-26T19:43:48.974Z",
         "id": "curado-feminino-1"
       },
       {
@@ -76,19 +92,26 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-26",
-        "data": "2026-06-26T15:16:22.552Z",
+        "data": "2026-06-26T16:43:48.974Z",
         "id": "curado-feminino-2"
       }
     ],
     "jogadores": [
       {
-        "titulo": "Everton Ribeiro completa 120 jogos pelo Bahia com golaço na Fonte Nova",
-        "desc": "O veterano meia do Bahia comandou a vitória tricolor com passes decisivos e um belíssimo gol de fora da área, aplaudido de pé.",
-        "fonte": "Bahia Esportes",
-        "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-26",
-        "data": "2026-06-26T21:16:22.552Z",
-        "id": "curado-jogadores-0"
+        "titulo": "Grêmio anuncia contratação do zagueiro Wallace, destaque do CRB",
+        "desc": "O Grêmio anunciou a contratação do zagueiro Wallace, de 21 anos, destaque do CRB. O defensor assinou contrato por cinco temporadas com o Tricolor Gaúcho.\nO post Grêmio anuncia cont...",
+        "url": "https://www.gazetaesportiva.com/times/gremio/gremio-anuncia-contratacao-zagueiro-wallace-crb/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/HLwwWHkWsAAjsXr-1.webp",
+        "data": "2026-06-26T22:28:55.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Bahia anuncia contratação de atacante argentino ex-Tottenham",
+        "desc": "O Bahia anunciou na tarde desta sexta-feira a contratação do atacante Alejo Veliz, do Tottenham, que estava emprestado ao Rosário Central, da Argentina. O argentino de 22 anos assi...",
+        "url": "https://www.gazetaesportiva.com/times/bahia/bahia-contratacao-alejo-veliz/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/Alejo-Veliz.webp",
+        "data": "2026-06-26T22:02:59.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Veja fotos dos jogadores do Corinthians nos exames desta sexta-feira",
