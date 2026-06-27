@@ -1,23 +1,23 @@
 {
-  "geradoEm": "2026-06-27T04:33:28.784Z",
+  "geradoEm": "2026-06-27T07:47:11.879Z",
   "totais": {
-    "totalGeral": 831,
+    "totalGeral": 833,
     "porCategoria": {
       "masculino": 470,
-      "feminino": 164,
-      "jogadores": 197
+      "feminino": 165,
+      "jogadores": 198
     }
   },
   "porEstado": {
-    "PE": 571,
+    "PE": 573,
     "CE": 653,
-    "BA": 387,
+    "BA": 389,
     "AL": 501,
     "RN": 91,
     "PB": 25,
-    "MA": 578,
+    "MA": 580,
     "PI": 54,
-    "SE": 341
+    "SE": 343
   },
   "topClubes": [
     {
@@ -26,11 +26,11 @@
     },
     {
       "nome": "Vitória",
-      "total": 292
+      "total": 293
     },
     {
       "nome": "Bahia",
-      "total": 111
+      "total": 113
     },
     {
       "nome": "Fortaleza",
@@ -48,7 +48,7 @@
     },
     {
       "nome": "Bahia Esportes",
-      "total": 48
+      "total": 49
     },
     {
       "nome": "Pernambuco Press",
@@ -67,6 +67,10 @@
       "total": 24
     },
     {
+      "nome": "Salvador News",
+      "total": 22
+    },
+    {
       "nome": "Ceará Esportes",
       "total": 22
     },
@@ -76,10 +80,6 @@
     },
     {
       "nome": "Recife Gols",
-      "total": 21
-    },
-    {
-      "nome": "Salvador News",
       "total": 21
     },
     {
