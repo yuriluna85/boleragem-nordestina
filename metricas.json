@@ -1,23 +1,23 @@
 {
-  "geradoEm": "2026-06-26T22:43:49.017Z",
+  "geradoEm": "2026-06-27T00:04:00.713Z",
   "totais": {
-    "totalGeral": 825,
+    "totalGeral": 827,
     "porCategoria": {
-      "masculino": 466,
-      "feminino": 162,
+      "masculino": 467,
+      "feminino": 163,
       "jogadores": 197
     }
   },
   "porEstado": {
-    "PE": 566,
-    "CE": 649,
-    "BA": 383,
-    "AL": 498,
+    "PE": 568,
+    "CE": 650,
+    "BA": 384,
+    "AL": 500,
     "RN": 90,
     "PB": 25,
-    "MA": 574,
+    "MA": 575,
     "PI": 53,
-    "SE": 338
+    "SE": 339
   },
   "topClubes": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "nome": "Vitória",
-      "total": 288
+      "total": 289
     },
     {
       "nome": "Bahia",
@@ -34,7 +34,7 @@
     },
     {
       "nome": "Fortaleza",
-      "total": 86
+      "total": 87
     },
     {
       "nome": "Ceará",
@@ -44,7 +44,7 @@
   "fontesRanking": [
     {
       "nome": "Gazeta Esportiva",
-      "total": 435
+      "total": 436
     },
     {
       "nome": "Bahia Esportes",
@@ -67,15 +67,15 @@
       "total": 24
     },
     {
+      "nome": "Ceará Esportes",
+      "total": 22
+    },
+    {
       "nome": "Maranhão Esportivo",
       "total": 21
     },
     {
       "nome": "Recife Gols",
-      "total": 21
-    },
-    {
-      "nome": "Ceará Esportes",
       "total": 21
     },
     {
