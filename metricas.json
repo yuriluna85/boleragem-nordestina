@@ -1,23 +1,23 @@
 {
-  "geradoEm": "2026-06-29T05:10:53.040Z",
+  "geradoEm": "2026-06-29T10:07:18.753Z",
   "totais": {
-    "totalGeral": 875,
+    "totalGeral": 877,
     "porCategoria": {
-      "masculino": 499,
-      "feminino": 170,
+      "masculino": 500,
+      "feminino": 171,
       "jogadores": 206
     }
   },
   "porEstado": {
-    "PE": 602,
-    "CE": 684,
-    "BA": 413,
-    "AL": 523,
+    "PE": 604,
+    "CE": 685,
+    "BA": 414,
+    "AL": 524,
     "RN": 95,
     "PB": 25,
-    "MA": 607,
-    "PI": 59,
-    "SE": 372
+    "MA": 609,
+    "PI": 60,
+    "SE": 374
   },
   "topClubes": [
     {
@@ -30,7 +30,7 @@
     },
     {
       "nome": "Bahia",
-      "total": 118
+      "total": 119
     },
     {
       "nome": "Fortaleza",
@@ -38,7 +38,7 @@
     },
     {
       "nome": "Ceará",
-      "total": 81
+      "total": 82
     }
   ],
   "fontesRanking": [
@@ -67,12 +67,16 @@
       "total": 24
     },
     {
+      "nome": "Salvador News",
+      "total": 24
+    },
+    {
       "nome": "Ceará Esportes",
       "total": 24
     },
     {
-      "nome": "Salvador News",
-      "total": 23
+      "nome": "Vozão Diário",
+      "total": 22
     },
     {
       "nome": "Maranhão Esportivo",
@@ -80,10 +84,6 @@
     },
     {
       "nome": "Recife Gols",
-      "total": 21
-    },
-    {
-      "nome": "Vozão Diário",
       "total": 21
     },
     {
