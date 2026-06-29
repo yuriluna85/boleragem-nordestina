@@ -1,62 +1,40 @@
 {
-  "ultimaAtualizacao": "2026-06-29T14:33:35.762Z",
+  "ultimaAtualizacao": "2026-06-29T17:33:49.784Z",
   "dados": {
     "masculino": [
       {
-        "titulo": "Ituano empata com o Maranhão e amarga quarto jogo sem vencer na Série C",
-        "desc": "Neste domingo, o Ituano amargou o quarto jogo sem vencer na Série C ao ficar no empate com o Maranhão por 0 a 0, no Estádio Novelli Júnior, em Itu, pela 12ª rodada. Nos últimos qua...",
-        "url": "https://www.gazetaesportiva.com/times/ituano/ituano-empata-com-o-maranhao-e-amarga-quarto-jogo-sem-vencer-na-serie-c/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/d8e40abadcd519a7d6492a421d39c1f1.webp",
-        "data": "2026-06-29T01:28:11.000Z",
+        "titulo": "Sport Recife e Bahia empatam clássico na Ilha do Retiro por 2 a 2",
+        "desc": "Em um jogo emocionante e cheio de alternativas, Leão da Ilha e Esquadrão dividiram pontos pela Série A do Brasileirão. Gols saíram no segundo tempo.",
+        "fonte": "Nordestão FC",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-0-2026-06-29",
+        "data": "2026-06-29T17:33:49.775Z",
+        "id": "curado-masculino-0"
+      },
+      {
+        "titulo": "Veja fotos do treino do São Paulo nesta segunda-feira",
+        "desc": "O post Veja fotos do treino do São Paulo nesta segunda-feira apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-treino-do-sao-paulo-nesta-segunda-feira-8/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55364798000_f18e01a2e4_k-1.webp",
+        "data": "2026-06-29T16:50:37.000Z",
         "fonte": "Gazeta Esportiva"
       },
       {
-        "titulo": "Goiás vence Náutico fora de casa e quebra sequência sem vitórias na Série B",
-        "desc": "O Goiás venceu o Náutico por 1 a 0 neste domingo, nos Aflitos, pela 15ª rodada da Série B, conquistando sua primeira vitória sob o comando do técnico Mozart e encerrando uma sequên...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/com-estreia-de-treinador-goias-vence-nautico-e-quebra-sequencia-sem-vitorias/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/SaveClip.App_730226602_18611499943007452_3956794551120946253_n.jpg.webp",
-        "data": "2026-06-28T23:37:47.000Z",
+        "titulo": "João Fonseca vence veterano espanhol e estreia com vitória em Wimbledon",
+        "desc": "João Fonseca estreou com vitória sólida em Wimbledon 2026 ao derrotar Bautista Agut por 3 sets a 0, garantindo vaga na segunda rodada. O brasileiro mostrou consistência ao longo da...",
+        "url": "https://www.gazetaesportiva.com/mais-esportes/tenis/joao-fonseca-x-bautista-agut-wimbledon/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260629__B8NB9TU__v1__HighRes__TennisGbrWimbledon.webp",
+        "data": "2026-06-29T15:52:35.000Z",
         "fonte": "Gazeta Esportiva"
       },
       {
-        "titulo": "Com gol no fim, Fortaleza vence o Sport e encosta no G6 da Série B",
-        "desc": "Neste domingo, com gol no fim, o Fortaleza venceu o Sport por 2 a 1, na Arena Castelão, em Fortaleza (CE), pela 15ª rodada da Série B do Campeonato Brasileiro, e encostou no G6. \nO...",
-        "url": "https://www.gazetaesportiva.com/times/fortaleza/com-gol-no-fim-fortaleza-vence-o-sport-e-encosta-no-g6-da-serie-b/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55363269715_5a5c61148f_o.webp",
-        "data": "2026-06-28T23:32:32.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Estreia de João Fonseca em Wimbledon: onde assistir",
-        "desc": "Confira onde assistir ao duelo de João Fonseca na primeira fase de Wimbledon.\nO post Estreia de João Fonseca em Wimbledon: onde assistir apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/mais-esportes/tenis/estreia-de-joao-fonseca-em-wimbledon-onde-assistir/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2025/02/2SBGD66.webp",
-        "data": "2026-06-28T23:00:37.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Juventude supera o Ceará em casa e entra no G6 do Brasileirão Série B",
-        "desc": "O Juventude venceu o Ceará por 2 a 0 neste domingo, no Estádio Alfredo Jaconi, pela 15ª rodada da Série B. Os gols foram marcados ainda no primeiro tempo por Alisson Safira e Gabri...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/juventude-supera-o-ceara-em-casa-e-entra-no-g6-do-brasileirao-serie-b/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/HL7SoU2W4AAJuyV.webp",
-        "data": "2026-06-28T21:14:21.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Athletic vence o Avaí e encerra jejum de três jogos sem vitória na Série B",
-        "desc": "O Athletic venceu o Avaí por 1 a 0 neste domingo, na Arena Sicredi, pela 15ª rodada da Série B. Com gol de Dixon Vera no fim da partida, o time mineiro encerrou o jejum de três jog...",
-        "url": "https://www.gazetaesportiva.com/times/avai/athletic-vence-o-avai-e-encerra-jejum-de-tres-jogos-sem-vitoria-na-serie-b/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55295662408_6357a2fb58_b.webp",
-        "data": "2026-06-28T21:07:53.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "África do Sul x Canadá: veja fotos do duelo pela segunda fase da Copa do Mundo",
-        "desc": "O post África do Sul x Canadá: veja fotos do duelo pela segunda fase da Copa do Mundo apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/africa-do-sul-x-canada-veja-fotos-do-duelo-pela-segunda-fase-da-copa-do-mundo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260628__B8LC9JB__v1__MidRes__FblWc2026Match73RsaCan.webp",
-        "data": "2026-06-28T20:20:11.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Fortaleza vence o Ceará no Clássico-Rei e assume topo da tabela",
+        "desc": "O Tricolor do Pici superou o maior rival por 1 a 0 na Arena Castelão com gol de Yago Pikachu e garantiu a liderança do campeonato regional.",
+        "fonte": "Diário de Esportes",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-1-2026-06-29",
+        "data": "2026-06-29T14:33:49.775Z",
+        "id": "curado-masculino-1"
       }
     ],
     "feminino": [
@@ -66,7 +44,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-29",
-        "data": "2026-06-29T14:33:35.754Z",
+        "data": "2026-06-29T17:33:49.775Z",
         "id": "curado-feminino-0"
       },
       {
@@ -75,7 +53,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-29",
-        "data": "2026-06-29T11:33:35.754Z",
+        "data": "2026-06-29T14:33:49.775Z",
         "id": "curado-feminino-1"
       },
       {
@@ -84,7 +62,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-29",
-        "data": "2026-06-29T08:33:35.754Z",
+        "data": "2026-06-29T11:33:49.775Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -95,7 +73,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-29",
-        "data": "2026-06-29T14:33:35.754Z",
+        "data": "2026-06-29T17:33:49.775Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -104,7 +82,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-29",
-        "data": "2026-06-29T11:33:35.754Z",
+        "data": "2026-06-29T14:33:49.776Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -113,7 +91,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-29",
-        "data": "2026-06-29T08:33:35.754Z",
+        "data": "2026-06-29T11:33:49.776Z",
         "id": "curado-jogadores-2"
       }
     ]
