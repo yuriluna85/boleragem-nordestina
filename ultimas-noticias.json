@@ -1,7 +1,31 @@
 {
-  "ultimaAtualizacao": "2026-06-30T20:28:20.975Z",
+  "ultimaAtualizacao": "2026-06-30T21:58:11.141Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Sport anuncia o retorno do técnico Gilmar Dal Pozzo, ex-Chapecoense",
+        "desc": "Nesta terça-feira, o Sport anunciou Gilmar Dal Pozzo como novo técnico do clube. Demitido da Chapecoense em abril deste ano, ele assina com a equipe de Recife até novembro desta te...",
+        "url": "https://www.gazetaesportiva.com/times/sport/sport-anuncia-o-retorno-do-tecnico-gilmar-dal-pozzo-ex-chapecoense/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/IMG_5630.webp",
+        "data": "2026-06-30T21:53:13.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "França x Suécia: veja fotos do jogo da segunda fase da Copa do Mundo",
+        "desc": "O post França x Suécia: veja fotos do jogo da segunda fase da Copa do Mundo apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/franca/franca-x-suecia-veja-fotos-do-jogo-da-segunda-fase-da-copa-do-mundo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260630__B8UV8G2__v1__MidRes__FblWc2026Match77FraSwe.webp",
+        "data": "2026-06-30T21:46:37.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Veja fotos do nvo uniforme do Barcelona para a temporada 2026/27",
+        "desc": "O post Veja fotos do nvo uniforme do Barcelona para a temporada 2026/27 apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/barcelona/veja-fotos-do-nvo-uniforme-do-barcelona-para-a-temporada-2026-27/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/2606_1st_Kit_26-27_App_Gallery_16_9_01_MASC_C.webp",
+        "data": "2026-06-30T21:30:47.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Veja fotos do treino em dois períodos do Santos desta terça",
         "desc": "O post Veja fotos do treino em dois períodos do Santos desta terça apareceu primeiro em Gazeta Esportiva.",
@@ -73,30 +97,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260629__B8QD47X__v3__HighRes__FblWc2026Match74GerPar.webp",
         "data": "2026-06-30T15:55:19.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Festa no Paraguai! Jornais celebram classificação histórica na Copa do Mundo",
-        "desc": "A classificação histórica do Paraguai sobre a Alemanha nos 16-avos de final da Copa do Mundo de 2026 dominou as manchetes dos principais jornais paraguaios. Veículos como ABC Color...",
-        "url": "https://www.gazetaesportiva.com/times/paraguai/jornais-paraguai-celebram-classificacao-alemanha-copa-2026/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260629__B8QD47X__v3__HighRes__FblWc2026Match74GerPar.webp",
-        "data": "2026-06-30T12:32:34.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Bruno Guimarães iguala recorde de assistências em Copas do Mundo neste século",
-        "desc": "Bruno Guimarães brilhou na vitória do Brasil sobre o Japão na Copa do Mundo de 2026 e igualou o recorde de assistências em uma única edição do torneio no século XXI, com quatro pas...",
-        "url": "https://www.gazetaesportiva.com/times/brasil/bruno-guimaraes-recorde-assistencias-copa-2026/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/29JUN2026BRASILXJAPAO102-BRUNO-GUIMARAES-ABSURDO.webp",
-        "data": "2026-06-30T12:14:02.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Vitória da seleção do Marrocos provoca alegria e detenções em Haia",
-        "desc": "A classificação do Marrocos sobre os Países Baixos nos pênaltis pela segunda fase da Copa do Mundo de 2026 gerou grandes comemorações no bairro de Schilderswijk, em Haia, conhecido...",
-        "url": "https://www.gazetaesportiva.com/times/marrocos/festas-e-confrontos-haia-vitoria-marrocos-holanda-copa-2026/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260630__B8QN6KW__v1__HighRes__MoroccoFblWc2026Fans.webp",
-        "data": "2026-06-30T11:31:18.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -106,7 +106,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-30",
-        "data": "2026-06-30T20:28:20.965Z",
+        "data": "2026-06-30T21:58:11.133Z",
         "id": "curado-feminino-0"
       },
       {
@@ -115,7 +115,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-30",
-        "data": "2026-06-30T17:28:20.965Z",
+        "data": "2026-06-30T18:58:11.133Z",
         "id": "curado-feminino-1"
       },
       {
@@ -132,7 +132,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-30",
-        "data": "2026-06-30T14:28:20.965Z",
+        "data": "2026-06-30T15:58:11.133Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -143,7 +143,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-30",
-        "data": "2026-06-30T20:28:20.966Z",
+        "data": "2026-06-30T21:58:11.133Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -152,7 +152,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-30",
-        "data": "2026-06-30T17:28:20.966Z",
+        "data": "2026-06-30T18:58:11.133Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -161,7 +161,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-30",
-        "data": "2026-06-30T14:28:20.966Z",
+        "data": "2026-06-30T15:58:11.133Z",
         "id": "curado-jogadores-2"
       }
     ]
