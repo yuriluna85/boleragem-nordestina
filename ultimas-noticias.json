@@ -1,7 +1,31 @@
 {
-  "ultimaAtualizacao": "2026-06-30T13:24:16.335Z",
+  "ultimaAtualizacao": "2026-06-30T16:02:26.914Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Sem titulares, Brasil inicia preparação para oitavas da Copa",
+        "desc": "O Brasil retomou os treinos após a vitória sobre o Japão e iniciou a preparação para as oitavas de final da Copa do Mundo. Titulares fizeram trabalho regenerativo, enquanto Casemir...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/sem-titulares-brasil-inicia-preparacao-para-oitavas-da-copa/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260628__2283723738__v1__HighRes__BrazilTrainingAndPressConferenceFifaWorldCup.webp",
+        "data": "2026-06-30T15:58:53.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Celebridades de Hollywood marcam presença nas arquibancadas da Copa do Mundo",
+        "desc": "A Copa do Mundo de 2026 tem reunido grandes celebridades nas arquibancadas dos estádios dos Estados Unidos, reforçando o conceito de \"sportainment\", que une esporte e entreteniment...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/celebridades-copa-do-mundo-2026-estados-unidos/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260629__B8PB3QM__v2__HighRes__FblWc2026Match76BraJpn.webp",
+        "data": "2026-06-30T15:56:57.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Gustavo Gómez: &#8216;Alemanha sabia que teria que suar sangue se quisesse nos vencer&#8217;",
+        "desc": "Capitão da seleção paraguaia, Gustavo Gómez celebrou a classificação histórica às oitavas de final da Copa do Mundo após a vitória sobre a Alemanha nos pênaltis. O zagueiro destaco...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/gustavo-gomez-celebra-classificacao-paraguai-alemanha/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260629__B8QD47X__v3__HighRes__FblWc2026Match74GerPar.webp",
+        "data": "2026-06-30T15:55:19.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Festa no Paraguai! Jornais celebram classificação histórica na Copa do Mundo",
         "desc": "A classificação histórica do Paraguai sobre a Alemanha nos 16-avos de final da Copa do Mundo de 2026 dominou as manchetes dos principais jornais paraguaios. Veículos como ABC Color...",
@@ -65,22 +89,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260630__B8QF4NK__v1__HighRes__FblWc2026Match75NedMar.webp",
         "data": "2026-06-30T01:45:13.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Botafogo-SP x CRB pela Série B: veja onde assistir e prováveis escalações",
-        "desc": "Botafogo-SP e CRB se enfrentam nesta terça-feira (30), às 20h (de Brasília), no Estádio Santa Cruz, em Ribeirão Preto, pela 15ª rodada da Série B do Campeonato Brasileiro. As equip...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/botafogo-sp-x-crb-serie-b-onde-assistir/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/snapinsta.com_.br-6a2f40d20041e-1.webp",
-        "data": "2026-06-29T23:00:29.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Djokovic sofre, mas vence chinês na estreia em Wimbledon",
-        "desc": "Novak Djokovic estreou com vitória em Wimbledon após superar dificuldades contra Wu Yibing. O sérvio segue na busca pelo 25º título de Grand Slam, que pode consolidar um recorde hi...",
-        "url": "https://www.gazetaesportiva.com/mais-esportes/tenis/djokovic-sofre-mas-vence-chines-na-estreia-em-wimbledon/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260629__B8Q48T6__v1__MidRes__TennisGbrWimbledon.webp",
-        "data": "2026-06-29T21:52:59.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -90,7 +98,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-30",
-        "data": "2026-06-30T13:24:16.326Z",
+        "data": "2026-06-30T16:02:26.905Z",
         "id": "curado-feminino-0"
       },
       {
@@ -99,7 +107,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-30",
-        "data": "2026-06-30T10:24:16.326Z",
+        "data": "2026-06-30T13:02:26.905Z",
         "id": "curado-feminino-1"
       },
       {
@@ -108,7 +116,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-30",
-        "data": "2026-06-30T07:24:16.326Z",
+        "data": "2026-06-30T10:02:26.905Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -119,7 +127,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-30",
-        "data": "2026-06-30T13:24:16.326Z",
+        "data": "2026-06-30T16:02:26.905Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -128,7 +136,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-30",
-        "data": "2026-06-30T10:24:16.326Z",
+        "data": "2026-06-30T13:02:26.905Z",
         "id": "curado-jogadores-1"
       },
       {
