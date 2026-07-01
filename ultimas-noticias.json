@@ -1,7 +1,31 @@
 {
-  "ultimaAtualizacao": "2026-07-01T10:28:59.329Z",
+  "ultimaAtualizacao": "2026-07-01T13:18:24.010Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Jornais mexicanos exaltam classificação às oitavas e sonham com campanha histórica no Mundial",
+        "desc": "A imprensa mexicana destacou com entusiasmo a vitória por 2 a 0 sobre o Equador, que garantiu o México nas oitavas da Copa do Mundo de 2026. Jornais exaltaram o fim do jejum em mat...",
+        "url": "https://www.gazetaesportiva.com/times/mexico/mexico-imprensa-celebra-classificacao-oitavas-copa-2026/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260701__B8V94N2__v1__HighRes__FblWc2026Match79MexEcu.webp",
+        "data": "2026-07-01T13:03:44.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Olise, o mago onipresente da França",
+        "desc": "Michael Olise teve atuação decisiva na vitória da França sobre a Suécia, comandando o meio-campo e distribuindo três assistências na partida. Ele participou diretamente dos gols de...",
+        "url": "https://www.gazetaesportiva.com/times/franca/olise-o-mago-onipresente-da-franca/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260630__B8UY973__v1__HighRes__FblWc2026Match77FraSwe.webp",
+        "data": "2026-07-01T11:35:58.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "México &#8216;merecia uma noite como esta&#8217;, comemora Aguirre após classificação para as oitavas da Copa",
+        "desc": "O México conquistou uma vitória histórica ao derrotar o Equador por 2 a 0 e avançar às oitavas de final da Copa do Mundo de 2026, encerrando um jejum de 40 anos sem triunfos em mat...",
+        "url": "https://www.gazetaesportiva.com/times/mexico/mexico-vitoria-historica-oitavas-copa-2026/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260701__B8VA4QM__v1__HighRes__FblWc2026Match79MexEcu.webp",
+        "data": "2026-07-01T11:16:28.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Quem pode substituir Paquetá na Seleção? Veja opções de Ancelotti",
         "desc": "A lesão de Lucas Paquetá obriga Carlo Ancelotti a buscar alternativas no meio-campo da Seleção para as oitavas da Copa. A Gazeta Esportiva lista opções como Danilo Santos, Éderson,...",
@@ -49,30 +73,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/IMG_5630.webp",
         "data": "2026-06-30T21:53:13.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "França x Suécia: veja fotos do jogo da segunda fase da Copa do Mundo",
-        "desc": "O post França x Suécia: veja fotos do jogo da segunda fase da Copa do Mundo apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/franca/franca-x-suecia-veja-fotos-do-jogo-da-segunda-fase-da-copa-do-mundo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260630__B8UV8G2__v1__MidRes__FblWc2026Match77FraSwe.webp",
-        "data": "2026-06-30T21:46:37.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do nvo uniforme do Barcelona para a temporada 2026/27",
-        "desc": "O post Veja fotos do nvo uniforme do Barcelona para a temporada 2026/27 apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/barcelona/veja-fotos-do-nvo-uniforme-do-barcelona-para-a-temporada-2026-27/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/2606_1st_Kit_26-27_App_Gallery_16_9_01_MASC_C.webp",
-        "data": "2026-06-30T21:30:47.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do treino em dois períodos do Santos desta terça",
-        "desc": "O post Veja fotos do treino em dois períodos do Santos desta terça apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/santos/veja-fotos-do-treino-em-dois-periodos-do-santos-desta-terca/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55367118539_eabb52d323_c.webp",
-        "data": "2026-06-30T20:16:59.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -82,7 +82,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-01",
-        "data": "2026-07-01T10:28:59.326Z",
+        "data": "2026-07-01T13:18:24.007Z",
         "id": "curado-feminino-0"
       },
       {
@@ -91,7 +91,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-01",
-        "data": "2026-07-01T07:28:59.327Z",
+        "data": "2026-07-01T10:18:24.008Z",
         "id": "curado-feminino-1"
       },
       {
@@ -100,7 +100,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-01",
-        "data": "2026-07-01T04:28:59.327Z",
+        "data": "2026-07-01T07:18:24.008Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -111,7 +111,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-01",
-        "data": "2026-07-01T10:28:59.327Z",
+        "data": "2026-07-01T13:18:24.008Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -120,7 +120,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-01",
-        "data": "2026-07-01T07:28:59.327Z",
+        "data": "2026-07-01T10:18:24.008Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -129,7 +129,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-01",
-        "data": "2026-07-01T04:28:59.327Z",
+        "data": "2026-07-01T07:18:24.008Z",
         "id": "curado-jogadores-2"
       }
     ]
