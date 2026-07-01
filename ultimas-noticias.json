@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-06-30T23:17:42.128Z",
+  "ultimaAtualizacao": "2026-07-01T01:38:56.582Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Brusque perde do Botafogo-PB com gol de Nenê e desperdiça chance de liderar a Série C",
+        "desc": "O Brusque desperdiçou a chance de assumir a liderança da Série C do Brasileirão na noite desta terça-feira. A equipe foi derrotada pelo Botafogo-PB por 2 a 0 no Almeidão, com um go...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-c/brusque-perde-do-botafogo-pb-com-gol-de-nene-e-desperdica-chance-de-liderar-a-serie-c/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/IMG_5631.webp",
+        "data": "2026-07-01T01:28:41.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "CRB vence Botafogo-SP e se distancia do Z4 da Série B",
+        "desc": "O CRB venceu o Botafogo-SP por 1 a 0 nesta terça-feira (30), na Arena NicNet, em Ribeirão Preto, pela 15ª rodada da Série B do Brasileirão. O gol da partida foi marcado por Dadá Be...",
+        "url": "https://www.gazetaesportiva.com/times/crb/crb-vence-botafogo-sp-e-se-distancia-do-z4-da-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55367725875_ca33513707_o.webp",
+        "data": "2026-07-01T00:57:18.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Veja galeria de fotos do treino do São Paulo nesta terça-feira",
         "desc": "O post Veja galeria de fotos do treino do São Paulo nesta terça-feira apareceu primeiro em Gazeta Esportiva.",
@@ -65,14 +81,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/245726.webp",
         "data": "2026-06-30T18:47:49.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Costa do Marfim x Noruega: veja fotos do jogo pela Copa do Mundo",
-        "desc": "O post Costa do Marfim x Noruega: veja fotos do jogo pela Copa do Mundo apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/costa-do-marfim-x-noruega-veja-fotos-do-jogo-pela-copa-do-mundo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260630__B8U82GN__v1__HighRes__FblWc2026Match78CivNor.webp",
-        "data": "2026-06-30T17:31:57.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -81,8 +89,8 @@
         "desc": "As Leoas venceram o clássico com autoridade por 4 a 1 e continuam invictas na competição nacional de futebol feminino.",
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-06-30",
-        "data": "2026-06-30T23:17:42.119Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-01",
+        "data": "2026-07-01T01:38:56.579Z",
         "id": "curado-feminino-0"
       },
       {
@@ -91,7 +99,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-30",
-        "data": "2026-06-30T20:17:42.119Z",
+        "data": "2026-06-30T22:38:56.579Z",
         "id": "curado-feminino-1"
       },
       {
@@ -100,7 +108,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-30",
-        "data": "2026-06-30T17:17:42.119Z",
+        "data": "2026-06-30T19:38:56.579Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -110,8 +118,8 @@
         "desc": "O veterano meia do Bahia comandou a vitória tricolor com passes decisivos e um belíssimo gol de fora da área, aplaudido de pé.",
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-06-30",
-        "data": "2026-06-30T23:17:42.119Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-01",
+        "data": "2026-07-01T01:38:56.579Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -120,7 +128,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-30",
-        "data": "2026-06-30T20:17:42.119Z",
+        "data": "2026-06-30T22:38:56.579Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -129,7 +137,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-30",
-        "data": "2026-06-30T17:17:42.119Z",
+        "data": "2026-06-30T19:38:56.579Z",
         "id": "curado-jogadores-2"
       }
     ]
