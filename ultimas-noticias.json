@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-07-01T06:23:51.343Z",
+  "ultimaAtualizacao": "2026-07-01T10:28:59.329Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Quem pode substituir Paquetá na Seleção? Veja opções de Ancelotti",
+        "desc": "A lesão de Lucas Paquetá obriga Carlo Ancelotti a buscar alternativas no meio-campo da Seleção para as oitavas da Copa. A Gazeta Esportiva lista opções como Danilo Santos, Éderson,...",
+        "url": "https://www.gazetaesportiva.com/times/brasil/quem-pode-substituir-paqueta-na-selecao-veja-opcoes-de-ancelotti/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260629__2283888277__v1__HighRes__BrazilVJapanRoundOf32FifaWorldCup2026.webp",
+        "data": "2026-07-01T09:00:06.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Paquetá se manifesta após ter lesão confirmada pelo Brasil: &#8220;Vamos juntos até o fim&#8221;",
         "desc": "Horas depois de ser diagnosticado com uma lesão muscular na coxa esquerda, sofrida durante a vitória do Brasil sobre o Japão nesta segunda, Lucas Paquetá se manifestou no Instagram...",
@@ -65,30 +73,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55367118539_eabb52d323_c.webp",
         "data": "2026-06-30T20:16:59.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Brasil x Noruega: data e horário do jogo pelas oitavas de final da Copa do Mundo",
-        "desc": "O Brasil enfrentará a Noruega nas oitavas de final da Copa do Mundo após a vitória dos europeus sobre a Costa do Marfim. A Seleção chega embalada após bater o Japão, mas terá o des...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/brasil-x-noruega-data-e-horario-do-jogo-pelas-oitavas-de-final-da-copa-do-mundo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260629__B8PL9YH__v3__HighRes__TopshotFblWc2026Match76BraJpn.webp",
-        "data": "2026-06-30T19:26:16.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja galeria de fotos do treino da Seleção Brasileira nesta terça-feira",
-        "desc": "O post Veja galeria de fotos do treino da Seleção Brasileira nesta terça-feira apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/brasil/veja-galeria-de-fotos-do-treino-da-selecao-brasileira-nesta-terca-feira/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/30JUN2026TREINOREDBULL2-CRISTIANO-NUNES-CARLO-ANCELOTTI.webp",
-        "data": "2026-06-30T18:53:17.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Confira as fotos do treino do Corinthians desta terça-feira",
-        "desc": "O post Confira as fotos do treino do Corinthians desta terça-feira apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/confira-as-fotos-do-treino-do-corinthians-desta-terca-feira-6/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/245726.webp",
-        "data": "2026-06-30T18:47:49.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -98,7 +82,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-01",
-        "data": "2026-07-01T06:23:51.341Z",
+        "data": "2026-07-01T10:28:59.326Z",
         "id": "curado-feminino-0"
       },
       {
@@ -107,7 +91,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-01",
-        "data": "2026-07-01T03:23:51.341Z",
+        "data": "2026-07-01T07:28:59.327Z",
         "id": "curado-feminino-1"
       },
       {
@@ -116,7 +100,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-01",
-        "data": "2026-07-01T00:23:51.341Z",
+        "data": "2026-07-01T04:28:59.327Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -127,7 +111,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-01",
-        "data": "2026-07-01T06:23:51.341Z",
+        "data": "2026-07-01T10:28:59.327Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -136,7 +120,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-01",
-        "data": "2026-07-01T03:23:51.341Z",
+        "data": "2026-07-01T07:28:59.327Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -145,7 +129,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-01",
-        "data": "2026-07-01T00:23:51.341Z",
+        "data": "2026-07-01T04:28:59.327Z",
         "id": "curado-jogadores-2"
       }
     ]
