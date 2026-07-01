@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-07-01T13:18:24.010Z",
+  "ultimaAtualizacao": "2026-07-01T16:04:30.721Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Jesper De Jong x João Fonseca em Wimbledon: siga o placar ao vivo",
+        "desc": "Jesper De Jong x João Fonseca em Wimbledon: siga o placar ao vivo.\nO post Jesper De Jong x João Fonseca em Wimbledon: siga o placar ao vivo apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/mais-esportes/tenis/jesper-de-jong-x-joao-fonseca-wimbledon/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260629__B8NB9UK__v1__HighRes__TennisGbrWimbledon.webp",
+        "data": "2026-07-01T13:38:28.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Jornais mexicanos exaltam classificação às oitavas e sonham com campanha histórica no Mundial",
         "desc": "A imprensa mexicana destacou com entusiasmo a vitória por 2 a 0 sobre o Equador, que garantiu o México nas oitavas da Copa do Mundo de 2026. Jornais exaltaram o fim do jejum em mat...",
@@ -57,22 +65,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55367725875_ca33513707_o.webp",
         "data": "2026-07-01T00:57:18.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja galeria de fotos do treino do São Paulo nesta terça-feira",
-        "desc": "O post Veja galeria de fotos do treino do São Paulo nesta terça-feira apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/veja-galeria-de-fotos-do-treino-do-sao-paulo-nesta-terca-feira-3/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/55366178097_dbb39f0a04_o.webp",
-        "data": "2026-06-30T22:40:13.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Sport anuncia o retorno do técnico Gilmar Dal Pozzo, ex-Chapecoense",
-        "desc": "Nesta terça-feira, o Sport anunciou Gilmar Dal Pozzo como novo técnico do clube. Demitido da Chapecoense em abril deste ano, ele assina com a equipe de Recife até novembro desta te...",
-        "url": "https://www.gazetaesportiva.com/times/sport/sport-anuncia-o-retorno-do-tecnico-gilmar-dal-pozzo-ex-chapecoense/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/IMG_5630.webp",
-        "data": "2026-06-30T21:53:13.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -82,7 +74,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-01",
-        "data": "2026-07-01T13:18:24.007Z",
+        "data": "2026-07-01T16:04:30.719Z",
         "id": "curado-feminino-0"
       },
       {
@@ -91,7 +83,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-01",
-        "data": "2026-07-01T10:18:24.008Z",
+        "data": "2026-07-01T13:04:30.719Z",
         "id": "curado-feminino-1"
       },
       {
@@ -100,7 +92,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-01",
-        "data": "2026-07-01T07:18:24.008Z",
+        "data": "2026-07-01T10:04:30.719Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -111,8 +103,16 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-01",
-        "data": "2026-07-01T13:18:24.008Z",
+        "data": "2026-07-01T16:04:30.719Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Atacante da Inglaterra, Madueke fala sobre a vida no hotel e o gol de Martinelli",
+        "desc": "Noni Madueke revela que ainda não saiu do hotel da seleção da Inglaterra em Kansas City e também comenta o gol da vitória de Gabriel Martinelli pelo Brasil.\nO post Atacante da Ingl...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/atacante-da-inglaterra-madueke-fala-sobre-a-vida-no-hotel-e-o-gol-de-martinelli/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Madueke.webp",
+        "data": "2026-07-01T15:53:19.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
@@ -120,7 +120,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-01",
-        "data": "2026-07-01T10:18:24.008Z",
+        "data": "2026-07-01T13:04:30.719Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -129,7 +129,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-01",
-        "data": "2026-07-01T07:18:24.008Z",
+        "data": "2026-07-01T10:04:30.719Z",
         "id": "curado-jogadores-2"
       }
     ]
