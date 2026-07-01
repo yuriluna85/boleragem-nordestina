@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-07-01T01:38:56.582Z",
+  "ultimaAtualizacao": "2026-07-01T06:23:51.343Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Paquetá se manifesta após ter lesão confirmada pelo Brasil: &#8220;Vamos juntos até o fim&#8221;",
+        "desc": "Horas depois de ser diagnosticado com uma lesão muscular na coxa esquerda, sofrida durante a vitória do Brasil sobre o Japão nesta segunda, Lucas Paquetá se manifestou no Instagram...",
+        "url": "https://www.gazetaesportiva.com/times/brasil/paqueta-se-manifesta-apos-ter-lesao-confirmada-pelo-brasil-vamos-juntos-ate-o-fim/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260629__2283888263__v1__HighRes__BrazilVJapanRoundOf32FifaWorldCup2026-1.webp",
+        "data": "2026-07-01T01:58:28.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Brusque perde do Botafogo-PB com gol de Nenê e desperdiça chance de liderar a Série C",
         "desc": "O Brusque desperdiçou a chance de assumir a liderança da Série C do Brasileirão na noite desta terça-feira. A equipe foi derrotada pelo Botafogo-PB por 2 a 0 no Almeidão, com um go...",
@@ -90,7 +98,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-01",
-        "data": "2026-07-01T01:38:56.579Z",
+        "data": "2026-07-01T06:23:51.341Z",
         "id": "curado-feminino-0"
       },
       {
@@ -98,8 +106,8 @@
         "desc": "Mais de 15 mil torcedores empurraram as Leoas na vitória histórica contra o Bahia. Um novo marco para o esporte feminino no Nordeste.",
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-06-30",
-        "data": "2026-06-30T22:38:56.579Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-01",
+        "data": "2026-07-01T03:23:51.341Z",
         "id": "curado-feminino-1"
       },
       {
@@ -107,8 +115,8 @@
         "desc": "O Tricolor de Aço se reforça visando a disputa do mata-mata do Brasileiro Feminino A2. Apresentação das novas atletas ocorre nesta segunda.",
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-06-30",
-        "data": "2026-06-30T19:38:56.579Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-01",
+        "data": "2026-07-01T00:23:51.341Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -119,7 +127,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-01",
-        "data": "2026-07-01T01:38:56.579Z",
+        "data": "2026-07-01T06:23:51.341Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -127,8 +135,8 @@
         "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-06-30",
-        "data": "2026-06-30T22:38:56.579Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-01",
+        "data": "2026-07-01T03:23:51.341Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -136,8 +144,8 @@
         "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-06-30",
-        "data": "2026-06-30T19:38:56.579Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-01",
+        "data": "2026-07-01T00:23:51.341Z",
         "id": "curado-jogadores-2"
       }
     ]
