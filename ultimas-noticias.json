@@ -1,7 +1,39 @@
 {
-  "ultimaAtualizacao": "2026-07-02T16:04:02.821Z",
+  "ultimaAtualizacao": "2026-07-02T18:12:27.229Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Zverev avança em Wimbledon após vitória fácil contra Royer",
+        "desc": "Alexander Zverev avançou à terceira rodada de Wimbledon ao vencer o francês Valentin Royer em sets diretos. Atual campeão de Roland Garros e número 3 do mundo, o alemão busca conqu...",
+        "url": "https://www.gazetaesportiva.com/mais-esportes/tenis/zverev-avanca-em-wimbledon-apos-vitoria-facil-contra-royer/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260702__B93H98L__v1__HighRes__TennisGbrWimbledon.webp",
+        "data": "2026-07-02T17:53:30.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Bahia treina visando amistoso internacional contra o City Torque, do Uruguai",
+        "desc": "O Bahia deu sequência à preparação para o amistoso contra o City Torque, do Uruguai, em treino realizado na manhã desta quinta-feira, no CT Evaristo de Macedo. A atividade contou c...",
+        "url": "https://www.gazetaesportiva.com/times/bahia/bahia-treina-visando-amistoso-internacional-contra-o-city-torque-do-uruguai/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/bah.webp",
+        "data": "2026-07-02T17:51:04.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "França treina em Boston após vitória sobre a Suécia",
+        "desc": "Depois de garantir a vaga nos dezesseis-avos de final contra a Suécia, a seleção francesa voltou ao trabalho com um treino em Boston.\nO post França treina em Boston após vitória so...",
+        "url": "https://www.gazetaesportiva.com/times/franca/franca-treina-em-boston-apos-vitoria-sobre-a-suecia/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/ost.webp",
+        "data": "2026-07-02T16:26:48.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Swiatek se classifica para terceira rodada de Wimbledon",
+        "desc": "A polonesa Iga Swiatek, atual campeã de Wimbledon e número 3 do mundo, confirmou o favoritismo ao derrotar a tcheca Karolína Pliskova por 6-1 e 6-3. Com a vitória na segunda rodada...",
+        "url": "https://www.gazetaesportiva.com/mais-esportes/tenis/iga-swiatek-avanca-terceira-rodada-wimbledon/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260702__B92M7FY__v1__HighRes__TennisGbrWimbledon.webp",
+        "data": "2026-07-02T16:24:43.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Veja fotos do treino do Brasil com titulares nesta quinta-feira",
         "desc": "Veja fotos do treino do Brasil com titulares nesta quinta-feira.\nO post Veja fotos do treino do Brasil com titulares nesta quinta-feira apareceu primeiro em Gazeta Esportiva.",
@@ -41,14 +73,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/tgflx90w-1920.webp",
         "data": "2026-07-01T23:28:21.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Fortaleza x Ponte Preta: veja onde assistir e prováveis escalações do confronto pelo Brasileirão Série B",
-        "desc": "Fortaleza e Ponte Preta se enfrentam nesta quinta-feira, às 21h, no Estádio Governador Plácido Castelo, pela 16ª rodada da Série B. O Fortaleza chega embalado pela vitória sobre o ...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/fortaleza-x-ponte-preta-veja-onde-assistir-e-provaveis-escalacoes-do-confronto-pelo-brasileirao-serie-b/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/@viniciussouzafoto-21.webp",
-        "data": "2026-07-01T23:00:07.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -58,7 +82,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-02",
-        "data": "2026-07-02T16:04:02.818Z",
+        "data": "2026-07-02T18:12:27.226Z",
         "id": "curado-feminino-0"
       },
       {
@@ -67,7 +91,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-02",
-        "data": "2026-07-02T13:04:02.818Z",
+        "data": "2026-07-02T15:12:27.226Z",
         "id": "curado-feminino-1"
       },
       {
@@ -76,7 +100,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-02",
-        "data": "2026-07-02T10:04:02.818Z",
+        "data": "2026-07-02T12:12:27.226Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -87,7 +111,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-02",
-        "data": "2026-07-02T16:04:02.818Z",
+        "data": "2026-07-02T18:12:27.227Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -104,7 +128,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-02",
-        "data": "2026-07-02T13:04:02.818Z",
+        "data": "2026-07-02T15:12:27.227Z",
         "id": "curado-jogadores-1"
       },
       {
