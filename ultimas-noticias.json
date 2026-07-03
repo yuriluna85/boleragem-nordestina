@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-07-03T18:45:55.020Z",
+  "ultimaAtualizacao": "2026-07-03T20:12:18.948Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Veja fotos do treino do São Paulo nesta sexta-feira",
+        "desc": "O post Veja fotos do treino do São Paulo nesta sexta-feira apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-treino-do-sao-paulo-nesta-sexta-feira-17/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55372630249_1276216d19_k-1.webp",
+        "data": "2026-07-03T19:17:32.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Bahia anuncia renovação com zagueiro Marcos Victor até 2029",
         "desc": "O Bahia anunciou nesta sexta-feira a renovação de contrato do zagueiro Marcos Victor. O defensor assinou um novo vínculo válido por mais duas temporadas, estendendo sua permanência...",
@@ -50,7 +58,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-03",
-        "data": "2026-07-03T18:45:55.016Z",
+        "data": "2026-07-03T20:12:18.944Z",
         "id": "curado-feminino-0"
       },
       {
@@ -59,7 +67,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-03",
-        "data": "2026-07-03T15:45:55.016Z",
+        "data": "2026-07-03T17:12:18.944Z",
         "id": "curado-feminino-1"
       },
       {
@@ -68,7 +76,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-03",
-        "data": "2026-07-03T12:45:55.016Z",
+        "data": "2026-07-03T14:12:18.944Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -79,7 +87,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-03",
-        "data": "2026-07-03T18:45:55.016Z",
+        "data": "2026-07-03T20:12:18.944Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -88,8 +96,17 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-03",
-        "data": "2026-07-03T15:45:55.016Z",
+        "data": "2026-07-03T17:12:18.944Z",
         "id": "curado-jogadores-1"
+      },
+      {
+        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
+        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
+        "fonte": "Vozão Diário",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-03",
+        "data": "2026-07-03T14:12:18.944Z",
+        "id": "curado-jogadores-2"
       },
       {
         "titulo": "Atacante da França, Olise assume o volante no &#8216;Mario Kart&#8217;",
@@ -98,15 +115,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Olis.webp",
         "data": "2026-07-03T13:05:14.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
-        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
-        "fonte": "Vozão Diário",
-        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-03",
-        "data": "2026-07-03T12:45:55.016Z",
-        "id": "curado-jogadores-2"
       }
     ]
   }
