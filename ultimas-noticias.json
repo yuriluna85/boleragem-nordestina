@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-07-04T17:01:09.820Z",
+  "ultimaAtualizacao": "2026-07-04T18:30:43.276Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Veja galeria de fotos do último treino da Seleção antes do jogo contra a Noruega",
+        "desc": "O post Veja galeria de fotos do último treino da Seleção antes do jogo contra a Noruega apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/brasil/veja-galeria-de-fotos-do-ultimo-treino-da-selecao-antes-do-jogo-contra-a-noruega/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/04JUL2026TREINOREDBULL06TAFFARELRAPHINHA.webp",
+        "data": "2026-07-04T18:25:30.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "João Ananias celebra primeiro gol como profissional pelo Santos: &#8220;Sensação inexplicável&#8221;",
         "desc": "João Ananias foi um dos destaques da vitória do Santos por 3 a 0 sobre o União São João, em amistoso disputado neste sábado. O jovem marcou um dos três gols da equipe e, após a par...",
@@ -73,14 +81,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/HJHpxx8WkAAXlSz-1.webp",
         "data": "2026-07-03T23:00:35.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Londrina x CRB pela Série B do Brasileiro: veja prováveis escalações e onde assistir",
-        "desc": "Londrina e CRB se enfrentam neste sábado, às 16h (de Brasília), no Estádio do Café, pela 16ª rodada da Série B. O Tubarão tenta deixar a zona de rebaixamento após três jogos de inv...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/londrina-x-crb-pela-serie-b-do-brasileiro-veja-provaveis-escalacoes-e-onde-assistir/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55367653949_b5d1f08c8d_k.webp",
-        "data": "2026-07-03T23:00:07.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -90,7 +90,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-04",
-        "data": "2026-07-04T17:01:09.816Z",
+        "data": "2026-07-04T18:30:43.272Z",
         "id": "curado-feminino-0"
       },
       {
@@ -99,7 +99,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-04",
-        "data": "2026-07-04T14:01:09.816Z",
+        "data": "2026-07-04T15:30:43.272Z",
         "id": "curado-feminino-1"
       },
       {
@@ -108,7 +108,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-04",
-        "data": "2026-07-04T11:01:09.816Z",
+        "data": "2026-07-04T12:30:43.272Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -119,7 +119,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-04",
-        "data": "2026-07-04T17:01:09.817Z",
+        "data": "2026-07-04T18:30:43.272Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -128,7 +128,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-04",
-        "data": "2026-07-04T14:01:09.817Z",
+        "data": "2026-07-04T15:30:43.272Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -137,16 +137,8 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-04",
-        "data": "2026-07-04T11:01:09.817Z",
+        "data": "2026-07-04T12:30:43.272Z",
         "id": "curado-jogadores-2"
-      },
-      {
-        "titulo": "Wallace explica escolha pelo Grêmio e promete entrega total",
-        "desc": "Zagueiro Wallace é mais um reforço para esta temporada. Destaque do CRB/AL, o atleta chegou a Porto Alegre e integrou-se ao elenco após assinar contrato por cinco temporadas.\nO pos...",
-        "url": "https://www.gazetaesportiva.com/times/gremio/wallace-explica-escolha-pelo-gremio-e-promete-entrega-total/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Wallac.webp",
-        "data": "2026-07-03T22:10:37.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ]
   }
