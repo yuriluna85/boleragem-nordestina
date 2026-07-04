@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-07-04T22:27:28.701Z",
+  "ultimaAtualizacao": "2026-07-04T23:33:03.948Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "CRB demite técnico Eduardo Barroca após goleada para o Londrina",
+        "desc": "O CRB anunciou a saída do técnico Eduardo Barroca após a goleada por 5 a 0 sofrida diante do Londrina pela 16ª rodada da Série B do Campeonato Brasileiro. A decisão foi tomada em c...",
+        "url": "https://www.gazetaesportiva.com/times/crb/crb-anuncia-saida-eduardo-barroca/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55370457343_a66db537a7_k.webp",
+        "data": "2026-07-04T23:01:16.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Náutico x Juventude: veja prováveis escalações e onde assistir ao confronto pela Série B",
+        "desc": "Náutico e Juventude se enfrentam neste domingo, nos Aflitos, pela 16ª rodada da Série B do Campeonato Brasileiro. Enquanto o Timbu busca se aproximar da parte de cima da tabela, a ...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/nautico-x-juventude-veja-provaveis-escalacoes-e-onde-assistir-ao-confronto-pela-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/HL7dPA6W4AARG6T.webp",
+        "data": "2026-07-04T23:00:25.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Veja as fotos de Paraguai x França pela Copa do Mundo",
         "desc": "O post Veja as fotos de Paraguai x França pela Copa do Mundo apareceu primeiro em Gazeta Esportiva.",
@@ -65,30 +81,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/HMZTdLDWMAAMoEw-1.webp",
         "data": "2026-07-04T16:35:53.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "&#8220;Como uma vitória&#8221;: apesar da eliminação, Cabo Verde festeja grande jogo contra Argentina",
-        "desc": "Aplausos, tambores e buzinas: a derrota de Cabo Verde para a Argentina na prorrogação foi celebrada na madrugada em Praia como se fosse uma vitória, embora tenha marcado o fim do s...",
-        "url": "https://www.gazetaesportiva.com/cabo-verde/como-uma-vitoria-apesar-da-eliminacao-cabo-verde-festeja-grande-jogo-contra-argentina/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260704__B98R6J2__v1__HighRes__FblWc2026Match86ArgCpv.webp",
-        "data": "2026-07-04T13:26:16.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "&#8220;Fizeram uma partidaça&#8221;, comemora técnico da Colômbia após classificação para oitavas da Copa",
-        "desc": "O técnico da Colômbia, o argentino Néstor Lorenzo, classificou a vitória de sua equipe por 1 a 0 sobre Gana na sexta-feira (3), que garantiu a vaga nas oitavas de final da Copa do ...",
-        "url": "https://www.gazetaesportiva.com/times/colombia/fizeram-uma-partidaca-comemora-tecnico-da-colombia-apos-classificacao-para-oitavas-da-copa/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260704__B98V6TP__v1__HighRes__FblWc2026Match87ColGha.webp",
-        "data": "2026-07-04T12:36:24.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos da corrida sprint do GP da Grã-Bretanha de F1",
-        "desc": "O post Veja fotos da corrida sprint do GP da Grã-Bretanha de F1 apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/motor/formula-1/veja-fotos-da-corrida-sprint-do-gp-da-gra-bretanha-de-f1/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260704__B99D2TX__v1__HighRes__776432944.webp",
-        "data": "2026-07-04T12:15:11.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -98,7 +90,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-04",
-        "data": "2026-07-04T22:27:28.698Z",
+        "data": "2026-07-04T23:33:03.945Z",
         "id": "curado-feminino-0"
       },
       {
@@ -107,7 +99,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-04",
-        "data": "2026-07-04T19:27:28.698Z",
+        "data": "2026-07-04T20:33:03.945Z",
         "id": "curado-feminino-1"
       },
       {
@@ -116,7 +108,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-04",
-        "data": "2026-07-04T16:27:28.698Z",
+        "data": "2026-07-04T17:33:03.945Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -127,7 +119,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-04",
-        "data": "2026-07-04T22:27:28.698Z",
+        "data": "2026-07-04T23:33:03.945Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -136,7 +128,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-04",
-        "data": "2026-07-04T19:27:28.698Z",
+        "data": "2026-07-04T20:33:03.945Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -145,7 +137,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-04",
-        "data": "2026-07-04T16:27:28.698Z",
+        "data": "2026-07-04T17:33:03.945Z",
         "id": "curado-jogadores-2"
       }
     ]
