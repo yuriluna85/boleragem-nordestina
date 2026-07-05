@@ -1,12 +1,20 @@
 {
-  "ultimaAtualizacao": "2026-07-05T16:05:14.172Z",
+  "ultimaAtualizacao": "2026-07-05T17:35:26.923Z",
   "dados": {
     "masculino": [
       {
-        "titulo": "Leclerc vence GP de Silverstone e quebra jejum de quase dois anos na F1",
+        "titulo": "Melhores momentos da vitória do San Diego Wave sobre o Gotham pela NWSL",
+        "desc": "Melhores momentos da vitória do San Diego Wave sobre o Gotham pela NWSL\nO post Melhores momentos da vitória do San Diego Wave sobre o Gotham pela NWSL apareceu primeiro em Gazeta E...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-da-vitoria-do-san-diego-wave-sobre-o-gotham-pela-nwsl/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/San-Di.webp",
+        "data": "2026-07-05T17:13:53.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Leclerc vence GP da Inglaterra e quebra jejum na F1; Bortoleto é 8º",
         "desc": "Charles Leclerc venceu o GP de Silverstone da Fórmula 1, conquistando sua primeira vitória desde outubro de 2024. O piloto da Ferrari liderou a corrida após ultrapassar Kimi Antone...",
         "url": "https://www.gazetaesportiva.com/motor/formula-1/leclerc-vence-gp-silverstone-f1-resultado/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260705__B9B687Q__v1__HighRes__AutoPrixF1Gbr.webp",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260705__B9BA38X__v1__HighRes__76432945.webp",
         "data": "2026-07-05T15:55:48.000Z",
         "fonte": "Gazeta Esportiva"
       },
@@ -106,7 +114,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-05",
-        "data": "2026-07-05T16:05:14.167Z",
+        "data": "2026-07-05T17:35:26.919Z",
         "id": "curado-feminino-0"
       },
       {
@@ -115,7 +123,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-05",
-        "data": "2026-07-05T13:05:14.167Z",
+        "data": "2026-07-05T14:35:26.919Z",
         "id": "curado-feminino-1"
       },
       {
@@ -124,7 +132,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-05",
-        "data": "2026-07-05T10:05:14.167Z",
+        "data": "2026-07-05T11:35:26.919Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -135,7 +143,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-05",
-        "data": "2026-07-05T16:05:14.167Z",
+        "data": "2026-07-05T17:35:26.920Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -144,7 +152,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-05",
-        "data": "2026-07-05T13:05:14.167Z",
+        "data": "2026-07-05T14:35:26.920Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -153,7 +161,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-05",
-        "data": "2026-07-05T10:05:14.167Z",
+        "data": "2026-07-05T11:35:26.920Z",
         "id": "curado-jogadores-2"
       }
     ]
