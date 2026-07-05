@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-07-05T09:40:11.833Z",
+  "ultimaAtualizacao": "2026-07-05T11:27:57.160Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Relembre em fotos o último jogo entre Brasil e Noruega na Copa do Mundo",
+        "desc": "O post Relembre em fotos o último jogo entre Brasil e Noruega na Copa do Mundo apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/relembre-em-fotos-o-ultimo-jogo-entre-brasil-e-noruega-na-copa-do-mundo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/57.webp",
+        "data": "2026-07-05T11:00:44.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Atuações: Juninho sai do banco e brilha em vitória do Santos",
         "desc": "O Santos venceu o União São João por 3 a 0 neste sábado, na Mercado Livre Arena Pacaembu, em São Paulo, em amistoso de intertemporada durante a pausa do calendário para a Copa do M...",
@@ -89,22 +97,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Bah.webp",
         "data": "2026-07-04T19:33:23.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos da vitória do Angel City sobre o Orlando Pride pela NWSL",
-        "desc": "Melhores momentos da vitória do Angel City sobre o Orlando Pride pela NWSL\nO post Melhores momentos da vitória do Angel City sobre o Orlando Pride pela NWSL apareceu primeiro em Ga...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-da-vitoria-do-angel-city-sobre-o-orlando-pride-pela-nwsl/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Ang.webp",
-        "data": "2026-07-04T19:08:07.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja galeria de fotos do último treino da Seleção antes do jogo contra a Noruega",
-        "desc": "O post Veja galeria de fotos do último treino da Seleção antes do jogo contra a Noruega apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/brasil/veja-galeria-de-fotos-do-ultimo-treino-da-selecao-antes-do-jogo-contra-a-noruega/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/04JUL2026TREINOREDBULL06TAFFARELRAPHINHA.webp",
-        "data": "2026-07-04T18:25:30.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -114,7 +106,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-05",
-        "data": "2026-07-05T09:40:11.830Z",
+        "data": "2026-07-05T11:27:57.157Z",
         "id": "curado-feminino-0"
       },
       {
@@ -123,7 +115,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-05",
-        "data": "2026-07-05T06:40:11.830Z",
+        "data": "2026-07-05T08:27:57.157Z",
         "id": "curado-feminino-1"
       },
       {
@@ -132,7 +124,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-05",
-        "data": "2026-07-05T03:40:11.830Z",
+        "data": "2026-07-05T05:27:57.157Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -143,7 +135,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-05",
-        "data": "2026-07-05T09:40:11.830Z",
+        "data": "2026-07-05T11:27:57.157Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -152,7 +144,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-05",
-        "data": "2026-07-05T06:40:11.830Z",
+        "data": "2026-07-05T08:27:57.157Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -161,7 +153,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-05",
-        "data": "2026-07-05T03:40:11.830Z",
+        "data": "2026-07-05T05:27:57.157Z",
         "id": "curado-jogadores-2"
       }
     ]
