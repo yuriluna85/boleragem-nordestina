@@ -1,7 +1,31 @@
 {
-  "ultimaAtualizacao": "2026-07-05T17:35:26.923Z",
+  "ultimaAtualizacao": "2026-07-05T19:12:49.521Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Maxi Scheib vence GP1000 em Curvelo e assume liderança do campeonato",
+        "desc": "O chileno Maxi Scheib conquistou neste domingo a vitória na corrida principal da GP1000 by Motul durante a terceira etapa do MOTO1000GP, disputada em Curvelo (MG). O piloto da JD43...",
+        "url": "https://www.gazetaesportiva.com/motor/maxi-scheib-vence-gp1000-moto1000gp-curvelo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Captura-de-tela-2026-07-05-152812.webp",
+        "data": "2026-07-05T18:35:58.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Lucas di Grassi brilha em Xangai e volta a vencer na Fórmula E após quase quatro anos",
+        "desc": "Lucas di Grassi protagonizou uma atuação histórica no ePrix de Xangai ao sair da 18ª posição do grid para conquistar a vitória e garantir o primeiro triunfo da Lola Yamaha ABT na F...",
+        "url": "https://www.gazetaesportiva.com/motor/lucas-di-grassi-brilha-em-xangai-e-volta-a-vencer-na-formula-e-apos-quase-quatro-anos/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/WhatsApp-Image-2026-07-05-at-14.14.29.webp",
+        "data": "2026-07-05T18:23:25.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Fifa suspende expulsão, e Balogun é liberado para enfrentar a Bélgica nas oitavas",
+        "desc": "A Fifa confirmou que Folarin Balogun poderá atuar normalmente contra a Bélgica pelas oitavas de final da Copa do Mundo de 2026. Expulso na vitória sobre a Bósnia e Herzegovina, o a...",
+        "url": "https://www.gazetaesportiva.com/times/estados-unidos/fifa-suspende-expulsao-e-balogun-e-liberado-para-enfrentar-a-belgica-nas-oitavas/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260703__2284419977__v1__MidRes__UsaVBosniaAndHerzegovinaRoundOf32FifaWorldCup.webp",
+        "data": "2026-07-05T17:57:44.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Melhores momentos da vitória do San Diego Wave sobre o Gotham pela NWSL",
         "desc": "Melhores momentos da vitória do San Diego Wave sobre o Gotham pela NWSL\nO post Melhores momentos da vitória do San Diego Wave sobre o Gotham pela NWSL apareceu primeiro em Gazeta E...",
@@ -81,30 +105,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260704__B9AB3FK__v1__MidRes__FblWc2026Match89ParFra.webp",
         "data": "2026-07-04T22:14:33.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja as fotos do jogo-treino entre São Paulo e Bragantino neste sábado",
-        "desc": "O post Veja as fotos do jogo-treino entre São Paulo e Bragantino neste sábado apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/veja-as-fotos-do-jogo-treino-entre-sao-paulo-e-bragantino-neste-sabado/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/img_9298-jpg-1024x727-1.webp",
-        "data": "2026-07-04T22:00:00.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Londrina goleia o CRB e deixa o Z4 da Série B",
-        "desc": "O Londrina goleou o CRB por 5 a 0 no Estádio Vitorino Gonçalves Dias, pela 16ª rodada da Série B do Campeonato Brasileiro. Com dois gols de Bruno Santos e gols de Iago Teles, Lucas...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/londrina-goleia-crb-serie-b-16-rodada/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55374350483_0f9757507c_o.webp",
-        "data": "2026-07-04T21:52:00.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Criciúma derrota o Sport e encosta na ponta da Série B",
-        "desc": "O Criciúma venceu o Sport por 1 a 0 neste sábado, no Heriberto Hülse, pela 16ª rodada da Série B. Após ter um gol anulado por impedimento, Waguininho voltou a balançar as redes ain...",
-        "url": "https://www.gazetaesportiva.com/times/criciuma/criciuma-derrota-o-sport-e-encosta-na-ponta-da-serie-b/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/2715-20874.webp",
-        "data": "2026-07-04T21:39:55.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -114,7 +114,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-05",
-        "data": "2026-07-05T17:35:26.919Z",
+        "data": "2026-07-05T19:12:49.517Z",
         "id": "curado-feminino-0"
       },
       {
@@ -123,7 +123,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-05",
-        "data": "2026-07-05T14:35:26.919Z",
+        "data": "2026-07-05T16:12:49.517Z",
         "id": "curado-feminino-1"
       },
       {
@@ -132,7 +132,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-05",
-        "data": "2026-07-05T11:35:26.919Z",
+        "data": "2026-07-05T13:12:49.517Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -143,7 +143,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-05",
-        "data": "2026-07-05T17:35:26.920Z",
+        "data": "2026-07-05T19:12:49.517Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -152,7 +152,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-05",
-        "data": "2026-07-05T14:35:26.920Z",
+        "data": "2026-07-05T16:12:49.517Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -161,7 +161,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-05",
-        "data": "2026-07-05T11:35:26.920Z",
+        "data": "2026-07-05T13:12:49.517Z",
         "id": "curado-jogadores-2"
       }
     ]
