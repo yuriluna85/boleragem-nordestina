@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-07-06T05:53:17.866Z",
+  "ultimaAtualizacao": "2026-07-06T10:13:01.923Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Meninos da Vila devem ganhar mais chances com Cuca no Santos durante o 2º semestre",
+        "desc": "Após a vitória por 3 a 0 sobre o União São João no amistoso, o técnico Cuca falou sobre a situação das jovens promessas do Santos.\nO post Meninos da Vila devem ganhar mais chances ...",
+        "url": "https://www.gazetaesportiva.com/times/santos/meninos-da-vila-devem-ganhar-mais-chances-com-cuca-no-santos-durante-o-2o-semestre/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55303236492_c071d225d4_o.webp",
+        "data": "2026-07-06T10:00:19.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Botafogo-PB vence Anápolis-GO fora de casa e entra no G8 da Série C",
         "desc": "O Botafogo-PB visitou o Anápolis-GO no Estádio Jonas Duarte na noite deste domingo e venceu os goianos por 2 a 0, pela 13ª rodada da Série C. Dudu Hatamoto e Rodolfo foram às redes...",
@@ -41,14 +49,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260705__B9BQ8JE__v1__HighRes__FblWc2026Match91BraNor.webp",
         "data": "2026-07-05T22:34:27.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Maxi Scheib vence GP1000 em Curvelo e assume liderança do campeonato",
-        "desc": "O chileno Maxi Scheib conquistou neste domingo a vitória na corrida principal da GP1000 by Motul durante a terceira etapa do MOTO1000GP, disputada em Curvelo (MG). O piloto da JD43...",
-        "url": "https://www.gazetaesportiva.com/motor/maxi-scheib-vence-gp1000-moto1000gp-curvelo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Captura-de-tela-2026-07-05-152812.webp",
-        "data": "2026-07-05T18:35:58.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -58,7 +58,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-06",
-        "data": "2026-07-06T05:53:17.861Z",
+        "data": "2026-07-06T10:13:01.919Z",
         "id": "curado-feminino-0"
       },
       {
@@ -67,7 +67,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-06",
-        "data": "2026-07-06T02:53:17.861Z",
+        "data": "2026-07-06T07:13:01.919Z",
         "id": "curado-feminino-1"
       },
       {
@@ -75,8 +75,8 @@
         "desc": "O Tricolor de Aço se reforça visando a disputa do mata-mata do Brasileiro Feminino A2. Apresentação das novas atletas ocorre nesta segunda.",
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-05",
-        "data": "2026-07-05T23:53:17.861Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-06",
+        "data": "2026-07-06T04:13:01.919Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -87,7 +87,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-06",
-        "data": "2026-07-06T05:53:17.861Z",
+        "data": "2026-07-06T10:13:01.919Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -96,7 +96,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-06",
-        "data": "2026-07-06T02:53:17.861Z",
+        "data": "2026-07-06T07:13:01.919Z",
         "id": "curado-jogadores-1"
       },
       {
