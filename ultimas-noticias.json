@@ -1,15 +1,14 @@
 {
-  "ultimaAtualizacao": "2026-07-07T16:27:43.811Z",
+  "ultimaAtualizacao": "2026-07-07T18:30:34.304Z",
   "dados": {
     "masculino": [
       {
-        "titulo": "Sport Recife e Bahia empatam clássico na Ilha do Retiro por 2 a 2",
-        "desc": "Em um jogo emocionante e cheio de alternativas, Leão da Ilha e Esquadrão dividiram pontos pela Série A do Brasileirão. Gols saíram no segundo tempo.",
-        "fonte": "Nordestão FC",
-        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-masculino-0-2026-07-07",
-        "data": "2026-07-07T16:27:43.807Z",
-        "id": "curado-masculino-0"
+        "titulo": "Veja fotos do treino do Corinthians desta terça-feira",
+        "desc": "Veja uma galeria de fotos do treino do Corinthians realizado nesta terça-feira.\nO post Veja fotos do treino do Corinthians desta terça-feira apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-desta-terca-feira-26/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/246060.webp",
+        "data": "2026-07-07T17:04:50.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Aleksandar Stanković está de volta à Inter de Milão",
@@ -43,7 +42,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-07",
-        "data": "2026-07-07T16:27:43.807Z",
+        "data": "2026-07-07T18:30:34.299Z",
         "id": "curado-feminino-0"
       },
       {
@@ -52,7 +51,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-07",
-        "data": "2026-07-07T13:27:43.807Z",
+        "data": "2026-07-07T15:30:34.299Z",
         "id": "curado-feminino-1"
       },
       {
@@ -61,7 +60,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-07",
-        "data": "2026-07-07T10:27:43.807Z",
+        "data": "2026-07-07T12:30:34.299Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -72,7 +71,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-07",
-        "data": "2026-07-07T16:27:43.807Z",
+        "data": "2026-07-07T18:30:34.299Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -81,8 +80,17 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-07",
-        "data": "2026-07-07T13:27:43.807Z",
+        "data": "2026-07-07T15:30:34.299Z",
         "id": "curado-jogadores-1"
+      },
+      {
+        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
+        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
+        "fonte": "Vozão Diário",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-07",
+        "data": "2026-07-07T12:30:34.299Z",
+        "id": "curado-jogadores-2"
       },
       {
         "titulo": "Novo reforço do River Plate, Borré brilha em casa com golaços",
@@ -91,15 +99,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Borr.webp",
         "data": "2026-07-07T11:14:32.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
-        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
-        "fonte": "Vozão Diário",
-        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-07",
-        "data": "2026-07-07T10:27:43.807Z",
-        "id": "curado-jogadores-2"
       }
     ]
   }
