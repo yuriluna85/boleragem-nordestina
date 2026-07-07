@@ -1,7 +1,16 @@
 {
-  "ultimaAtualizacao": "2026-07-07T08:20:31.610Z",
+  "ultimaAtualizacao": "2026-07-07T11:23:25.434Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Sport Recife e Bahia empatam clássico na Ilha do Retiro por 2 a 2",
+        "desc": "Em um jogo emocionante e cheio de alternativas, Leão da Ilha e Esquadrão dividiram pontos pela Série A do Brasileirão. Gols saíram no segundo tempo.",
+        "fonte": "Nordestão FC",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-0-2026-07-07",
+        "data": "2026-07-07T11:23:25.428Z",
+        "id": "curado-masculino-0"
+      },
       {
         "titulo": "De la Fuente elogia Merino e fala sobre Cristiano Ronaldo após classificação da Espanha",
         "desc": "Luis de la Fuente celebrou a classificação da Espanha às quartas de final da Copa do Mundo após a vitória por 1 a 0 sobre Portugal. O treinador exaltou Mikel Merino, autor do gol d...",
@@ -25,30 +34,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260706__B9C87B6__v4__HighRes__TopshotFblWc2026Match92MexEng.webp",
         "data": "2026-07-06T21:55:34.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do treino do Corinthians desta segunda-feira",
-        "desc": "Veja uma galeria de fotos do treino do Corinthians realizado nesta segunda-feira.\nO post Veja fotos do treino do Corinthians desta segunda-feira apareceu primeiro em Gazeta Esporti...",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-desta-segunda-feira-21/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/246008.webp",
-        "data": "2026-07-06T19:30:01.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do treino do São Paulo nesta segunda-feira",
-        "desc": "O post Veja fotos do treino do São Paulo nesta segunda-feira apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-treino-do-sao-paulo-nesta-segunda-feira-9/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55378164881_4bb992ff85_k.webp",
-        "data": "2026-07-06T19:24:57.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Portugal x Espanha: veja fotos do jogo pelas oitavas da Copa",
-        "desc": "O post Portugal x Espanha: veja fotos do jogo pelas oitavas da Copa apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/portugal-x-espanha-veja-fotos-do-jogo-pelas-oitavas-da-copa/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260706__B9F487Q__v1__HighRes__FblWc2026Match93PorEsp.webp",
-        "data": "2026-07-06T19:19:57.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -58,7 +43,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-07",
-        "data": "2026-07-07T08:20:31.607Z",
+        "data": "2026-07-07T11:23:25.428Z",
         "id": "curado-feminino-0"
       },
       {
@@ -67,7 +52,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-07",
-        "data": "2026-07-07T05:20:31.607Z",
+        "data": "2026-07-07T08:23:25.428Z",
         "id": "curado-feminino-1"
       },
       {
@@ -76,7 +61,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-07",
-        "data": "2026-07-07T02:20:31.607Z",
+        "data": "2026-07-07T05:23:25.428Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -87,8 +72,16 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-07",
-        "data": "2026-07-07T08:20:31.607Z",
+        "data": "2026-07-07T11:23:25.428Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Novo reforço do River Plate, Borré brilha em casa com golaços",
+        "desc": "Novo reforço do River Plate, Borré brilha em casa com golaços\nO post Novo reforço do River Plate, Borré brilha em casa com golaços apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/river-plate/novo-reforco-do-river-plate-borre-brilha-em-casa-com-golacos/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Borr.webp",
+        "data": "2026-07-07T11:14:32.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
@@ -96,7 +89,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-07",
-        "data": "2026-07-07T05:20:31.607Z",
+        "data": "2026-07-07T08:23:25.428Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -105,14 +98,6 @@
         "url": "https://www.gazetaesportiva.com/times/espanha/o-importante-e-a-imagem-da-equipe-diz-rodri-apos-classificacao-da-espanha-para-quartas-da-copa/",
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260706__2284949202__v1__HighRes__PortugalVSpainRoundOf16FifaWorldCup2026.webp",
         "data": "2026-07-06T22:43:47.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Com gols de Kaio Jorge e Felipe Morais, Cruzeiro vence o Defensor-URU na Arena Independência",
-        "desc": "A Raposa dominou o time uruguaio e garantiu o triunfo por 2 a 0 na Arena Independência. Os atacantes balançaram as redes e carimbaram a vitória celeste.\nO post Com gols de Kaio Jor...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/com-gols-de-kaio-jorge-e-felipe-morais-cruzeiro-vence-o-defensor-uru-no-independencia/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Kaio-Jorge-e-Felipe-Morais.webp",
-        "data": "2026-07-06T18:40:12.000Z",
         "fonte": "Gazeta Esportiva"
       }
     ]
