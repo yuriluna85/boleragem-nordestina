@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-07-08T21:03:53.160Z",
+  "ultimaAtualizacao": "2026-07-08T22:32:03.375Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Lorran marca em amistoso e pode ganhar nova oportunidade no Flamengo",
+        "desc": "Lorran voltou ao Flamengo após período de empréstimo ao Pisa e já deixou sua marca ao abrir o placar na vitória por 2 a 0 sobre o Lausanne, em amistoso pelo Torneio do Algarve, em ...",
+        "url": "https://www.gazetaesportiva.com/times/flamengo/lorran-marca-em-amistoso-e-pode-ganhar-nova-oportunidade-no-flamengo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/1783547068.webp",
+        "data": "2026-07-08T22:11:13.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Flamengo vence time da Suíça e conquista primeira vitória na intertemporada",
+        "desc": "O Flamengo venceu o Lausanne por 2 a 0 nesta quarta-feira, em amistoso de pré-temporada disputado no Estádio Algarve, em Portugal. Após um primeiro tempo sem grandes emoções, Lorra...",
+        "url": "https://www.gazetaesportiva.com/times/flamengo/flamengo-vence-time-da-suica-e-conquista-primeira-vitoria-na-intertemporada/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/HMu9QBbW8AA7IPy.webp",
+        "data": "2026-07-08T21:29:24.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Cuca promove treino tático no Santos antes de teste contra o Osasco Sporting",
         "desc": "O Santos realizou um treino tático no CT Rei Pelé nesta quarta-feira como preparação para o jogo-treino diante do Osasco Sporting. A atividade faz parte da intertemporada comandada...",
@@ -81,22 +97,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Espanh.webp",
         "data": "2026-07-08T13:40:28.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "O TOP 3 da história do futebol segundo os torcedores!",
-        "desc": "O TOP 3 da história do futebol segundo os torcedores!\nO post O TOP 3 da história do futebol segundo os torcedores! apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/o-top-3-da-historia-do-futebol-segundo-os-torcedores/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/TOP.webp",
-        "data": "2026-07-08T12:19:47.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "A reação dos Hermanos após a virada contra o Egito!",
-        "desc": "A reação dos Hermanos após a virada contra o Egito!\nO post A reação dos Hermanos após a virada contra o Egito! apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/argentina/a-reacao-dos-hermanos-apos-a-virada-contra-o-egito/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/ar.webp",
-        "data": "2026-07-08T11:02:29.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -106,7 +106,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-08",
-        "data": "2026-07-08T21:03:53.154Z",
+        "data": "2026-07-08T22:32:03.372Z",
         "id": "curado-feminino-0"
       },
       {
@@ -115,7 +115,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-08",
-        "data": "2026-07-08T18:03:53.154Z",
+        "data": "2026-07-08T19:32:03.372Z",
         "id": "curado-feminino-1"
       },
       {
@@ -124,7 +124,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-08",
-        "data": "2026-07-08T15:03:53.154Z",
+        "data": "2026-07-08T16:32:03.372Z",
         "id": "curado-feminino-2"
       },
       {
@@ -143,8 +143,16 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-08",
-        "data": "2026-07-08T21:03:53.154Z",
+        "data": "2026-07-08T22:32:03.372Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Chelsea oficializa contratação do atacante português Geovany Quenda",
+        "desc": "O Chelsea oficializou a contratação do atacante português Geovany Quenda, de 19 anos, junto ao Sporting. Considerado uma das principais promessas do futebol português, o jogador as...",
+        "url": "https://www.gazetaesportiva.com/times/chelsea/chelsea-oficializa-contratacao-do-atacante-portugues-geovany-quenda/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/HMuJnszXUAEj4Vq.webp",
+        "data": "2026-07-08T21:38:46.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Fortaleza anuncia empréstimo do meia Tomás Pochettino ao Vitória",
@@ -160,14 +168,6 @@
         "url": "https://www.gazetaesportiva.com/times/palmeiras/miguel-brilha-jogo-treino-palmeiras-time-branco/",
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/08072026_cg_palmeiras_3144_112.webp",
         "data": "2026-07-08T15:06:11.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Jogadores da França se divertem com futebol tênis no treino",
-        "desc": "Les Bleus se divertem com futebol tênis no treino\nO post Jogadores da França se divertem com futebol tênis no treino apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/franca/jogadores-da-franca-se-divertem-com-futebol-tenis-no-treino/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Les-Bleus.webp",
-        "data": "2026-07-08T11:50:45.000Z",
         "fonte": "Gazeta Esportiva"
       }
     ]
