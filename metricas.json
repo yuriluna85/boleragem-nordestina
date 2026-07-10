@@ -1,44 +1,44 @@
 {
-  "geradoEm": "2026-07-09T23:45:05.578Z",
+  "geradoEm": "2026-07-10T02:43:22.993Z",
   "totais": {
-    "totalGeral": 1145,
+    "totalGeral": 1151,
     "porCategoria": {
-      "masculino": 691,
-      "feminino": 203,
-      "jogadores": 251
+      "masculino": 694,
+      "feminino": 204,
+      "jogadores": 253
     }
   },
   "porEstado": {
-    "PE": 770,
-    "CE": 865,
-    "BA": 559,
-    "AL": 682,
-    "RN": 125,
-    "PB": 28,
-    "MA": 757,
-    "PI": 86,
-    "SE": 511
+    "PE": 775,
+    "CE": 868,
+    "BA": 563,
+    "AL": 686,
+    "RN": 126,
+    "PB": 29,
+    "MA": 760,
+    "PI": 87,
+    "SE": 514
   },
   "topClubes": [
     {
       "nome": "Sport",
-      "total": 523
+      "total": 524
     },
     {
       "nome": "Vitória",
-      "total": 422
+      "total": 424
     },
     {
       "nome": "Bahia",
-      "total": 158
+      "total": 160
     },
     {
       "nome": "Fortaleza",
-      "total": 119
+      "total": 121
     },
     {
       "nome": "Ceará",
-      "total": 98
+      "total": 99
     }
   ],
   "fontesRanking": [
@@ -48,7 +48,7 @@
     },
     {
       "nome": "Bahia Esportes",
-      "total": 61
+      "total": 62
     },
     {
       "nome": "Diário do Ceará",
@@ -59,11 +59,11 @@
       "total": 58
     },
     {
-      "nome": "Salvador News",
-      "total": 34
+      "nome": "Ceará Esportes",
+      "total": 35
     },
     {
-      "nome": "Ceará Esportes",
+      "nome": "Salvador News",
       "total": 34
     },
     {
@@ -79,16 +79,16 @@
       "total": 24
     },
     {
+      "nome": "Portal Paraíba",
+      "total": 21
+    },
+    {
       "nome": "Maranhão Esportivo",
       "total": 21
     },
     {
       "nome": "Recife Gols",
       "total": 21
-    },
-    {
-      "nome": "Portal Paraíba",
-      "total": 20
     },
     {
       "nome": "RN Esportivo",
@@ -108,15 +108,15 @@
     },
     {
       "nome": "Nordestão FC",
-      "total": 5
+      "total": 6
     },
     {
       "nome": "Diário de Esportes",
-      "total": 4
+      "total": 5
     },
     {
       "nome": "Bahia Notícias",
-      "total": 3
+      "total": 4
     }
   ]
 }
