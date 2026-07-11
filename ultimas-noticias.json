@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao": "2026-07-11T14:00:05.973Z",
+  "ultimaAtualizacao": "2026-07-11T15:04:32.161Z",
   "dados": {
     "masculino": [
       {
@@ -49,14 +49,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Dale.webp",
         "data": "2026-07-10T21:41:41.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do duelo entre Espanha e Bélgica pela Copa do Mundo",
-        "desc": "O post Veja fotos do duelo entre Espanha e Bélgica pela Copa do Mundo apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/veja-fotos-do-duelo-entre-espanha-e-belgica-pela-copa-do-mundo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260710__B9VW6GV__v1__HighRes__FblWc2026Match98EspBel.webp",
-        "data": "2026-07-10T19:57:29.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -66,7 +58,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-11",
-        "data": "2026-07-11T14:00:05.967Z",
+        "data": "2026-07-11T15:04:32.156Z",
         "id": "curado-feminino-0"
       },
       {
@@ -75,7 +67,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-11",
-        "data": "2026-07-11T11:00:05.967Z",
+        "data": "2026-07-11T12:04:32.156Z",
         "id": "curado-feminino-1"
       },
       {
@@ -84,7 +76,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-11",
-        "data": "2026-07-11T08:00:05.967Z",
+        "data": "2026-07-11T09:04:32.156Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -95,8 +87,16 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-11",
-        "data": "2026-07-11T14:00:05.967Z",
+        "data": "2026-07-11T15:04:32.156Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Atlético de Madrid anuncia contratação de Morten Hjulmand; saiba detalhes",
+        "desc": "O Atlético de Madrid anunciou a contratação do volante dinamarquês Morten Hjulmand, de 27 anos. Ex-capitão do Sporting CP, o meio-campista assinou contrato até 2031 após se destaca...",
+        "url": "https://www.gazetaesportiva.com/times/atletico-de-madrid/atletico-de-madrid-anuncia-contratacao-de-morten-hjulmand-saiba-detalhes/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/dSQJI1Npdx_FICHAJE_WEB_ESP.webp",
+        "data": "2026-07-11T14:21:36.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Meia da África do Sul na Copa do Mundo, Jayden Adams morre aos 25 anos",
@@ -112,17 +112,8 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-11",
-        "data": "2026-07-11T11:00:05.967Z",
+        "data": "2026-07-11T12:04:32.156Z",
         "id": "curado-jogadores-1"
-      },
-      {
-        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
-        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
-        "fonte": "Vozão Diário",
-        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-11",
-        "data": "2026-07-11T08:00:05.967Z",
-        "id": "curado-jogadores-2"
       }
     ]
   }
