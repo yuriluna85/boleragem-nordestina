@@ -1,7 +1,31 @@
 {
-  "ultimaAtualizacao": "2026-07-11T22:44:05.098Z",
+  "ultimaAtualizacao": "2026-07-11T23:52:02.689Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "CRB x Goiás: prováveis escalações e onde assistir ao jogo pela Série B",
+        "desc": "CRB e Goiás se enfrentam neste domingo, pela 17ª rodada da Série B do Campeonato Brasileiro. A bola rola para o duelo às 19h (de Brasília), no Estádio Rei Pelé, em Maceió. Onde ass...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/crb-x-goias-provaveis-escalacoes-e-onde-assistir-ao-jogo-pela-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55374497113_f907259357_o-1.webp",
+        "data": "2026-07-11T23:00:53.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Atlético-GO x Fortaleza: veja prováveis escalações e onde assistir ao duelo pela Série B",
+        "desc": "Atlético-GO e Fortaleza se enfrentam neste domingo, às 18h (de Brasília), no Estádio Antônio Accioly, pela 17ª rodada do Campeonato Brasileiro Série B.\nOnde assistir\nO jogo será tr...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/atletico-go-x-fortaleza-veja-provaveis-escalacoes-e-onde-assistir-ao-duelo-pelo-brasileirao-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55374530375_9cf49bf102_k.webp",
+        "data": "2026-07-11T23:00:48.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Avaí x Náutico pela Série B: veja prováveis escalações e onde assistir",
+        "desc": "Confira informações e onde assistir ao duelo entre Avaí e Náutico, pela Série B.\nO post Avaí x Náutico pela Série B: veja prováveis escalações e onde assistir apareceu primeiro em ...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/avai-x-nautico-pela-serie-b-veja-provaveis-escalacoes-e-onde-assistir/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/HMk5ZyBXkAAcV_K.webp",
+        "data": "2026-07-11T23:00:05.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Corinthians faz treino técnico e tático de olho no Brasileirão",
         "desc": "Corinthians faz treino técnico e tático de olho no Brasileirão\nO post Corinthians faz treino técnico e tático de olho no Brasileirão apareceu primeiro em Gazeta Esportiva.",
@@ -81,14 +105,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Haal.webp",
         "data": "2026-07-11T15:30:43.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Nico Williams brinca após classificação da Espanha: &#8220;É legal fazer sofrer um pouco&#8221;",
-        "desc": "A Espanha segue em campanha marcada por vitórias dramáticas, incluindo triunfos apertados sobre Portugal e Bélgica. Após retornar de lesão, Nico Williams destacou o alívio por volt...",
-        "url": "https://www.gazetaesportiva.com/times/espanha/nico-williams-espanha-vitorias-dramaticas-franca/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260710__B9W47NE__v1__HighRes__FblWc2026Match98EspBel.webp",
-        "data": "2026-07-11T09:00:29.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -98,7 +114,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-11",
-        "data": "2026-07-11T22:44:05.093Z",
+        "data": "2026-07-11T23:52:02.683Z",
         "id": "curado-feminino-0"
       },
       {
@@ -107,7 +123,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-11",
-        "data": "2026-07-11T19:44:05.093Z",
+        "data": "2026-07-11T20:52:02.683Z",
         "id": "curado-feminino-1"
       },
       {
@@ -116,11 +132,20 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-11",
-        "data": "2026-07-11T16:44:05.093Z",
+        "data": "2026-07-11T17:52:02.683Z",
         "id": "curado-feminino-2"
       }
     ],
     "jogadores": [
+      {
+        "titulo": "Everton Ribeiro completa 120 jogos pelo Bahia com golaço na Fonte Nova",
+        "desc": "O veterano meia do Bahia comandou a vitória tricolor com passes decisivos e um belíssimo gol de fora da área, aplaudido de pé.",
+        "fonte": "Bahia Esportes",
+        "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-11",
+        "data": "2026-07-11T23:52:02.683Z",
+        "id": "curado-jogadores-0"
+      },
       {
         "titulo": "Ex-Remo, Diego Hernández é o novo reforço do Sport",
         "desc": "O Sport anunciou a contratação do meia-atacante uruguaio Diego Hernández. Aos 26 anos, o jogador deixa o Remo, clube pelo qual conquistou o acesso à Série A na última temporada, e ...",
@@ -143,14 +168,6 @@
         "url": "https://www.gazetaesportiva.com/times/atletico-de-madrid/atletico-de-madrid-anuncia-contratacao-de-morten-hjulmand-saiba-detalhes/",
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/dSQJI1Npdx_FICHAJE_WEB_ESP.webp",
         "data": "2026-07-11T14:21:36.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Meia da África do Sul na Copa do Mundo, Jayden Adams morre aos 25 anos",
-        "desc": "O meio-campista sul-africano Jayden Adams, que representou seu país na atual Copa do Mundo, morreu neste sábado, aos 25 anos, informou o ministro dos Esportes da África do Sul, Gay...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/meia-da-africa-do-sul-na-copa-do-mundo-jayden-adams-morre-aos-25-anos/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260619__pedersen-czechiav260618_npAjs__v1__HighRes__CzechiaVSouthAfricaGroupA.webp",
-        "data": "2026-07-11T13:47:54.000Z",
         "fonte": "Gazeta Esportiva"
       }
     ]
