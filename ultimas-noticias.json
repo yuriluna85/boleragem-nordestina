@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-07-11T00:00:24.342Z",
+  "ultimaAtualizacao": "2026-07-11T03:50:46.868Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Com gol nos acréscimos, Sport busca empate contra o Botafogo-SP pela Série B",
+        "desc": "Sport e Botafogo-SP fizeram um jogo eletrizante na Ilha do Retiro, nesta sexta-feira (10), pela 17ª rodada da Série B do Brasileirão 2026. Os visitantes abriram 2 a 0 ainda no prim...",
+        "url": "https://www.gazetaesportiva.com/times/sport/sport-botafogo-sp-empate-3x3-serie-b-2026/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55386164864_373a5055af_o.webp",
+        "data": "2026-07-11T01:10:43.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "&#8220;Se vencermos a Copa do Mundo, ninguém vai se lembrar se eu marquei gols&#8221;, diz Yamal",
         "desc": "Eleito o Melhor em Campo (MVP) na vitória da Espanha por 2 a 1 sobre a Bélgica nas quartas de final nesta sexta-feira (10), Lamine Yamal manifestou sua alegria por avançar às semif...",
@@ -57,22 +65,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/img_9638-jpg-1229x1536-1.webp",
         "data": "2026-07-10T18:20:00.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Raio-X: Tudo sobre Espanha x Bélgica",
-        "desc": "Raio-X: Tudo sobre Espanha x Bélgica\nO post Raio-X: Tudo sobre Espanha x Bélgica apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/raio-x-tudo-sobre-espanha-x-belgica/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Rai.webp",
-        "data": "2026-07-10T17:37:54.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Kane x Haaland: Quem foi melhor em 2025/26?",
-        "desc": "Kane x Haaland: Quem foi melhor em 2025/26?\nO post Kane x Haaland: Quem foi melhor em 2025/26? apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/kane-x-haaland-quem-foi-melhor-em-2025-26/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Kane.webp",
-        "data": "2026-07-10T17:13:00.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -82,7 +74,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-11",
-        "data": "2026-07-11T00:00:24.337Z",
+        "data": "2026-07-11T03:50:46.862Z",
         "id": "curado-feminino-0"
       },
       {
@@ -90,8 +82,8 @@
         "desc": "Mais de 15 mil torcedores empurraram as Leoas na vitória histórica contra o Bahia. Um novo marco para o esporte feminino no Nordeste.",
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-10",
-        "data": "2026-07-10T21:00:24.337Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-11",
+        "data": "2026-07-11T00:50:46.862Z",
         "id": "curado-feminino-1"
       },
       {
@@ -100,7 +92,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-10",
-        "data": "2026-07-10T18:00:24.337Z",
+        "data": "2026-07-10T21:50:46.862Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -111,7 +103,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-11",
-        "data": "2026-07-11T00:00:24.337Z",
+        "data": "2026-07-11T03:50:46.863Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -119,8 +111,8 @@
         "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-10",
-        "data": "2026-07-10T21:00:24.337Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-11",
+        "data": "2026-07-11T00:50:46.863Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -129,7 +121,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-10",
-        "data": "2026-07-10T18:00:24.337Z",
+        "data": "2026-07-10T21:50:46.863Z",
         "id": "curado-jogadores-2"
       }
     ]
