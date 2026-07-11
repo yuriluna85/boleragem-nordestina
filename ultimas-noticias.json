@@ -1,7 +1,39 @@
 {
-  "ultimaAtualizacao": "2026-07-11T18:28:37.190Z",
+  "ultimaAtualizacao": "2026-07-11T19:43:10.625Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Junior Alonso recebe homenagem e se despede do Atlético-MG",
+        "desc": "Junior Alonso recebe homenagem e se despede do Atlético-MG\nO post Junior Alonso recebe homenagem e se despede do Atlético-MG apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/atletico-mg/junior-alonso-recebe-homenagem-e-se-despede-do-atletico-mg/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/ior-Alons.webp",
+        "data": "2026-07-11T19:40:15.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Bastidores do primeiro dia de pré-temporada do Tottenham",
+        "desc": "Bastidores do primeiro dia de pré-temporada do Tottenham \nO post Bastidores do primeiro dia de pré-temporada do Tottenham apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/tottenham/bastidores-do-primeiro-dia-de-pre-temporada-do-tottenham/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Bastid.webp",
+        "data": "2026-07-11T19:22:12.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Veja fotos do último treino do Corinthians antes de enfrentar o Cascavel",
+        "desc": "O post Veja fotos do último treino do Corinthians antes de enfrentar o Cascavel apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-ultimo-treino-do-corinthians-antes-de-enfrentar-o-cascavel/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/246261.webp",
+        "data": "2026-07-11T18:44:37.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Veja fotos do jogo-treino do Palmeiras contra o Juventus neste sábado",
+        "desc": "O post Veja fotos do jogo-treino do Palmeiras contra o Juventus neste sábado apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-jogo-treino-do-palmeiras-contra-o-juventus-neste-sabado/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/11072026_cg_palmeiras_5826_29.webp",
+        "data": "2026-07-11T18:30:40.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Torcida da Argentina faz a festa em Kansas City",
         "desc": "Torcida da Argentina faz a festa em Kansas City\nO post Torcida da Argentina faz a festa em Kansas City apareceu primeiro em Gazeta Esportiva.",
@@ -49,30 +81,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55386164864_373a5055af_o.webp",
         "data": "2026-07-11T01:10:43.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "&#8220;Se vencermos a Copa do Mundo, ninguém vai se lembrar se eu marquei gols&#8221;, diz Yamal",
-        "desc": "Eleito o Melhor em Campo (MVP) na vitória da Espanha por 2 a 1 sobre a Bélgica nas quartas de final nesta sexta-feira (10), Lamine Yamal manifestou sua alegria por avançar às semif...",
-        "url": "https://www.gazetaesportiva.com/times/espanha/se-vencermos-a-copa-do-mundo-ninguem-vai-se-lembrar-se-eu-marquei-gols-diz-yamal/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260710__B9W24NK__v1__HighRes__FblWc2026Match98EspBel.webp",
-        "data": "2026-07-10T22:48:13.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Evolução de gols de Messi em Copas do Mundo",
-        "desc": "Evolução de gols de Messi em Copas do Mundo\nO post Evolução de gols de Messi em Copas do Mundo apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/argentina/evolucao-de-gols-de-messi-em-copas-do-mundo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Evolu.webp",
-        "data": "2026-07-10T22:29:49.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Raio-X: Tudo sobre Noruega x Inglaterra",
-        "desc": "Raio-X: Tudo sobre Noruega x Inglaterra\nO post Raio-X: Tudo sobre Noruega x Inglaterra apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/raio-x-tudo-sobre-noruega-x-inglaterra/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/12343.webp",
-        "data": "2026-07-10T22:10:35.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -82,7 +90,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-11",
-        "data": "2026-07-11T18:28:37.186Z",
+        "data": "2026-07-11T19:43:10.620Z",
         "id": "curado-feminino-0"
       },
       {
@@ -91,7 +99,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-11",
-        "data": "2026-07-11T15:28:37.186Z",
+        "data": "2026-07-11T16:43:10.621Z",
         "id": "curado-feminino-1"
       },
       {
@@ -100,19 +108,18 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-11",
-        "data": "2026-07-11T12:28:37.186Z",
+        "data": "2026-07-11T13:43:10.621Z",
         "id": "curado-feminino-2"
       }
     ],
     "jogadores": [
       {
-        "titulo": "Everton Ribeiro completa 120 jogos pelo Bahia com golaço na Fonte Nova",
-        "desc": "O veterano meia do Bahia comandou a vitória tricolor com passes decisivos e um belíssimo gol de fora da área, aplaudido de pé.",
-        "fonte": "Bahia Esportes",
-        "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-11",
-        "data": "2026-07-11T18:28:37.186Z",
-        "id": "curado-jogadores-0"
+        "titulo": "Ex-Remo, Diego Hernández é o novo reforço do Sport",
+        "desc": "O Sport anunciou a contratação do meia-atacante uruguaio Diego Hernández. Aos 26 anos, o jogador deixa o Remo, clube pelo qual conquistou o acesso à Série A na última temporada, e ...",
+        "url": "https://www.gazetaesportiva.com/times/sport/sport-anuncia-diego-hernandez/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/HM5tZRJW8AAklBr.webp",
+        "data": "2026-07-11T18:51:31.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Bahia anuncia contratação do goleiro argentino Guido Herrera",
