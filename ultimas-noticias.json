@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao": "2026-07-13T18:56:48.865Z",
+  "ultimaAtualizacao": "2026-07-13T20:15:57.377Z",
   "dados": {
     "masculino": [
       {
@@ -41,22 +41,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/53091264337_a0a29ea3bf_b.webp",
         "data": "2026-07-13T01:02:41.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Goiás abre dois, mas cede empate ao CRB pela Série B do Brasileiro",
-        "desc": "Neste domingo, o Goiás abriu dois gols de vantagem contra o CRB, mas cedeu o empate por 2 a 2, no Estádio Rei Pelé, em Maceió (AL), pela 17ª rodada da Série B do Campeonato Brasile...",
-        "url": "https://www.gazetaesportiva.com/times/goias/goias-abre-dois-mas-cede-empate-ao-crb-pela-serie-b-do-brasileiro/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55389516306_f61297b828_o.webp",
-        "data": "2026-07-13T00:02:43.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos da vitória do Avaí sobre o Náutico pela Série B",
-        "desc": "Melhores momentos da vitória do Avaí sobre o Náutico pela Série B \nO post Melhores momentos da vitória do Avaí sobre o Náutico pela Série B apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-da-vitoria-do-avai-sobre-o-nautico-pela-serie-b/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Ava.webp",
-        "data": "2026-07-12T23:52:45.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -66,7 +50,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-13",
-        "data": "2026-07-13T18:56:48.860Z",
+        "data": "2026-07-13T20:15:57.372Z",
         "id": "curado-feminino-0"
       },
       {
@@ -75,7 +59,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-13",
-        "data": "2026-07-13T15:56:48.860Z",
+        "data": "2026-07-13T17:15:57.372Z",
         "id": "curado-feminino-1"
       },
       {
@@ -84,7 +68,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-13",
-        "data": "2026-07-13T12:56:48.860Z",
+        "data": "2026-07-13T14:15:57.372Z",
         "id": "curado-feminino-2"
       }
     ],
