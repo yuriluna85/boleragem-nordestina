@@ -1,23 +1,23 @@
 {
-  "geradoEm": "2026-07-13T05:53:26.654Z",
+  "geradoEm": "2026-07-13T09:20:10.268Z",
   "totais": {
-    "totalGeral": 1234,
+    "totalGeral": 1235,
     "porCategoria": {
       "masculino": 754,
-      "feminino": 214,
+      "feminino": 215,
       "jogadores": 266
     }
   },
   "porEstado": {
-    "PE": 823,
+    "PE": 824,
     "CE": 931,
-    "BA": 600,
+    "BA": 601,
     "AL": 732,
     "RN": 139,
     "PB": 29,
-    "MA": 804,
+    "MA": 805,
     "PI": 96,
-    "SE": 554
+    "SE": 555
   },
   "topClubes": [
     {
@@ -30,7 +30,7 @@
     },
     {
       "nome": "Bahia",
-      "total": 173
+      "total": 174
     },
     {
       "nome": "Fortaleza",
@@ -59,12 +59,12 @@
       "total": 62
     },
     {
-      "nome": "Ceará Esportes",
+      "nome": "Salvador News",
       "total": 38
     },
     {
-      "nome": "Salvador News",
-      "total": 37
+      "nome": "Ceará Esportes",
+      "total": 38
     },
     {
       "nome": "Vozão Diário",
