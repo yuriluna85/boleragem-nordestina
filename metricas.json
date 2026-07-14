@@ -1,18 +1,18 @@
 {
-  "geradoEm": "2026-07-13T23:27:20.203Z",
+  "geradoEm": "2026-07-14T00:53:33.857Z",
   "totais": {
-    "totalGeral": 1244,
+    "totalGeral": 1245,
     "porCategoria": {
       "masculino": 758,
-      "feminino": 215,
+      "feminino": 216,
       "jogadores": 271
     }
   },
   "porEstado": {
-    "PE": 829,
-    "CE": 937,
+    "PE": 830,
+    "CE": 938,
     "BA": 605,
-    "AL": 740,
+    "AL": 741,
     "RN": 140,
     "PB": 29,
     "MA": 807,
@@ -34,7 +34,7 @@
     },
     {
       "nome": "Fortaleza",
-      "total": 131
+      "total": 132
     },
     {
       "nome": "Ceará",
@@ -59,11 +59,11 @@
       "total": 62
     },
     {
-      "nome": "Salvador News",
-      "total": 38
+      "nome": "Ceará Esportes",
+      "total": 39
     },
     {
-      "nome": "Ceará Esportes",
+      "nome": "Salvador News",
       "total": 38
     },
     {
