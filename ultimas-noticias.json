@@ -1,7 +1,25 @@
 {
-  "ultimaAtualizacao": "2026-07-14T08:34:40.465Z",
+  "ultimaAtualizacao": "2026-07-14T10:42:37.205Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Sport Recife e Bahia empatam clássico na Ilha do Retiro por 2 a 2",
+        "desc": "Em um jogo emocionante e cheio de alternativas, Leão da Ilha e Esquadrão dividiram pontos pela Série A do Brasileirão. Gols saíram no segundo tempo.",
+        "fonte": "Nordestão FC",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-0-2026-07-14",
+        "data": "2026-07-14T10:42:37.199Z",
+        "id": "curado-masculino-0"
+      },
+      {
+        "titulo": "Fortaleza vence o Ceará no Clássico-Rei e assume topo da tabela",
+        "desc": "O Tricolor do Pici superou o maior rival por 1 a 0 na Arena Castelão com gol de Yago Pikachu e garantiu a liderança do campeonato regional.",
+        "fonte": "Diário de Esportes",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-1-2026-07-14",
+        "data": "2026-07-14T07:42:37.199Z",
+        "id": "curado-masculino-1"
+      },
       {
         "titulo": "Ceará fica no empate com o Athletic e segue no Z4 da Série B",
         "desc": "Nesta segunda-feira, o Ceará empatou com o Athletic por 0 a 0, no Estádio Presidente Vargas, em Fortaleza (CE), pela 17ª rodada da Série B do Campeonato Brasileiro e segue dentro d...",
@@ -17,30 +35,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55361404053_39b376dcec_o.webp",
         "data": "2026-07-14T01:02:51.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Árbitro que aplicou &#8216;Lei Vini Jr.&#8217; apitará semifinal da Copa entre Espanha e França",
-        "desc": "A Fifa escalou o salvadorenho Iván Barton para apitar a semifinal da Copa do Mundo entre Espanha e França. O árbitro de 35 anos já trabalhou em três partidas do Mundial e ganhou de...",
-        "url": "https://www.gazetaesportiva.com/times/espanha/arbitro-que-aplicou-lei-vini-jr-apitara-semifinal-da-copa-entre-espanha-e-franca/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260707__2285108885__v1__MidRes__SwitzerlandVColombiaRoundOf16FifaWorldCup2026.webp",
-        "data": "2026-07-13T16:55:15.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Grando pega pênaltis, e Grêmio bate o Cruzeiro em amistoso",
-        "desc": "Confira como foram as defesas de Grando e os gols do Grêmio na vitória por 3 a 1 sobre o Cruzeiro em amistoso antes do retorno do futebol brasileiro em 2026.\nO post Grando pega pên...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/grando-pega-penaltis-e-gremio-bate-o-cruzeiro-em-amistoso/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Gremio-bate-o-Cruzeiro.webp",
-        "data": "2026-07-13T16:23:09.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Copa do Mundo 2026: Seleção das quartas",
-        "desc": "Copa do Mundo 2026: Seleção das quartas\nO post Copa do Mundo 2026: Seleção das quartas apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/copa-do-mundo-2026-selecao-das-quartas/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Selecao-das-quartas.webp",
-        "data": "2026-07-13T16:21:16.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -50,7 +44,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-14",
-        "data": "2026-07-14T08:34:40.460Z",
+        "data": "2026-07-14T10:42:37.199Z",
         "id": "curado-feminino-0"
       },
       {
@@ -59,7 +53,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-14",
-        "data": "2026-07-14T05:34:40.460Z",
+        "data": "2026-07-14T07:42:37.199Z",
         "id": "curado-feminino-1"
       },
       {
@@ -68,41 +62,44 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-14",
-        "data": "2026-07-14T02:34:40.460Z",
+        "data": "2026-07-14T04:42:37.199Z",
         "id": "curado-feminino-2"
       }
     ],
     "jogadores": [
+      {
+        "titulo": "Everton Ribeiro completa 120 jogos pelo Bahia com golaço na Fonte Nova",
+        "desc": "O veterano meia do Bahia comandou a vitória tricolor com passes decisivos e um belíssimo gol de fora da área, aplaudido de pé.",
+        "fonte": "Bahia Esportes",
+        "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-14",
+        "data": "2026-07-14T10:42:37.199Z",
+        "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
+        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
+        "fonte": "Diário do Ceará",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-14",
+        "data": "2026-07-14T07:42:37.199Z",
+        "id": "curado-jogadores-1"
+      },
+      {
+        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
+        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
+        "fonte": "Vozão Diário",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-14",
+        "data": "2026-07-14T04:42:37.199Z",
+        "id": "curado-jogadores-2"
+      },
       {
         "titulo": "Xabi Alonso pede &#8220;fome de vitória&#8221; em primeira coletiva à frente do Chelsea",
         "desc": "O técnico espanhol Xabi Alonso iniciou sua trajetória no comando do Chelsea destacando a necessidade de “fome de vitória” no elenco. Em sua primeira coletiva, o treinador de 44 ano...",
         "url": "https://www.gazetaesportiva.com/times/chelsea/xabi-alonso-chelsea-fome-vitoria-objetivo-europa/",
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/xabi-alonso-chelsea1307.webp",
         "data": "2026-07-13T17:33:42.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Argentina inicia preparação para enfrentar a Inglaterra sem Messi",
-        "desc": "A Argentina iniciou a preparação para a semifinal da Copa do Mundo contra a Inglaterra. Lionel Messi e outros jogadores importantes foram poupados após a vitória sobre a Suíça nas ...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/argentina-inicia-preparacao-para-enfrentar-a-inglaterra-sem-messi/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/vz2c9jh1-1920.webp",
-        "data": "2026-07-13T16:30:28.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Pênaltis com paradinha perdidos na Copa",
-        "desc": "Veja os jogadores que perderam pênaltis com paradinha na Copa de 2026.\nO post Pênaltis com paradinha perdidos na Copa apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/penaltis-com-paradinha-perdidos-na-copa/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/2e5ckzvc-1920pp.webp",
-        "data": "2026-07-13T16:14:17.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Iraola fala sobre os planos de reforços para o Liverpool FC",
-        "desc": "Iraola fala sobre os planos de reforços para o Liverpool FC\nO post Iraola fala sobre os planos de reforços para o Liverpool FC apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/iraola-fala-sobre-os-planos-de-reforcos-para-o-liverpool-fc/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Iraola-fala.webp",
-        "data": "2026-07-13T16:12:03.000Z",
         "fonte": "Gazeta Esportiva"
       }
     ]
