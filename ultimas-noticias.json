@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-07-15T20:31:39.421Z",
+  "ultimaAtualizacao": "2026-07-15T21:56:49.095Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "&#8220;Somos únicos&#8221;, diz Scaloni após classificação da Argentina à final da Copa do Mundo",
+        "desc": "A Argentina está novamente na decisão da Copa do Mundo, e a emoção tomou conta do técnico Lionel Scaloni após a vitória por 2 a 1 sobre a Inglaterra, nesta quarta-feira, no Mercede...",
+        "url": "https://www.gazetaesportiva.com/times/argentina/somos-unicos-diz-scaloni-apos-classificacao-da-argentina-a-final-da-copa-do-mundo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260715__C2AY3B8__v1__HighRes__FblWc2026Match102EngArg.webp",
+        "data": "2026-07-15T21:26:13.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Veja fotos do treino do São Paulo nesta quarta-feira",
         "desc": "O post Veja fotos do treino do São Paulo nesta quarta-feira apareceu primeiro em Gazeta Esportiva.",
@@ -113,30 +121,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260714__C27U6G6__v1__HighRes__FblWc2026Match101FraEsp.webp",
         "data": "2026-07-15T12:48:09.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Caçando soquinhos com a Seleção da Espanha!",
-        "desc": "Caçando soquinhos com a Seleção da Espanha!\nO post Caçando soquinhos com a Seleção da Espanha! apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/espanha/cacando-soquinhos-com-a-selecao-da-espanha/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/soquinho.webp",
-        "data": "2026-07-15T12:29:11.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Caçando soquinhos com a Seleção da Inglaterra!",
-        "desc": "Caçando soquinhos com a Seleção da Inglaterra!\nO post Caçando soquinhos com a Seleção da Inglaterra! apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/cacando-soquinhos-com-a-selecao-da-inglaterra/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/ingl.webp",
-        "data": "2026-07-15T11:58:23.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Quem vai fazer a grande final da Copa do Mundo?",
-        "desc": "Quem vai fazer a grande FINAL da Copa do Mundo?\nO post Quem vai fazer a grande final da Copa do Mundo? apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/quem-vai-fazer-a-grande-final-da-copa-do-mundo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/uem.webp",
-        "data": "2026-07-15T11:35:29.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -146,7 +130,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-15",
-        "data": "2026-07-15T20:31:39.412Z",
+        "data": "2026-07-15T21:56:49.088Z",
         "id": "curado-feminino-0"
       },
       {
@@ -155,7 +139,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-15",
-        "data": "2026-07-15T17:31:39.412Z",
+        "data": "2026-07-15T18:56:49.088Z",
         "id": "curado-feminino-1"
       },
       {
@@ -164,7 +148,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-15",
-        "data": "2026-07-15T14:31:39.412Z",
+        "data": "2026-07-15T15:56:49.088Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -175,7 +159,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-15",
-        "data": "2026-07-15T20:31:39.412Z",
+        "data": "2026-07-15T21:56:49.088Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -184,7 +168,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-15",
-        "data": "2026-07-15T17:31:39.412Z",
+        "data": "2026-07-15T18:56:49.088Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -193,7 +177,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-15",
-        "data": "2026-07-15T14:31:39.412Z",
+        "data": "2026-07-15T15:56:49.088Z",
         "id": "curado-jogadores-2"
       }
     ]
