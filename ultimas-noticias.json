@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-07-17T13:21:04.005Z",
+  "ultimaAtualizacao": "2026-07-17T14:56:46.194Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "França segue preparação para a disputa do terceiro lugar",
+        "desc": "França segue preparação para a disputa do terceiro lugar\nO post França segue preparação para a disputa do terceiro lugar apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/franca/franca-segue-preparacao-para-a-disputa-do-terceiro-lugar/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/anc.webp",
+        "data": "2026-07-17T13:22:07.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Melhores momentos do empate entre CF Montréal e Toronto FC pela MLS",
         "desc": "Melhores momentos do empate entre CF Montréal e Toronto FC pela MLS\nO post Melhores momentos do empate entre CF Montréal e Toronto FC pela MLS apareceu primeiro em Gazeta Esportiva...",
@@ -73,22 +81,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55396687755_e8cec039d5_k-1.webp",
         "data": "2026-07-16T23:00:48.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos dos jogos-treino do Palmeiras nesta quinta-feira",
-        "desc": "O post Veja fotos dos jogos-treino do Palmeiras nesta quinta-feira apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-dos-jogos-treinos-do-palmeiras-nesta-quinta-feira/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/16072026_cg_palmeiras_1651_39.webp",
-        "data": "2026-07-16T22:18:50.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do treino do São Paulo desta quinta-feira",
-        "desc": "Veja uma galeria de fotos do treino do São Paulo realizado nesta quinta-feira.\nO post Veja fotos do treino do São Paulo desta quinta-feira apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-treino-do-sao-paulo-desta-quinta-feira-20/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/img_0149-jpg-1229x1536-1.webp",
-        "data": "2026-07-16T22:05:47.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -98,7 +90,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-17",
-        "data": "2026-07-17T13:21:03.998Z",
+        "data": "2026-07-17T14:56:46.188Z",
         "id": "curado-feminino-0"
       },
       {
@@ -107,7 +99,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-17",
-        "data": "2026-07-17T10:21:03.998Z",
+        "data": "2026-07-17T11:56:46.188Z",
         "id": "curado-feminino-1"
       },
       {
@@ -116,7 +108,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-17",
-        "data": "2026-07-17T07:21:03.998Z",
+        "data": "2026-07-17T08:56:46.188Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -127,7 +119,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-17",
-        "data": "2026-07-17T13:21:03.999Z",
+        "data": "2026-07-17T14:56:46.188Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -136,7 +128,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-17",
-        "data": "2026-07-17T10:21:03.999Z",
+        "data": "2026-07-17T11:56:46.188Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -145,7 +137,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-17",
-        "data": "2026-07-17T07:21:03.999Z",
+        "data": "2026-07-17T08:56:46.188Z",
         "id": "curado-jogadores-2"
       },
       {
