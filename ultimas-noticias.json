@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-07-18T23:24:45.761Z",
+  "ultimaAtualizacao": "2026-07-19T00:59:24.718Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Tuchel elogia Saka após hat-trick e explica escolhas na Inglaterra: “Os jogos têm demandas específicas”",
+        "desc": "O técnico Thomas Tuchel exaltou a atuação de Bukayo Saka na vitória da Inglaterra por 6 a 4 sobre a França, pela disputa do terceiro lugar da Copa do Mundo de 2026. Autor de um hat...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/tuchel-elogia-saka-inglaterra-franca-copa-2026/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260718__2286675979__v1__HighRes__FranceVEnglandBronzeFinalFifaWorldCup2026.webp",
+        "data": "2026-07-19T00:40:10.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Mbappé ultrapassa Messi em ranking histórico e assume artilharia da Copa",
+        "desc": "Kylian Mbappé entrou para a história das Copas do Mundo neste sábado ao marcar dois gols na vitória da França sobre a Inglaterra na disputa do terceiro lugar da edição de 2026. Com...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/mbappe-maior-artilheiro-historia-copa-do-mundo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260718__C2JR27Z__v1__HighRes__FblWc2026Match103FraEng.webp",
+        "data": "2026-07-18T23:26:02.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Melhores momentos: Ponte Preta 1 x 2 Goiás na Série B",
         "desc": "Melhores momentos: Ponte Preta 1 x 2 Goiás na Série B \nO post Melhores momentos: Ponte Preta 1 x 2 Goiás na Série B apareceu primeiro em Gazeta Esportiva.",
@@ -89,8 +105,8 @@
         "desc": "As Leoas venceram o clássico com autoridade por 4 a 1 e continuam invictas na competição nacional de futebol feminino.",
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-18",
-        "data": "2026-07-18T23:24:45.752Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-19",
+        "data": "2026-07-19T00:59:24.708Z",
         "id": "curado-feminino-0"
       },
       {
@@ -99,7 +115,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-18",
-        "data": "2026-07-18T20:24:45.752Z",
+        "data": "2026-07-18T21:59:24.708Z",
         "id": "curado-feminino-1"
       },
       {
@@ -108,7 +124,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-18",
-        "data": "2026-07-18T17:24:45.752Z",
+        "data": "2026-07-18T18:59:24.708Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -118,9 +134,17 @@
         "desc": "O veterano meia do Bahia comandou a vitória tricolor com passes decisivos e um belíssimo gol de fora da área, aplaudido de pé.",
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-18",
-        "data": "2026-07-18T23:24:45.753Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-19",
+        "data": "2026-07-19T00:59:24.708Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Saka revela pedido de Bellingham antes de completar hat-trick pela Inglaterra: “Vá pegar o seu”",
+        "desc": "Bukayo Saka brilhou na vitória da Inglaterra por 6 a 4 sobre a França, na disputa do terceiro lugar da Copa do Mundo de 2026. Autor de um hat-trick, o atacante revelou que foi ince...",
+        "url": "https://www.gazetaesportiva.com/times/inglaterra/saka-hat-trick-inglaterra-franca-copa-do-mundo-2026/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260718__C2JX74Z__v1__HighRes__FblWc2026Match103FraEng.webp",
+        "data": "2026-07-18T23:55:10.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
@@ -128,7 +152,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-18",
-        "data": "2026-07-18T20:24:45.753Z",
+        "data": "2026-07-18T21:59:24.708Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -137,7 +161,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-18",
-        "data": "2026-07-18T17:24:45.753Z",
+        "data": "2026-07-18T18:59:24.708Z",
         "id": "curado-jogadores-2"
       }
     ]
