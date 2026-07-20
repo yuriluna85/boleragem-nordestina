@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-07-20T13:24:58.512Z",
+  "ultimaAtualizacao": "2026-07-20T15:27:26.562Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Opinião: na “Copa dos Protagonistas”, Espanha ensina que nada se ganha sozinho",
+        "desc": "A conquista da Espanha na Copa do Mundo de 2026 mostrou que o futebol continua sendo um esporte coletivo. Em um torneio marcado por estrelas como Messi, Mbappé e Haaland, os espanh...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/opiniao-copa-protagonistas-espanha-nada-ganha-sozinho/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260719__2286810758__v1__MidRes__SpainVArgentinaFinalFifaWorldCup2026.webp",
+        "data": "2026-07-20T13:53:14.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Irã parabeniza Espanha por vitória na Copa do Mundo",
         "desc": "Autoridades do Irã comemoraram a conquista da Espanha na Copa do Mundo de 2026 e associaram a vitória da seleção espanhola ao posicionamento do governo de Pedro Sánchez em temas in...",
@@ -41,22 +49,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/02/AFP__20260225__98Y28CL__v1__HighRes__MexicoCrimeFblWc2026.webp",
         "data": "2026-07-19T22:45:36.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Show da final da Copa contou com Ronaldo, Ronaldinho e homenagem a Pelé",
-        "desc": "Confira detalhes do show do intervalo da final da Copa do Mundo.\nO post Show da final da Copa contou com Ronaldo, Ronaldinho e homenagem a Pelé apareceu primeiro em Gazeta Esportiv...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/show-da-final-da-copa-contou-com-ronaldo-ronaldinho-e-homenagem-a-pele/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260719__C2L867V__v2__MidRes__TopshotFblWc2026Match104EspArgFinal.webp",
-        "data": "2026-07-19T21:30:54.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Brasil tem vitória tranquila contra a China, mas dá adeus à Liga das Nações com pior campanha da história",
-        "desc": "O Brasil encerrou sua participação na fase classificatória da Liga das Nações Masculina com vitória por 3 sets a 0 sobre a China, em Chicago. A seleção dominou a partida e venceu c...",
-        "url": "https://www.gazetaesportiva.com/mais-esportes/volei/brasil-tem-vitoria-tranquila-contra-a-china-mas-da-adeus-a-liga-das-nacoes-com-pior-campanha-da-historia/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/bceuz9zrdllk5tpkygeo.webp",
-        "data": "2026-07-19T18:51:29.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -66,7 +58,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-20",
-        "data": "2026-07-20T13:24:58.500Z",
+        "data": "2026-07-20T15:27:26.555Z",
         "id": "curado-feminino-0"
       },
       {
@@ -75,7 +67,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-20",
-        "data": "2026-07-20T10:24:58.500Z",
+        "data": "2026-07-20T12:27:26.555Z",
         "id": "curado-feminino-1"
       },
       {
@@ -84,7 +76,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-20",
-        "data": "2026-07-20T07:24:58.500Z",
+        "data": "2026-07-20T09:27:26.555Z",
         "id": "curado-feminino-2"
       }
     ],
