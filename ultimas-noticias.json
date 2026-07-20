@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-07-20T11:21:12.812Z",
+  "ultimaAtualizacao": "2026-07-20T13:24:58.512Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Irã parabeniza Espanha por vitória na Copa do Mundo",
+        "desc": "Autoridades do Irã comemoraram a conquista da Espanha na Copa do Mundo de 2026 e associaram a vitória da seleção espanhola ao posicionamento do governo de Pedro Sánchez em temas in...",
+        "url": "https://www.gazetaesportiva.com/times/ira/ira-celebra-titulo-espanha-copa-do-mundo-2026/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260719__C2LK2Z6__v1__HighRes__FblWc2026Match104EspArgFinalTrophy.webp",
+        "data": "2026-07-20T12:25:31.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Cucurella destaca defesa &#8216;incrível&#8217; da Espanha na Copa de 2026",
+        "desc": "O lateral-esquerdo Marc Cucurella, que se sagrou campeão mundial pela Espanha neste domingo, após uma vitória por 1 a 0 sobre a Argentina na final, elogiou sua equipe pelo trabalho...",
+        "url": "https://www.gazetaesportiva.com/times/espanha/cucurella-destaca-defesa-incrivel-da-espanha-na-copa-de-2026/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260719__C2LD4YH__v1__HighRes__FblWc2026Match104EspArgFinal.webp",
+        "data": "2026-07-20T11:30:31.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Confira as frases mais marcantes da Copa do Mundo de 2026",
         "desc": "Após quase seis semanas de competição nos Estados Unidos, México e Canadá, e a vitória final da Espanha, que derrotou a Argentina por 1 a 0 neste domingo, aqui estão algumas das de...",
@@ -50,7 +66,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-20",
-        "data": "2026-07-20T11:21:12.801Z",
+        "data": "2026-07-20T13:24:58.500Z",
         "id": "curado-feminino-0"
       },
       {
@@ -59,7 +75,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-20",
-        "data": "2026-07-20T08:21:12.801Z",
+        "data": "2026-07-20T10:24:58.500Z",
         "id": "curado-feminino-1"
       },
       {
@@ -68,19 +84,18 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-20",
-        "data": "2026-07-20T05:21:12.801Z",
+        "data": "2026-07-20T07:24:58.500Z",
         "id": "curado-feminino-2"
       }
     ],
     "jogadores": [
       {
-        "titulo": "Everton Ribeiro completa 120 jogos pelo Bahia com golaço na Fonte Nova",
-        "desc": "O veterano meia do Bahia comandou a vitória tricolor com passes decisivos e um belíssimo gol de fora da área, aplaudido de pé.",
-        "fonte": "Bahia Esportes",
-        "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-20",
-        "data": "2026-07-20T11:21:12.801Z",
-        "id": "curado-jogadores-0"
+        "titulo": "Pau Cubarsí admite pena de Messi após título mundial da Espanha",
+        "desc": "Pau Cubarsí, eleito o melhor jogador jovem da Copa do Mundo de 2026, comemorou o título conquistado pela Espanha após a vitória sobre a Argentina na prorrogação. O zagueiro de 19 a...",
+        "url": "https://www.gazetaesportiva.com/times/espanha/pau-cubarsi-campeao-espanha-copa-do-mundo-2026/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260719__2286811665__v1__HighRes__SpainVArgentinaFinalFifaWorldCup2026.webp",
+        "data": "2026-07-20T11:27:54.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Corinthians terá semana com volta pelo Brasileirão e viagem à Salvador; veja programação",
