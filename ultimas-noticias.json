@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-07-20T08:23:14.937Z",
+  "ultimaAtualizacao": "2026-07-20T11:21:12.812Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Confira as frases mais marcantes da Copa do Mundo de 2026",
+        "desc": "Após quase seis semanas de competição nos Estados Unidos, México e Canadá, e a vitória final da Espanha, que derrotou a Argentina por 1 a 0 neste domingo, aqui estão algumas das de...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/as-frases-da-copa-do-mundo-de-2026/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260720__C2LN8CX__v1__HighRes__FblWc2026Match104EspArgFinalTrophy.webp",
+        "data": "2026-07-20T08:30:14.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Título da Espanha sobre a Argentina na Copa gera memes nas redes sociais; veja",
         "desc": "Neste domingo, a Espanha venceu a Argentina por 1 a 0 e conquistou o seu segundo título da Copa do Mundo. Ferrán Torres saiu do banco para marcar, na prorrogação, o gol da vitória ...",
@@ -33,22 +41,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/bceuz9zrdllk5tpkygeo.webp",
         "data": "2026-07-19T18:51:29.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Filipe Luis conquista sua primeira vitória com o Monaco em amistoso de pré-temporada",
-        "desc": "Confira todos os gols do AS Monaco na vitória por 5 a 2 sobre o AS Saint-Priest em seu amistoso de pré-temporada. Eric Dier, Aleksandr Golovin e dois gols de Paris Brunner balançar...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/filipe-luis-conquista-sua-primeira-vitoria-com-o-monaco-em-amistoso-de-pre-temporada/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Filipe-Luis-conquista.webp",
-        "data": "2026-07-19T13:58:21.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Utah Royals (W) 1 x 0 Orlando Pride (W) pela NWSL",
-        "desc": "Melhores momentos: Utah Royals (W) 1 x 0 Orlando Pride (W) pela NWSL\nO post Melhores momentos: Utah Royals (W) 1 x 0 Orlando Pride (W) pela NWSL apareceu primeiro em Gazeta Esporti...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-utah-royals-w-1-x-0-orlando-pride-w-pela-nwsl/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/W-1-x-0-Orlando.webp",
-        "data": "2026-07-19T13:55:28.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -58,7 +50,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-20",
-        "data": "2026-07-20T08:23:14.930Z",
+        "data": "2026-07-20T11:21:12.801Z",
         "id": "curado-feminino-0"
       },
       {
@@ -67,7 +59,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-20",
-        "data": "2026-07-20T05:23:14.930Z",
+        "data": "2026-07-20T08:21:12.801Z",
         "id": "curado-feminino-1"
       },
       {
@@ -76,7 +68,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-20",
-        "data": "2026-07-20T02:23:14.930Z",
+        "data": "2026-07-20T05:21:12.801Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -87,17 +79,16 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-20",
-        "data": "2026-07-20T08:23:14.930Z",
+        "data": "2026-07-20T11:21:12.801Z",
         "id": "curado-jogadores-0"
       },
       {
-        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
-        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
-        "fonte": "Diário do Ceará",
-        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-20",
-        "data": "2026-07-20T05:23:14.930Z",
-        "id": "curado-jogadores-1"
+        "titulo": "Corinthians terá semana com volta pelo Brasileirão e viagem à Salvador; veja programação",
+        "desc": "Nesta semana, enfim, se encerra o período de intertemporada do Corinthians. Nesta segunda, o elenco se reapresenta em treino na Neo Química Arena para os últimos dias de preparação...",
+        "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tera-semana-com-volta-pelo-brasileirao-e-viagem-a-salvador-confira/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/246529.webp",
+        "data": "2026-07-20T10:00:41.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Explosão de alegria em Madri com bicampeonato mundial da Espanha",
