@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-07-22T17:14:12.687Z",
+  "ultimaAtualizacao": "2026-07-22T18:39:24.742Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Bayern lança novo uniforme reserva para a temporada 2026/27",
+        "desc": "Bayern lança novo uniforme reserva para a temporada 2026/27\nO post Bayern lança novo uniforme reserva para a temporada 2026/27 apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/bayern/bayern-lanca-novo-uniforme-reserva-para-a-temporada-2026-27/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Baye.webp",
+        "data": "2026-07-22T18:22:16.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Atlético de Madrid intensifica a preparação em Los Ángeles de San Rafael",
+        "desc": "Atleti intensifica a preparação em Los Ángeles de San Rafael\nO post Atlético de Madrid intensifica a preparação em Los Ángeles de San Rafael apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/atletico-de-madrid/atletico-de-madrid-intensifica-a-preparacao-em-los-angeles-de-san-rafael/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Atlet.webp",
+        "data": "2026-07-22T17:29:29.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Ex-treinador Nelsinho Baptista completa 76 anos; relembre fotos",
         "desc": "Nelsinho Baptista completa 76 anos; relembre fotos do treinador\nO post Ex-treinador Nelsinho Baptista completa 76 anos; relembre fotos apareceu primeiro em Gazeta Esportiva.",
@@ -73,22 +89,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Captura-de-tela-2026-07-21-233445.webp",
         "data": "2026-07-22T02:43:58.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "UCV x Santos: veja galeria de fotos do duelo pelos playoffs da Sul-Americana",
-        "desc": "O post UCV x Santos: veja galeria de fotos do duelo pelos playoffs da Sul-Americana apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/campeonatos/copa-sulamericana/ucv-x-santos-veja-galeria-de-fotos-do-duelo-pelos-playoffs-da-sul-americana/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260722__C2TT6KT__v1__MidRes__FblSudamericanaUcentralvenSantos.webp",
-        "data": "2026-07-22T00:56:24.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Atlético-MG cede empate ao Bahia e perde chance de se aproximar do adversário no Brasileirão",
-        "desc": "Atlético-MG e Bahia empataram por 1 a 1 nesta terça-feira (21), na Arena MRV, pela 19ª rodada do Campeonato Brasileiro. O Galo saiu na frente com gol de Ruan Tressoldi ainda no pri...",
-        "url": "https://www.gazetaesportiva.com/times/atletico-mg/atletico-mg-bahia-empate-1-a-1-brasileirao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55410543195_f07e16b2df_o.webp",
-        "data": "2026-07-22T00:29:29.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -98,7 +98,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-22",
-        "data": "2026-07-22T17:14:12.676Z",
+        "data": "2026-07-22T18:39:24.734Z",
         "id": "curado-feminino-0"
       },
       {
@@ -107,7 +107,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-22",
-        "data": "2026-07-22T14:14:12.676Z",
+        "data": "2026-07-22T15:39:24.734Z",
         "id": "curado-feminino-1"
       },
       {
@@ -116,7 +116,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-22",
-        "data": "2026-07-22T11:14:12.676Z",
+        "data": "2026-07-22T12:39:24.734Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -127,7 +127,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-22",
-        "data": "2026-07-22T17:14:12.676Z",
+        "data": "2026-07-22T18:39:24.734Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -136,7 +136,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-22",
-        "data": "2026-07-22T14:14:12.676Z",
+        "data": "2026-07-22T15:39:24.734Z",
         "id": "curado-jogadores-1"
       },
       {
