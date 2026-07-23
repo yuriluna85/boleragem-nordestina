@@ -1,7 +1,39 @@
 {
-  "ultimaAtualizacao": "2026-07-23T19:54:32.509Z",
+  "ultimaAtualizacao": "2026-07-23T20:59:47.714Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Segurança em eventos esportivos avança para modelos preditivos com o uso de IA",
+        "desc": "O planejamento de grandes eventos esportivos vive uma mudança de paradigma. A segurança eletrônica passou a assumir um papel estratégico e preventivo. Impulsionada pela Inteligênci...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/seguranca-em-eventos-esportivos-avanca-para-modelos-preditivos-com-o-uso-de-ia/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/WhatsApp-Image-2026-07-23-at-17.41.56.webp",
+        "data": "2026-07-23T20:43:04.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Veja galeria de fotos do treino do São Paulo nesta quinta-feira",
+        "desc": "O post Veja galeria de fotos do treino do São Paulo nesta quinta-feira apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/sao-paulo/veja-galeria-de-fotos-do-treino-do-sao-paulo-nesta-quinta-feira-2/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55413093402_687ec46580_o.webp",
+        "data": "2026-07-23T20:22:31.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Barboza destaca momento do Palmeiras no Brasileirão e celebra estreia com vitória: &#8220;Vai ficar marcado&#8221;",
+        "desc": "Alexander Barboza estreou pelo Palmeiras na noite da última quarta-feira, em vitória por 3 a 1 sobre o Coritiba, pela 19ª rodada do Campeonato Brasileiro. O triunfo ampliou a inven...",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/barboza-destaca-momento-do-palmeiras-no-brasileirao-e-celebra-estreia-com-vitoria-vai-ficar-marcado/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/22072026_cg_palmeiras_5355_48-1.webp",
+        "data": "2026-07-23T20:00:46.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Fortaleza anuncia a demissão do técnico Thiago Carpini",
+        "desc": "O Fortaleza anunciou a demissão do técnico Thiago Carpini após uma passagem de 42 jogos pelo clube. Apesar das conquistas do Campeonato Cearense invicto e da chegada à final da Cop...",
+        "url": "https://www.gazetaesportiva.com/times/fortaleza/fortaleza-anuncia-a-demissao-do-tecnico-thiago-carpini/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/WhatsApp-Image-2026-07-12-at-19.16.45-2.webp",
+        "data": "2026-07-23T19:55:06.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "A emocionante despedida de Adeyemi no Dortmund",
         "desc": "A emocionante despedida de Adeyemi no Dortmund\nO post A emocionante despedida de Adeyemi no Dortmund apareceu primeiro em Gazeta Esportiva.",
@@ -81,14 +113,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Joao-Martin.webp",
         "data": "2026-07-23T15:53:02.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Lamine Yamal revela conselho de Messi após final da Copa do Mundo",
-        "desc": "Após a vitória da Espanha sobre a Argentina na final da Copa do Mundo, Lamine Yamal revelou que recebeu um conselho especial de Lionel Messi. O jovem espanhol afirmou que o argenti...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/lamine-yamal-conselho-messi-final-copa-do-mundo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260719__C2L49G4__v1__MidRes__FblWc2026Match104EspArgFinal.webp",
-        "data": "2026-07-23T15:35:59.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -98,7 +122,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-23",
-        "data": "2026-07-23T19:54:32.497Z",
+        "data": "2026-07-23T20:59:47.706Z",
         "id": "curado-feminino-0"
       },
       {
@@ -115,7 +139,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-23",
-        "data": "2026-07-23T16:54:32.497Z",
+        "data": "2026-07-23T17:59:47.706Z",
         "id": "curado-feminino-1"
       },
       {
@@ -124,7 +148,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-23",
-        "data": "2026-07-23T13:54:32.497Z",
+        "data": "2026-07-23T14:59:47.706Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -135,7 +159,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-23",
-        "data": "2026-07-23T19:54:32.497Z",
+        "data": "2026-07-23T20:59:47.706Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -152,7 +176,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-23",
-        "data": "2026-07-23T16:54:32.497Z",
+        "data": "2026-07-23T17:59:47.706Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -161,7 +185,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-23",
-        "data": "2026-07-23T13:54:32.497Z",
+        "data": "2026-07-23T14:59:47.706Z",
         "id": "curado-jogadores-2"
       }
     ]
