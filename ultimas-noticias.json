@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-07-25T11:42:42.103Z",
+  "ultimaAtualizacao": "2026-07-25T13:17:38.568Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Vasco anuncia casa de apostas como nova patrocinadora master",
+        "desc": "O Vasco anunciou a Sportingbet como sua nova patrocinadora master. A marca estreia na camisa cruzmaltina neste sábado, na partida contra o Mirassol, em São Januário. O acordo prevê...",
+        "url": "https://www.gazetaesportiva.com/times/vasco/vasco-anuncia-casa-de-apostas-como-nova-patrocinadora-master/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55410193502_af5e9c5874_o-600x400-1.webp",
+        "data": "2026-07-25T13:08:40.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Yuri Alberto encerra jejum de três meses em vitória do Corinthians",
         "desc": "O Corinthians contou com o brilho de Yuri Alberto para vencer o Remo por 3 a 0, na última quarta-feira, pela 19ª rodada do Campeonato Brasileiro. O centroavante, inclusive, encerro...",
@@ -97,14 +105,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Sao-Pau.webp",
         "data": "2026-07-24T19:53:03.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Corinthians se reapresenta e inicia preparação para jogo contra o Bahia",
-        "desc": "Confira os detalhes do treino do Corinthians realizado nesta sexta-feira.\nO post Corinthians se reapresenta e inicia preparação para jogo contra o Bahia apareceu primeiro em Gazeta...",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-se-reapresenta-e-inicia-preparacao-para-jogo-contra-o-bahia/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/226A1382-3.webp",
-        "data": "2026-07-24T19:23:34.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -114,7 +114,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-25",
-        "data": "2026-07-25T11:42:42.092Z",
+        "data": "2026-07-25T13:17:38.555Z",
         "id": "curado-feminino-0"
       },
       {
@@ -123,7 +123,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-25",
-        "data": "2026-07-25T08:42:42.092Z",
+        "data": "2026-07-25T10:17:38.555Z",
         "id": "curado-feminino-1"
       },
       {
@@ -132,7 +132,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-25",
-        "data": "2026-07-25T05:42:42.092Z",
+        "data": "2026-07-25T07:17:38.555Z",
         "id": "curado-feminino-2"
       },
       {
@@ -151,7 +151,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-25",
-        "data": "2026-07-25T11:42:42.092Z",
+        "data": "2026-07-25T13:17:38.556Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -160,7 +160,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-25",
-        "data": "2026-07-25T08:42:42.092Z",
+        "data": "2026-07-25T10:17:38.556Z",
         "id": "curado-jogadores-1"
       },
       {
