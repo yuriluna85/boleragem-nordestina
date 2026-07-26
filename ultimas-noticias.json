@@ -1,7 +1,31 @@
 {
-  "ultimaAtualizacao": "2026-07-26T08:54:57.415Z",
+  "ultimaAtualizacao": "2026-07-26T10:42:26.120Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Corinthians busca ampliar série invicta contra o Bahia como visitante por G5 do Brasileirão",
+        "desc": "Após uma vitória convincente diante do Remo no retorno ao calendário oficial do futebol brasileiro após a pausa da Copa do Mundo, o Corinthians agora terá um desafio fora de casa. ...",
+        "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-busca-ampliar-serie-invicta-contra-o-bahia-como-visitante-por-g5-do-brasileirao/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/241856-1.webp",
+        "data": "2026-07-26T10:00:59.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Pelo Brasileirão, São Paulo tem jejum de quase seis anos contra o Flamengo no Maracanã",
+        "desc": "O São Paulo enfrenta o Flamengo neste domingo (26), às 18h30, no Maracanã, pela 20ª rodada do Brasileirão. O Tricolor busca encerrar um jejum de vitórias sobre o Rubro-Negro no Rio...",
+        "url": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-busca-fim-jejum-contra-flamengo-no-maracana/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/54650403591_ffd65a1047_o.webp",
+        "data": "2026-07-26T10:00:05.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Atuações do Santos: Neymar salva, Rollheiser vai mal e defesa falha contra a Chapecoense",
+        "desc": "O Santos deixou escapar uma vitória importante na luta para se afastar da zona de rebaixamento ao empatar por 2 a 2 com a Chapecoense, neste sábado, na Vila Belmiro, pela 20ª rodad...",
+        "url": "https://www.gazetaesportiva.com/times/santos/atuacoes-do-santos-neymar-salva-rollheiser-vai-mal-e-defesa-falha-contra-a-chapecoense/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55419504179_4c6933a12c_o.webp",
+        "data": "2026-07-26T09:00:20.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Santos x Chapecoense: veja fotos do duelo pelo Campeonato Brasileiro",
         "desc": "O post Santos x Chapecoense: veja fotos do duelo pelo Campeonato Brasileiro apareceu primeiro em Gazeta Esportiva.",
@@ -113,22 +137,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Gotham-na-NWSL.webp",
         "data": "2026-07-25T16:14:10.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Lyon encerra pré-temporada com vitória sobre o Wolfsburg",
-        "desc": "O Lyon fechou o período de preparação no Adidas Campus com uma vitória por 2 a 0 sobre o Wolfsburg. A equipe de Paulo Fonseca deixa a Alemanha em alta após um bom desempenho.\nO pos...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/lyon-encerra-pre-temporada-com-vitoria-sobre-o-wolfsburg/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/y0xaw74j-1920ly.webp",
-        "data": "2026-07-25T16:09:40.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Gabriel Pec passa por cirurgia após grave lesão em estreia pelo Cruzeiro",
-        "desc": "O Cruzeiro informou neste sábado que Gabriel Pec foi submetido com sucesso a uma cirurgia para tratar a fratura na tíbia da perna esquerda sofrida durante a vitória sobre o Interna...",
-        "url": "https://www.gazetaesportiva.com/times/cruzeiro/gabriel-pec-cirurgia-fratura-tibia-cruzeiro/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55390089195_4436f69f34_o.webp",
-        "data": "2026-07-25T16:03:03.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -138,7 +146,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-26",
-        "data": "2026-07-26T08:54:57.400Z",
+        "data": "2026-07-26T10:42:26.112Z",
         "id": "curado-feminino-0"
       },
       {
@@ -147,7 +155,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-26",
-        "data": "2026-07-26T05:54:57.400Z",
+        "data": "2026-07-26T07:42:26.112Z",
         "id": "curado-feminino-1"
       },
       {
@@ -156,7 +164,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-26",
-        "data": "2026-07-26T02:54:57.400Z",
+        "data": "2026-07-26T04:42:26.112Z",
         "id": "curado-feminino-2"
       },
       {
@@ -175,7 +183,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-26",
-        "data": "2026-07-26T08:54:57.400Z",
+        "data": "2026-07-26T10:42:26.112Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -184,7 +192,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-26",
-        "data": "2026-07-26T05:54:57.400Z",
+        "data": "2026-07-26T07:42:26.112Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -193,7 +201,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-26",
-        "data": "2026-07-26T02:54:57.400Z",
+        "data": "2026-07-26T04:42:26.112Z",
         "id": "curado-jogadores-2"
       }
     ]
