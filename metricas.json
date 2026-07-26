@@ -1,40 +1,40 @@
 {
-  "geradoEm": "2026-07-25T23:57:30.639Z",
+  "geradoEm": "2026-07-26T03:17:29.625Z",
   "totais": {
-    "totalGeral": 1577,
+    "totalGeral": 1584,
     "porCategoria": {
-      "masculino": 1005,
-      "feminino": 254,
-      "jogadores": 318
+      "masculino": 1008,
+      "feminino": 256,
+      "jogadores": 320
     }
   },
   "porEstado": {
-    "PE": 1039,
-    "CE": 1177,
-    "BA": 779,
-    "AL": 931,
-    "RN": 187,
+    "PE": 1046,
+    "CE": 1181,
+    "BA": 783,
+    "AL": 933,
+    "RN": 189,
     "PB": 29,
-    "MA": 984,
-    "PI": 122,
-    "SE": 727
+    "MA": 989,
+    "PI": 123,
+    "SE": 731
   },
   "topClubes": [
     {
       "nome": "Sport",
-      "total": 721
+      "total": 723
     },
     {
       "nome": "Vitória",
-      "total": 572
+      "total": 575
     },
     {
       "nome": "Bahia",
-      "total": 228
+      "total": 231
     },
     {
       "nome": "Fortaleza",
-      "total": 166
+      "total": 168
     },
     {
       "nome": "Ceará",
@@ -44,26 +44,26 @@
   "fontesRanking": [
     {
       "nome": "Gazeta Esportiva",
-      "total": 999
+      "total": 1002
     },
     {
       "nome": "Bahia Esportes",
-      "total": 77
+      "total": 78
     },
     {
       "nome": "Diário do Ceará",
-      "total": 75
+      "total": 76
     },
     {
       "nome": "Pernambuco Press",
-      "total": 74
-    },
-    {
-      "nome": "Salvador News",
-      "total": 50
+      "total": 75
     },
     {
       "nome": "Ceará Esportes",
+      "total": 51
+    },
+    {
+      "nome": "Salvador News",
       "total": 50
     },
     {
