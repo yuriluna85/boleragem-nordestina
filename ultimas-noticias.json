@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-07-26T10:42:26.120Z",
+  "ultimaAtualizacao": "2026-07-26T12:00:40.902Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Há 95 anos, nascia Telê Santana: relembre a carreira do mestre",
+        "desc": "Há 95 anos, nascia Telê Santana: relembre a carreira do mestre\nO post Há 95 anos, nascia Telê Santana: relembre a carreira do mestre apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/fotos/fotos-destaque/ha-95-anos-nascia-tele-santana-relembre-a-carreira-do-mestre/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/imagem/2016/04/21/DFqOrwkXgAEWkV1.jpg",
+        "data": "2026-07-26T11:01:18.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Corinthians busca ampliar série invicta contra o Bahia como visitante por G5 do Brasileirão",
         "desc": "Após uma vitória convincente diante do Remo no retorno ao calendário oficial do futebol brasileiro após a pausa da Copa do Mundo, o Corinthians agora terá um desafio fora de casa. ...",
@@ -129,14 +137,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/25072026_cg_palmeiras_7407_20.webp",
         "data": "2026-07-25T16:49:34.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Portland Thorns FC (W) 2 x 2 Gotham FC na NWSL",
-        "desc": "Melhores momentos: Portland Thorns FC (W) 2 x 2 Gotham FC na NWSL\nO post Melhores momentos: Portland Thorns FC (W) 2 x 2 Gotham FC na NWSL apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-portland-thorns-fc-w-2-x-2-gotham-fc-na-nwsl/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Gotham-na-NWSL.webp",
-        "data": "2026-07-25T16:14:10.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -146,7 +146,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-26",
-        "data": "2026-07-26T10:42:26.112Z",
+        "data": "2026-07-26T12:00:40.886Z",
         "id": "curado-feminino-0"
       },
       {
@@ -155,7 +155,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-26",
-        "data": "2026-07-26T07:42:26.112Z",
+        "data": "2026-07-26T09:00:40.887Z",
         "id": "curado-feminino-1"
       },
       {
@@ -164,7 +164,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-26",
-        "data": "2026-07-26T04:42:26.112Z",
+        "data": "2026-07-26T06:00:40.887Z",
         "id": "curado-feminino-2"
       },
       {
@@ -183,7 +183,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-26",
-        "data": "2026-07-26T10:42:26.112Z",
+        "data": "2026-07-26T12:00:40.887Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -192,7 +192,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-26",
-        "data": "2026-07-26T07:42:26.112Z",
+        "data": "2026-07-26T09:00:40.887Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -201,7 +201,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-26",
-        "data": "2026-07-26T04:42:26.112Z",
+        "data": "2026-07-26T06:00:40.887Z",
         "id": "curado-jogadores-2"
       }
     ]
