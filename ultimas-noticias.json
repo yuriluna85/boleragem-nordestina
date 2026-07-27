@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao": "2026-07-27T20:03:23.426Z",
+  "ultimaAtualizacao": "2026-07-27T21:37:00.771Z",
   "dados": {
     "masculino": [
       {
@@ -57,14 +57,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2025/04/3A9K8D2.webp",
         "data": "2026-07-27T14:26:20.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Há 15 anos, Neymar marcava gol Puskás em Santos e Flamengo histórico",
-        "desc": "Há 15 anos, Neymar marcava gol Puskás em Santos e Flamengo histórico\nO post Há 15 anos, Neymar marcava gol Puskás em Santos e Flamengo histórico apareceu primeiro em Gazeta Esporti...",
-        "url": "https://www.gazetaesportiva.com/times/santos/ha-15-anos-neymar-marcava-gol-puskas-em-santos-e-flamengo-historico/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/imagem/2020/07/27/00378325-scaled.jpg",
-        "data": "2026-07-27T11:01:39.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -74,7 +66,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-27",
-        "data": "2026-07-27T20:03:23.413Z",
+        "data": "2026-07-27T21:37:00.757Z",
         "id": "curado-feminino-0"
       },
       {
@@ -83,7 +75,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-27",
-        "data": "2026-07-27T17:03:23.413Z",
+        "data": "2026-07-27T18:37:00.757Z",
         "id": "curado-feminino-1"
       },
       {
@@ -92,7 +84,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-27",
-        "data": "2026-07-27T14:03:23.413Z",
+        "data": "2026-07-27T15:37:00.757Z",
         "id": "curado-feminino-2"
       }
     ],
