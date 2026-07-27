@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao": "2026-07-27T18:02:17.513Z",
+  "ultimaAtualizacao": "2026-07-27T20:03:23.426Z",
   "dados": {
     "masculino": [
       {
@@ -65,30 +65,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/imagem/2020/07/27/00378325-scaled.jpg",
         "data": "2026-07-27T11:01:39.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Semana do Santos tem dobradinha de jogos em casa",
-        "desc": "Confira a programação do Santos para a última semana de julho.\nO post Semana do Santos tem dobradinha de jogos em casa apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/santos/semana-do-santos-tem-dobradinha-de-jogos-em-casa/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55419309329_785b2ceb9d_3k.webp",
-        "data": "2026-07-27T10:00:33.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Diniz elogia arbitragem após empate do Corinthians com o Bahia: &#8220;Teve critério&#8221;",
-        "desc": "Apesar do jogo tenso entre Bahia e Corinthians, o técnico Fernando Diniz elogiou a arbitragem da partida; confira.\nO post Diniz elogia arbitragem após empate do Corinthians com o B...",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/diniz-elogia-arbitragem-apos-empate-do-corinthians-com-o-bahia-teve-criterio/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/246885.webp",
-        "data": "2026-07-27T09:00:10.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Análise: Corinthians sofre, mas consegue segurar empate contra o Bahia",
-        "desc": "Confira a análise do Corinthians no duelo com o Bahia, pela 20ª rodada do Campeonato Brasileiro.\nO post Análise: Corinthians sofre, mas consegue segurar empate contra o Bahia apare...",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-sofre-mas-consegue-segurar-empate-contra-o-bahia/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/246880.webp",
-        "data": "2026-07-27T08:00:45.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -98,7 +74,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-27",
-        "data": "2026-07-27T18:02:17.498Z",
+        "data": "2026-07-27T20:03:23.413Z",
         "id": "curado-feminino-0"
       },
       {
@@ -107,7 +83,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-27",
-        "data": "2026-07-27T15:02:17.498Z",
+        "data": "2026-07-27T17:03:23.413Z",
         "id": "curado-feminino-1"
       },
       {
@@ -116,11 +92,35 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-27",
-        "data": "2026-07-27T12:02:17.498Z",
+        "data": "2026-07-27T14:03:23.413Z",
         "id": "curado-feminino-2"
       }
     ],
     "jogadores": [
+      {
+        "titulo": "Calebe é apresentado e aposta em &#8216;virada de chave&#8217; do Inter",
+        "desc": "O meio-campista Calebe foi apresentado como novo reforço do Inter; o camisa 30 chegou por empréstimo junto ao Fortaleza até junho de 2027.\nO post Calebe é apresentado e aposta em &...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/calebe-e-apresentado-e-aposta-em-virada-de-chave-do-inter/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Calebe.webp",
+        "data": "2026-07-27T19:17:16.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Corinthians se reapresenta após empate e abre preparação para enfrentar o Athletico-PR",
+        "desc": "Após empatar em 1 a 1 com o Bahia na tarde deste sábado, em Salvador, o elenco do Corinthians já se reapresentou no CT Joaquim Grava na manhã desta segunda para dar início à prepar...",
+        "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-se-reapresenta-apos-empate-e-abre-preparacao-para-enfrentar-o-athletico-pr/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/246817-1.webp",
+        "data": "2026-07-27T18:37:13.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Dudu agradece carinho da torcida do Palmeiras após reencontro em vitória do Atlético-MG: &#8220;Muito especial&#8221;",
+        "desc": "Apesar de não ter entrado em campo, a noite do último domingo foi especial para o atacante Dudu, do Atlético-MG. O atacante de 34 anos se reencontrou pela primeira vez com a torcid...",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/dudu-agradece-carinho-da-torcida-do-palmeiras-apos-reencontro-em-vitoria-do-atletico-mg-muito-especial/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55419484624_f280f3ddef_c.webp",
+        "data": "2026-07-27T18:13:30.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Flaco López se reapresenta após Copa e participa de treino do Palmeiras antes de pegar o Vitória",
         "desc": "Flaco López está de volta ao Palmeiras após disputar a Copa do Mundo pela Argentina. O atacante marcou presença na Academia de Futebol na manhã desta segunda-feira e participou do ...",
@@ -135,22 +135,6 @@
         "url": "https://www.gazetaesportiva.com/todas-as-noticias/dominguez-destaca-confianca-dos-atletas-e-crescimento-do-galo/",
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/o-Galo.webp",
         "data": "2026-07-27T16:48:32.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Semana do Palmeiras tem volta de Flaco López e viagem a Salvador",
-        "desc": "O Palmeiras inicia a semana com a reapresentação de Flaco López, vice-campeão da Copa do Mundo com a Argentina. O atacante será avaliado pela comissão técnica antes de voltar a atu...",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/flaco-lopez-volta-palmeiras-vitoria-brasileirao-2026/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/26072026_cg_palmeiras_6654_104.webp",
-        "data": "2026-07-27T10:00:40.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Atuações do Corinthians: elenco deixa a desejar contra o Bahia",
-        "desc": "Confira as atuações dos jogadores do Corinthians no empate com o Bahia, pela 20ª rodada do Campeonato Brasileiro.\nO post Atuações do Corinthians: elenco deixa a desejar contra o Ba...",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-do-corinthians-elenco-deixa-a-desejar-contra-o-bahia/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/246870.webp",
-        "data": "2026-07-27T10:00:37.000Z",
         "fonte": "Gazeta Esportiva"
       }
     ]
