@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-07-27T10:39:39.215Z",
+  "ultimaAtualizacao": "2026-07-27T13:37:02.017Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Há 15 anos, Neymar marcava gol Puskás em Santos e Flamengo histórico",
+        "desc": "Há 15 anos, Neymar marcava gol Puskás em Santos e Flamengo histórico\nO post Há 15 anos, Neymar marcava gol Puskás em Santos e Flamengo histórico apareceu primeiro em Gazeta Esporti...",
+        "url": "https://www.gazetaesportiva.com/times/santos/ha-15-anos-neymar-marcava-gol-puskas-em-santos-e-flamengo-historico/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/imagem/2020/07/27/00378325-scaled.jpg",
+        "data": "2026-07-27T11:01:39.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Semana do Santos tem dobradinha de jogos em casa",
         "desc": "Confira a programação do Santos para a última semana de julho.\nO post Semana do Santos tem dobradinha de jogos em casa apareceu primeiro em Gazeta Esportiva.",
@@ -121,14 +129,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/246890.webp",
         "data": "2026-07-26T20:59:07.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Corinthians tem Garro titular para enfrentar o Bahia; veja escalações",
-        "desc": "Confira as escalações do duelo entre Bahia e Corinthians, válido pela 20ª do Campeonato Brasileiro.\nO post Corinthians tem Garro titular para enfrentar o Bahia; veja escalações apa...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-tem-garro-titular-para-enfrentar-o-bahia-veja-escalacoes/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/HOK0Z4dXEAAtOLy.webp",
-        "data": "2026-07-26T18:02:51.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -138,7 +138,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-27",
-        "data": "2026-07-27T10:39:39.156Z",
+        "data": "2026-07-27T13:37:02.008Z",
         "id": "curado-feminino-0"
       },
       {
@@ -147,7 +147,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-27",
-        "data": "2026-07-27T07:39:39.156Z",
+        "data": "2026-07-27T10:37:02.008Z",
         "id": "curado-feminino-1"
       },
       {
@@ -156,7 +156,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-27",
-        "data": "2026-07-27T04:39:39.156Z",
+        "data": "2026-07-27T07:37:02.008Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -167,8 +167,17 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-27",
-        "data": "2026-07-27T10:39:39.156Z",
+        "data": "2026-07-27T13:37:02.008Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
+        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
+        "fonte": "Diário do Ceará",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-27",
+        "data": "2026-07-27T10:37:02.008Z",
+        "id": "curado-jogadores-1"
       },
       {
         "titulo": "Semana do Palmeiras tem volta de Flaco López e viagem a Salvador",
@@ -185,15 +194,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/246870.webp",
         "data": "2026-07-27T10:00:37.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
-        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
-        "fonte": "Diário do Ceará",
-        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-27",
-        "data": "2026-07-27T07:39:39.156Z",
-        "id": "curado-jogadores-1"
       }
     ]
   }
