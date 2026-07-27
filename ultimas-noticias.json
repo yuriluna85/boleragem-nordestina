@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-07-27T16:14:42.159Z",
+  "ultimaAtualizacao": "2026-07-27T18:02:17.513Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Veja fotos do treino do Palmeiras desta segunda-feira",
+        "desc": "O post Veja fotos do treino do Palmeiras desta segunda-feira apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-treino-do-palmeiras-desta-segunda-feira-27-07-2026/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/27072026_cg_palmeiras_8316_38.webp",
+        "data": "2026-07-27T17:27:37.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Botafogo vence o Cruzeiro no Mineirão; confira o gol",
         "desc": "Veja o gol de Gabriel Justino, que garantiu a vitória do Fogão fora de casa pelo returno do Campeonato Brasileiro.\nO post Botafogo vence o Cruzeiro no Mineirão; confira o gol apare...",
@@ -81,30 +89,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/246880.webp",
         "data": "2026-07-27T08:00:45.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Novorizontino goleia Londrina fora de casa e vence depois de três jogos sem vitória na Série B",
-        "desc": "O Novorizontino goleou o Londrina por 4 a 1 fora de casa, pela 20ª rodada da Série B. Paulinho Moccelin abriu o placar para o Londrina, mas Rômulo, Robson, Reidiney e Carlão marcar...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/novorizontino-goleia-londrina-fora-de-casa-e-vence-depois-de-tres-jogos-sem-vitoria-na-serie-b/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55422101830_cfdf720b34_o.webp",
-        "data": "2026-07-27T01:15:06.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Flamengo x São Paulo: veja fotos do jogo pelo Brasileirão",
-        "desc": "O post Flamengo x São Paulo: veja fotos do jogo pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/flamengo-x-sao-paulo-veja-fotos-do-jogo-pelo-brasileirao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55421949154_e83c973416_o.webp",
-        "data": "2026-07-27T00:41:37.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Remo bate o Vitória em casa e fica a um ponto de sair da zona de rebaixamento do Brasileirão",
-        "desc": "O Remo venceu o Vitória por 2 a 0 no Mangueirão, pela 20ª rodada do Brasileirão. Jajá abriu o placar aos 39 minutos do primeiro tempo, aproveitando falha do goleiro Lucas Arcanjo, ...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/remo-bate-o-vitoria-em-casa-e-fica-a-um-ponto-de-sair-da-zona-de-rebaixamento-do-brasileirao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/HOMbTwdXAAA_OIw.webp",
-        "data": "2026-07-27T00:37:23.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -114,7 +98,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-27",
-        "data": "2026-07-27T16:14:42.149Z",
+        "data": "2026-07-27T18:02:17.498Z",
         "id": "curado-feminino-0"
       },
       {
@@ -123,7 +107,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-27",
-        "data": "2026-07-27T13:14:42.149Z",
+        "data": "2026-07-27T15:02:17.498Z",
         "id": "curado-feminino-1"
       },
       {
@@ -132,28 +116,26 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-27",
-        "data": "2026-07-27T10:14:42.149Z",
+        "data": "2026-07-27T12:02:17.498Z",
         "id": "curado-feminino-2"
       }
     ],
     "jogadores": [
       {
-        "titulo": "Everton Ribeiro completa 120 jogos pelo Bahia com golaço na Fonte Nova",
-        "desc": "O veterano meia do Bahia comandou a vitória tricolor com passes decisivos e um belíssimo gol de fora da área, aplaudido de pé.",
-        "fonte": "Bahia Esportes",
-        "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-27",
-        "data": "2026-07-27T16:14:42.149Z",
-        "id": "curado-jogadores-0"
+        "titulo": "Flaco López se reapresenta após Copa e participa de treino do Palmeiras antes de pegar o Vitória",
+        "desc": "Flaco López está de volta ao Palmeiras após disputar a Copa do Mundo pela Argentina. O atacante marcou presença na Academia de Futebol na manhã desta segunda-feira e participou do ...",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/retorno-flaco-lopez-reforco-treino-palmeiras-vitoria/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/27072026_cg_palmeiras_8211_26.webp",
+        "data": "2026-07-27T17:19:12.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
-        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
-        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
-        "fonte": "Diário do Ceará",
-        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-27",
-        "data": "2026-07-27T13:14:42.149Z",
-        "id": "curado-jogadores-1"
+        "titulo": "Domínguez destaca confiança dos atletas e crescimento do Galo",
+        "desc": "O técnico argentino Eduardo Domínguez destacou a confiança dos jogadores do Atlético após a vitória por 2 a 1 sobre o Palmeiras, no Nubank Parque, pelo Brasileirão.\nO post Domíngue...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/dominguez-destaca-confianca-dos-atletas-e-crescimento-do-galo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/o-Galo.webp",
+        "data": "2026-07-27T16:48:32.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Semana do Palmeiras tem volta de Flaco López e viagem a Salvador",
