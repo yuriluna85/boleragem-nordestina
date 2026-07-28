@@ -1,7 +1,39 @@
 {
-  "ultimaAtualizacao": "2026-07-28T22:01:11.326Z",
+  "ultimaAtualizacao": "2026-07-28T23:28:28.804Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Jodar vence Fils em Washington; Cruz Hewitt conquista 1ª vitória no circuito profissional",
+        "desc": "O ATP 500 de Washington teve como destaques as vitórias dos jovens Rafael Jodar e Cruz Hewitt. O espanhol de 19 anos surpreendeu o francês Arthur Fils, cabeça de chave e atual 22º ...",
+        "url": "https://www.gazetaesportiva.com/mais-esportes/tenis/jodar-vence-fils-em-washington-cruz-hewitt-conquista-1a-vitoria-no-circuito-profissional/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260728__2288043586__v1__HighRes__MubadalaCitiDcOpen2026Day2.webp",
+        "data": "2026-07-28T23:25:13.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Vitória x Palmeiras pelo Brasileirão: onde assistir ao vivo, estatísticas, histórico e escalações",
+        "desc": "Depois de perder a invencibilidade em casa no Campeonato Brasileiro, o Palmeiras volta a campo nesta quarta-feira, quando enfrenta o Vitória, pela 21ª rodada. A bola rola a partir ...",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/vitoria-x-palmeiras-pelo-brasileirao-onde-assistir-ao-vivo-estatisticas-historico-e-escalacoes/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/04022026_cg_palmeiras_7543_46.webp",
+        "data": "2026-07-28T23:00:48.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Fluminense x Bahia pelo Brasileirão: veja onde assistir e prováveis escalações do confronto",
+        "desc": "Fluminense e Bahia se enfrentam nesta quarta-feira (29), às 21h30, no Maracanã, pela 21ª rodada do Campeonato Brasileiro.\nO Fluminense é o 4º colocado, com 33 pontos, enquanto o Ba...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/fluminense-x-bahia-pelo-brasileirao-veja-onde-assistir-e-provaveis-escalacoes-do-confronto/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55389360269_d4d2c7170a_o.webp",
+        "data": "2026-07-28T23:00:46.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "RB Bragantino x Sporting Cristal pela Copa Sul-Americana: veja prováveis escalações e onde assistir",
+        "desc": "Bragantino recebe o Sporting Cristal nesta quarta-feira pela Sul-Americana, após empate sem gols no jogo de ida dos playoffs.\nO post RB Bragantino x Sporting Cristal pela Copa Sul-...",
+        "url": "https://www.gazetaesportiva.com/times/bragantino/rb-bragantino-x-sporting-cristal-pela-copa-sul-americana-veja-provaveis-escalacoes-e-onde-assistir/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260723__C2WU8Y6__v1__HighRes__FblSudamericanaCristalBragantino.webp",
+        "data": "2026-07-28T23:00:15.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Sosa exalta campanha do Paraguai na Copa e elogia companheiro de Palmeiras: &#8220;Foi muito bem&#8221;",
         "desc": "Autor de um gol na vitória sobre o Coritiba na última semana, a primeira partida oficial do Palmeiras após a pausa da Copa do Mundo, Ramón Sosa contou sobre sua experiência no torn...",
@@ -33,22 +65,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/4dfd95d9-a083-4599-899a-56d7ee1dfcf1.webp",
         "data": "2026-07-28T14:00:38.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos da vitória do CRB sobre o Vila Nova pela Série B",
-        "desc": "Melhores momentos da vitória do CRB sobre o Vila Nova pela Série B\nO post Melhores momentos da vitória do CRB sobre o Vila Nova pela Série B apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-da-vitoria-do-crb-sobre-o-vila-nova-pela-serie-b/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/CR.webp",
-        "data": "2026-07-28T11:01:44.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Vitória x Palmeiras: saiba onde assistir ao jogo da 21ª rodada do Brasileirão",
-        "desc": "Depois de perder a invencibilidade em casa no Campeonato Brasileiro, o Palmeiras volta a campo nesta quarta-feira, quando enfrenta o Vitória, pela 21ª rodada. A bola rola a partir ...",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/vitoria-x-palmeiras-saiba-onde-assistir-ao-jogo-da-21a-rodada-do-brasileirao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/onde-assistir-palmeiras.webp",
-        "data": "2026-07-28T10:00:11.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -58,7 +74,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-28",
-        "data": "2026-07-28T22:01:11.317Z",
+        "data": "2026-07-28T23:28:28.790Z",
         "id": "curado-feminino-0"
       },
       {
@@ -67,7 +83,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-28",
-        "data": "2026-07-28T19:01:11.317Z",
+        "data": "2026-07-28T20:28:28.790Z",
         "id": "curado-feminino-1"
       },
       {
@@ -76,11 +92,20 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-28",
-        "data": "2026-07-28T16:01:11.318Z",
+        "data": "2026-07-28T17:28:28.790Z",
         "id": "curado-feminino-2"
       }
     ],
     "jogadores": [
+      {
+        "titulo": "Everton Ribeiro completa 120 jogos pelo Bahia com golaço na Fonte Nova",
+        "desc": "O veterano meia do Bahia comandou a vitória tricolor com passes decisivos e um belíssimo gol de fora da área, aplaudido de pé.",
+        "fonte": "Bahia Esportes",
+        "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-28",
+        "data": "2026-07-28T23:28:28.790Z",
+        "id": "curado-jogadores-0"
+      },
       {
         "titulo": "Zé Lucas exalta projeto do Cruzeiro e sonha com Libertadores: &#8220;Quero fazer meu nome&#8221;",
         "desc": "Contratado junto ao Sport no último sábado, o jovem Zé Lucas oficialmente apresentado como reforço do Cruzeiro nesta terça-feira. O volante exaltou a escolga pelo clube mineiro e d...",
@@ -103,14 +128,6 @@
         "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-tera-retorno-de-quinteto-e-baixa-de-paulinho-contra-o-vitoria-veja-provavel-escalacao/",
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/28072026_cg_palmeiras_8660_10.webp",
         "data": "2026-07-28T16:45:42.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Palmeiras vê lista de desfalques diminuir e pode ter time quase completo contra o Vitória",
-        "desc": "O Palmeiras terá reforços importantes para enfrentar o Vitória pelo Campeonato Brasileiro. Khellven, Barboza, Ramón Sosa e Allan retornam após cumprir suspensão, enquanto Flaco Lóp...",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-vitoria-reforcos-e-desfalques/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/27072026_cg_palmeiras_8172_22.webp",
-        "data": "2026-07-28T09:00:10.000Z",
         "fonte": "Gazeta Esportiva"
       }
     ]
