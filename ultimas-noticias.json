@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-07-27T22:58:11.884Z",
+  "ultimaAtualizacao": "2026-07-28T00:05:25.789Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Veja as fotos do treino do Santos desta segunda-feira",
+        "desc": "O post Veja as fotos do treino do Santos desta segunda-feira apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/santos/veja-as-fotos-do-treino-do-santos-desta-segunda-feira/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55424361991_1d72dda19a_k.webp",
+        "data": "2026-07-27T23:16:12.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Fortaleza x Botafogo-SP: veja onde assistir e prováveis escalações do jogo pela Série B",
+        "desc": "Fortaleza e Botafogo-SP se enfrentam nesta terça-feira (28), às 21h35, na Arena Castelão, pela 20ª rodada da Série B do Campeonato Brasileiro. O Leão do Pici busca se recuperar apó...",
+        "url": "https://www.gazetaesportiva.com/times/fortaleza/fortaleza-x-botafogo-sp-onde-assistir-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/@daianefariasfotografa-3.jpg-3.webp",
+        "data": "2026-07-27T23:00:09.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Melhores momentos: Karasu 1 x 5 G3X FC pela Kings World Cup Clubs",
         "desc": "Melhores momentos: Karasu 1 x 5 G3X FC pela Kings World Cup Clubs\nO post Melhores momentos: Karasu 1 x 5 G3X FC pela Kings World Cup Clubs apareceu primeiro em Gazeta Esportiva.",
@@ -33,22 +49,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/fxyrmgtk-1920-Miretti.webp",
         "data": "2026-07-27T14:51:09.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Dois gols no fim: Diouf comanda virada da Inter sobre o Karlsruhe",
-        "desc": "Andy Diouf marcou dois gols no fim para garantir a vitória de virada da Inter por 2 a 1 sobre o Karlsruher SC.\nO post Dois gols no fim: Diouf comanda virada da Inter sobre o Karlsr...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/dois-gols-no-fim-diouf-comanda-virada-da-inter-sobre-o-karlsruhe/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/ztifcnlw-1920Karlsruher-SC.webp",
-        "data": "2026-07-27T14:48:52.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Richarlison e Scarlett comandam vitória do Spurs sobre o Auckland",
-        "desc": "Com gols de Dane Scarlett e Richarlison, o Tottenham venceu o Auckland FC por 2 a 0 em amistoso de pré-temporada disputado no Eden Park, na Nova Zelândia.\nO post Richarlison e Scar...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/richarlison-e-scarlett-comandam-vitoria-do-spurs-sobre-o-auckland/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/bhvnivrm-1920.webp",
-        "data": "2026-07-27T14:46:24.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -57,8 +57,8 @@
         "desc": "As Leoas venceram o clássico com autoridade por 4 a 1 e continuam invictas na competição nacional de futebol feminino.",
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-27",
-        "data": "2026-07-27T22:58:11.875Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-28",
+        "data": "2026-07-28T00:05:25.780Z",
         "id": "curado-feminino-0"
       },
       {
@@ -67,7 +67,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-27",
-        "data": "2026-07-27T19:58:11.875Z",
+        "data": "2026-07-27T21:05:25.780Z",
         "id": "curado-feminino-1"
       },
       {
@@ -76,7 +76,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-27",
-        "data": "2026-07-27T16:58:11.875Z",
+        "data": "2026-07-27T18:05:25.780Z",
         "id": "curado-feminino-2"
       }
     ],
