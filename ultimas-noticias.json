@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-07-28T13:58:32.924Z",
+  "ultimaAtualizacao": "2026-07-28T16:07:16.388Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Campeonato mundial oficial eFootball Championship 2026 World Finals tem vitória de brasileiros",
+        "desc": "A Konami anunciou novidades para o eFootball durante o eFootball World Festival, realizado em Bangkok, incluindo novas lendas, modos de jogo e mecânicas inéditas. O evento também m...",
+        "url": "https://www.gazetaesportiva.com/esports/konami-anuncia-novidades-efootball-brasil-campeao-mundial/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/4dfd95d9-a083-4599-899a-56d7ee1dfcf1.webp",
+        "data": "2026-07-28T14:00:38.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Melhores momentos da vitória do CRB sobre o Vila Nova pela Série B",
         "desc": "Melhores momentos da vitória do CRB sobre o Vila Nova pela Série B\nO post Melhores momentos da vitória do CRB sobre o Vila Nova pela Série B apareceu primeiro em Gazeta Esportiva.",
@@ -66,7 +74,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-28",
-        "data": "2026-07-28T13:58:32.915Z",
+        "data": "2026-07-28T16:07:16.378Z",
         "id": "curado-feminino-0"
       },
       {
@@ -75,7 +83,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-28",
-        "data": "2026-07-28T10:58:32.915Z",
+        "data": "2026-07-28T13:07:16.378Z",
         "id": "curado-feminino-1"
       },
       {
@@ -84,7 +92,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-28",
-        "data": "2026-07-28T07:58:32.915Z",
+        "data": "2026-07-28T10:07:16.378Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -95,7 +103,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-28",
-        "data": "2026-07-28T13:58:32.915Z",
+        "data": "2026-07-28T16:07:16.378Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -104,8 +112,17 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-28",
-        "data": "2026-07-28T10:58:32.915Z",
+        "data": "2026-07-28T13:07:16.378Z",
         "id": "curado-jogadores-1"
+      },
+      {
+        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
+        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
+        "fonte": "Vozão Diário",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-28",
+        "data": "2026-07-28T10:07:16.378Z",
+        "id": "curado-jogadores-2"
       },
       {
         "titulo": "Palmeiras vê lista de desfalques diminuir e pode ter time quase completo contra o Vitória",
@@ -113,14 +130,6 @@
         "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-vitoria-reforcos-e-desfalques/",
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/27072026_cg_palmeiras_8172_22.webp",
         "data": "2026-07-28T09:00:10.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Calebe é apresentado e aposta em &#8216;virada de chave&#8217; do Inter",
-        "desc": "O meio-campista Calebe foi apresentado como novo reforço do Inter; o camisa 30 chegou por empréstimo junto ao Fortaleza até junho de 2027.\nO post Calebe é apresentado e aposta em &...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/calebe-e-apresentado-e-aposta-em-virada-de-chave-do-inter/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Calebe.webp",
-        "data": "2026-07-27T19:17:16.000Z",
         "fonte": "Gazeta Esportiva"
       }
     ]
