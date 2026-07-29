@@ -1,23 +1,23 @@
 {
-  "geradoEm": "2026-07-29T10:06:09.997Z",
+  "geradoEm": "2026-07-29T12:27:56.876Z",
   "totais": {
-    "totalGeral": 1677,
+    "totalGeral": 1678,
     "porCategoria": {
       "masculino": 1074,
       "feminino": 267,
-      "jogadores": 336
+      "jogadores": 337
     }
   },
   "porEstado": {
-    "PE": 1124,
-    "CE": 1238,
+    "PE": 1125,
+    "CE": 1239,
     "BA": 840,
-    "AL": 986,
+    "AL": 987,
     "RN": 201,
     "PB": 29,
-    "MA": 1037,
+    "MA": 1038,
     "PI": 130,
-    "SE": 777
+    "SE": 778
   },
   "topClubes": [
     {
@@ -34,7 +34,7 @@
     },
     {
       "nome": "Fortaleza",
-      "total": 176
+      "total": 177
     },
     {
       "nome": "Ceará",
@@ -51,11 +51,11 @@
       "total": 81
     },
     {
-      "nome": "Pernambuco Press",
-      "total": 78
+      "nome": "Diário do Ceará",
+      "total": 79
     },
     {
-      "nome": "Diário do Ceará",
+      "nome": "Pernambuco Press",
       "total": 78
     },
     {
