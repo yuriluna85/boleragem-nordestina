@@ -1,7 +1,31 @@
 {
-  "ultimaAtualizacao": "2026-07-29T12:27:56.831Z",
+  "ultimaAtualizacao": "2026-07-29T14:51:28.378Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Arsenal inicia pré-temporada em Girona",
+        "desc": "Arsenal inicia pré-temporada em Girona\nO post Arsenal inicia pré-temporada em Girona apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/arsenal/arsenal-inicia-pre-temporada-em-girona/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Arse.webp",
+        "data": "2026-07-29T14:35:29.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Zé Lucas revela inspirações e quer fazer história no Cruzeiro",
+        "desc": "Zé Lucas revela inspirações e quer fazer história no Cruzeiro\nO post Zé Lucas revela inspirações e quer fazer história no Cruzeiro apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/cruzeiro/ze-lucas-revela-inspiracoes-e-quer-fazer-historia-no-cruzeiro/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Ze-Luca.webp",
+        "data": "2026-07-29T14:01:06.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Rony aparece livre na área e fecha vitória e classificação do Santos na Sul-Americana; confira",
+        "desc": "Rony aparece livre na área e fecha vitória e classificação do Santos na Sul-Americana; confira \nO post Rony aparece livre na área e fecha vitória e classificação do Santos na Sul-A...",
+        "url": "https://www.gazetaesportiva.com/times/santos/rony-aparece-livre-na-area-e-fecha-vitoria-e-classificacao-do-santos-na-sul-americana-confira/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260729__C3F33TW__v1__HighRes__FblSudamericanaSantosUcentralven.webp",
+        "data": "2026-07-29T13:06:26.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "De volta após suspensão, Sosa projeta confronto entre Palmeiras e Vitória: &#8220;Mesmo nível&#8221;",
         "desc": "Voltando a ser opção para Abel Ferreira após cumprir suspensão na derrota do Palmeiras para o Atlético-MG, Ramón Sosa analisou a equipe do Vitória, o próximo adversário do Verdão e...",
@@ -57,30 +81,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260728__2288043586__v1__HighRes__MubadalaCitiDcOpen2026Day2.webp",
         "data": "2026-07-28T23:25:13.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Vitória x Palmeiras pelo Brasileirão: onde assistir ao vivo, estatísticas, histórico e escalações",
-        "desc": "Depois de perder a invencibilidade em casa no Campeonato Brasileiro, o Palmeiras volta a campo nesta quarta-feira, quando enfrenta o Vitória, pela 21ª rodada. A bola rola a partir ...",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/vitoria-x-palmeiras-pelo-brasileirao-onde-assistir-ao-vivo-estatisticas-historico-e-escalacoes/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/04022026_cg_palmeiras_7543_46.webp",
-        "data": "2026-07-28T23:00:48.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Fluminense x Bahia pelo Brasileirão: veja onde assistir e prováveis escalações do confronto",
-        "desc": "Fluminense e Bahia se enfrentam nesta quarta-feira (29), às 21h30, no Maracanã, pela 21ª rodada do Campeonato Brasileiro.\nO Fluminense é o 4º colocado, com 33 pontos, enquanto o Ba...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/fluminense-x-bahia-pelo-brasileirao-veja-onde-assistir-e-provaveis-escalacoes-do-confronto/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55389360269_d4d2c7170a_o.webp",
-        "data": "2026-07-28T23:00:46.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "RB Bragantino x Sporting Cristal pela Copa Sul-Americana: veja prováveis escalações e onde assistir",
-        "desc": "Bragantino recebe o Sporting Cristal nesta quarta-feira pela Sul-Americana, após empate sem gols no jogo de ida dos playoffs.\nO post RB Bragantino x Sporting Cristal pela Copa Sul-...",
-        "url": "https://www.gazetaesportiva.com/times/bragantino/rb-bragantino-x-sporting-cristal-pela-copa-sul-americana-veja-provaveis-escalacoes-e-onde-assistir/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260723__C2WU8Y6__v1__HighRes__FblSudamericanaCristalBragantino.webp",
-        "data": "2026-07-28T23:00:15.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -90,7 +90,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-29",
-        "data": "2026-07-29T12:27:56.821Z",
+        "data": "2026-07-29T14:51:28.369Z",
         "id": "curado-feminino-0"
       },
       {
@@ -99,7 +99,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-29",
-        "data": "2026-07-29T09:27:56.821Z",
+        "data": "2026-07-29T11:51:28.369Z",
         "id": "curado-feminino-1"
       },
       {
@@ -108,7 +108,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-29",
-        "data": "2026-07-29T06:27:56.821Z",
+        "data": "2026-07-29T08:51:28.369Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -119,7 +119,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-29",
-        "data": "2026-07-29T12:27:56.821Z",
+        "data": "2026-07-29T14:51:28.369Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -128,7 +128,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-29",
-        "data": "2026-07-29T09:27:56.821Z",
+        "data": "2026-07-29T11:51:28.369Z",
         "id": "curado-jogadores-1"
       },
       {
