@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-07-29T14:51:28.378Z",
+  "ultimaAtualizacao": "2026-07-29T16:18:48.233Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Camarda marca dois pelo Milan contra o Celtic",
+        "desc": "Francesco Camarda marca duas vezes para o AC Milan no empate em amistoso contra o Celtic.\nO post Camarda marca dois pelo Milan contra o Celtic apareceu primeiro em Gazeta Esportiva...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/camarda-marca-dois-pelo-milan-contra-o-celtic/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/contra-o-Celtic.webp",
+        "data": "2026-07-29T16:02:36.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Bastidores da viagem do Palmeiras para Salvador",
+        "desc": "O Palmeiras chegou a Salvador para o confronto com o Vitória, no Barradão, pela 21ª rodada do Campeonato Brasileiro; confira como foi a viagem.\nO post Bastidores da viagem do Palme...",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/bastidores-da-viagem-do-palmeiras-para-salvador/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Basti.webp",
+        "data": "2026-07-29T15:10:49.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Arsenal inicia pré-temporada em Girona",
         "desc": "Arsenal inicia pré-temporada em Girona\nO post Arsenal inicia pré-temporada em Girona apareceu primeiro em Gazeta Esportiva.",
@@ -65,22 +81,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/HOXEsvqWsAEkbUH.webp",
         "data": "2026-07-29T02:38:58.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Santos não chega a acordo com Mayke para rescisão, e caso será tratado pelo Jurídico",
-        "desc": "O Santos encerrou as negociações por uma rescisão amigável com Mayke após não chegar a um acordo com o lateral-direito. A informação foi apurada pela Gazeta Esportiva. Enquanto o c...",
-        "url": "https://www.gazetaesportiva.com/times/santos/mayke-santos-rescisao-juridico-ze-rafael-2026/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2025/12/mayke-22-12.webp",
-        "data": "2026-07-29T01:14:25.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Jodar vence Fils em Washington; Cruz Hewitt conquista 1ª vitória no circuito profissional",
-        "desc": "O ATP 500 de Washington teve como destaques as vitórias dos jovens Rafael Jodar e Cruz Hewitt. O espanhol de 19 anos surpreendeu o francês Arthur Fils, cabeça de chave e atual 22º ...",
-        "url": "https://www.gazetaesportiva.com/mais-esportes/tenis/jodar-vence-fils-em-washington-cruz-hewitt-conquista-1a-vitoria-no-circuito-profissional/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260728__2288043586__v1__HighRes__MubadalaCitiDcOpen2026Day2.webp",
-        "data": "2026-07-28T23:25:13.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -90,7 +90,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-29",
-        "data": "2026-07-29T14:51:28.369Z",
+        "data": "2026-07-29T16:18:48.222Z",
         "id": "curado-feminino-0"
       },
       {
@@ -99,7 +99,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-29",
-        "data": "2026-07-29T11:51:28.369Z",
+        "data": "2026-07-29T13:18:48.222Z",
         "id": "curado-feminino-1"
       },
       {
@@ -108,7 +108,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-29",
-        "data": "2026-07-29T08:51:28.369Z",
+        "data": "2026-07-29T10:18:48.222Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -119,8 +119,16 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-29",
-        "data": "2026-07-29T14:51:28.369Z",
+        "data": "2026-07-29T16:18:48.222Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Jogadores e técnico Artur Jorge recebem visita emocionante na Toca 2",
+        "desc": "Jogadores e técnico Artur Jorge recebem visita emocionante na Toca 2\nO post Jogadores e técnico Artur Jorge recebem visita emocionante na Toca 2 apareceu primeiro em Gazeta Esporti...",
+        "url": "https://www.gazetaesportiva.com/times/cruzeiro/jogadores-e-tecnico-artur-jorge-recebem-visita-emocionante-na-toca-2/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Jogado.webp",
+        "data": "2026-07-29T15:12:04.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
@@ -128,7 +136,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-29",
-        "data": "2026-07-29T11:51:28.369Z",
+        "data": "2026-07-29T13:18:48.222Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -137,14 +145,6 @@
         "url": "https://www.gazetaesportiva.com/times/santos/neymar-comenta-polemica-em-vestiario-do-santos-e-indica-possivel-adeus-a-selecao/",
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55427506669_0613ef0e5c_o.webp",
         "data": "2026-07-29T07:00:04.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "São Paulo fica perto de contratar lateral esquerdo Iago, do Bahia",
-        "desc": "O São Paulo está por detalhes de fechar a contratação do lateral esquerdo Iago Borduchi junto ao Bahia. Veja detalhes na matéria.\nO post São Paulo fica perto de contratar lateral e...",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-fica-perto-de-contratar-lateral-iago-do-bahia-veja-detalhes/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55269290700_a58f817114_o.webp",
-        "data": "2026-07-28T23:44:59.000Z",
         "fonte": "Gazeta Esportiva"
       }
     ]
