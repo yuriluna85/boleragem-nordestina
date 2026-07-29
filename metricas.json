@@ -1,23 +1,23 @@
 {
-  "geradoEm": "2026-07-29T19:10:17.619Z",
+  "geradoEm": "2026-07-29T20:29:21.604Z",
   "totais": {
-    "totalGeral": 1686,
+    "totalGeral": 1687,
     "porCategoria": {
-      "masculino": 1081,
+      "masculino": 1082,
       "feminino": 267,
       "jogadores": 338
     }
   },
   "porEstado": {
-    "PE": 1128,
-    "CE": 1245,
+    "PE": 1129,
+    "CE": 1246,
     "BA": 842,
-    "AL": 991,
+    "AL": 992,
     "RN": 201,
     "PB": 29,
-    "MA": 1040,
-    "PI": 131,
-    "SE": 780
+    "MA": 1041,
+    "PI": 132,
+    "SE": 781
   },
   "topClubes": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "nome": "Ceará",
-      "total": 126
+      "total": 127
     }
   ],
   "fontesRanking": [
@@ -68,7 +68,7 @@
     },
     {
       "nome": "Vozão Diário",
-      "total": 50
+      "total": 51
     },
     {
       "nome": "Ceará Notícias",
