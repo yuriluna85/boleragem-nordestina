@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-07-30T20:41:22.294Z",
+  "ultimaAtualizacao": "2026-07-30T22:03:05.216Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Allan destaca adaptação tática no Palmeiras após volta de suspensão e projeta duelo pela Copa do Brasil",
+        "desc": "Após cumprir dois jogos de suspensão, Allan voltou a ficar à disposição de Abel Ferreira na última quarta-feira e foi titular na goleada do Palmeiras por 4 a 0 sobre o Vitória, pel...",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/allan-destaca-adaptacao-tatica-no-palmeiras-apos-volta-de-suspensao-e-projeta-duelo-pela-copa-do-brasil/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/29072026_cg_palmeiras_7059_36-1.webp",
+        "data": "2026-07-30T22:00:41.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Vitória cita expulsões de Abel no Palmeiras e rebate fala do treinador sobre Luan Cândido",
         "desc": "O Vitória rebateu na tarde desta quinta-feira a declaração do técnico do Palmeiras, Abel Ferreira, sobre o zagueiro Luan Cândido, que foi expulso por fazer gesto de roubo com as mã...",
@@ -97,22 +105,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/ML.webp",
         "data": "2026-07-30T13:56:49.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos da vitória do Mirassol sobre o Remo pelo Brasileirão",
-        "desc": "Melhores momentos da vitória do Mirassol sobre o Remo pelo Brasileirão \nO post Melhores momentos da vitória do Mirassol sobre o Remo pelo Brasileirão apareceu primeiro em Gazeta Es...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-da-vitoria-do-mirassol-sobre-o-remo-pelo-brasileirao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Miras.webp",
-        "data": "2026-07-30T13:11:48.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Há 26 anos, Rubens Barrichello conquistava sua primeira vitória na F1; relembre fotos da carreira",
-        "desc": "Há 26 anos, Rubens Barrichello conquista sua primeira vitória na F1; relembre fotos da carreira\nO post Há 26 anos, Rubens Barrichello conquistava sua primeira vitória na F1; relemb...",
-        "url": "https://www.gazetaesportiva.com/motor/ha-26-anos-rubens-barrichello-conquista-sua-primeira-vitoria-na-f1-relembre-fotos-da-carreira/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/imagem/2020/05/23/gazeta-press-foto-149471-scaled.jpg",
-        "data": "2026-07-30T12:58:03.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -122,7 +114,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-30",
-        "data": "2026-07-30T20:41:22.284Z",
+        "data": "2026-07-30T22:03:05.206Z",
         "id": "curado-feminino-0"
       },
       {
@@ -131,7 +123,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-30",
-        "data": "2026-07-30T17:41:22.284Z",
+        "data": "2026-07-30T19:03:05.206Z",
         "id": "curado-feminino-1"
       },
       {
@@ -140,7 +132,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-30",
-        "data": "2026-07-30T14:41:22.284Z",
+        "data": "2026-07-30T16:03:05.206Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -151,8 +143,17 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-30",
-        "data": "2026-07-30T20:41:22.284Z",
+        "data": "2026-07-30T22:03:05.206Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
+        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
+        "fonte": "Diário do Ceará",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-30",
+        "data": "2026-07-30T19:03:05.206Z",
+        "id": "curado-jogadores-1"
       },
       {
         "titulo": "Paulinho treina em reapresentação do Palmeiras e pode ser reforço para Copa do Brasil",
@@ -163,21 +164,12 @@
         "fonte": "Gazeta Esportiva"
       },
       {
-        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
-        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
-        "fonte": "Diário do Ceará",
-        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-30",
-        "data": "2026-07-30T17:41:22.284Z",
-        "id": "curado-jogadores-1"
-      },
-      {
         "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
         "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-30",
-        "data": "2026-07-30T14:41:22.284Z",
+        "data": "2026-07-30T16:03:05.206Z",
         "id": "curado-jogadores-2"
       }
     ]
