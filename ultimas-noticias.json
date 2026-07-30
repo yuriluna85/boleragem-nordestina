@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-07-30T08:20:13.644Z",
+  "ultimaAtualizacao": "2026-07-30T10:37:13.275Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Santos supera R$ 10 milhões em premiações e ganha fôlego para quitar pagamentos",
+        "desc": "O Santos ultrapassou R$ 10 milhões em premiações com as campanhas na Copa Sul-Americana e na Copa do Brasil. A Gazeta Esportiva apurou que a diretoria pretende utilizar os valores ...",
+        "url": "https://www.gazetaesportiva.com/times/santos/santos-supera-r-10-milhoes-premiacoes-quitar-pagamentos/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55252076246_aed206f0c9_k.webp",
+        "data": "2026-07-30T10:00:43.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Análise: expulsões abrem espaço para Palmeiras golear e ampliar vantagem na ponta",
+        "desc": "O Palmeiras saiu de Salvador com três pontos na bagagem e uma gordura maior na liderança do Campeonato Brasileiro após a goleada por 4 a 0 sobre o Vitória, na última quarta-feira, ...",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/analise-expulsoes-abrem-espaco-para-palmeiras-golear-e-ampliar-vantagem-na-ponta/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/29072026_cg_palmeiras_7332_69-1.webp",
+        "data": "2026-07-30T09:00:40.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Atuações do Palmeiras: Carlos Miguel aparece bem, e gringos lideram goleada sobre o Vitória",
         "desc": "O Palmeiras goleou o Vitória por 4 a 0 na noite da última quarta-feira, em duelo válido pela 21ª rodada do Campeonato Brasileiro. Mauricio, Fabiano (contra), Jhon Arias e Ramón Sos...",
@@ -137,14 +153,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260729__2288187354__v1__HighRes__MubadalaCitiDcOpen2026Day3.webp",
         "data": "2026-07-29T22:35:20.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos da reapresentação do São Paulo nesta quarta-feira",
-        "desc": "O post Veja fotos da reapresentação do São Paulo nesta quarta-feira apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-da-reapresentacao-do-sao-paulo-nesta-quarta-feira-6/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55429395820_668aa1f6a7_k-1.webp",
-        "data": "2026-07-29T21:53:13.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -154,7 +162,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-30",
-        "data": "2026-07-30T08:20:13.630Z",
+        "data": "2026-07-30T10:37:13.263Z",
         "id": "curado-feminino-0"
       },
       {
@@ -163,7 +171,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-30",
-        "data": "2026-07-30T05:20:13.630Z",
+        "data": "2026-07-30T07:37:13.263Z",
         "id": "curado-feminino-1"
       },
       {
@@ -172,7 +180,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-30",
-        "data": "2026-07-30T02:20:13.630Z",
+        "data": "2026-07-30T04:37:13.263Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -183,7 +191,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-30",
-        "data": "2026-07-30T08:20:13.630Z",
+        "data": "2026-07-30T10:37:13.263Z",
         "id": "curado-jogadores-0"
       },
       {
