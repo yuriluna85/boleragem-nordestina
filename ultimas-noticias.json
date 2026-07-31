@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-07-31T02:31:24.704Z",
+  "ultimaAtualizacao": "2026-07-31T06:09:07.871Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Cruzeiro bate Coritiba fora de casa e fica mais perto do G5 do Brasileiro",
+        "desc": "O Cruzeiro venceu o Coritiba por 1 a 0 nesta quinta-feira (30), no Estádio Couto Pereira, em Curitiba, pela 21ª rodada do Campeonato Brasileiro. O gol da vitória foi marcado por Ma...",
+        "url": "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-bate-coritiba-fora-de-casa-e-fica-mais-perto-do-g5-do-brasileiro/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55432202119_8f841fc107_o.webp",
+        "data": "2026-07-31T02:31:17.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Fluminense confirma lesões de dupla de zagueiros",
         "desc": "O Fluminense confirmou as lesões dos zagueiros Thiago Silva e Freytes após o empate sem gols contra o Bahia. Thiago Silva sofreu uma lesão na parte posterior da coxa esquerda, enqu...",
@@ -57,14 +65,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55431382718_d3d98602f7_o.webp",
         "data": "2026-07-30T19:22:03.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos da reapresentação do Palmeiras nesta quinta-feira",
-        "desc": "Veja fotos do treino do Palmeiras desta quinta-feira após a goleada sobre o Vitória.\nO post Veja fotos da reapresentação do Palmeiras nesta quinta-feira apareceu primeiro em Gazeta...",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-da-reapresentacao-do-palmeiras-nesta-quinta-feira-30-07-2026/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/30072026_cg_palmeiras_0336_39.webp",
-        "data": "2026-07-30T18:43:13.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -74,7 +74,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-31",
-        "data": "2026-07-31T02:31:24.696Z",
+        "data": "2026-07-31T06:09:07.860Z",
         "id": "curado-feminino-0"
       },
       {
@@ -82,8 +82,8 @@
         "desc": "Mais de 15 mil torcedores empurraram as Leoas na vitória histórica contra o Bahia. Um novo marco para o esporte feminino no Nordeste.",
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-30",
-        "data": "2026-07-30T23:31:24.696Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-31",
+        "data": "2026-07-31T03:09:07.860Z",
         "id": "curado-feminino-1"
       },
       {
@@ -91,8 +91,8 @@
         "desc": "O Tricolor de Aço se reforça visando a disputa do mata-mata do Brasileiro Feminino A2. Apresentação das novas atletas ocorre nesta segunda.",
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-30",
-        "data": "2026-07-30T20:31:24.696Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-31",
+        "data": "2026-07-31T00:09:07.860Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -103,7 +103,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-07-31",
-        "data": "2026-07-31T02:31:24.696Z",
+        "data": "2026-07-31T06:09:07.860Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -111,17 +111,25 @@
         "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-30",
-        "data": "2026-07-30T23:31:24.696Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-07-31",
+        "data": "2026-07-31T03:09:07.860Z",
         "id": "curado-jogadores-1"
+      },
+      {
+        "titulo": "Matheus Pereira celebra gol da vitória contra o Coritiba e valoriza coletivo do Cruzeiro",
+        "desc": "O Cruzeiro venceu o Coritiba por 1 a 0 no Estádio Couto Pereira, pela 21ª rodada do Campeonato Brasileiro, com gol de Matheus Pereira. Após a partida, o meia destacou a força colet...",
+        "url": "https://www.gazetaesportiva.com/times/cruzeiro/matheus-pereira-destaca-coletivo-vitoria-cruzeiro-coritiba/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55432216814_a2a28bae58_o-1.webp",
+        "data": "2026-07-31T03:08:49.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
         "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-30",
-        "data": "2026-07-30T20:31:24.696Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-07-31",
+        "data": "2026-07-31T00:09:07.860Z",
         "id": "curado-jogadores-2"
       }
     ]
