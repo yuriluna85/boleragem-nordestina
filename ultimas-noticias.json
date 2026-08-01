@@ -1,7 +1,31 @@
 {
-  "ultimaAtualizacao": "2026-07-31T22:56:42.267Z",
+  "ultimaAtualizacao": "2026-08-01T00:02:06.976Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Rony projeta duelo de ida das oitavas da Copa do Brasil entre Santos e Remo",
+        "desc": "Rony projeta duelo de ida das oitavas contra o Remo no Pará\nO post Rony projeta duelo de ida das oitavas da Copa do Brasil entre Santos e Remo apareceu primeiro em Gazeta Esportiva...",
+        "url": "https://www.gazetaesportiva.com/times/santos/rony-projeta-duelo-de-ida-das-oitavas-contra-o-remo-no-para/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/02/rony-santos-030226.webp",
+        "data": "2026-08-01T00:00:35.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Bastidores dos primeiros dias de Thiago Borbas no Atlético-MG",
+        "desc": "Bastidores dos primeiros dias de Thiago Borbas no Atlético-MG\nO post Bastidores dos primeiros dias de Thiago Borbas no Atlético-MG apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/atletico-mg/bastidores-dos-primeiros-dias-de-thiago-borbas-no-atletico-mg/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Bastid.webp",
+        "data": "2026-07-31T23:51:25.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Lateral do Grêmio, Marlon comenta retorno aos gramados após quatro meses fora",
+        "desc": "Marlon comenta retorno aos gramados após quatro meses fora\nO post Lateral do Grêmio, Marlon comenta retorno aos gramados após quatro meses fora apareceu primeiro em Gazeta Esportiv...",
+        "url": "https://www.gazetaesportiva.com/times/gremio/lateral-do-gremio-marlon-comenta-retorno-aos-gramados-apos-quatro-meses-fora/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Marlon.webp",
+        "data": "2026-07-31T23:23:58.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Veja fotos do treino do Palmeiras desta sexta-feira",
         "desc": "Com Paulinho, Palmeiras treinou nesta sexta-feira e deu sequência à preparação para o jogo contra o Fortaleza. Veja fotos da atividade.\nO post Veja fotos do treino do Palmeiras des...",
@@ -97,14 +121,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Corit.webp",
         "data": "2026-07-31T17:48:23.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Relembre melhores momentos de Franco Baresi pelo Milan",
-        "desc": "Relembre melhores momentos de Franco Baresi pelo Milan\nO post Relembre melhores momentos de Franco Baresi pelo Milan apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/milan/relembre-melhores-momentos-de-franco-baresi-pelo-milan/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Franco-Bar.webp",
-        "data": "2026-07-31T16:12:05.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -113,9 +129,17 @@
         "desc": "As Leoas venceram o clássico com autoridade por 4 a 1 e continuam invictas na competição nacional de futebol feminino.",
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-07-31",
-        "data": "2026-07-31T22:56:42.257Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-01",
+        "data": "2026-08-01T00:02:06.973Z",
         "id": "curado-feminino-0"
+      },
+      {
+        "titulo": "Vitória x São Paulo: confira onde assistir ao duelo pelo Brasileiro feminino",
+        "desc": "Confira as opções para assistrir à partida entre São Paulo e Vitória, neste sábado, às 21h, pela 14ª rodada do Brasileiro feminino.\nO post Vitória x São Paulo: confira onde assisti...",
+        "url": "https://www.gazetaesportiva.com/times/sao-paulo/vitoria-x-sao-paulo-confira-onde-assistir-ao-duelo-pelo-brasileiro-feminino/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55424537246_a8450fbf8f_o.webp",
+        "data": "2026-07-31T23:00:21.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Sport Feminino atrai público recorde na Arena de Pernambuco",
@@ -123,7 +147,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-07-31",
-        "data": "2026-07-31T19:56:42.257Z",
+        "data": "2026-07-31T21:02:06.973Z",
         "id": "curado-feminino-1"
       },
       {
@@ -132,11 +156,19 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-07-31",
-        "data": "2026-07-31T16:56:42.257Z",
+        "data": "2026-07-31T18:02:06.973Z",
         "id": "curado-feminino-2"
       }
     ],
     "jogadores": [
+      {
+        "titulo": "Sport anuncia a contratação de Willian Oliveira, ex-Coritiba",
+        "desc": "O Sport anunciou mais um reforço para a sequência da temporada. Nesta sexta-feira, o clube confirmou a contratação do volante Willian Oliveira, que vinha atuando pelo Coritiba em 2...",
+        "url": "https://www.gazetaesportiva.com/times/sport/sport-anuncia-a-contratacao-de-willian-oliveira-ex-coritiba/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/WhatsApp-Image-2026-07-31-at-20.02.07.webp",
+        "data": "2026-07-31T23:03:06.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Gabriel e Martinelli se reapresentam ao elenco do Arsenal",
         "desc": "Gabriel e Martinelli se reapresentam ao elenco do Arsenal\nO post Gabriel e Martinelli se reapresentam ao elenco do Arsenal apareceu primeiro em Gazeta Esportiva.",
@@ -167,14 +199,6 @@
         "url": "https://www.gazetaesportiva.com/times/arsenal/arteta-comenta-reforcos-do-arsenal-e-agradece-a-trossard/",
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/05/Arteta-se-orgulha.webp",
         "data": "2026-07-31T17:42:25.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Mudryk, suspenso por doping, é liberado para voltar a jogar pelo Chelsea",
-        "desc": "O atacante ucraniano do Chelsea, Mykhailo Mudryk, que havia sido suspenso por uma violação de regra antidoping e recorrido à Corte Arbitral do Esporte (CAS), foi liberado para volt...",
-        "url": "https://www.gazetaesportiva.com/times/chelsea/mudryk-suspenso-por-doping-e-liberado-para-voltar-a-jogar-pelo-chelsea/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/imagem/2023/08/24/afp_fr_4e5122dd703c1b9ee11d79190ced70111a2ea81f.jpg",
-        "data": "2026-07-31T17:41:29.000Z",
         "fonte": "Gazeta Esportiva"
       }
     ]
