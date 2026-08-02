@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-08-02T09:35:41.353Z",
+  "ultimaAtualizacao": "2026-08-02T11:13:43.817Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Carlos Miguel se aproxima de 50° jogo pelo Palmeiras e diz que se sente &#8220;totalmente em casa&#8221;",
+        "desc": "A partida eliminatória entre Palmeiras e Fortaleza, pela ida das oitavas de final da Copa do Brasil, neste domingo, será especial para o goleiro Carlos Miguel, que deve alcançar a ...",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/carlos-miguel-50-jogos-palmeiras/",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "data": "2026-08-02T10:00:58.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Marília perde do Bandeirante e cai para lanterna de grupo da Copa Paulista; veja resultados do sábado",
         "desc": "A terceira rodada da Copa Paulista teve destaque para a vitória do Bandeirante sobre o Marília por 3 a 1, em Birigui, resultado que colocou o time da casa na vice-liderança do Grup...",
@@ -81,14 +89,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Aberd.webp",
         "data": "2026-08-01T21:34:49.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: G3X FC 6 x 5 DesimpaiN pela Kings World Cup Clubs",
-        "desc": "Melhores momentos: G3X FC 6 x 5 DesimpaiN pela Kings World Cup Clubs\nO post Melhores momentos: G3X FC 6 x 5 DesimpaiN pela Kings World Cup Clubs apareceu primeiro em Gazeta Esporti...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-g3x-fc-6-x-5-desimpain-pela-kings-world-cup-clubs/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/G3X.webp",
-        "data": "2026-08-01T20:59:18.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -98,7 +98,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-02",
-        "data": "2026-08-02T09:35:41.350Z",
+        "data": "2026-08-02T11:13:43.814Z",
         "id": "curado-feminino-0"
       },
       {
@@ -107,7 +107,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-02",
-        "data": "2026-08-02T06:35:41.350Z",
+        "data": "2026-08-02T08:13:43.814Z",
         "id": "curado-feminino-1"
       },
       {
@@ -116,7 +116,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-02",
-        "data": "2026-08-02T03:35:41.350Z",
+        "data": "2026-08-02T05:13:43.814Z",
         "id": "curado-feminino-2"
       },
       {
@@ -135,7 +135,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-02",
-        "data": "2026-08-02T09:35:41.350Z",
+        "data": "2026-08-02T11:13:43.814Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -144,7 +144,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-02",
-        "data": "2026-08-02T06:35:41.350Z",
+        "data": "2026-08-02T08:13:43.814Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -153,7 +153,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-02",
-        "data": "2026-08-02T03:35:41.350Z",
+        "data": "2026-08-02T05:13:43.814Z",
         "id": "curado-jogadores-2"
       },
       {
