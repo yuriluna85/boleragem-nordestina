@@ -1,7 +1,31 @@
 {
-  "ultimaAtualizacao": "2026-08-02T17:59:01.532Z",
+  "ultimaAtualizacao": "2026-08-02T19:20:45.118Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Melhores momentos da vitória do Philadelphia Union sobre o Atlanta United pela MLS",
+        "desc": "Melhores momentos da vitória do Philadelphia Union sobre o Atlanta United pela MLS\nO post Melhores momentos da vitória do Philadelphia Union sobre o Atlanta United pela MLS aparece...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-da-vitoria-do-philadelphia-union-sobre-o-atlanta-united-pela-mls/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Philadel.webp",
+        "data": "2026-08-02T18:45:56.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Melhores momentos da vitória do New York Red Bulls sobre o Orlando City pela MLS",
+        "desc": "Melhores momentos da vitória do New York Red Bulls sobre o Orlando City pela MLS\nO post Melhores momentos da vitória do New York Red Bulls sobre o Orlando City pela MLS apareceu pr...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-da-vitoria-do-new-york-red-bulls-sobre-o-orlando-city-pela-mls/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/New-Yor.webp",
+        "data": "2026-08-02T18:30:59.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Palmeiras terá Emi Martínez titular e Paulinho no banco para enfrentar o Fortaleza; veja escalações",
+        "desc": "O Palmeiras está escalado para o jogo deste domingo, contra o Fortaleza, pela ida das oitavas de final da Copa do Brasil. Sem Gustavo Gómez, com lesão no músculo posterior da coxa ...",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/escalacao-palmeiras-fortaleza-ida-oitavas-copa-do-brasil-02-08-2026/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/palmeiras-copa-do-brasil-escalacao-fortaleza.webp",
+        "data": "2026-08-02T18:07:50.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Müller impede a vitória do LAFC ao converter pênalti; veja o lance",
         "desc": "Müller impede a vitória do LAFC ao converter pênalti; veja o lance \nO post Müller impede a vitória do LAFC ao converter pênalti; veja o lance apareceu primeiro em Gazeta Esportiva.",
@@ -81,22 +105,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Fabio-Silva.webp",
         "data": "2026-08-02T00:25:17.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Bahia vence jogo-treino contra o Five; veja os gols",
-        "desc": "Bahia vence jogo-treino contra o Five; veja os gols\nO post Bahia vence jogo-treino contra o Five; veja os gols apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/bahia/bahia-vence-jogo-treino-contra-o-five-veja-os-gols/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Bahi.webp",
-        "data": "2026-08-01T23:44:04.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos de Atlético-MG e Juventude pelas oitavas da Copa do Brasil",
-        "desc": "O post Veja fotos de Atlético-MG e Juventude pelas oitavas da Copa do Brasil apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/atletico-mg/veja-fotos-de-atletico-mg-e-juventude-pelas-oitavas-da-copa-do-brasil/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55435234802_9fc7547578_k.webp",
-        "data": "2026-08-01T23:43:42.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -106,7 +114,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-02",
-        "data": "2026-08-02T17:59:01.529Z",
+        "data": "2026-08-02T19:20:45.115Z",
         "id": "curado-feminino-0"
       },
       {
@@ -123,7 +131,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-02",
-        "data": "2026-08-02T14:59:01.529Z",
+        "data": "2026-08-02T16:20:45.115Z",
         "id": "curado-feminino-1"
       },
       {
@@ -142,7 +150,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-02",
-        "data": "2026-08-02T17:59:01.529Z",
+        "data": "2026-08-02T19:20:45.115Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -151,7 +159,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-02",
-        "data": "2026-08-02T14:59:01.529Z",
+        "data": "2026-08-02T16:20:45.115Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -160,7 +168,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-02",
-        "data": "2026-08-02T11:59:01.529Z",
+        "data": "2026-08-02T13:20:45.115Z",
         "id": "curado-jogadores-2"
       }
     ]
