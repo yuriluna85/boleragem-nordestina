@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao": "2026-08-02T04:52:00.432Z",
+  "ultimaAtualizacao": "2026-08-02T07:30:06.008Z",
   "dados": {
     "masculino": [
       {
@@ -98,8 +98,17 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-02",
-        "data": "2026-08-02T04:52:00.430Z",
+        "data": "2026-08-02T07:30:06.005Z",
         "id": "curado-feminino-0"
+      },
+      {
+        "titulo": "Sport Feminino atrai público recorde na Arena de Pernambuco",
+        "desc": "Mais de 15 mil torcedores empurraram as Leoas na vitória histórica contra o Bahia. Um novo marco para o esporte feminino no Nordeste.",
+        "fonte": "Pernambuco Press",
+        "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-02",
+        "data": "2026-08-02T04:30:06.005Z",
+        "id": "curado-feminino-1"
       },
       {
         "titulo": "São Paulo bate Vitória e assume liderança provisória do Brasileiro Feminino",
@@ -110,21 +119,12 @@
         "fonte": "Gazeta Esportiva"
       },
       {
-        "titulo": "Sport Feminino atrai público recorde na Arena de Pernambuco",
-        "desc": "Mais de 15 mil torcedores empurraram as Leoas na vitória histórica contra o Bahia. Um novo marco para o esporte feminino no Nordeste.",
-        "fonte": "Pernambuco Press",
-        "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-02",
-        "data": "2026-08-02T01:52:00.430Z",
-        "id": "curado-feminino-1"
-      },
-      {
         "titulo": "Bahia Feminino contrata dupla de ataque campeã sul-americana",
         "desc": "O Tricolor de Aço se reforça visando a disputa do mata-mata do Brasileiro Feminino A2. Apresentação das novas atletas ocorre nesta segunda.",
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-01",
-        "data": "2026-08-01T22:52:00.430Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-02",
+        "data": "2026-08-02T01:30:06.005Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -135,7 +135,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-02",
-        "data": "2026-08-02T04:52:00.430Z",
+        "data": "2026-08-02T07:30:06.005Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -144,7 +144,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-02",
-        "data": "2026-08-02T01:52:00.430Z",
+        "data": "2026-08-02T04:30:06.005Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -152,8 +152,8 @@
         "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-01",
-        "data": "2026-08-01T22:52:00.430Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-02",
+        "data": "2026-08-02T01:30:06.005Z",
         "id": "curado-jogadores-2"
       },
       {
