@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-08-04T02:10:32.563Z",
+  "ultimaAtualizacao": "2026-08-04T05:29:38.418Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Cacá confia em força do Vitória em casa para &#8220;resolver&#8221; série com o Athletico-PR",
+        "desc": "Após a derrota por 2 a 0 para o Athletico-PR no jogo de ida das oitavas de final da Copa do Brasil, o zagueiro Cacá lamentou os detalhes que decidiram a partida e admitiu que o Vit...",
+        "url": "https://www.gazetaesportiva.com/times/vitoria/caca-confia-em-forca-do-vitoria-em-casa-para-resolver-serie-com-o-athletico-pr/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55431213619_7f101afdfc_k.webp",
+        "data": "2026-08-04T03:05:44.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Dudu celebra gol e parceria com João Cruz após vitória do Athletico-PR na Copa do Brasil",
+        "desc": "O Athletico-PR deu um importante passo rumo às quartas de final da Copa do Brasil ao vencer o Vitória por 2 a 0, nesta segunda-feira, na Arena da Baixada, pelo jogo de ida das oita...",
+        "url": "https://www.gazetaesportiva.com/times/athletico-paranaense/dudu-celebra-gol-e-parceria-com-joao-cruz-apos-vitoria-do-athletico-pr-na-copa-do-brasil/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260804__AGIF831947__v1__HighRes__2026CopaDoBrasilAthleticoPrVsVitoria.webp",
+        "data": "2026-08-04T02:25:19.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Athletico-PR bate Vitória e fica mais perto das quartas da Copa do Brasil",
         "desc": "Nesta segunda-feira, o Athletico-PR venceu o Vitória por 2 a 0, na Arena da Baixada, em Curitiba, pelo jogo de ida das oitavas de final da Copa do Brasil e largou em vantagem por u...",
@@ -57,14 +73,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/paulinho-palmeiras0307.webp",
         "data": "2026-08-03T17:20:38.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "MLS: Melhores gols da semana",
-        "desc": "MLS: Melhores gols da semana\nO post MLS: Melhores gols da semana apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/mls-melhores-gols-da-semana/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Melhores-gols.webp",
-        "data": "2026-08-03T16:34:06.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -74,16 +82,24 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-04",
-        "data": "2026-08-04T02:10:32.558Z",
+        "data": "2026-08-04T05:29:38.415Z",
         "id": "curado-feminino-0"
+      },
+      {
+        "titulo": "Veja fotos do duelo entre Flamengo e Corinthians pelo Brasileirão Feminino",
+        "desc": "O post Veja fotos do duelo entre Flamengo e Corinthians pelo Brasileirão Feminino apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-duelo-entre-flamengo-e-corinthians-pelo-brasileirao-feminino/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/IMG_8604.webp",
+        "data": "2026-08-04T02:35:22.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Sport Feminino atrai público recorde na Arena de Pernambuco",
         "desc": "Mais de 15 mil torcedores empurraram as Leoas na vitória histórica contra o Bahia. Um novo marco para o esporte feminino no Nordeste.",
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-03",
-        "data": "2026-08-03T23:10:32.558Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-04",
+        "data": "2026-08-04T02:29:38.415Z",
         "id": "curado-feminino-1"
       },
       {
@@ -92,7 +108,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-03",
-        "data": "2026-08-03T20:10:32.558Z",
+        "data": "2026-08-03T23:29:38.415Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -103,7 +119,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-04",
-        "data": "2026-08-04T02:10:32.558Z",
+        "data": "2026-08-04T05:29:38.415Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -111,8 +127,8 @@
         "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-03",
-        "data": "2026-08-03T23:10:32.558Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-04",
+        "data": "2026-08-04T02:29:38.415Z",
         "id": "curado-jogadores-1"
       },
       {
