@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-08-05T08:03:04.725Z",
+  "ultimaAtualizacao": "2026-08-05T10:59:09.893Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Palmeiras se aproxima de meta esportiva na Copa do Brasil e pode embolsar premiação milionária",
+        "desc": "O Palmeiras está próximo de cumprir a meta esportiva traçada para a Copa do Brasil no orçamento para esta temporada. Após vencer o Fortaleza por 3 a 0 no último domingo, no Nubank ...",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-se-aproxima-de-meta-esportiva-na-copa-do-brasil-e-pode-embolsar-premiacao-milionaria/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/02082026_cg_palmeiras_1841_7.webp",
+        "data": "2026-08-05T09:00:09.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Confira os bastidores da viagem do Palmeiras a Cuiabá",
         "desc": "O Palmeiras desembarcou em Cuiabá para enfrentar o Fortaleza pelas oitavas de final da Copa do Brasil. Confira como foi a viagem e os bastidores da chegada do Verdão.\nO post Confir...",
@@ -89,14 +97,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/247114.webp",
         "data": "2026-08-04T19:22:02.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Time de Rayan aplica goleada histórica em amistoso de pré-temporada com quatro tempos",
-        "desc": "O Bournemouth goleou o Genoa por 10 a 1 em amistoso de pré-temporada disputado no Vitality Stadium, alcançando sua segunda maior vitória da história. A partida teve quatro tempos d...",
-        "url": "https://www.gazetaesportiva.com/amistoso/bournemouth-aplica-goleada-historica-em-amistoso-de-pre-temporada-com-quatro-tempos/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/HO4oTI7WYAADMBK.webp",
-        "data": "2026-08-04T18:31:40.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -106,7 +106,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-05",
-        "data": "2026-08-05T08:03:04.720Z",
+        "data": "2026-08-05T10:59:09.887Z",
         "id": "curado-feminino-0"
       },
       {
@@ -115,7 +115,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-05",
-        "data": "2026-08-05T05:03:04.720Z",
+        "data": "2026-08-05T07:59:09.887Z",
         "id": "curado-feminino-1"
       },
       {
@@ -124,7 +124,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-05",
-        "data": "2026-08-05T02:03:04.720Z",
+        "data": "2026-08-05T04:59:09.887Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -135,7 +135,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-05",
-        "data": "2026-08-05T08:03:04.720Z",
+        "data": "2026-08-05T10:59:09.887Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -144,7 +144,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-05",
-        "data": "2026-08-05T05:03:04.720Z",
+        "data": "2026-08-05T07:59:09.887Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -153,7 +153,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-05",
-        "data": "2026-08-05T02:03:04.720Z",
+        "data": "2026-08-05T04:59:09.887Z",
         "id": "curado-jogadores-2"
       }
     ]
