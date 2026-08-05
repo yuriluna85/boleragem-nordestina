@@ -1,7 +1,47 @@
 {
-  "ultimaAtualizacao": "2026-08-05T02:09:58.243Z",
+  "ultimaAtualizacao": "2026-08-05T05:28:38.526Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Confira os bastidores da viagem do Palmeiras a Cuiabá",
+        "desc": "O Palmeiras desembarcou em Cuiabá para enfrentar o Fortaleza pelas oitavas de final da Copa do Brasil. Confira como foi a viagem e os bastidores da chegada do Verdão.\nO post Confir...",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/bastidores-viagem-palmeiras-cuiaba-fortaleza-copa-do-brasil/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/04082026_cg_palmeiras_3001_1.webp",
+        "data": "2026-08-05T04:18:41.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Veja os melhores momentos de Remo x Santos pela Copa do Brasil",
+        "desc": "Veja os melhores momentos da vitória do Santos por 1 a 0 sobre o Remo, no Mangueirão, que garantiu ao Peixe a vaga nas quartas de final da Copa do Brasil. O gol da classificação fo...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/veja-os-melhores-momentos-de-remo-x-santos-pela-copa-do-brasil/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/HO693GcXcAAJ1X2.webp",
+        "data": "2026-08-05T04:15:23.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Cuca explica por que Neymar começou no banco contra o Remo e valoriza classificação",
+        "desc": "Após a vitória sobre o Remo, Cuca explicou a decisão de iniciar Neymar no banco de reservas, destacou que o planejamento foi cumprido e comemorou a classificação do Santos às quart...",
+        "url": "https://www.gazetaesportiva.com/times/santos/cuca-explica-por-que-neymar-comecou-no-banco-contra-o-remo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/55252228933_97a09cf52b_k.webp",
+        "data": "2026-08-05T04:01:41.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Remo x Santos: veja fotos do jogo de volta das oitavas de final",
+        "desc": "Veja a galeria de fotos da vitória do Santos sobre o Remo por 1 a 0, no Mangueirão, resultado que garantiu a classificação do Peixe às quartas de final da Copa do Brasil.\nO post Re...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/fotos-remo-x-santos-quartas-copa-do-brasil/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/HO7O9EiWwAAlAp5.webp",
+        "data": "2026-08-05T03:09:59.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Rony relembra primeiro gol no Mangueirão após classificar o Santos: &#8220;Passa um filme&#8221;",
+        "desc": "Autor do gol da vitória do Santos sobre o Remo, Rony relembrou o primeiro gol da carreira no Mangueirão, agradeceu a Neymar pela assistência e explicou o uso do apelido \"Rony Rústi...",
+        "url": "https://www.gazetaesportiva.com/times/santos/rony-primeiro-gol-carreira-santos-classificacao-copa-do-brasil/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/HO7OccKXIAAFdLa.webp",
+        "data": "2026-08-05T02:50:34.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Palmeiras desembarca em Cuiabá sem Barboza para enfrentar o Fortaleza pela Copa do Brasil",
         "desc": "Com seis desfalques, o Palmeiras desembarcou em Cuiabá (MT) na noite desta terça-feira e foi recebido com festa pela torcida. A equipe de Abel Ferreira enfrenta o Fortaleza, na Are...",
@@ -57,14 +97,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/HO4oTI7WYAADMBK.webp",
         "data": "2026-08-04T18:31:40.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do último treino do Palmeiras antes do duelo de volta da Copa do Brasil",
-        "desc": "O Palmeiras fechou a preparação para enfrentar o Fortaleza em jogo de volta das oitavas de final da Copa do Brasil. Veja fotos da atividade.\nO post Veja fotos do último treino do P...",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-ultimo-treino-do-palmeiras-antes-do-duelo-de-volta-da-copa-do-brasil/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/04082026_cg_palmeiras_2674_31.webp",
-        "data": "2026-08-04T16:40:46.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -74,7 +106,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-05",
-        "data": "2026-08-05T02:09:58.239Z",
+        "data": "2026-08-05T05:28:38.522Z",
         "id": "curado-feminino-0"
       },
       {
@@ -82,8 +114,8 @@
         "desc": "Mais de 15 mil torcedores empurraram as Leoas na vitória histórica contra o Bahia. Um novo marco para o esporte feminino no Nordeste.",
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-04",
-        "data": "2026-08-04T23:09:58.239Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-05",
+        "data": "2026-08-05T02:28:38.522Z",
         "id": "curado-feminino-1"
       },
       {
@@ -92,7 +124,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-04",
-        "data": "2026-08-04T20:09:58.239Z",
+        "data": "2026-08-04T23:28:38.522Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -103,7 +135,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-05",
-        "data": "2026-08-05T02:09:58.239Z",
+        "data": "2026-08-05T05:28:38.522Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -111,25 +143,18 @@
         "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-04",
-        "data": "2026-08-04T23:09:58.239Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-05",
+        "data": "2026-08-05T02:28:38.522Z",
         "id": "curado-jogadores-1"
       },
       {
-        "titulo": "Fortaleza anuncia saída de goleiro após acordo para rescisão contratual",
-        "desc": "O Fortaleza anunciou a rescisão antecipada do contrato de Brenno, que era válido até o fim de 2027. Livre no mercado, o goleiro deve acertar sua transferência para o Sport sem cust...",
-        "url": "https://www.gazetaesportiva.com/times/fortaleza/fortaleza-rescinde-brenno-acerto-sport/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/HO43waaXoAAZVj5-1.webp",
-        "data": "2026-08-04T17:00:13.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Escalação: Palmeiras fecha preparação e terá mudança para jogo de volta da Copa do Brasil",
-        "desc": "O Palmeiras está pronto para enfrentar o Fortaleza, pela volta das oitavas de final da Copa do Brasil. Na manhã desta terça-feira, na Academia de Futebol, o elenco finalizou a prep...",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-fecha-preparacao-e-pode-ter-mudancas-para-jogo-de-volta-da-copa-do-brasil/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/04082026_cg_palmeiras_2477_15.webp",
-        "data": "2026-08-04T16:34:37.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
+        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
+        "fonte": "Vozão Diário",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-04",
+        "data": "2026-08-04T23:28:38.522Z",
+        "id": "curado-jogadores-2"
       }
     ]
   }
