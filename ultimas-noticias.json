@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao": "2026-08-07T18:09:55.687Z",
+  "ultimaAtualizacao": "2026-08-07T19:27:41.730Z",
   "dados": {
     "masculino": [
       {
@@ -73,22 +73,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/VITxCAP-JOGO-1.webp",
         "data": "2026-08-07T01:56:11.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Quartas de final da Copa do Brasil estão completas; veja classificados",
-        "desc": "Estão definidos os oito classificados às quartas de final da Copa do Brasil. Na noite desta quinta-feira, Internacional e Vitória garantiram as últimas vagas ao eliminarem Corinthi...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/quartas-de-final-da-copa-do-brasil-estao-completas-veja-classificados/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2025/08/taca_trofeu_copa_do_brasil.webp",
-        "data": "2026-08-07T01:53:54.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Gilberto lamenta eliminação do Athletico-PR e prega foco no Brasileirão",
-        "desc": "O Athletico-PR foi goleado pelo Vitória por 4 a 0 nesta quinta-feira e não aproveitou a vantagem construída no jogo de ida das oitavas de final da Copa do Brasil. Gilberto lamentou...",
-        "url": "https://www.gazetaesportiva.com/times/athletico-paranaense/gilberto-lamenta-eliminacao-do-athletico-pr-e-prega-foco-no-brasileirao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/IMG_5930.webp",
-        "data": "2026-08-07T01:41:06.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -98,7 +82,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-07",
-        "data": "2026-08-07T18:09:55.681Z",
+        "data": "2026-08-07T19:27:41.726Z",
         "id": "curado-feminino-0"
       },
       {
@@ -107,7 +91,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-07",
-        "data": "2026-08-07T15:09:55.681Z",
+        "data": "2026-08-07T16:27:41.726Z",
         "id": "curado-feminino-1"
       },
       {
@@ -116,11 +100,19 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-07",
-        "data": "2026-08-07T12:09:55.681Z",
+        "data": "2026-08-07T13:27:41.726Z",
         "id": "curado-feminino-2"
       }
     ],
     "jogadores": [
+      {
+        "titulo": "Monaco presta homenagem a Akliouche após transferência para o PSG",
+        "desc": "Monaco presta homenagem a Akliouche após transferência para o PSG\nO post Monaco presta homenagem a Akliouche após transferência para o PSG apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/monaco/monaco-presta-homenagem-a-akliouche-apos-transferencia-para-o-psg/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Mon.webp",
+        "data": "2026-08-07T18:17:04.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Confira o primeiro treino de Karetsas como jogador do Borussia Dortmund",
         "desc": "O primeiro treino de Karetsas como jogador do Borussia Dortmund\nO post Confira o primeiro treino de Karetsas como jogador do Borussia Dortmund apareceu primeiro em Gazeta Esportiva...",
@@ -151,14 +143,6 @@
         "url": "https://www.gazetaesportiva.com/times/shakhtar-donetsk/ex-fluminense-brilha-em-vitoria-do-shakhtar-e-entra-na-mira-de-clubes-ingleses/",
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/kau.webp",
         "data": "2026-08-07T12:25:03.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Marinho celebra classificação do Vitória e Renê destaca força do Barradão",
-        "desc": "Marinho comemorou a classificação do Vitória às quartas de final da Copa do Brasil após a goleada sobre o Athletico-PR, na noite desta quinta-feira. O atacante afirmou que não vem ...",
-        "url": "https://www.gazetaesportiva.com/times/vitoria/marinho-celebra-classificacao-do-vitoria-e-rene-destaca-forca-do-barradao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/IMG_5929.webp",
-        "data": "2026-08-07T01:31:51.000Z",
         "fonte": "Gazeta Esportiva"
       }
     ]
