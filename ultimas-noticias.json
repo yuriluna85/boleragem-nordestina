@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-08-07T23:57:21.709Z",
+  "ultimaAtualizacao": "2026-08-08T01:48:15.961Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Ceará vence Ponte Preta com um a mais e se afasta da zona de rebaixamento na Série B",
+        "desc": "O Ceará garantiu uma importante vitória na noite desta sexta-feira, pela 21ª rodada da Série B do Brasileirão, o Vozão venceu a Ponte Preta por 2 a 0 na Arena Castelão. Lucca e Giu...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/ceara-vence-ponte-preta-com-um-a-mais-e-se-afasta-da-zona-de-rebaixamento-na-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/IMG_5942.webp",
+        "data": "2026-08-08T01:26:10.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Pesquisa indica que mais da metade da torcida do Santos tem menos de 35 anos",
+        "desc": "Um relatório elaborado pela 2morrow Sports, empresa responsável pela gestão do Sócio Rei, mostrou que mais da metade da torcida do Santos tem menos de 35 anos. De acordo com o estu...",
+        "url": "https://www.gazetaesportiva.com/times/santos/pesquisa-indica-que-mais-da-metade-da-torcida-do-santos-tem-menos-de-35-anos/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Foto-Raul-Baretta.webp",
+        "data": "2026-08-08T01:06:50.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Náutico x Atlético-GO: veja onde assistir e prováveis escalações do jogo pela Série B",
         "desc": "Náutico e Atlético-GO se enfrentam neste domingo (9), às 16h, no Estádio dos Aflitos, em Recife, pela 21ª rodada da Série B do Campeonato Brasileiro. O Timbu busca se afastar da pa...",
@@ -97,14 +113,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55448741148_062dfad868_k-1.webp",
         "data": "2026-08-07T16:57:25.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Cruzeiro bate Chapecoense pela Copa do Brasil; veja bastidores",
-        "desc": "Cruzeiro bate Chapecoense pela Copa do Brasil; veja bastidores\nO post Cruzeiro bate Chapecoense pela Copa do Brasil; veja bastidores apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-bate-chapecoense-pela-copa-do-brasil-veja-bastidores/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/ruze.webp",
-        "data": "2026-08-07T16:40:24.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -113,8 +121,8 @@
         "desc": "As Leoas venceram o clássico com autoridade por 4 a 1 e continuam invictas na competição nacional de futebol feminino.",
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-07",
-        "data": "2026-08-07T23:57:21.705Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-08",
+        "data": "2026-08-08T01:48:15.956Z",
         "id": "curado-feminino-0"
       },
       {
@@ -123,7 +131,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-07",
-        "data": "2026-08-07T20:57:21.705Z",
+        "data": "2026-08-07T22:48:15.956Z",
         "id": "curado-feminino-1"
       },
       {
@@ -132,7 +140,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-07",
-        "data": "2026-08-07T17:57:21.705Z",
+        "data": "2026-08-07T19:48:15.956Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -142,8 +150,8 @@
         "desc": "O veterano meia do Bahia comandou a vitória tricolor com passes decisivos e um belíssimo gol de fora da área, aplaudido de pé.",
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-07",
-        "data": "2026-08-07T23:57:21.705Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-08",
+        "data": "2026-08-08T01:48:15.956Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -152,8 +160,17 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-07",
-        "data": "2026-08-07T20:57:21.705Z",
+        "data": "2026-08-07T22:48:15.956Z",
         "id": "curado-jogadores-1"
+      },
+      {
+        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
+        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
+        "fonte": "Vozão Diário",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-07",
+        "data": "2026-08-07T19:48:15.956Z",
+        "id": "curado-jogadores-2"
       },
       {
         "titulo": "Monaco presta homenagem a Akliouche após transferência para o PSG",
@@ -162,15 +179,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Mon.webp",
         "data": "2026-08-07T18:17:04.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
-        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
-        "fonte": "Vozão Diário",
-        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-07",
-        "data": "2026-08-07T17:57:21.705Z",
-        "id": "curado-jogadores-2"
       }
     ]
   }
