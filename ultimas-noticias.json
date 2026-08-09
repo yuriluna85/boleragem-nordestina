@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-08-09T22:38:07.577Z",
+  "ultimaAtualizacao": "2026-08-09T23:27:32.767Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Com um a menos, Fortaleza sustenta empate com o Cuiabá e sobe para terceiro na Série B",
+        "desc": "Cuiabá e Fortaleza empataram por 1 a 1 neste domingo (9), na Arena Pantanal, pela 21ª rodada da Série B do Campeonato Brasileiro. Jean Dias abriu o placar para os donos da casa ain...",
+        "url": "https://www.gazetaesportiva.com/times/fortaleza/cuiaba-fortaleza-empate-serie-b-21-rodada/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55452411017_375a43e839_o.webp",
+        "data": "2026-08-09T23:04:20.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Veja fotos do duelo entre Bragantino e Corinthians pelo Brasileirão",
+        "desc": "O post Veja fotos do duelo entre Bragantino e Corinthians pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-duelo-entre-bragantino-e-corinthians-pelo-brasileirao/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55453833090_cb5c7f424a_o.webp",
+        "data": "2026-08-09T22:55:15.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Atlético-GO empata com o Náutico e perde chance de entrar no G6 da Série B",
         "desc": "O Náutico e o Atlético-GO empataram por 1 a 1 nos Aflitos, pela 21ª rodada da Série B. Kauã abriu o placar para os pernambucanos logo aos 6 minutos do primeiro tempo, enquanto Geov...",
@@ -97,14 +113,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260809__C4A899M__v1__MidRes__776527817.webp",
         "data": "2026-08-09T14:47:08.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Man City vence as estrelas da K-League na pré-temporada",
-        "desc": "Enzo Maresca conquistou sua primeira vitória como técnico do Manchester City com um triunfo por 3 a 1 sobre uma seleção de estrelas da K-League, no Seoul World Cup Stadium.\nO post ...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/man-city-vence-as-estrelas-da-k-league-na-pre-temporada/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/K-League.webp",
-        "data": "2026-08-09T13:55:27.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -114,8 +122,16 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-09",
-        "data": "2026-08-09T22:38:07.571Z",
+        "data": "2026-08-09T23:27:32.762Z",
         "id": "curado-feminino-0"
+      },
+      {
+        "titulo": "São Paulo vence Bragantino e fica a dois pontos do Palmeiras no Brasileiro feminino",
+        "desc": "O São Paulo venceu o Bragantino por 1 a 0 neste domingo, em Santana de Parnaíba, pela 15ª rodada do Brasileirão Feminino. O gol da vitória foi marcado por Késia aos 41 minutos do s...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/sao-paulo-vence-bragantino-e-fica-a-dois-pontos-do-palmeiras-no-brasileiro-feminino/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55453355766_a8e6f85b02_o.webp",
+        "data": "2026-08-09T23:07:21.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Sport Feminino atrai público recorde na Arena de Pernambuco",
@@ -123,7 +139,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-09",
-        "data": "2026-08-09T19:38:07.571Z",
+        "data": "2026-08-09T20:27:32.762Z",
         "id": "curado-feminino-1"
       },
       {
@@ -132,7 +148,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-09",
-        "data": "2026-08-09T16:38:07.571Z",
+        "data": "2026-08-09T17:27:32.762Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -143,7 +159,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-09",
-        "data": "2026-08-09T22:38:07.572Z",
+        "data": "2026-08-09T23:27:32.762Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -152,8 +168,17 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-09",
-        "data": "2026-08-09T19:38:07.572Z",
+        "data": "2026-08-09T20:27:32.762Z",
         "id": "curado-jogadores-1"
+      },
+      {
+        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
+        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
+        "fonte": "Vozão Diário",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-09",
+        "data": "2026-08-09T17:27:32.762Z",
+        "id": "curado-jogadores-2"
       },
       {
         "titulo": "Kaio Jorge dedica gol ao pai e celebra relação com a filha após vitória do Cruzeiro",
@@ -162,15 +187,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55452813943_f715ee3194_k.webp",
         "data": "2026-08-09T17:07:42.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
-        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
-        "fonte": "Vozão Diário",
-        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-09",
-        "data": "2026-08-09T16:38:07.572Z",
-        "id": "curado-jogadores-2"
       }
     ]
   }
