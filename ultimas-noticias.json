@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-08-09T13:46:22.502Z",
+  "ultimaAtualizacao": "2026-08-09T14:30:44.142Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Man City vence as estrelas da K-League na pré-temporada",
+        "desc": "Enzo Maresca conquistou sua primeira vitória como técnico do Manchester City com um triunfo por 3 a 1 sobre uma seleção de estrelas da K-League, no Seoul World Cup Stadium.\nO post ...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/man-city-vence-as-estrelas-da-k-league-na-pre-temporada/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/K-League.webp",
+        "data": "2026-08-09T13:55:27.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Inter vence a Juventus por 2 a 1 na Austrália",
         "desc": "Confira os gols da vitória da Inter por 2 a 1 sobre a Juventus, em Perth, na Austrália, durante a preparação para a temporada 2026-27, com gols de Federico Dimarco e Andy Diouf.\nO ...",
@@ -81,38 +89,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/FOR-X-PAL-6-2048x1365-1.webp",
         "data": "2026-08-08T23:00:32.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Vitória do Grêmio põe Inter no Z4 do Brasileiro antes de jogo com o Palmeiras",
-        "desc": "Adversário do Palmeiras neste domingo, pelo Campeonato Brasileiro, o Internacional entrou na zona de rebaixamento às vésperas do confronto. A mudança na tabela aconteceu após a vit...",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/vitoria-do-gremio-poe-inter-no-z4-do-brasileiro-antes-de-jogo-com-o-palmeiras/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55450553670_cd4532eca4_o-1.webp",
-        "data": "2026-08-08T22:56:54.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Confira as fotos de Remo x Atlético-MG pelo Brasileirão",
-        "desc": "O post Confira as fotos de Remo x Atlético-MG pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/atletico-mg/confira-as-fotos-de-remo-x-atletico-mg-pelo-brasileirao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55451123471_19b79f2b63_k.webp",
-        "data": "2026-08-08T22:37:53.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Grêmio 2 x 1 São Paulo pelo Brasileiro",
-        "desc": "Melhores momentos: Grêmio 2 x 1 São Paulo pelo Brasileiro \nO post Melhores momentos: Grêmio 2 x 1 São Paulo pelo Brasileiro apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-gremio-2-x-1-sao-paulo-pelo-brasileiro/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Gremio-2-x-1-Sao.webp",
-        "data": "2026-08-08T21:37:40.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Herói do Grêmio, Pavón revela estratégia em gol de falta e comemora vitória",
-        "desc": "Autor do gol da virada do Grêmio sobre o São Paulo, Pavón comemorou o fim do jejum e revelou a estratégia usada na cobrança de falta.\nO post Herói do Grêmio, Pavón revela estratégi...",
-        "url": "https://www.gazetaesportiva.com/times/gremio/pavon-encerra-jejum-revela-estrategia-e-comemora-vitoria-gremio-sao-paulo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55451108533_26e29d459f_o.webp",
-        "data": "2026-08-08T21:34:46.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -122,7 +98,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-09",
-        "data": "2026-08-09T13:46:22.496Z",
+        "data": "2026-08-09T14:30:44.013Z",
         "id": "curado-feminino-0"
       },
       {
@@ -131,7 +107,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-09",
-        "data": "2026-08-09T10:46:22.496Z",
+        "data": "2026-08-09T11:30:44.013Z",
         "id": "curado-feminino-1"
       },
       {
@@ -140,7 +116,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-09",
-        "data": "2026-08-09T07:46:22.496Z",
+        "data": "2026-08-09T08:30:44.013Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -151,7 +127,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-09",
-        "data": "2026-08-09T13:46:22.496Z",
+        "data": "2026-08-09T14:30:44.013Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -160,7 +136,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-09",
-        "data": "2026-08-09T10:46:22.496Z",
+        "data": "2026-08-09T11:30:44.013Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -169,7 +145,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-09",
-        "data": "2026-08-09T07:46:22.496Z",
+        "data": "2026-08-09T08:30:44.013Z",
         "id": "curado-jogadores-2"
       }
     ]
