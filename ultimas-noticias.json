@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-08-09T01:52:42.139Z",
+  "ultimaAtualizacao": "2026-08-09T03:38:36.137Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Veja os melhores momentos de Botafogo 1 x 1 Fluminense pelo Brasileirão",
+        "desc": "Melhores momentos de Botafogo 1 x 1 Fluminense pelo Brasileirão.\nO post Veja os melhores momentos de Botafogo 1 x 1 Fluminense pelo Brasileirão apareceu primeiro em Gazeta Esportiv...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-os-melhores-momentos-de-botafogo-1-x-1-fluminense-pelo-brasileirao/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/26c31bqf-1280.webp",
+        "data": "2026-08-09T03:01:21.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "ABC e Uberlândia vencem pelas quartas da Série D e ficam perto do acesso",
         "desc": "ABC e Uberlândia vencem Nacional-AM e CSA, respectivamente, e ficam a um empate das semifinais e do acesso à Série C de 2027.\nO post ABC e Uberlândia vencem pelas quartas da Série ...",
@@ -113,22 +121,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/247288-1.webp",
         "data": "2026-08-08T19:58:18.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do treino do Corinthians neste sábado",
-        "desc": "O post Veja fotos do treino do Corinthians neste sábado apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-neste-sabado-8/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/247275.webp",
-        "data": "2026-08-08T19:19:43.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do treino do Palmeiras neste sábado",
-        "desc": "O post Veja fotos do treino do Palmeiras neste sábado apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-treino-do-palmeiras-neste-sabado-9/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/08082026_cg_palmeiras_5103_41.webp",
-        "data": "2026-08-08T19:15:15.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -138,7 +130,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-09",
-        "data": "2026-08-09T01:52:42.134Z",
+        "data": "2026-08-09T03:38:36.133Z",
         "id": "curado-feminino-0"
       },
       {
@@ -146,8 +138,8 @@
         "desc": "Mais de 15 mil torcedores empurraram as Leoas na vitória histórica contra o Bahia. Um novo marco para o esporte feminino no Nordeste.",
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-08",
-        "data": "2026-08-08T22:52:42.134Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-09",
+        "data": "2026-08-09T00:38:36.133Z",
         "id": "curado-feminino-1"
       },
       {
@@ -156,7 +148,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-08",
-        "data": "2026-08-08T19:52:42.134Z",
+        "data": "2026-08-08T21:38:36.133Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -167,7 +159,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-09",
-        "data": "2026-08-09T01:52:42.134Z",
+        "data": "2026-08-09T03:38:36.133Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -175,8 +167,8 @@
         "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-08",
-        "data": "2026-08-08T22:52:42.134Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-09",
+        "data": "2026-08-09T00:38:36.133Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -185,7 +177,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-08",
-        "data": "2026-08-08T19:52:42.134Z",
+        "data": "2026-08-08T21:38:36.133Z",
         "id": "curado-jogadores-2"
       }
     ]
