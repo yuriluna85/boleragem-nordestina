@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-08-10T20:38:15.230Z",
+  "ultimaAtualizacao": "2026-08-10T21:37:27.805Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Seleção sub-20 retoma treinos após vitória e foca em amistoso contra Bolívia",
+        "desc": "Seleção Sub-20 retoma os treinos na Granja Comary após vitória sobre a Bolívia e se prepara para o segundo amistoso. Paulo Victor observa atletas visando o\nO post Seleção sub-20 re...",
+        "url": "https://www.gazetaesportiva.com/times/brasil/selecao-sub-20-retoma-treinos-apos-vitoria-e-foca-em-amistoso-contra-bolivia/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/10_AGO_2026_TREINOSUB_20_26_28f60f4fee.webp",
+        "data": "2026-08-10T21:24:45.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Grupo de conselheiros do Santos se posiciona contra avanço de SAF na gestão de Teixeira",
         "desc": "Grupo de 37 conselheiros do Santos divulgou manifestação contra o avanço da SAF nos últimos meses da gestão Marcelo Teixeira. Projeto envolvendo a SDC Sports será apresentado ao Co...",
@@ -57,14 +65,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/7kq5xate-1920Jardim-analisa.webp",
         "data": "2026-08-10T14:54:58.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Pedro Emanuel valoriza ponto fora de casa e aponta detalhes em empate do Vasco: &#8216;Lutamos por isso&#8217;",
-        "desc": "Treinador comemora consistência defensiva do Cruz-Maltino nos últimos jogos e afirma que grupo esteve perto da vitória, apesar das adversidades do campo e dos gols anulados.\nO post...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/pedro-emanuel-valoriza-ponto-fora-de-casa-e-aponta-detalhes-em-empate-do-vasco-lutamos-por-isso/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Pedro-Emanuel-valoriza.webp",
-        "data": "2026-08-10T14:48:52.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -74,7 +74,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-10",
-        "data": "2026-08-10T20:38:15.223Z",
+        "data": "2026-08-10T21:37:27.799Z",
         "id": "curado-feminino-0"
       },
       {
@@ -83,7 +83,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-10",
-        "data": "2026-08-10T17:38:15.223Z",
+        "data": "2026-08-10T18:37:27.799Z",
         "id": "curado-feminino-1"
       },
       {
@@ -92,7 +92,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-10",
-        "data": "2026-08-10T14:38:15.223Z",
+        "data": "2026-08-10T15:37:27.799Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -103,7 +103,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-10",
-        "data": "2026-08-10T20:38:15.224Z",
+        "data": "2026-08-10T21:37:27.799Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -120,7 +120,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-10",
-        "data": "2026-08-10T17:38:15.224Z",
+        "data": "2026-08-10T18:37:27.799Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -129,7 +129,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-10",
-        "data": "2026-08-10T14:38:15.224Z",
+        "data": "2026-08-10T15:37:27.799Z",
         "id": "curado-jogadores-2"
       }
     ]
