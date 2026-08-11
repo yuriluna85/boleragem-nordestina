@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao": "2026-08-11T08:29:20.768Z",
+  "ultimaAtualizacao": "2026-08-11T09:32:53.288Z",
   "dados": {
     "masculino": [
       {
@@ -42,7 +42,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-11",
-        "data": "2026-08-11T08:29:20.764Z",
+        "data": "2026-08-11T09:32:53.280Z",
         "id": "curado-feminino-0"
       },
       {
@@ -51,7 +51,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-11",
-        "data": "2026-08-11T05:29:20.764Z",
+        "data": "2026-08-11T06:32:53.280Z",
         "id": "curado-feminino-1"
       },
       {
@@ -60,7 +60,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-11",
-        "data": "2026-08-11T02:29:20.764Z",
+        "data": "2026-08-11T03:32:53.280Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -71,17 +71,16 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-11",
-        "data": "2026-08-11T08:29:20.764Z",
+        "data": "2026-08-11T09:32:53.281Z",
         "id": "curado-jogadores-0"
       },
       {
-        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
-        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
-        "fonte": "Diário do Ceará",
-        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-11",
-        "data": "2026-08-11T05:29:20.764Z",
-        "id": "curado-jogadores-1"
+        "titulo": "Vontade de ficar e papo com Diniz: como Pedro Raul ressurgiu no Corinthians",
+        "desc": "Pedro Raul vive uma reviravolta no Corinthians. Mesmo após receber sondagens de Coritiba, Fortaleza e clubes do exterior na janela de transferências, o atacante optou por permanece...",
+        "url": "https://www.gazetaesportiva.com/times/corinthians/vontade-de-ficar-e-papo-com-diniz-como-pedro-raul-ressurgiu-no-corinthians/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/247355.webp",
+        "data": "2026-08-11T09:00:46.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Juan Alano rescinde com Ceará e assina com o Sport até fevereiro de 2027",
