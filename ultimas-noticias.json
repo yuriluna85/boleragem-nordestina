@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-08-13T10:58:16.927Z",
+  "ultimaAtualizacao": "2026-08-13T11:52:00.463Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Cuello aproveita falha bizarra de Cleiton para marcar gol da vitória do Atlético-MG; confira",
+        "desc": "Tomás Cuello aproveita falha bizarra de Cleiton para marcar gol da vitória do Atlético-MG; confira \nO post Cuello aproveita falha bizarra de Cleiton para marcar gol da vitória do A...",
+        "url": "https://www.gazetaesportiva.com/times/atletico-mg/cuello-aproveita-falha-bizarra-de-cleiton-para-marcar-gol-da-vitoria-do-atletico-mg-confira/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Tomas-Cuello.webp",
+        "data": "2026-08-13T11:02:40.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Cruzeiro x Flamengo: veja fotos do jogo pela Libertadores",
         "desc": "O post Cruzeiro x Flamengo: veja fotos do jogo pela Libertadores apareceu primeiro em Gazeta Esportiva.",
@@ -97,14 +105,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260812__C4JA3UY__v1__HighRes__FblSudamericanaBragantinoMineiro.webp",
         "data": "2026-08-12T23:27:41.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Mirassol x LDU pela Libertadores: veja onde assistir ao vivo e prováveis escalações",
-        "desc": "Mirassol e LDU voltam a se enfrentar nesta semana pela Copa Libertadores. Após dividirem vitórias na fase de grupos, brasileiros e equatorianos medem forças no jogo de ida das oita...",
-        "url": "https://www.gazetaesportiva.com/times/mirassol/mirassol-x-ldu-onde-assistir-horario-e-provaveis-escalacoes-pela-libertadores/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-12-at-14.27.03.webp",
-        "data": "2026-08-12T23:00:51.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -114,7 +114,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-13",
-        "data": "2026-08-13T10:58:16.922Z",
+        "data": "2026-08-13T11:52:00.457Z",
         "id": "curado-feminino-0"
       },
       {
@@ -131,7 +131,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-13",
-        "data": "2026-08-13T07:58:16.922Z",
+        "data": "2026-08-13T08:52:00.457Z",
         "id": "curado-feminino-1"
       },
       {
@@ -140,7 +140,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-13",
-        "data": "2026-08-13T04:58:16.922Z",
+        "data": "2026-08-13T05:52:00.457Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -151,7 +151,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-13",
-        "data": "2026-08-13T10:58:16.922Z",
+        "data": "2026-08-13T11:52:00.457Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -160,7 +160,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-13",
-        "data": "2026-08-13T07:58:16.922Z",
+        "data": "2026-08-13T08:52:00.457Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -169,7 +169,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-13",
-        "data": "2026-08-13T04:58:16.922Z",
+        "data": "2026-08-13T05:52:00.457Z",
         "id": "curado-jogadores-2"
       },
       {
