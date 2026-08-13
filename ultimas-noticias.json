@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-08-13T13:02:01.424Z",
+  "ultimaAtualizacao": "2026-08-13T14:35:32.553Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Cruzeiro reclama de falta que origina gol do Flamengo; veja o lance",
+        "desc": "Cruzeiro reclama de falta que origina gol do Flamengo; veja o lance\nO post Cruzeiro reclama de falta que origina gol do Flamengo; veja o lance apareceu primeiro em Gazeta Esportiva...",
+        "url": "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-reclama-de-falta-que-origina-gol-do-flamengo-veja-o-lance/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260813__C4JD76Z__v1__HighRes__FblLibertadoresCruzeiroFlamengo.webp",
+        "data": "2026-08-13T14:08:55.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Domínguez exalta Everson em vitória do Galo: &#8220;Um dos melhores do Brasil&#8221;",
         "desc": "Domínguez exalta Everson em vitória do Galo: \"Um dos melhores do Brasil\"\nO post Domínguez exalta Everson em vitória do Galo: &#8220;Um dos melhores do Brasil&#8221; apareceu primei...",
@@ -73,30 +81,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/12082026_cg_palmeiras_gol_2046_10.webp",
         "data": "2026-08-13T00:50:01.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja galeria de fotos do treino do Corinthians nesta quarta-feira",
-        "desc": "O post Veja galeria de fotos do treino do Corinthians nesta quarta-feira apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-nesta-quarta-feira-20/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/247400.webp",
-        "data": "2026-08-13T00:35:07.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Expulsão exagerada? Andreas Pereira dá soco em braço do adversário e recebe cartão vermelho",
-        "desc": "CONMEBOL Libertadores\nO post Expulsão exagerada? Andreas Pereira dá soco em braço do adversário e recebe cartão vermelho apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/dugout/expulsao-exagerada-andreas-pereira-da-soco-em-braco-do-adversario-e-recebe-cartao-vermelho/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260812__C4JB9ZV__v1__HighRes__FblLibertadoresPalmeirasCerroporteno.webp",
-        "data": "2026-08-13T00:29:38.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Vitor Roque lamenta empate do Palmeiras e projeta decisão fora: &#8220;Buscar a vitória lá&#8221;",
-        "desc": "O Palmeiras cedeu o empate por 1 a 1 ao Cerro Porteño, na noite desta quarta-feira, em duelo de ida das oitavas de final da Libertadores. Vitor Roque, que foi um dos titulares do j...",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/vitor-roque-lamenta-empate-palmeiras-projeta-decisao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/12082026_cg_palmeiras_destaque_1309_19.webp",
-        "data": "2026-08-13T00:11:30.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -106,7 +90,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-13",
-        "data": "2026-08-13T13:02:01.416Z",
+        "data": "2026-08-13T14:35:32.547Z",
         "id": "curado-feminino-0"
       },
       {
@@ -115,7 +99,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-13",
-        "data": "2026-08-13T10:02:01.416Z",
+        "data": "2026-08-13T11:35:32.547Z",
         "id": "curado-feminino-1"
       },
       {
@@ -132,7 +116,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-13",
-        "data": "2026-08-13T07:02:01.416Z",
+        "data": "2026-08-13T08:35:32.547Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -143,7 +127,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-13",
-        "data": "2026-08-13T13:02:01.416Z",
+        "data": "2026-08-13T14:35:32.547Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -152,7 +136,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-13",
-        "data": "2026-08-13T10:02:01.416Z",
+        "data": "2026-08-13T11:35:32.547Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -161,16 +145,8 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-13",
-        "data": "2026-08-13T07:02:01.416Z",
+        "data": "2026-08-13T08:35:32.547Z",
         "id": "curado-jogadores-2"
-      },
-      {
-        "titulo": "Cuello comemora vantagem do Atlético-MG sobre o Bragantino e celebra sequência invicta",
-        "desc": "Autor do gol que deu a vitória sobre o Red Bull Bragantino ao Atlético-MG, Cuello celebrou a vantagem nas oitavas de final da Copa Sul-Americana. O atacante também destacou o respe...",
-        "url": "https://www.gazetaesportiva.com/times/atletico-mg/cuello-comemora-vantagem-do-atletico-mg-sobre-o-bragantino-e-celebra-sequencia-invicta/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260812__C4JB9ZX__v1__HighRes__FblSudamericanaBragantinoMineiro.webp",
-        "data": "2026-08-13T00:14:04.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ]
   }
