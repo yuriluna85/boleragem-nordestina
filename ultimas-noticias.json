@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-08-14T12:58:25.879Z",
+  "ultimaAtualizacao": "2026-08-14T14:17:03.335Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Veja o quinto gol do Cienciano contra o Botafogo pela Sul-Americana",
+        "desc": "Veja o quinto gol do Cienciano contra o Botafogo pela Sul-Americana\nO post Veja o quinto gol do Cienciano contra o Botafogo pela Sul-Americana apareceu primeiro em Gazeta Esportiva...",
+        "url": "https://www.gazetaesportiva.com/times/botafogo/veja-o-quinto-gol-do-cienciano-contra-o-botafogo-pela-sul-americana/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/quin.webp",
+        "data": "2026-08-14T13:02:33.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Golfista australiana morre aos 18 anos após desmaiar durante torneio na Tailândia",
+        "desc": "A golfista australiana Jessica Bang, considerada uma das grandes promessas do esporte no país, morreu nesta quinta-feira em um hospital na Tailândia. A atleta estava internada desd...",
+        "url": "https://www.gazetaesportiva.com/mais-esportes/jessica-bang-morte-golfe-australia/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/imagem/2020/03/30/063_1215381103.jpg",
+        "data": "2026-08-14T13:00:06.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Cuca aprova parceria entre Neymar e Gabigol no Santos: “Podem jogar juntos”",
         "desc": "Cuca elogiou a atuação de Neymar e Gabigol juntos na vitória do Santos por 2 a 1 sobre o Macará, pela Sul-Americana. O treinador aprovou a parceria e destacou a competitividade da ...",
@@ -66,7 +82,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-14",
-        "data": "2026-08-14T12:58:25.873Z",
+        "data": "2026-08-14T14:17:03.305Z",
         "id": "curado-feminino-0"
       },
       {
@@ -75,7 +91,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-14",
-        "data": "2026-08-14T09:58:25.873Z",
+        "data": "2026-08-14T11:17:03.305Z",
         "id": "curado-feminino-1"
       },
       {
@@ -84,7 +100,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-14",
-        "data": "2026-08-14T06:58:25.873Z",
+        "data": "2026-08-14T08:17:03.305Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -95,8 +111,17 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-14",
-        "data": "2026-08-14T12:58:25.874Z",
+        "data": "2026-08-14T14:17:03.305Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
+        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
+        "fonte": "Diário do Ceará",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-14",
+        "data": "2026-08-14T11:17:03.305Z",
+        "id": "curado-jogadores-1"
       },
       {
         "titulo": "Dupla do Santos detalha problemas físicos após vitória pela Sul-Americana",
@@ -105,15 +130,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55462661674_cb51a827da_o.webp",
         "data": "2026-08-14T10:00:38.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
-        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
-        "fonte": "Diário do Ceará",
-        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-14",
-        "data": "2026-08-14T09:58:25.874Z",
-        "id": "curado-jogadores-1"
       },
       {
         "titulo": "Gabigol celebra 100º gol pelo Santos após vitória na Sul-Americana: “Marca histórica”",
