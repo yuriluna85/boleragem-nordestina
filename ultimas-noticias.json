@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao": "2026-08-15T12:30:32.721Z",
+  "ultimaAtualizacao": "2026-08-15T13:26:51.798Z",
   "dados": {
     "masculino": [
       {
@@ -57,14 +57,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/FTM_8944.jpg-2000x1200-1.webp",
         "data": "2026-08-14T21:06:41.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do último treino do São Paulo antes de encarar o Coritiba",
-        "desc": "O post Veja fotos do último treino do São Paulo antes de encarar o Coritiba apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-ultimo-treino-do-sao-paulo-antes-de-encarar-o-coritiba-3/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55464183488_541b6b650c_k.webp",
-        "data": "2026-08-14T20:20:24.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -74,7 +66,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-15",
-        "data": "2026-08-15T12:30:32.713Z",
+        "data": "2026-08-15T13:26:51.790Z",
         "id": "curado-feminino-0"
       },
       {
@@ -83,7 +75,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-15",
-        "data": "2026-08-15T09:30:32.713Z",
+        "data": "2026-08-15T10:26:51.790Z",
         "id": "curado-feminino-1"
       },
       {
@@ -92,7 +84,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-15",
-        "data": "2026-08-15T06:30:32.713Z",
+        "data": "2026-08-15T07:26:51.790Z",
         "id": "curado-feminino-2"
       },
       {
@@ -111,7 +103,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-15",
-        "data": "2026-08-15T12:30:32.713Z",
+        "data": "2026-08-15T13:26:51.790Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -120,7 +112,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-15",
-        "data": "2026-08-15T09:30:32.713Z",
+        "data": "2026-08-15T10:26:51.790Z",
         "id": "curado-jogadores-1"
       },
       {
