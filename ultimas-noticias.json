@@ -1,7 +1,31 @@
 {
-  "ultimaAtualizacao": "2026-08-16T20:46:36.464Z",
+  "ultimaAtualizacao": "2026-08-16T21:16:13.459Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Cuello celebra vitória do Atlético-MG e projeta decisão na quarta: &#8220;Não temos que parar por aqui&#8221;",
+        "desc": "Autor de dois gols, Cuello celebra vitória do Atlético-MG sobre o Grêmio e projeta decisão contra o Bragantino pela Sul-Americana.\nO post Cuello celebra vitória do Atlético-MG e pr...",
+        "url": "https://www.gazetaesportiva.com/times/atletico-mg/cuello-celebra-vitoria-atletico-mg-gremio-bragantino/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55468276726_005f9e9ae0_k.webp",
+        "data": "2026-08-16T21:14:48.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Arteta elogia fome de vitória do Arsenal na conquista da Community Shield",
+        "desc": "Arteta elogia fome de vitória do Arsenal na conquista da Community Shield\nO post Arteta elogia fome de vitória do Arsenal na conquista da Community Shield apareceu primeiro em Gaze...",
+        "url": "https://www.gazetaesportiva.com/times/arsenal/arteta-elogia-fome-de-vitoria-do-arsenal-na-conquista-da-community-shield/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Arte.webp",
+        "data": "2026-08-16T21:05:32.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Hulk projeta decisão do Fluminense em Mendoza",
+        "desc": "Hulk projeta decisão do Fluminense em Mendoza\nO post Hulk projeta decisão do Fluminense em Mendoza apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/fluminense/hulk-projeta-decisao-do-fluminense-em-mendoza/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Hu.webp",
+        "data": "2026-08-16T20:50:05.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Veja as fotos do treino do São Paulo deste domingo",
         "desc": "O post Veja as fotos do treino do São Paulo deste domingo apareceu primeiro em Gazeta Esportiva.",
@@ -169,22 +193,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55466878145_48a0133a80_c.webp",
         "data": "2026-08-16T15:08:13.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos da partida entre Chapecoense e Bahia pelo Campeonato Brasileiro",
-        "desc": "Veja fotos da partida entre Chapecoense e Bahia pelo Campeonato Brasileiro.\nO post Veja fotos da partida entre Chapecoense e Bahia pelo Campeonato Brasileiro apareceu primeiro em G...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-fotos-da-partida-entre-chapecoense-e-bahia-pelo-campeonato-brasileiro/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55466544282_3c9d34921a_o.webp",
-        "data": "2026-08-16T14:43:10.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Vasco x Santos: Peixe leva pequena vantagem no histórico, mas sofre como visitante",
-        "desc": "Santos leva pequena vantagem no histórico geral contra o Vasco, com 39 vitórias em 108 jogos. Como visitante, porém, o Peixe venceu apenas 11 dos 56 confrontos disputados com mando...",
-        "url": "https://www.gazetaesportiva.com/times/santos/vasco-x-santos-peixe-leva-pequena-vantagem-no-historico-mas-sofre-como-visitante/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55120518736_e3f31bdf7d_o.webp",
-        "data": "2026-08-16T10:00:39.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -194,7 +202,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-16",
-        "data": "2026-08-16T20:46:36.457Z",
+        "data": "2026-08-16T21:16:13.448Z",
         "id": "curado-feminino-0"
       },
       {
@@ -203,7 +211,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-16",
-        "data": "2026-08-16T17:46:36.457Z",
+        "data": "2026-08-16T18:16:13.448Z",
         "id": "curado-feminino-1"
       },
       {
@@ -212,7 +220,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-16",
-        "data": "2026-08-16T14:46:36.457Z",
+        "data": "2026-08-16T15:16:13.448Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -223,7 +231,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-16",
-        "data": "2026-08-16T20:46:36.457Z",
+        "data": "2026-08-16T21:16:13.448Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -232,7 +240,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-16",
-        "data": "2026-08-16T17:46:36.457Z",
+        "data": "2026-08-16T18:16:13.448Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -241,7 +249,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-16",
-        "data": "2026-08-16T14:46:36.457Z",
+        "data": "2026-08-16T15:16:13.448Z",
         "id": "curado-jogadores-2"
       }
     ]
