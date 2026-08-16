@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-08-16T22:45:32.875Z",
+  "ultimaAtualizacao": "2026-08-16T23:15:46.673Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "ASA garante acesso na Série D nos pênaltis; Gama e ABC também sobem",
+        "desc": "ASA de Arapiraca vence o Goiatuba nos pênaltis pelas quartas da Série D e garante vaga na Série C de 2027.\nO post ASA garante acesso na Série D nos pênaltis; Gama e ABC também sobe...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-d/asa-garante-acesso-na-serie-d-nos-penaltis-gama-e-abc-tambem-sobem/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Intervalo-de-jogo-%E2%9A%BD%EF%B8%8FASAxGEC-1-1%E2%9A%BD%EF%B8%8F-alexbruno_99-SerieD-ASAGigante%F0%9F%93%B8-apollofotografiaefilm.webp",
+        "data": "2026-08-16T22:46:05.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Santos provoca Thiago Mendes por vácuo em Neymar após vitória sobre o Vasco",
         "desc": "Após a vitória por 3 a 0 diante do Vasco, em São Januário, o Santos provocou Thiago Mendes com publicação nas redes sociais. Antes da bola rolar, o volante vascaíno não cumprimento...",
@@ -177,22 +185,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/CF-Montre.webp",
         "data": "2026-08-16T16:40:00.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Charlotte FC 3 x 1 Columbus pela MLS",
-        "desc": "Melhores momentos: Charlotte FC 3 x 1 Columbus pela MLS\nO post Melhores momentos: Charlotte FC 3 x 1 Columbus pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-charlotte-fc-3-x-1-columbus-pela-mls/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Atlant.webp",
-        "data": "2026-08-16T16:28:27.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Primavera bate o Osasco Sporting e amplia vantagem na liderança do Grupo C da Copa Paulista",
-        "desc": "O Primavera venceu o Osasco Sporting por 2 a 1 neste domingo, no Estádio José Liberatti, pela quinta rodada da Copa Paulista. Com o resultado, o Fantasma chegou aos 10 pontos e abr...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/copa-paulista/primavera-vence-osasco-sporting-copa-paulista/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/image1786891892.webp",
-        "data": "2026-08-16T16:24:26.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -202,7 +194,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-16",
-        "data": "2026-08-16T22:45:32.867Z",
+        "data": "2026-08-16T23:15:46.659Z",
         "id": "curado-feminino-0"
       },
       {
@@ -211,7 +203,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-16",
-        "data": "2026-08-16T19:45:32.867Z",
+        "data": "2026-08-16T20:15:46.659Z",
         "id": "curado-feminino-1"
       },
       {
@@ -220,7 +212,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-16",
-        "data": "2026-08-16T16:45:32.867Z",
+        "data": "2026-08-16T17:15:46.659Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -231,7 +223,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-16",
-        "data": "2026-08-16T22:45:32.867Z",
+        "data": "2026-08-16T23:15:46.660Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -240,7 +232,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-16",
-        "data": "2026-08-16T19:45:32.867Z",
+        "data": "2026-08-16T20:15:46.660Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -249,7 +241,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-16",
-        "data": "2026-08-16T16:45:32.867Z",
+        "data": "2026-08-16T17:15:46.660Z",
         "id": "curado-jogadores-2"
       }
     ]
