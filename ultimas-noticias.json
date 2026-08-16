@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-08-16T01:05:57.525Z",
+  "ultimaAtualizacao": "2026-08-16T02:39:49.233Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "São Paulo cede empate ao Coritiba em retorno ao Morumbis e amplia jejum no Brasileirão",
+        "desc": "O São Paulo ampliou seu jejum de vitórias no Campeonato Brasileiro para nove jogos neste sábado após ceder o empate por 1 a 1 para o Coritiba, e saiu vaiado do Morumbis, em São Pau...",
+        "url": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-x-coritiba-23a-rodada-brasileirao-15-08-2026/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55466651619_11af786a40_c.webp",
+        "data": "2026-08-16T01:55:00.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Stones marca o gol da vitória em sua estreia pelo Inter de Milão; confira",
         "desc": "Stones marca o gol da vitória em sua estreia pelo Inter de Milão \nO post Stones marca o gol da vitória em sua estreia pelo Inter de Milão; confira apareceu primeiro em Gazeta Espor...",
@@ -105,22 +113,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55466157473_cb842ff803_o.webp",
         "data": "2026-08-15T22:05:29.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Al Taawoun 0 x 0 Al Khaleej pela Liga Saudita",
-        "desc": "Melhores momentos: Al Taawoun 0 x 0 Al Khaleej pela Liga Saudita\nO post Melhores momentos: Al Taawoun 0 x 0 Al Khaleej pela Liga Saudita apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-taawoun-0-x-0-al-khaleej-pela-liga-saudita/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Al-Taawo.webp",
-        "data": "2026-08-15T21:09:15.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Vila Nova bate Atlético-GO e assume terceira posição na Série B",
-        "desc": "O Vila Nova venceu o Atlético-GO por 2 a 0 neste sábado, no Estádio Antônio Accioly, pela 22ª rodada da Série B. João Vieira e Dudu dos Santos marcaram os gols da vitória, que levo...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/vila-nova-vence-atletico-go-e-entra-no-g4-da-serie-b/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2025/07/54638214253_a047b3e12e_k.webp",
-        "data": "2026-08-15T21:04:50.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -130,8 +122,17 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-16",
-        "data": "2026-08-16T01:05:57.520Z",
+        "data": "2026-08-16T02:39:49.221Z",
         "id": "curado-feminino-0"
+      },
+      {
+        "titulo": "Sport Feminino atrai público recorde na Arena de Pernambuco",
+        "desc": "Mais de 15 mil torcedores empurraram as Leoas na vitória histórica contra o Bahia. Um novo marco para o esporte feminino no Nordeste.",
+        "fonte": "Pernambuco Press",
+        "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-15",
+        "data": "2026-08-15T23:39:49.221Z",
+        "id": "curado-feminino-1"
       },
       {
         "titulo": "Corinthians sai na frente, leva empate mas segue no topo do Brasileirão Feminino",
@@ -142,21 +143,12 @@
         "fonte": "Gazeta Esportiva"
       },
       {
-        "titulo": "Sport Feminino atrai público recorde na Arena de Pernambuco",
-        "desc": "Mais de 15 mil torcedores empurraram as Leoas na vitória histórica contra o Bahia. Um novo marco para o esporte feminino no Nordeste.",
-        "fonte": "Pernambuco Press",
-        "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-15",
-        "data": "2026-08-15T22:05:57.520Z",
-        "id": "curado-feminino-1"
-      },
-      {
         "titulo": "Bahia Feminino contrata dupla de ataque campeã sul-americana",
         "desc": "O Tricolor de Aço se reforça visando a disputa do mata-mata do Brasileiro Feminino A2. Apresentação das novas atletas ocorre nesta segunda.",
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-15",
-        "data": "2026-08-15T19:05:57.520Z",
+        "data": "2026-08-15T20:39:49.221Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -167,7 +159,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-16",
-        "data": "2026-08-16T01:05:57.520Z",
+        "data": "2026-08-16T02:39:49.221Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -176,7 +168,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-15",
-        "data": "2026-08-15T22:05:57.520Z",
+        "data": "2026-08-15T23:39:49.221Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -185,7 +177,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-15",
-        "data": "2026-08-15T19:05:57.520Z",
+        "data": "2026-08-15T20:39:49.221Z",
         "id": "curado-jogadores-2"
       }
     ]
