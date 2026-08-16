@@ -1,7 +1,31 @@
 {
-  "ultimaAtualizacao": "2026-08-16T16:19:41.500Z",
+  "ultimaAtualizacao": "2026-08-16T16:49:54.897Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Melhores momentos: CF Montréal 1 x 1 D.C. United pela MLS",
+        "desc": "Melhores momentos: CF Montréal 1 x 1 D.C. United (MLS)\nO post Melhores momentos: CF Montréal 1 x 1 D.C. United pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-cf-montreal-1-x-1-d-c-united-pela-mls/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/CF-Montre.webp",
+        "data": "2026-08-16T16:40:00.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Melhores momentos: Charlotte FC 3 x 1 Columbus pela MLS",
+        "desc": "Melhores momentos: Charlotte FC 3 x 1 Columbus pela MLS\nO post Melhores momentos: Charlotte FC 3 x 1 Columbus pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-charlotte-fc-3-x-1-columbus-pela-mls/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Atlant.webp",
+        "data": "2026-08-16T16:28:27.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Primavera bate o Osasco Sporting e amplia vantagem na liderança do Grupo C da Copa Paulista",
+        "desc": "O Primavera venceu o Osasco Sporting por 2 a 1 neste domingo, no Estádio José Liberatti, pela quinta rodada da Copa Paulista. Com o resultado, o Fantasma chegou aos 10 pontos e abr...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/copa-paulista/primavera-vence-osasco-sporting-copa-paulista/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/image1786891892.webp",
+        "data": "2026-08-16T16:24:26.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Melhores momentos: Atlanta United 2 x 1 New York Red Bulls pela MLS",
         "desc": "Melhores momentos: Atlanta United 2 x 1 New York Red Bulls pela MLS\nO post Melhores momentos: Atlanta United 2 x 1 New York Red Bulls pela MLS apareceu primeiro em Gazeta Esportiva...",
@@ -153,14 +177,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Al-Na.webp",
         "data": "2026-08-15T23:24:32.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Chapecoense x Bahia pelo Brasileirão: veja prováveis escalações e onde assistir",
-        "desc": "Chapecoense e Bahia se enfrentam neste domingo, às 11h (de Brasília), na Arena Condá, pela 23ª rodada do Campeonato Brasileiro. A equipe catarinense ocupa a última colocação da tab...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/chapecoense-x-bahia-pelo-brasileirao-veja-provaveis-escalacoes-e-onde-assistir/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55458570043_6fc2d656f4_k.webp",
-        "data": "2026-08-15T23:00:53.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -170,7 +186,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-16",
-        "data": "2026-08-16T16:19:41.488Z",
+        "data": "2026-08-16T16:49:54.889Z",
         "id": "curado-feminino-0"
       },
       {
@@ -179,7 +195,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-16",
-        "data": "2026-08-16T13:19:41.488Z",
+        "data": "2026-08-16T13:49:54.889Z",
         "id": "curado-feminino-1"
       },
       {
@@ -188,7 +204,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-16",
-        "data": "2026-08-16T10:19:41.488Z",
+        "data": "2026-08-16T10:49:54.889Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -199,7 +215,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-16",
-        "data": "2026-08-16T16:19:41.488Z",
+        "data": "2026-08-16T16:49:54.889Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -208,7 +224,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-16",
-        "data": "2026-08-16T13:19:41.488Z",
+        "data": "2026-08-16T13:49:54.889Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -217,7 +233,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-16",
-        "data": "2026-08-16T10:19:41.488Z",
+        "data": "2026-08-16T10:49:54.889Z",
         "id": "curado-jogadores-2"
       }
     ]
