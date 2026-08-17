@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao": "2026-08-17T16:22:46.048Z",
+  "ultimaAtualizacao": "2026-08-17T16:54:49.220Z",
   "dados": {
     "masculino": [
       {
@@ -145,14 +145,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Intervalo-de-jogo-%E2%9A%BD%EF%B8%8FASAxGEC-1-1%E2%9A%BD%EF%B8%8F-alexbruno_99-SerieD-ASAGigante%F0%9F%93%B8-apollofotografiaefilm.webp",
         "data": "2026-08-16T22:46:05.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Santos provoca Thiago Mendes por vácuo em Neymar após vitória sobre o Vasco",
-        "desc": "Após a vitória por 3 a 0 diante do Vasco, em São Januário, o Santos provocou Thiago Mendes com publicação nas redes sociais. Antes da bola rolar, o volante vascaíno não cumprimento...",
-        "url": "https://www.gazetaesportiva.com/times/santos/santos-provoca-thiago-mendes-por-vacuo-em-neymar-apos-vitoria-sobre-o-vasco/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/HP35SpGXQAE4OLm-2.webp",
-        "data": "2026-08-16T22:04:11.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -162,7 +154,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-17",
-        "data": "2026-08-17T16:22:46.037Z",
+        "data": "2026-08-17T16:54:49.213Z",
         "id": "curado-feminino-0"
       },
       {
@@ -171,7 +163,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-17",
-        "data": "2026-08-17T13:22:46.037Z",
+        "data": "2026-08-17T13:54:49.213Z",
         "id": "curado-feminino-1"
       },
       {
@@ -180,7 +172,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-17",
-        "data": "2026-08-17T10:22:46.037Z",
+        "data": "2026-08-17T10:54:49.213Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -191,8 +183,16 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-17",
-        "data": "2026-08-17T16:22:46.037Z",
+        "data": "2026-08-17T16:54:49.213Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Benzema pode deixar o Al-Hilal nesta janela após pedido de técnico",
+        "desc": "Karim Benzema está perto de deixar o Al-Hilal. De acordo com a Sky Sports, o técnico Simone Inzaghi deseja a saída do atacante francês, mas a rescisão contratual é complexa porque ...",
+        "url": "https://www.gazetaesportiva.com/al-hilal/benzema-pode-deixar-o-al-hilal-nesta-janela-apos-pedido-de-tecnico/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/05/AFP__20260512__B2N88U9__v1__MidRes__FblKsaNasarHilal.webp",
+        "data": "2026-08-17T16:41:17.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
@@ -200,7 +200,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-17",
-        "data": "2026-08-17T13:22:46.037Z",
+        "data": "2026-08-17T13:54:49.213Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -209,7 +209,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-17",
-        "data": "2026-08-17T10:22:46.037Z",
+        "data": "2026-08-17T10:54:49.213Z",
         "id": "curado-jogadores-2"
       }
     ]
