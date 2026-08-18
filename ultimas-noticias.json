@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao": "2026-08-18T23:18:15.670Z",
+  "ultimaAtualizacao": "2026-08-18T23:45:45.378Z",
   "dados": {
     "masculino": [
       {
@@ -82,7 +82,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-18",
-        "data": "2026-08-18T23:18:15.661Z",
+        "data": "2026-08-18T23:45:45.370Z",
         "id": "curado-feminino-0"
       },
       {
@@ -91,7 +91,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-18",
-        "data": "2026-08-18T20:18:15.661Z",
+        "data": "2026-08-18T20:45:45.370Z",
         "id": "curado-feminino-1"
       },
       {
@@ -100,7 +100,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-18",
-        "data": "2026-08-18T17:18:15.661Z",
+        "data": "2026-08-18T17:45:45.370Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -111,16 +111,8 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-18",
-        "data": "2026-08-18T23:18:15.661Z",
+        "data": "2026-08-18T23:45:45.370Z",
         "id": "curado-jogadores-0"
-      },
-      {
-        "titulo": "“Torcida do São Paulo recepciona elenco com festa antes de decisão contra o Bolívar”",
-        "desc": "O post “Torcida do São Paulo recepciona elenco com festa antes de decisão contra o Bolívar” apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/futebol/futebol-internacional/torcida-do-sao-paulo-recepciona-elenco-com-festa-antes-de-decisao-contra-o-bolivar/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Sp.webp",
-        "data": "2026-08-18T22:44:15.000Z",
-        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
@@ -128,7 +120,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-18",
-        "data": "2026-08-18T20:18:15.661Z",
+        "data": "2026-08-18T20:45:45.370Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -137,7 +129,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-18",
-        "data": "2026-08-18T17:18:15.661Z",
+        "data": "2026-08-18T17:45:45.370Z",
         "id": "curado-jogadores-2"
       }
     ]
