@@ -1,7 +1,31 @@
 {
-  "ultimaAtualizacao": "2026-08-18T18:32:40.283Z",
+  "ultimaAtualizacao": "2026-08-18T19:24:27.102Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Musiala dá susto na vitória do Bayern no último amistoso de pré-temporada do time",
+        "desc": "O Bayern de Munique venceu o Heidenheim por 4 a 2 nesta terça-feira, em amistoso de pré-temporada realizado na Voith-Arena. Felipe Chávez, Arijon Ibrahimovic, Luis Díaz e Nathaniel...",
+        "url": "https://www.gazetaesportiva.com/times/bayern/musiala-da-susto-na-vitoria-do-bayern-no-ultimo-amistoso-de-pre-temporada-do-time/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/HQBcsEhWAAElFoG.webp",
+        "data": "2026-08-18T19:16:01.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Modrić explica renovação com o Milan",
+        "desc": "Luka Modrić comenta a decisão de estender seu contrato com o Milan até 2027.\nO post Modrić explica renovação com o Milan apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/modric-explica-renovacao-com-o-milan/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/fyy28aek-1920Modric.webp",
+        "data": "2026-08-18T18:44:06.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Ødegaard comanda a festa do Arsenal após o título da Supercopa da Inglaterra",
+        "desc": "Capitão ergue a taça! Confira a celebração do Arsenal liderada por Martin Ødegaard após a vitória por 3 a 0 sobre o Manchester City.\nO post Ødegaard comanda a festa do Arsenal após...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/odegaard-comanda-a-festa-do-arsenal-apos-o-titulo-da-supercopa-da-inglaterra/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/kwy83mfq-1920Odegaard.webp",
+        "data": "2026-08-18T18:38:49.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Veja fotos do treino do Santos desta terça-feira",
         "desc": "O post Veja fotos do treino do Santos desta terça-feira apareceu primeiro em Gazeta Esportiva.",
@@ -81,14 +105,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Petar-M.webp",
         "data": "2026-08-18T11:17:00.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Pedro Sampaio e Ricky Martin farão show do intervalo do jogo da NFL no Maracanã",
-        "desc": "Pedro Sampaio e Ricky Martin serão as atrações do show do intervalo do NFL Rio Game 2026, entre Cowboys e Ravens, no Maracanã.\nO post Pedro Sampaio e Ricky Martin farão show do int...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/nfl/pedro-sampaio-e-ricky-martin-farao-show-do-intervalo-do-jogo-da-nfl-no-maracana/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-17-at-22.55.15.webp",
-        "data": "2026-08-18T01:44:58.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -98,7 +114,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-18",
-        "data": "2026-08-18T18:32:40.275Z",
+        "data": "2026-08-18T19:24:27.090Z",
         "id": "curado-feminino-0"
       },
       {
@@ -107,7 +123,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-18",
-        "data": "2026-08-18T15:32:40.275Z",
+        "data": "2026-08-18T16:24:27.090Z",
         "id": "curado-feminino-1"
       },
       {
@@ -116,7 +132,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-18",
-        "data": "2026-08-18T12:32:40.275Z",
+        "data": "2026-08-18T13:24:27.090Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -127,7 +143,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-18",
-        "data": "2026-08-18T18:32:40.275Z",
+        "data": "2026-08-18T19:24:27.090Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -136,7 +152,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-18",
-        "data": "2026-08-18T15:32:40.275Z",
+        "data": "2026-08-18T16:24:27.090Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -145,7 +161,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-18",
-        "data": "2026-08-18T12:32:40.275Z",
+        "data": "2026-08-18T13:24:27.090Z",
         "id": "curado-jogadores-2"
       }
     ]
