@@ -1,7 +1,31 @@
 {
-  "ultimaAtualizacao": "2026-08-18T23:45:45.378Z",
+  "ultimaAtualizacao": "2026-08-19T01:02:11.009Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "São Paulo x Bolívar: veja fotos do jogo de volta pelas oitavas da Sul-Americana",
+        "desc": "O post São Paulo x Bolívar: veja fotos do jogo de volta pelas oitavas da Sul-Americana apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/campeonatos/copa-sulamericana/sao-paulo-x-bolivar-veja-fotos-do-jogo-de-volta-pelas-oitavas-da-sul-americana/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260819__C4YG2BB__v1__HighRes__FblSudamericanaSaoPauloBolivar.webp",
+        "data": "2026-08-19T00:56:31.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Melhores momentos: Independiente Rivadavia 1 x 1 Fluminense pela Libertadores",
+        "desc": "Confira os melhores momentos da vitória do Fluminense sobre o Independiente Rivadavia por 5 a 4 nos pênaltis após empate em 1 a 1, em duelo válido pela volta das oitavas de final d...",
+        "url": "https://www.gazetaesportiva.com/dugout/melhores-momentos-independiente-rivadavia-1-x-1-fluminense-pela-libertadores-2/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260818__C4Y66VP__v1__HighRes__FblLibertadoresIndrivadaviaFluminense.webp",
+        "data": "2026-08-19T00:45:45.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Confira as fotos de Londrina x Atlético-GO pela Série B",
+        "desc": "O post Confira as fotos de Londrina x Atlético-GO pela Série B apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/atletico-go/confira-as-fotos-de-londrina-x-atletico-go-pela-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55473241211_c0f7e7fcd3_k.webp",
+        "data": "2026-08-18T23:53:00.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Flamengo x Cruzeiro: veja prováveis escalações e onde assistir ao duelo pelas oitavas da Libertadores",
         "desc": "Flamengo e Cruzeiro se enfrentam nesta quarta-feira (19), às 21h30, no Maracanã, pelo jogo de volta das oitavas de final da Libertadores. A partida terá transmissão da Globo, SporT...",
@@ -65,14 +89,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/kwy83mfq-1920Odegaard.webp",
         "data": "2026-08-18T18:38:49.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do treino do Santos desta terça-feira",
-        "desc": "O post Veja fotos do treino do Santos desta terça-feira apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/santos/veja-fotos-do-treino-do-santos-desta-terca-feira-43/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55472275328_7383a83637_c.webp",
-        "data": "2026-08-18T18:18:23.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -81,8 +97,8 @@
         "desc": "As Leoas venceram o clássico com autoridade por 4 a 1 e continuam invictas na competição nacional de futebol feminino.",
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-18",
-        "data": "2026-08-18T23:45:45.370Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-19",
+        "data": "2026-08-19T01:02:10.996Z",
         "id": "curado-feminino-0"
       },
       {
@@ -91,7 +107,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-18",
-        "data": "2026-08-18T20:45:45.370Z",
+        "data": "2026-08-18T22:02:10.996Z",
         "id": "curado-feminino-1"
       },
       {
@@ -100,7 +116,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-18",
-        "data": "2026-08-18T17:45:45.370Z",
+        "data": "2026-08-18T19:02:10.996Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -110,8 +126,8 @@
         "desc": "O veterano meia do Bahia comandou a vitória tricolor com passes decisivos e um belíssimo gol de fora da área, aplaudido de pé.",
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-18",
-        "data": "2026-08-18T23:45:45.370Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-19",
+        "data": "2026-08-19T01:02:10.996Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -120,7 +136,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-18",
-        "data": "2026-08-18T20:45:45.370Z",
+        "data": "2026-08-18T22:02:10.996Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -129,7 +145,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-18",
-        "data": "2026-08-18T17:45:45.370Z",
+        "data": "2026-08-18T19:02:10.996Z",
         "id": "curado-jogadores-2"
       }
     ]
