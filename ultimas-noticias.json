@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao": "2026-08-19T12:38:46.771Z",
+  "ultimaAtualizacao": "2026-08-19T13:40:48.995Z",
   "dados": {
     "masculino": [
       {
@@ -65,30 +65,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55460308921_7e6e03bfd1_o.webp",
         "data": "2026-08-18T23:00:41.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Avaí x Sport pela Série B do Brasileiro: veja prováveis escalações e onde assistir",
-        "desc": "Avaí e Sport entram em campo nesta quarta-feira pela Série B do Campeonato Brasileiro. Enquanto o Leão da Ilha tenta deixar a zona de rebaixamento, o Leão da Ilha pernambucano busc...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/avai-x-sport-onde-assistir-serie-b/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55470201885_e2fa50c5b6_o.webp",
-        "data": "2026-08-18T23:00:27.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Cuiabá x Operário pela Série B do Brasileiro: veja prováveis escalações e onde assistir",
-        "desc": "Cuiabá e Operário-PR se enfrentam nesta quarta-feira, na Arena Pantanal, pela 23ª rodada da Série B do Campeonato Brasileiro. O Dourado chega embalado pela vitória por 3 a 1 sobre ...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/cuiaba-x-operario-pela-serie-b-do-brasileiro-veja-provaveis-escalacoes-e-onde-assistir/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-18-at-14.54.26.webp",
-        "data": "2026-08-18T23:00:20.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Fortaleza x São Bernardo: onde assistir, horário e prováveis escalações pela Série B",
-        "desc": "Fortaleza e São Bernardo se enfrentam nesta quarta-feira, pela 23ª rodada da Série B do Campeonato Brasileiro. O Tricolor ocupa a quarta colocação, com 36 pontos, enquanto o time p...",
-        "url": "https://www.gazetaesportiva.com/times/fortaleza/fortaleza-x-sao-bernardo-onde-assistir-escalacoes/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/IMG_4879.webp",
-        "data": "2026-08-18T23:00:11.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -98,7 +74,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-19",
-        "data": "2026-08-19T12:38:46.731Z",
+        "data": "2026-08-19T13:40:48.986Z",
         "id": "curado-feminino-0"
       },
       {
@@ -107,7 +83,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-19",
-        "data": "2026-08-19T09:38:46.731Z",
+        "data": "2026-08-19T10:40:48.986Z",
         "id": "curado-feminino-1"
       },
       {
@@ -116,7 +92,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-19",
-        "data": "2026-08-19T06:38:46.731Z",
+        "data": "2026-08-19T07:40:48.986Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -127,7 +103,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-19",
-        "data": "2026-08-19T12:38:46.731Z",
+        "data": "2026-08-19T13:40:48.986Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -136,7 +112,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-19",
-        "data": "2026-08-19T09:38:46.731Z",
+        "data": "2026-08-19T10:40:48.986Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -145,7 +121,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-19",
-        "data": "2026-08-19T06:38:46.731Z",
+        "data": "2026-08-19T07:40:48.986Z",
         "id": "curado-jogadores-2"
       }
     ]
