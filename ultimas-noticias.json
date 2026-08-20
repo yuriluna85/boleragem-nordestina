@@ -1,7 +1,31 @@
 {
-  "ultimaAtualizacao": "2026-08-20T16:00:46.651Z",
+  "ultimaAtualizacao": "2026-08-20T17:00:07.480Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Juventus distribui ingressos gratuitos para jogo decisivo da Copa Paulista",
+        "desc": "O Juventus disponibilizou ingressos gratuitos para o confronto decisivo contra o Osasco Sporting, pela última rodada da fase de grupos da Copa Paulista. A ação faz parte da campanh...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/copa-paulista/juventus-ingressos-gratuitos-osasco-sporting-copa-paulista/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-20-at-10.28.43.webp",
+        "data": "2026-08-20T16:54:49.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Melhores momentos: Sporting Kansas City 1 x 1 St. Louis CITY pela MLS",
+        "desc": "Melhores momentos: Sporting Kansas City 1 x 1 St. Louis CITY pela MLSMelhores momentos: Sporting Kansas City 1 x 1 St. Louis CITY pela MLS\nO post Melhores momentos: Sporting Kansas...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-sporting-kansas-city-1-x-1-st-louis-city-pela-mls/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Sporti.webp",
+        "data": "2026-08-20T16:46:37.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Melhores momentos: Toronto FC 3 x 3 Charlotte FC pela MLS",
+        "desc": "Melhores momentos: Toronto FC 3 x 3 Charlotte FC pela MLS\nO post Melhores momentos: Toronto FC 3 x 3 Charlotte FC pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-toronto-fc-3-x-3-charlotte-fc-pela-mls/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Toro.webp",
+        "data": "2026-08-20T16:34:18.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Melhores momentos: Philadelphia Union 2 x 2 Inter Miami CF pela MLS",
         "desc": "Melhores momentos: Philadelphia Union 2 x 2 Inter Miami CF pela MLS\nO post Melhores momentos: Philadelphia Union 2 x 2 Inter Miami CF pela MLS apareceu primeiro em Gazeta Esportiva...",
@@ -106,7 +130,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-20",
-        "data": "2026-08-20T16:00:46.641Z",
+        "data": "2026-08-20T17:00:07.471Z",
         "id": "curado-feminino-0"
       },
       {
@@ -115,7 +139,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-20",
-        "data": "2026-08-20T13:00:46.642Z",
+        "data": "2026-08-20T14:00:07.471Z",
         "id": "curado-feminino-1"
       },
       {
@@ -124,7 +148,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-20",
-        "data": "2026-08-20T10:00:46.642Z",
+        "data": "2026-08-20T11:00:07.471Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -135,7 +159,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-20",
-        "data": "2026-08-20T16:00:46.642Z",
+        "data": "2026-08-20T17:00:07.471Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -144,7 +168,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-20",
-        "data": "2026-08-20T13:00:46.642Z",
+        "data": "2026-08-20T14:00:07.471Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -153,7 +177,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-20",
-        "data": "2026-08-20T10:00:46.642Z",
+        "data": "2026-08-20T11:00:07.471Z",
         "id": "curado-jogadores-2"
       }
     ]
