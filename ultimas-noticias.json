@@ -1,7 +1,39 @@
 {
-  "ultimaAtualizacao": "2026-08-20T01:01:57.210Z",
+  "ultimaAtualizacao": "2026-08-20T02:35:30.703Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Fortaleza sai na frente, mas cede empate ao São Bernardo pela Série B",
+        "desc": "Fortaleza e São Bernardo empataram por 1 a 1 nesta quarta-feira, na Arena Castelão, pela 23ª rodada da Série B do Campeonato Brasileiro. Lucas Sasha colocou o Leão em vantagem no p...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/fortaleza-sai-na-frente-mas-cede-empate-ao-sao-bernardo-pela-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-19-at-21.19.50.webp",
+        "data": "2026-08-20T01:39:44.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Flamengo x Cruzeiro: veja fotos do jogo pela Libertadores",
+        "desc": "O post Flamengo x Cruzeiro: veja fotos do jogo pela Libertadores apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/flamengo/flamengo-x-cruzeiro-veja-fotos-do-jogo-pela-libertadores/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260820__C63823L__v1__HighRes__FblLibertadoresFlamengoCruzeiro.webp",
+        "data": "2026-08-20T01:34:20.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Cuiabá vence Operário, quebra jejum e se aproxima do G6 da Série B",
+        "desc": "O Cuiabá garantiu uma importante vitória nesta quarta-feira ao vencer o Operário por 1 a 0, em jogo válido pela 23ª rodada da Série B do Brasileirão, na Arena Pantanal. Wesley anot...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/cuiaba-vence-operario-quebra-jejum-e-se-aproxima-do-g6-da-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55474418642_969a411a04_o.webp",
+        "data": "2026-08-20T01:28:07.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Abel diz que Palmeiras precisa de &#8220;capacidade de sofrimento&#8221; e valoriza classificação na Libertadores",
+        "desc": "Abel Ferreira valorizou a classificação do Palmeiras na Copa Libertadores após a vitória por 1 a 0 sobre o Cerro Porteño, mas cobrou amadurecimento de sua equipe, exaltando também ...",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/abel-exalta-elenco-do-palmeiras-esforco-cerro-valoriza-classificacao-de-libertadores/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/19082026_cg_palmeiras_destaque_3259_6.webp",
+        "data": "2026-08-20T01:24:02.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "De virada, Avaí vence o Sport e deixa o Z4 da Série B",
         "desc": "Nesta quarta-feira, de virada, o Avaí venceu o Sport por 2 a 1, na Ressacada, em Florianópolis (SC), pela 23ª rodada da Série B do Campeonato Brasileiro e deixou a zona de rebaixam...",
@@ -73,22 +105,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260819__C62R96P__v1__HighRes__FblEspJoanGamperBarcelonaAlAhly.webp",
         "data": "2026-08-19T20:36:03.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Bastidores: o primeiro dia de Lucumí na Juventus",
-        "desc": "Acompanhe o primeiro dia de Jhon Lucumí na Juventus após ser contratado junto ao Bologna.\nO post Bastidores: o primeiro dia de Lucumí na Juventus apareceu primeiro em Gazeta Esport...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/bastidores-o-primeiro-dia-de-lucumi-na-juventus/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/e91i2o5w-1920Lucumi.webp",
-        "data": "2026-08-19T19:31:48.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja galeria de fotos do protesto da torcida do Corinthians na sede do MP-SP",
-        "desc": "O post Veja galeria de fotos do protesto da torcida do Corinthians na sede do MP-SP apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-protesto-da-torcida-do-corinthians-na-sede-do-mp-sp/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/IMG_3940.webp",
-        "data": "2026-08-19T18:33:29.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -98,7 +114,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-20",
-        "data": "2026-08-20T01:01:57.202Z",
+        "data": "2026-08-20T02:35:30.691Z",
         "id": "curado-feminino-0"
       },
       {
@@ -107,7 +123,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-19",
-        "data": "2026-08-19T22:01:57.202Z",
+        "data": "2026-08-19T23:35:30.691Z",
         "id": "curado-feminino-1"
       },
       {
@@ -116,7 +132,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-19",
-        "data": "2026-08-19T19:01:57.202Z",
+        "data": "2026-08-19T20:35:30.691Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -127,8 +143,16 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-20",
-        "data": "2026-08-20T01:01:57.202Z",
+        "data": "2026-08-20T02:35:30.691Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Flaco destaca reação do Palmeiras com vaga na Libertadores e garante: &#8220;Não perdemos a confiança&#8221;",
+        "desc": "O atacante Flaco López valorizou a postura do Palmeiras na vitória que garantiu a classificação às quartas de final da Copa Libertadores, na noite desta quarta-feira, no Estádio Ue...",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/flaco-destaca-reacao-do-palmeiras-com-vaga-na-libertadores-e-garante-nao-perdemos-a-confianca/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260819__C6337WT__v1__MidRes__FblLibertadoresCerroportenoPalmeiras-1.webp",
+        "data": "2026-08-20T01:48:16.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
@@ -136,7 +160,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-19",
-        "data": "2026-08-19T22:01:57.202Z",
+        "data": "2026-08-19T23:35:30.691Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -145,7 +169,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-19",
-        "data": "2026-08-19T19:01:57.202Z",
+        "data": "2026-08-19T20:35:30.691Z",
         "id": "curado-jogadores-2"
       }
     ]
