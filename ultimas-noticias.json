@@ -1,7 +1,31 @@
 {
-  "ultimaAtualizacao": "2026-08-20T18:33:48.157Z",
+  "ultimaAtualizacao": "2026-08-20T19:27:31.727Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Top 5 novos destaques de LaLiga para ficar de olho",
+        "desc": "Top 5 novos destaques de LaLiga para ficar de olho\nO post Top 5 novos destaques de LaLiga para ficar de olho apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/top-5-novos-destaques-de-laliga-para-ficar-de-olho/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/5-nov.webp",
+        "data": "2026-08-20T18:55:52.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Lee Kang-in celebra primeiro gol pelo Atletico de Madrid",
+        "desc": "Lee Kang-in celebra primeiro gol pelo Atletico de Madrid\nO post Lee Kang-in celebra primeiro gol pelo Atletico de Madrid apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/atletico-de-madrid/lee-kang-in-celebra-primeiro-gol-pelo-atletico-de-madrid/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Lee-Kan.webp",
+        "data": "2026-08-20T18:45:24.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Confira os primeiros momentos de Stones na Inter de Milão",
+        "desc": "Confira os primeiros momentos de Stones na Inter de Milão \nO post Confira os primeiros momentos de Stones na Inter de Milão apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/internazionale/confira-os-primeiros-momentos-de-stones-na-inter-de-milao/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Stone.webp",
+        "data": "2026-08-20T18:35:38.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Melhores momentos: Vancouver 0 x 1 Houston Dynamo FC pela MLS",
         "desc": "Melhores momentos: Vancouver 0 x 1 Houston Dynamo FC pela MLS\nO post Melhores momentos: Vancouver 0 x 1 Houston Dynamo FC pela MLS apareceu primeiro em Gazeta Esportiva.",
@@ -169,14 +193,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/X2Twitter.com_HQH0URmXQAAMUCF.webp",
         "data": "2026-08-20T13:25:58.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Ouro olímpico no futebol completa 10 anos: veja fotos da conquista",
-        "desc": "Ouro olímpico no futebol completa 10 anos: veja fotos da conquista\nO post Ouro olímpico no futebol completa 10 anos: veja fotos da conquista apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/fotos/veja-as-fotos-de-brasil-x-alemanha/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/imagem/2016/08/20/000_FF8PO.jpg",
-        "data": "2026-08-20T13:23:42.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -186,7 +202,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-20",
-        "data": "2026-08-20T18:33:48.145Z",
+        "data": "2026-08-20T19:27:31.719Z",
         "id": "curado-feminino-0"
       },
       {
@@ -195,7 +211,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-20",
-        "data": "2026-08-20T15:33:48.145Z",
+        "data": "2026-08-20T16:27:31.719Z",
         "id": "curado-feminino-1"
       },
       {
@@ -204,7 +220,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-20",
-        "data": "2026-08-20T12:33:48.145Z",
+        "data": "2026-08-20T13:27:31.719Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -215,8 +231,16 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-20",
-        "data": "2026-08-20T18:33:48.145Z",
+        "data": "2026-08-20T19:27:31.719Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Arteta lança desafio aos jogadores do Arsenal",
+        "desc": "Arteta lança desafio aos jogadores do Arsenal\nO post Arteta lança desafio aos jogadores do Arsenal apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/arsenal/arteta-lanca-desafio-aos-jogadores-do-arsenal/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2025/12/Arteta-aras.webp",
+        "data": "2026-08-20T19:00:03.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
@@ -224,7 +248,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-20",
-        "data": "2026-08-20T15:33:48.145Z",
+        "data": "2026-08-20T16:27:31.719Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -233,7 +257,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-20",
-        "data": "2026-08-20T12:33:48.145Z",
+        "data": "2026-08-20T13:27:31.719Z",
         "id": "curado-jogadores-2"
       }
     ]
