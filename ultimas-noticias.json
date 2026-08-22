@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-08-22T17:17:26.145Z",
+  "ultimaAtualizacao": "2026-08-22T17:44:25.965Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Veja galeria de fotos do treino do Palmeiras neste sábado",
+        "desc": "O post Veja galeria de fotos do treino do Palmeiras neste sábado apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/veja-galeria-de-fotos-do-treino-do-palmeiras-neste-sabado-4/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/22082026_cg_palmeiras_2786_24.webp",
+        "data": "2026-08-22T17:20:35.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Veja fotos do último treino do São Paulo antes de pegar a Chapecoense",
         "desc": "O post Veja fotos do último treino do São Paulo antes de pegar a Chapecoense apareceu primeiro em Gazeta Esportiva.",
@@ -42,7 +50,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-22",
-        "data": "2026-08-22T17:17:26.137Z",
+        "data": "2026-08-22T17:44:25.958Z",
         "id": "curado-feminino-0"
       },
       {
@@ -51,7 +59,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-22",
-        "data": "2026-08-22T14:17:26.137Z",
+        "data": "2026-08-22T14:44:25.958Z",
         "id": "curado-feminino-1"
       },
       {
@@ -78,7 +86,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-22",
-        "data": "2026-08-22T17:17:26.137Z",
+        "data": "2026-08-22T17:44:25.958Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -95,7 +103,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-22",
-        "data": "2026-08-22T14:17:26.137Z",
+        "data": "2026-08-22T14:44:25.958Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -104,7 +112,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-22",
-        "data": "2026-08-22T11:17:26.137Z",
+        "data": "2026-08-22T11:44:25.958Z",
         "id": "curado-jogadores-2"
       }
     ]
