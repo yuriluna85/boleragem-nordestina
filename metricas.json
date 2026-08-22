@@ -1,36 +1,36 @@
 {
-  "geradoEm": "2026-08-22T15:45:02.439Z",
+  "geradoEm": "2026-08-22T16:18:54.148Z",
   "totais": {
-    "totalGeral": 2480,
+    "totalGeral": 2482,
     "porCategoria": {
-      "masculino": 1686,
+      "masculino": 1687,
       "feminino": 353,
-      "jogadores": 441
+      "jogadores": 442
     }
   },
   "porEstado": {
-    "PE": 1686,
-    "CE": 1838,
-    "BA": 1259,
-    "AL": 1445,
-    "RN": 283,
+    "PE": 1687,
+    "CE": 1839,
+    "BA": 1261,
+    "AL": 1447,
+    "RN": 284,
     "PB": 30,
-    "MA": 1436,
+    "MA": 1437,
     "PI": 181,
-    "SE": 1145
+    "SE": 1147
   },
   "topClubes": [
     {
       "nome": "Sport",
-      "total": 1122
+      "total": 1123
     },
     {
       "nome": "Vitória",
-      "total": 903
+      "total": 904
     },
     {
       "nome": "Bahia",
-      "total": 356
+      "total": 357
     },
     {
       "nome": "Fortaleza",
@@ -44,7 +44,7 @@
   "fontesRanking": [
     {
       "nome": "Gazeta Esportiva",
-      "total": 1728
+      "total": 1729
     },
     {
       "nome": "Bahia Esportes",
@@ -108,7 +108,7 @@
     },
     {
       "nome": "Nordestão FC",
-      "total": 10
+      "total": 11
     },
     {
       "nome": "Diário de Esportes",
