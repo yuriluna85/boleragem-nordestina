@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-08-23T01:07:13.021Z",
+  "ultimaAtualizacao": "2026-08-23T02:43:01.558Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Confira as fotos de Inter Miami x Toronto FC pela MLS",
+        "desc": "O post Confira as fotos de Inter Miami x Toronto FC pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/inter-miami/confira-as-fotos-de-inter-miami-x-toronto-fc-pela-mls/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260823__2291614599__v1__MidRes__InterMiamiCfVTorontoFc.webp",
+        "data": "2026-08-23T01:20:45.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Vitória x Bahia pelo Brasileirão: onde assistir ao vivo, estatísticas, histórico e escalações",
         "desc": "Neste domingo Vitória e Bahia se enfrentam em mais um Ba-VI. As equipes duelam em clássico pela 24 rodada do Campeonato Brasileiro, na Arena da Baixada, a partir das 16h (de Brasíl...",
@@ -153,30 +161,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Al-Ahli-4.webp",
         "data": "2026-08-22T20:12:37.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Al Khaleej 0 x 0 Al Shabab pela Liga Saudita",
-        "desc": "Melhores momentos: Al Khaleej 0 x 0 Al Shabab pela Liga Saudita \nO post Melhores momentos: Al Khaleej 0 x 0 Al Shabab pela Liga Saudita apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-khaleej-0-x-0-al-shabab-pela-liga-saudita/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/1y5rs9ex-1920Khaleej.webp",
-        "data": "2026-08-22T20:10:34.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja galeria de fotos do treino do Corinthians neste sábado",
-        "desc": "O post Veja galeria de fotos do treino do Corinthians neste sábado apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-neste-sabado-11/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/247844.webp",
-        "data": "2026-08-22T20:08:22.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Espanyol x Real Madrid: veja fotos do jogo pela segunda rodada do Espanhol",
-        "desc": "O post Espanyol x Real Madrid: veja fotos do jogo pela segunda rodada do Espanhol apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/campeonatos/laliga/espanyol-x-real-madrid-veja-fotos-do-jogo-pela-segunda-rodada-do-espanhol/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260822__C6AY4DV__v1__HighRes__FblEspLigaEspanyolRealMadrid-1.webp",
-        "data": "2026-08-22T20:07:43.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -186,7 +170,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-23",
-        "data": "2026-08-23T01:07:13.011Z",
+        "data": "2026-08-23T02:43:01.543Z",
         "id": "curado-feminino-0"
       },
       {
@@ -195,7 +179,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-22",
-        "data": "2026-08-22T22:07:13.011Z",
+        "data": "2026-08-22T23:43:01.543Z",
         "id": "curado-feminino-1"
       },
       {
@@ -204,7 +188,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-22",
-        "data": "2026-08-22T19:07:13.011Z",
+        "data": "2026-08-22T20:43:01.543Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -215,7 +199,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-23",
-        "data": "2026-08-23T01:07:13.011Z",
+        "data": "2026-08-23T02:43:01.543Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -224,7 +208,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-22",
-        "data": "2026-08-22T22:07:13.011Z",
+        "data": "2026-08-22T23:43:01.543Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -233,7 +217,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-22",
-        "data": "2026-08-22T19:07:13.011Z",
+        "data": "2026-08-22T20:43:01.543Z",
         "id": "curado-jogadores-2"
       }
     ]
