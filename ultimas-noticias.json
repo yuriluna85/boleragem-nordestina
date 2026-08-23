@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao": "2026-08-23T09:51:27.117Z",
+  "ultimaAtualizacao": "2026-08-23T10:19:31.885Z",
   "dados": {
     "masculino": [
       {
@@ -137,22 +137,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/l5ucs96k-19202-Bayern.webp",
         "data": "2026-08-22T21:00:56.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Fluminense busca virada contra o Remo e garante permanência no G4 do Brasileiro",
-        "desc": "Após sair atrás no placar, o Fluminense buscou a vitória e superou o Remo por 2 a 1 na tarde deste sábado, pela 24ª rodada do Campeonato Brasileiro. Jajá abriu o placar pelos parae...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/fluminense-x-remo-campeonato-brasileiro-22-08-2026/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55481309844_f499601eb7_o.webp",
-        "data": "2026-08-22T20:54:28.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Lyon bate Toulouse fora de casa e estreia com vitória no Francês",
-        "desc": "O Lyon estreou com o pé direito no Francês ao vencer o Toulouse por 2 a 0 neste domingo, fora de casa. Saiba como foi o jogo.\nO post Lyon bate Toulouse fora de casa e estreia com v...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/ligue-1/lyon-bate-toulouse-fora-de-casa-e-estreia-com-vitoria-no-frances/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260822__C6AY768__v1__HighRes__FblFraLigue1ToulouseLyon.webp",
-        "data": "2026-08-22T20:38:27.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -162,7 +146,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-23",
-        "data": "2026-08-23T09:51:27.107Z",
+        "data": "2026-08-23T10:19:31.874Z",
         "id": "curado-feminino-0"
       },
       {
@@ -171,7 +155,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-23",
-        "data": "2026-08-23T06:51:27.107Z",
+        "data": "2026-08-23T07:19:31.875Z",
         "id": "curado-feminino-1"
       },
       {
@@ -180,7 +164,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-23",
-        "data": "2026-08-23T03:51:27.107Z",
+        "data": "2026-08-23T04:19:31.875Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -191,7 +175,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-23",
-        "data": "2026-08-23T09:51:27.107Z",
+        "data": "2026-08-23T10:19:31.875Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -200,7 +184,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-23",
-        "data": "2026-08-23T06:51:27.107Z",
+        "data": "2026-08-23T07:19:31.875Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -209,7 +193,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-23",
-        "data": "2026-08-23T03:51:27.107Z",
+        "data": "2026-08-23T04:19:31.875Z",
         "id": "curado-jogadores-2"
       }
     ]
