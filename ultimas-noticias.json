@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-08-24T14:37:41.010Z",
+  "ultimaAtualizacao": "2026-08-24T15:35:28.810Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "A primeira vitória de Filipe Luís na Ligue 1",
+        "desc": "O técnico brasileiro conquistou seus primeiros três pontos na Ligue 1 após a vitória do AS Monaco por 1 a 0, fora de casa, sobre o Le Havre.\nO post A primeira vitória de Filipe Luí...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/a-primeira-vitoria-de-filipe-luis-na-ligue-1/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/ffLli4BQ-1920Filipe-Luis.webp",
+        "data": "2026-08-24T14:53:58.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Melhores momentos: Atlanta United 2 x 1 Sporting Kansas City pela MLS",
+        "desc": "Melhores momentos: Atlanta United 2 x 1 Sporting Kansas City pela MLS\nO post Melhores momentos: Atlanta United 2 x 1 Sporting Kansas City pela MLS apareceu primeiro em Gazeta Espor...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-atlanta-united-2-x-1-sporting-kansas-city-pela-mls/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/h45yibov-1920Atlanta.webp",
+        "data": "2026-08-24T14:48:48.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Ba-Vi termina com dois mortos, quatro pessoas feridas e seis presos em Salvador",
         "desc": "A tarde do último domingo foi marcada por violência antes do clássico entre Vitória e Bahia. Confrontos envolvendo torcedores organizados deixaram dois membros da Bamor mortos, qua...",
@@ -49,22 +65,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/HQckuOLXMAAaUmG.webp",
         "data": "2026-08-24T01:23:04.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Maresca destaca impacto de Cherki após vitória no fim sobre o Bournemouth",
-        "desc": "Enzo Maresca falou sobre o impacto crucial da entrada de Rayan Cherki no segundo tempo na dramática vitória por 2 a 1 do Manchester City sobre o Bournemouth pela Premier League.\nO ...",
-        "url": "https://www.gazetaesportiva.com/futebol/futebol-internacional/maresca-destaca-impacto-de-cherki-apos-vitoria-no-fim-sobre-o-bournemouth/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/e9rg67an-1920Maresca.webp",
-        "data": "2026-08-23T23:54:15.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Criciúma é derrotado pelo Fortaleza e pode perder a liderança da Série B",
-        "desc": "O Criciúma foi derrotado por 2 a 0 pelo Fortaleza neste domingo (23), pela 24ª rodada da Série B do Campeonato Brasileiro, no Estádio Heriberto Hulse. Os gols da equipe cearense fo...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-x-fortaleza-serie-b-rodada-24/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/FOR-X-CRI-7-768x512-1.webp",
-        "data": "2026-08-23T23:33:42.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -74,7 +74,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-24",
-        "data": "2026-08-24T14:37:41.000Z",
+        "data": "2026-08-24T15:35:28.796Z",
         "id": "curado-feminino-0"
       },
       {
@@ -83,7 +83,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-24",
-        "data": "2026-08-24T11:37:41.000Z",
+        "data": "2026-08-24T12:35:28.796Z",
         "id": "curado-feminino-1"
       },
       {
@@ -92,7 +92,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-24",
-        "data": "2026-08-24T08:37:41.000Z",
+        "data": "2026-08-24T09:35:28.796Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -103,7 +103,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-24",
-        "data": "2026-08-24T14:37:41.000Z",
+        "data": "2026-08-24T15:35:28.796Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -112,7 +112,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-24",
-        "data": "2026-08-24T11:37:41.000Z",
+        "data": "2026-08-24T12:35:28.796Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -121,7 +121,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-24",
-        "data": "2026-08-24T08:37:41.000Z",
+        "data": "2026-08-24T09:35:28.796Z",
         "id": "curado-jogadores-2"
       },
       {
