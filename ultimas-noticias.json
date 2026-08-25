@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-08-25T17:56:53.830Z",
+  "ultimaAtualizacao": "2026-08-25T18:40:20.575Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Melhores momentos: Al Taawoun 0 x 0 Al Fayha pelo Saudita",
+        "desc": "Melhores momentos: Al Taawoun 0 x 0 Al Fayha pelo Saudita\nO post Melhores momentos: Al Taawoun 0 x 0 Al Fayha pelo Saudita apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-taawoun-0-x-0-al-fayha-pelo-saudita/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/4mghxep9-1920-Taawoun.webp",
+        "data": "2026-08-25T18:30:54.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Melhores momentos: Abha 1 x 1 Al Khaleej pelo Saudita",
+        "desc": "Melhores momentos: Abha 1 x 1 Al Khaleej pelo Saudita \nO post Melhores momentos: Abha 1 x 1 Al Khaleej pelo Saudita apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-abha-1-x-1-al-khaleej-pelo-saudita/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/1y6b629o-1920Khaleej.webp",
+        "data": "2026-08-25T18:28:40.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Confira as melhores defesas da semana da MLS",
         "desc": "Confira as melhores defesas da semana da MLS\nO post Confira as melhores defesas da semana da MLS apareceu primeiro em Gazeta Esportiva.",
@@ -73,38 +89,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55486351424_f248bb03d1_o.webp",
         "data": "2026-08-25T00:28:34.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Bastidores da goleada do Palmeiras sobre o Vasco pelo Brasileirão",
-        "desc": "Confira todos os detalhes da vitória do Verdão por 4 a 1 em partida válida pelo returno do Campeonato Brasileiro no Nubank Parque.\nO post Bastidores da goleada do Palmeiras sobre o...",
-        "url": "https://www.gazetaesportiva.com/dugout/bastidores-da-goleada-do-palmeiras-sobre-o-vasco-pelo-brasileirao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/23082026_cg_palmeiras_4998_81.webp",
-        "data": "2026-08-24T23:57:07.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Confira as fotos de Botafogo x Athletico-PR pelo Brasileirão",
-        "desc": "O post Confira as fotos de Botafogo x Athletico-PR pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/botafogo/confira-as-fotos-de-botafogo-x-athletico-pr-pelo-brasileirao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55485172682_1d1188b022_k.webp",
-        "data": "2026-08-24T23:48:44.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Juventude x CRB pela Série B: onde assistir, horário e prováveis escalações",
-        "desc": "Juventude e CRB se enfrentam nesta terça-feira, às 19h30 (de Brasília), no Estádio Alfredo Jaconi, pela 24ª rodada da Série B do Campeonato Brasileiro. O time gaúcho chega embalado...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/juventude-x-crb-pela-serie-b-onde-assistir-horario-e-provaveis-escalacoes/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/HQDTNpvXoAAJYGc.webp",
-        "data": "2026-08-24T23:00:19.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "São Paulo x Bahia: saiba onde assistir ao jogo pelo Brasileiro sub-17",
-        "desc": "Saiba as opções para assistir ao jogo entre São Paulo e Bahia nesta terça-feira, às 15h, em Cotia, pela 13ª rodada do Brasileiro sub-17.\nO post São Paulo x Bahia: saiba onde assist...",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-x-bahia-saiba-onde-assistir-ao-jogo-pelo-brasileiro-sub-17/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/mig8182-1152x1536-1.webp",
-        "data": "2026-08-24T23:00:15.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -114,7 +98,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-25",
-        "data": "2026-08-25T17:56:53.815Z",
+        "data": "2026-08-25T18:40:20.565Z",
         "id": "curado-feminino-0"
       },
       {
@@ -123,7 +107,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-25",
-        "data": "2026-08-25T14:56:53.815Z",
+        "data": "2026-08-25T15:40:20.565Z",
         "id": "curado-feminino-1"
       },
       {
@@ -132,7 +116,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-25",
-        "data": "2026-08-25T11:56:53.815Z",
+        "data": "2026-08-25T12:40:20.565Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -143,7 +127,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-25",
-        "data": "2026-08-25T17:56:53.815Z",
+        "data": "2026-08-25T18:40:20.565Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -152,7 +136,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-25",
-        "data": "2026-08-25T14:56:53.815Z",
+        "data": "2026-08-25T15:40:20.565Z",
         "id": "curado-jogadores-1"
       },
       {
