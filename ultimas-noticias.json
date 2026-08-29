@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-08-29T08:06:40.185Z",
+  "ultimaAtualizacao": "2026-08-29T13:55:14.789Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Veja fotos de Liverpool x Nottingham Forest pelo Campeonato Inglês",
+        "desc": "O post Veja fotos de Liverpool x Nottingham Forest pelo Campeonato Inglês apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/fotos/veja-fotos-de-liverpool-x-nottingham-forest-pelo-campeonato-ingles-2/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260829__C6T96QA__v2__HighRes__FblEngPrLiverpoolNottinghamForest.webp",
+        "data": "2026-08-29T13:17:27.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Com um a mais, Náutico vira sobre o Athletic no fim e se afasta do Z4 da Série B",
         "desc": "O Náutico derrotou o Athletic por 2 a 1 nesta sexta-feira, nos Aflitos, pela 24ª rodada da Série B do Campeonato Brasileiro. Dixon Vera abriu o placar para os mineiros, mas Derek e...",
@@ -113,30 +121,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/52fb5ef8-8ce3-4e70-bddc-21acb81605963.webp",
         "data": "2026-08-28T21:04:39.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do treino do Palmeiras desta sexta-feira",
-        "desc": "Veja fotos do treino do Palmeiras realizado nesta sexta-feira.\nO post Veja fotos do treino do Palmeiras desta sexta-feira apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-treino-do-palmeiras-desta-sexta-feira-43/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/28082026_cg_palmeiras_6252_1.webp",
-        "data": "2026-08-28T21:03:16.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Vasco lança terceira camisa &#8216;nascida do vento&#8217;; confira",
-        "desc": "Vasco lança terceira camisa 'nascida do vento'; confira\nO post Vasco lança terceira camisa &#8216;nascida do vento&#8217;; confira apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/vasco/vasco-lanca-terceira-camisa-nascida-do-vento-confira/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/cami.webp",
-        "data": "2026-08-28T21:01:34.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Gonçalo Ramos marca, Milan vence Venezia e dorme na liderança do Italiano",
-        "desc": "Confira os detalhes da vitória do Milan sobre o Venezia, em duelo válido pela segunda rodada do Campeonato Italiano.\nO post Gonçalo Ramos marca, Milan vence Venezia e dorme na lide...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/serie-a/goncalo-ramos-marca-milan-vence-venezia-e-dorme-na-lideranca-do-italiano/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260828__C6RK3CP__v1__MidRes__FblItaSerieaMilanVenezia.webp",
-        "data": "2026-08-28T20:54:42.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -146,7 +130,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-08-29",
-        "data": "2026-08-29T08:06:40.173Z",
+        "data": "2026-08-29T13:55:14.776Z",
         "id": "curado-feminino-0"
       },
       {
@@ -155,7 +139,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-08-29",
-        "data": "2026-08-29T05:06:40.173Z",
+        "data": "2026-08-29T10:55:14.776Z",
         "id": "curado-feminino-1"
       },
       {
@@ -164,7 +148,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-08-29",
-        "data": "2026-08-29T02:06:40.173Z",
+        "data": "2026-08-29T07:55:14.776Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -175,7 +159,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-08-29",
-        "data": "2026-08-29T08:06:40.173Z",
+        "data": "2026-08-29T13:55:14.776Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -184,7 +168,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-08-29",
-        "data": "2026-08-29T05:06:40.173Z",
+        "data": "2026-08-29T10:55:14.776Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -193,7 +177,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-08-29",
-        "data": "2026-08-29T02:06:40.173Z",
+        "data": "2026-08-29T07:55:14.776Z",
         "id": "curado-jogadores-2"
       }
     ]
