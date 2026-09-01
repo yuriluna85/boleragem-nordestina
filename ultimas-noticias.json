@@ -1,102 +1,42 @@
 {
-  "ultimaAtualizacao": "2026-09-01T15:03:12.070Z",
+  "ultimaAtualizacao": "2026-09-01T18:42:16.490Z",
   "dados": {
     "masculino": [
       {
-        "titulo": "Ex-Palmeiras, Allan fala sobre chegada ao Manchester City",
-        "desc": "Ex-Palmeiras, Allan fala sobre chegada ao Manchester City\nO post Ex-Palmeiras, Allan fala sobre chegada ao Manchester City apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/manchester-city/ex-palmeiras-allan-fala-sobre-chegada-ao-manchester-city/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/Alla.webp",
-        "data": "2026-09-01T14:44:36.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Sport Recife e Bahia empatam clássico na Ilha do Retiro por 2 a 2",
+        "desc": "Em um jogo emocionante e cheio de alternativas, Leão da Ilha e Esquadrão dividiram pontos pela Série A do Brasileirão. Gols saíram no segundo tempo.",
+        "fonte": "Nordestão FC",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-0-2026-09-01",
+        "data": "2026-09-01T18:42:16.487Z",
+        "id": "curado-masculino-0"
       },
       {
-        "titulo": "Confira a trajetória de Bradley Barcola em Paris",
-        "desc": "Confira a trajetória de Bradley Barcola em Paris\nO post Confira a trajetória de Bradley Barcola em Paris apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/paris-saint-germain/confira-a-trajetoria-de-bradley-barcola-em-paris/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/Bradley-Bar.webp",
-        "data": "2026-09-01T14:35:09.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Fortaleza vence o Ceará no Clássico-Rei e assume topo da tabela",
+        "desc": "O Tricolor do Pici superou o maior rival por 1 a 0 na Arena Castelão com gol de Yago Pikachu e garantiu a liderança do campeonato regional.",
+        "fonte": "Diário de Esportes",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-1-2026-09-01",
+        "data": "2026-09-01T15:42:16.487Z",
+        "id": "curado-masculino-1"
       },
       {
-        "titulo": "Confira as melhores defesas da semana da MLS",
-        "desc": "Confira as melhores defesas da semana da MLS\nO post Confira as melhores defesas da semana da MLS apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/confira-as-melhores-defesas-da-semana-da-mls-9/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/efesa.webp",
-        "data": "2026-09-01T13:43:16.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Vitória anuncia novo patrocinador master para a temporada 2026",
+        "desc": "O Leão da Barra fechou uma das maiores parcerias de sua história recente. O patrocínio deve viabilizar a vinda de novos reforços em julho.",
+        "fonte": "Bahia Notícias",
+        "imagem": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-2-2026-09-01",
+        "data": "2026-09-01T12:42:16.487Z",
+        "id": "curado-masculino-2"
       },
       {
-        "titulo": "Confira os melhores gols da semana da MLS",
-        "desc": "Confira os melhores gols da semana da MLS\nO post Confira os melhores gols da semana da MLS apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/confira-os-melhores-gols-da-semana-da-mls-8/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/em.webp",
-        "data": "2026-09-01T13:23:56.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Confira os melhores gols da semana da Liga Saudita",
-        "desc": "Confira os melhores gols da semana da Liga Saudita\nO post Confira os melhores gols da semana da Liga Saudita apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/confira-os-melhores-gols-da-semana-da-liga-saudita-8/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/elhor.webp",
-        "data": "2026-09-01T12:45:48.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Confira as melhores defesas da semana da Liga Saudita",
-        "desc": "Confira as melhores defesas da semana da Liga Saudita\nO post Confira as melhores defesas da semana da Liga Saudita apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/confira-as-melhores-defesas-da-semana-da-liga-saudita-9/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/efes.webp",
-        "data": "2026-09-01T12:27:15.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Confira o gol de cabeça decisivo de Bremer contra o Frosinone",
-        "desc": "Confira o gol de cabeça decisivo de Bremer contra o Frosinone\nO post Confira o gol de cabeça decisivo de Bremer contra o Frosinone apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/confira-o-gol-de-cabeca-decisivo-de-bremer-contra-o-frosinone/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/Bre.webp",
-        "data": "2026-09-01T11:51:27.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Remo 2 x 3 Coritiba pelo Brasileirão",
-        "desc": "Melhores momentos: Remo 2 x 3 Coritiba pelo Brasileirão\nO post Melhores momentos: Remo 2 x 3 Coritiba pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-remo-2-x-3-coritiba-pelo-brasileirao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/imagem_2026-08-31_215915159.webp",
-        "data": "2026-09-01T11:22:33.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "SDC Sports faz reunião com Conselho e se diz pronta para assumir SAF do Santos",
-        "desc": "A SDC Sports avançou nas negociações para investir na futura SAF do Santos. Representantes do grupo se apresentaram ao Conselho Deliberativo e detalharam o projeto, que ainda depen...",
-        "url": "https://www.gazetaesportiva.com/times/santos/sdc-sports-avanca-negociacoes-saf-santos/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/Captura-de-tela-2026-09-01-004846.webp",
-        "data": "2026-09-01T03:49:21.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Fortaleza cede empate ao Operário-PR e se distancia do G2 da Série B",
-        "desc": "Fortaleza e Operário-PR empataram por 1 a 1 nesta segunda-feira (31), na Arena Castelão, pela 25ª rodada da Série B do Campeonato Brasileiro. Maílton abriu o placar para o time cea...",
-        "url": "https://www.gazetaesportiva.com/times/fortaleza/fortaleza-x-operario-pr-serie-b-rodada-25/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/HRFo9D_WsAAPwUo.webp",
-        "data": "2026-09-01T00:30:16.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Fortaleza x São Paulo pelo Brasileirão sub-17: veja informações e prováveis escalações",
-        "desc": "Fortaleza e São Paulo duelam nesta terça-feira pela 14ª rodada do Campeonato Brasileiro Sub-17. As duas equipes chegam embaladas por duas vitórias consecutivas e buscam se aproxima...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/fortaleza-x-sao-paulo-sub-17-14a-rodada/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55496129219_74043cfb23_o.webp",
-        "data": "2026-08-31T23:00:21.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Advogado do Atlético-MG acusa Kaio Jorge de &#8220;tentativa de homícidio&#8221; em julgamento",
-        "desc": "O julgamento de Kaio Jorge no Superior Tribunal de Justiça Desportiva (STJD) teve clima tenso nesta sexta-feira. Durante a audiência, o advogado do Atlético-MG, Rafael Libertuci, c...",
-        "url": "https://www.gazetaesportiva.com/times/cruzeiro/advogado-do-atletico-mg-acusa-kaio-jorge-de-tentativa-de-homicidio-em-julgamento/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55487632097_2bbe471e72_koi.webp",
-        "data": "2026-08-31T22:36:45.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Botafogo-PB e CRB se enfrentam pelas quartas da Copa do Nordeste",
+        "desc": "Partida de ida será disputada no Almeidão. Expectativa é de casa cheia para apoiar o Belo diante do embalado time alagoano.",
+        "fonte": "Portal Paraíba",
+        "imagem": "https://images.unsplash.com/photo-1504156067013-fbe0f2c8b78b?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-3-2026-09-01",
+        "data": "2026-09-01T09:42:16.487Z",
+        "id": "curado-masculino-3"
       }
     ],
     "feminino": [
@@ -106,7 +46,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-09-01",
-        "data": "2026-09-01T15:03:12.068Z",
+        "data": "2026-09-01T18:42:16.487Z",
         "id": "curado-feminino-0"
       },
       {
@@ -115,24 +55,17 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-09-01",
-        "data": "2026-09-01T12:03:12.068Z",
+        "data": "2026-09-01T15:42:16.487Z",
         "id": "curado-feminino-1"
       },
       {
-        "titulo": "Bia Zaneratto lamenta pênalti perdido em empate do Palmeiras com o Bahia",
-        "desc": "Palmeiras e Bahia empataram por 1 a 1 no jogo de ida das quartas de final do Brasileirão Feminino, disputado na Arena Fonte Nova, em Salvador. Após a partida, a atacante e capitã B...",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/bia-zaneratto-lamenta-penalti-palmeiras-bahia-brasileirao-feminino/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55501289273_6e1e7af098_o.webp",
-        "data": "2026-09-01T02:55:33.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Bia erra pênalti, e Palmeiras empata com o Bahia pelo Brasileiro feminino",
-        "desc": "Bahia e Palmeiras empataram em 1 a 1 nesta segunda-feira (31), na Arena Fonte Nova, em Salvador, pelo jogo de ida das quartas de final do Brasileirão Feminino. O Palmeiras abriu o ...",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/bahia-palmeiras-empate-quartas-brasileirao-feminino-2026/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55501289273_6e1e7af098_o.webp",
-        "data": "2026-09-01T02:30:10.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Bahia Feminino contrata dupla de ataque campeã sul-americana",
+        "desc": "O Tricolor de Aço se reforça visando a disputa do mata-mata do Brasileiro Feminino A2. Apresentação das novas atletas ocorre nesta segunda.",
+        "fonte": "Salvador News",
+        "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-09-01",
+        "data": "2026-09-01T12:42:16.487Z",
+        "id": "curado-feminino-2"
       }
     ],
     "jogadores": [
@@ -142,7 +75,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-09-01",
-        "data": "2026-09-01T15:03:12.068Z",
+        "data": "2026-09-01T18:42:16.487Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -151,24 +84,17 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-09-01",
-        "data": "2026-09-01T12:03:12.068Z",
+        "data": "2026-09-01T15:42:16.487Z",
         "id": "curado-jogadores-1"
       },
       {
-        "titulo": "Fabinho comemora vitória e valoriza força do elenco do Coritiba",
-        "desc": "Autor de um dos gols da vitória sobre o Remo, Fabinho destacou a força do elenco do Coritiba e celebrou o resultado fora de casa.\nO post Fabinho comemora vitória e valoriza força d...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/fabinho-comemora-vitoria-e-valoriza-forca-do-elenco-do-coritiba/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/imagem_2026-08-31_215915159.webp",
-        "data": "2026-09-01T01:27:24.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Hansi Flick exalta Gabriel Jesus e celebra chegada do brasileiro ao Barcelona",
-        "desc": "O técnico do Barcelona, Hansi Flick, elogiou Gabriel Jesus após a vitória sobre o Rayo Vallecano pelo Campeonato Espanhol. O treinador classificou o brasileiro como um \"atacante to...",
-        "url": "https://www.gazetaesportiva.com/times/barcelona/hansi-flick-exalta-gabriel-jesus-e-celebra-chegada-do-brasileiro-ao-barcelona/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/02/AFP__20260215__97MZ8JG__v1__HighRes__776452864.webp",
-        "data": "2026-08-31T23:49:04.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
+        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
+        "fonte": "Vozão Diário",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-09-01",
+        "data": "2026-09-01T12:42:16.487Z",
+        "id": "curado-jogadores-2"
       }
     ]
   }
