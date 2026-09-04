@@ -1,7 +1,39 @@
 {
-  "ultimaAtualizacao": "2026-09-03T22:43:03.764Z",
+  "ultimaAtualizacao": "2026-09-04T00:43:27.362Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Veja as fotos de Grêmio x Internacional pela Copa do Brasil",
+        "desc": "O post Veja as fotos de Grêmio x Internacional pela Copa do Brasil apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/veja-as-fotos-de-gremio-x-internacional-pela-copa-do-brasil/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55506859374_c9d02f148a_k.webp",
+        "data": "2026-09-04T00:23:35.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "PSG x Monaco pelo Francês: veja prováveis escalações e onde assistir",
+        "desc": "PSG e Monaco medem forças nesta sexta-feira, no Parque dos Príncipes, pela terceira rodada da Ligue 1. Enquanto os parisienses buscam a primeira vitória na competição após dois emp...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/ligue-1/psg-x-monaco-onde-assistir-campeonato-frances/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260828__C6RK8WU__v1__HighRes__FblFraLigue1LillePsg.webp",
+        "data": "2026-09-03T23:00:59.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "CRB x América-MG pela Série B do Brasileiro: veja prováveis escalações e onde assistir",
+        "desc": "CRB e América-MG se enfrentam nesta sexta-feira, às 21h30 (de Brasília), no Estádio Rei Pelé, em Maceió, pela 26ª rodada da Série B do Campeonato Brasileiro. O time alagoano segue ...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/crb-x-america-mg-onde-assistir-serie-b-26-rodada/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55504691801_edf8e5bfec_o-1.webp",
+        "data": "2026-09-03T23:00:32.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Desportivo Brasil x São Paulo: veja onde assistir ao jogo pelo Paulista sub-20",
+        "desc": "Saiba as opções para assistir ao duelo entre Desportivo Brasil e São Paulo, nesta sexta-feira, pelo Campeonato Paulista sub-20.\nO post Desportivo Brasil x São Paulo: veja onde assi...",
+        "url": "https://www.gazetaesportiva.com/times/sao-paulo/desportivo-brasil-x-sao-paulo-veja-onde-assistir-ao-jogo-pelo-paulista-sub-20/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55477084904_b7f0bb9aa8_k.webp",
+        "data": "2026-09-03T23:00:23.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Corinthians segue preparação para enfrentar a Chapecoense",
         "desc": "O Corinthians segue trabalhando firme no CT Dr. Joaquim Grava em busca da nona vitória do Campeonato Brasileiro; próximo oponente é a Chapecoense, adversária da 26ª rodada do Nacio...",
@@ -57,14 +89,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/624m2o1r-1920Al-Fayha.webp",
         "data": "2026-09-03T18:15:13.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Abel Ferreira analisa momento e diz o que espera de Vitor Roque",
-        "desc": "Abel Ferreira analisa momento e diz o que espera de Vitor Roque\nO post Abel Ferreira analisa momento e diz o que espera de Vitor Roque apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/abel-ferreira-analisa-momento-e-diz-o-que-espera-de-vitor-roque/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Abel-Ferreira-critica-retranca.webp",
-        "data": "2026-09-03T14:36:30.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -73,9 +97,17 @@
         "desc": "As Leoas venceram o clássico com autoridade por 4 a 1 e continuam invictas na competição nacional de futebol feminino.",
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-09-03",
-        "data": "2026-09-03T22:43:03.761Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-09-04",
+        "data": "2026-09-04T00:43:27.359Z",
         "id": "curado-feminino-0"
+      },
+      {
+        "titulo": "Palmeiras x Bahia: veja onde assistir e prováveis escalações do jogo pelo Brasileirão feminino",
+        "desc": "Palmeiras e Bahia se enfrentam nesta sexta-feira (4), às 21h30, na Arena Crefisa Barueri, pelo jogo de volta das quartas de final do Brasileirão Feminino 2026. Após o empate por 1 ...",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-bahia-onde-assistir-quartas-brasileirao-feminino-2026/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55501138371_1e5e7ea028_o.webp",
+        "data": "2026-09-03T23:00:18.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Sport Feminino atrai público recorde na Arena de Pernambuco",
@@ -83,7 +115,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-09-03",
-        "data": "2026-09-03T19:43:03.761Z",
+        "data": "2026-09-03T21:43:27.359Z",
         "id": "curado-feminino-1"
       },
       {
@@ -92,7 +124,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-09-03",
-        "data": "2026-09-03T16:43:03.761Z",
+        "data": "2026-09-03T18:43:27.359Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -102,9 +134,18 @@
         "desc": "O veterano meia do Bahia comandou a vitória tricolor com passes decisivos e um belíssimo gol de fora da área, aplaudido de pé.",
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-09-03",
-        "data": "2026-09-03T22:43:03.761Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-09-04",
+        "data": "2026-09-04T00:43:27.359Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
+        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
+        "fonte": "Diário do Ceará",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-09-03",
+        "data": "2026-09-03T21:43:27.359Z",
+        "id": "curado-jogadores-1"
       },
       {
         "titulo": "Lille de Davide Ancelotti vence mais uma e dorme na liderança do Campeonato Francês",
@@ -115,21 +156,12 @@
         "fonte": "Gazeta Esportiva"
       },
       {
-        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
-        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
-        "fonte": "Diário do Ceará",
-        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-09-03",
-        "data": "2026-09-03T19:43:03.761Z",
-        "id": "curado-jogadores-1"
-      },
-      {
         "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
         "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-09-03",
-        "data": "2026-09-03T16:43:03.761Z",
+        "data": "2026-09-03T18:43:27.359Z",
         "id": "curado-jogadores-2"
       }
     ]
