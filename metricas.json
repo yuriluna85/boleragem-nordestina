@@ -1,23 +1,23 @@
 {
-  "geradoEm": "2026-09-05T08:47:08.407Z",
+  "geradoEm": "2026-09-05T12:20:19.205Z",
   "totais": {
-    "totalGeral": 2958,
+    "totalGeral": 2959,
     "porCategoria": {
-      "masculino": 2054,
+      "masculino": 2055,
       "feminino": 400,
       "jogadores": 504
     }
   },
   "porEstado": {
-    "PE": 2054,
+    "PE": 2055,
     "CE": 2179,
-    "BA": 1492,
-    "AL": 1728,
+    "BA": 1493,
+    "AL": 1729,
     "RN": 328,
-    "PB": 35,
+    "PB": 36,
     "MA": 1656,
     "PI": 216,
-    "SE": 1368
+    "SE": 1369
   },
   "topClubes": [
     {
@@ -71,12 +71,12 @@
       "total": 88
     },
     {
-      "nome": "Ceará Notícias",
+      "nome": "Portal Paraíba",
       "total": 27
     },
     {
-      "nome": "Portal Paraíba",
-      "total": 26
+      "nome": "Ceará Notícias",
+      "total": 27
     },
     {
       "nome": "Salvador Esportes",
