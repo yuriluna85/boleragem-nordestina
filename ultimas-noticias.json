@@ -1,142 +1,42 @@
 {
-  "ultimaAtualizacao": "2026-09-05T00:16:14.109Z",
+  "ultimaAtualizacao": "2026-09-05T04:47:13.860Z",
   "dados": {
     "masculino": [
       {
-        "titulo": "Veja galeria de fotos do treino do São Paulo nesta sexta-feira",
-        "desc": "O post Veja galeria de fotos do treino do São Paulo nesta sexta-feira apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/veja-galeria-de-fotos-do-treino-do-sao-paulo-nesta-sexta-feira-9/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55508865955_1dcd28aea8_o.webp",
-        "data": "2026-09-04T23:50:17.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Sport Recife e Bahia empatam clássico na Ilha do Retiro por 2 a 2",
+        "desc": "Em um jogo emocionante e cheio de alternativas, Leão da Ilha e Esquadrão dividiram pontos pela Série A do Brasileirão. Gols saíram no segundo tempo.",
+        "fonte": "Nordestão FC",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-0-2026-09-05",
+        "data": "2026-09-05T04:47:13.854Z",
+        "id": "curado-masculino-0"
       },
       {
-        "titulo": "Goiás x Fortaleza pela Série B do Brasileiro: veja prováveis escalações e onde assistir",
-        "desc": "Goiás e Fortaleza duelam neste sábado pela 26ª rodada da Série B do Campeonato Brasileiro. O Esmeraldino tenta encostar na zona de acesso, enquanto o Leão do Pici busca se consolid...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/goias-x-fortaleza-onde-assistir-serie-b/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/IMG_0301.webp",
-        "data": "2026-09-04T23:00:53.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Fortaleza vence o Ceará no Clássico-Rei e assume topo da tabela",
+        "desc": "O Tricolor do Pici superou o maior rival por 1 a 0 na Arena Castelão com gol de Yago Pikachu e garantiu a liderança do campeonato regional.",
+        "fonte": "Diário de Esportes",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-1-2026-09-05",
+        "data": "2026-09-05T01:47:13.854Z",
+        "id": "curado-masculino-1"
       },
       {
-        "titulo": "Bragantino x Bahia: onde assistir, horário e prováveis escalações pelo Campeonato Brasileiro",
-        "desc": "Bragantino e Bahia se enfrentam neste sábado, pela 26ª rodada do Campeonato Brasileiro. O Massa Bruta busca se recuperar após a derrota para o São Paulo, enquanto o Tricolor chega ...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/bragantino-x-bahia-onde-assistir/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55155514836_1a70ccc7ca_o.webp",
-        "data": "2026-09-04T23:00:41.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Vitória anuncia novo patrocinador master para a temporada 2026",
+        "desc": "O Leão da Barra fechou uma das maiores parcerias de sua história recente. O patrocínio deve viabilizar a vinda de novos reforços em julho.",
+        "fonte": "Bahia Notícias",
+        "imagem": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-2-2026-09-04",
+        "data": "2026-09-04T22:47:13.854Z",
+        "id": "curado-masculino-2"
       },
       {
-        "titulo": "Ceará x Sport: veja prováveis escalações e onde assistir ao duelo pela Série B",
-        "desc": "Ceará e Sport se enfrentam neste sábado, no Castelão, pela 26ª rodada da Série B do Campeonato Brasileiro. Enquanto o Vozão tenta deixar a zona de rebaixamento, o Leão busca se rec...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/ceara-x-sport-veja-provaveis-escalacoes-e-onde-assistir-ao-duelo-pela-serie-b/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55247845455_495b2501f5_k.webp",
-        "data": "2026-09-04T23:00:14.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Novorizontino x Avaí: onde assistir, horário e prováveis escalações pela Série B",
-        "desc": "Novorizontino e Avaí se enfrentam neste sábado, pela 26ª rodada da Série B do Campeonato Brasileiro. O Tigre chega embalado por três vitórias consecutivas e busca se manter entre o...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/novorizontino-x-avai-serie-b-onde-assistir/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/55478401313_d89fff65ec_o.webp",
-        "data": "2026-09-04T23:00:06.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Em Bragantino x Bahia, Volpi reencontra Ceni na briga por vaga na Libertadores",
-        "desc": "O jogo entre Red Bull Bragantino e Bahia, neste sábado, pelo Brasileirão, terá uma história à parte: o reencontro de Tiago Volpi com Rogério Ceni. A dupla trabalhou junta entre out...",
-        "url": "https://www.gazetaesportiva.com/times/bragantino/em-bragantino-x-bahia-volpi-reencontra-ceni-na-briga-por-vaga-na-libertadores/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55496383868_9a8d35ea64_o.jpg.webp",
-        "data": "2026-09-04T22:28:04.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Al Ahli 5 x 0 Al Riyadh pela Liga Saudita",
-        "desc": "Melhores momentos: Al Ahli 5 x 0 Al Riyadh pela Liga Saudita\nO post Melhores momentos: Al Ahli 5 x 0 Al Riyadh pela Liga Saudita apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-ahli-5-x-0-al-riyadh-pela-liga-saudita/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/Ahl.webp",
-        "data": "2026-09-04T21:40:40.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Al Shabab 0 x 2 Al Hilal pela Liga Saudita",
-        "desc": "Melhores momentos: Al Shabab 0 x 2 Al Hilal pela Liga Saudita\nO post Melhores momentos: Al Shabab 0 x 2 Al Hilal pela Liga Saudita apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-shabab-0-x-2-al-hilal-pela-liga-saudita/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/l-Shab.webp",
-        "data": "2026-09-04T21:31:36.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Sabalenka reclama de cheiro de maconha durante vitória no US Open: “É muito forte”",
-        "desc": "Aryna Sabalenka protagonizou uma situação inusitada durante a terceira rodada do US Open. A número 1 do mundo reclamou do forte cheiro de maconha na quadra Louis Armstrong durante ...",
-        "url": "https://www.gazetaesportiva.com/mais-esportes/tenis/sabalenka-reclama-de-cheiro-de-maconha-durante-vitoria-no-us-open-e-muito-forte/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260904__C7DN86B__v1__MidRes__TennisUsaOpen.webp",
-        "data": "2026-09-04T21:29:08.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Monaco de Filipe Luís vence PSG de virada, mantém os 100% e dispara na liderança da Ligue 1",
-        "desc": "O Monaco de Filipe Luís venceu o Paris Saint-Germain por 2 a 1, de virada, no Parque dos Príncipes, chegou à terceira vitória seguida e se isolou na liderança do Campeonato Francês...",
-        "url": "https://www.gazetaesportiva.com/times/monaco/monaco-de-filipe-luis-vence-psg-de-virada-mantem-os-100-e-dispara-na-lideranca-da-ligue-1/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260904__C7E9483__v1__HighRes__FblFraLigue1PsgMonaco.webp",
-        "data": "2026-09-04T20:59:56.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Abha 0 x 1 Al Ettifaq pela Liga Saudita",
-        "desc": "Melhores momentos: Abha 0 x 1 Al Ettifaq pela Liga Saudita\nO post Melhores momentos: Abha 0 x 1 Al Ettifaq pela Liga Saudita apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-abha-0-x-1-al-ettifaq-pela-liga-saudita/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/Abh.webp",
-        "data": "2026-09-04T20:56:54.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do duelo entre Real Betis e Real Madrid pelo Espanhol",
-        "desc": "O post Veja fotos do duelo entre Real Betis e Real Madrid pelo Espanhol apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/real-madrid/veja-fotos-do-duelo-entre-real-betis-e-real-madrid-pelo-espanhol-2/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260904__C7E77TM__v1__MidRes__FblEspLigaBetisRealMadrid.webp",
-        "data": "2026-09-04T20:42:53.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Stuttgart goleia o Côlonia e conquista primeiros pontos no Campeonato Alemão",
-        "desc": "O Stuttgart bateu o Côlonia por 3 a 1 na MHP Arena, conquistou sua primeira vitória no Campeonato Alemão e somou os primeiros pontos na competição. El Khannous, Prömel e Demirović ...",
-        "url": "https://www.gazetaesportiva.com/stuttgart/stuttgart-goleia-o-colonia-e-conquista-primeiros-pontos-no-campeonato-alemao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260904__C7E694W__v1__HighRes__FblGerBundesligaStuttgartCologne.webp",
-        "data": "2026-09-04T20:28:05.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Arteta rasga elogios a Xabi Alonso antes do clássico londrino",
-        "desc": "Arteta rasga elogios a Xabi Alonso antes do clássico londrino\nO post Arteta rasga elogios a Xabi Alonso antes do clássico londrino apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/arsenal/arteta-rasga-elogios-a-xabi-alonso-antes-do-classico-londrino/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/05/Arteta-ve-retorno.webp",
-        "data": "2026-09-04T20:04:35.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Estádio do Palmeiras é indicado a prêmio de melhor instalação esportiva da América do Sul",
-        "desc": "O estádio do Palmeiras, Nubank Parque, foi indicado ao Prêmio Confut Sudamericana by FutebolCard 2026, que reconhece empresas, projetos e profissionais de destaque na indústria do ...",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/estadio-do-palmeiras-e-indicado-a-premio-de-melhor-instalacao-esportiva-da-america-do-sul/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-04-at-16.15.31.webp",
-        "data": "2026-09-04T19:59:30.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Confira as fotos de Ipswich x Liverpool pelo Inglês",
-        "desc": "O post Confira as fotos de Ipswich x Liverpool pelo Inglês apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/liverpool/confira-as-fotos-de-ipswich-x-liverpool-pelo-ingles/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260904__C7E344N__v1__HighRes__FblEngPrIpswichLiverpool.webp",
-        "data": "2026-09-04T19:55:47.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja galeria de fotos do treino do Corinthians nesta sexta-feira",
-        "desc": "O post Veja galeria de fotos do treino do Corinthians nesta sexta-feira apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-nesta-sexta-feira-20/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/248382.webp",
-        "data": "2026-09-04T19:19:28.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Botafogo-PB e CRB se enfrentam pelas quartas da Copa do Nordeste",
+        "desc": "Partida de ida será disputada no Almeidão. Expectativa é de casa cheia para apoiar o Belo diante do embalado time alagoano.",
+        "fonte": "Portal Paraíba",
+        "imagem": "https://images.unsplash.com/photo-1504156067013-fbe0f2c8b78b?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-3-2026-09-04",
+        "data": "2026-09-04T19:47:13.854Z",
+        "id": "curado-masculino-3"
       }
     ],
     "feminino": [
@@ -146,7 +46,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-09-05",
-        "data": "2026-09-05T00:16:14.106Z",
+        "data": "2026-09-05T04:47:13.855Z",
         "id": "curado-feminino-0"
       },
       {
@@ -154,8 +54,8 @@
         "desc": "Mais de 15 mil torcedores empurraram as Leoas na vitória histórica contra o Bahia. Um novo marco para o esporte feminino no Nordeste.",
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-09-04",
-        "data": "2026-09-04T21:16:14.106Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-09-05",
+        "data": "2026-09-05T01:47:13.855Z",
         "id": "curado-feminino-1"
       },
       {
@@ -164,7 +64,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-09-04",
-        "data": "2026-09-04T18:16:14.106Z",
+        "data": "2026-09-04T22:47:13.855Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -175,24 +75,16 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-09-05",
-        "data": "2026-09-05T00:16:14.106Z",
+        "data": "2026-09-05T04:47:13.855Z",
         "id": "curado-jogadores-0"
-      },
-      {
-        "titulo": "Ex-São Paulo, Gabriel Sara marca golaço de falta e decide vitória do Galatasaray na Turquia",
-        "desc": "Revelado pelo São Paulo, Gabriel Sara voltou a ser decisivo pelo Galatasaray ao marcar o gol da vitória por 3 a 2 sobre o İstanbul Başakşehir, pelo Campeonato Turco. O meia balanço...",
-        "url": "https://www.gazetaesportiva.com/times/galatasaray/gabriel-sara-decide-galatasaray-gol-falta/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/HQ684NwXIAAktzt.webp",
-        "data": "2026-09-04T21:57:00.000Z",
-        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
         "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-09-04",
-        "data": "2026-09-04T21:16:14.106Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-09-05",
+        "data": "2026-09-05T01:47:13.855Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -201,7 +93,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-09-04",
-        "data": "2026-09-04T18:16:14.106Z",
+        "data": "2026-09-04T22:47:13.855Z",
         "id": "curado-jogadores-2"
       }
     ]
