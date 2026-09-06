@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao": "2026-09-06T06:15:59.369Z",
+  "ultimaAtualizacao": "2026-09-06T11:12:11.689Z",
   "dados": {
     "masculino": [
       {
@@ -8,7 +8,7 @@
         "fonte": "Nordestão FC",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-masculino-0-2026-09-06",
-        "data": "2026-09-06T06:15:59.364Z",
+        "data": "2026-09-06T11:12:11.682Z",
         "id": "curado-masculino-0"
       },
       {
@@ -17,7 +17,7 @@
         "fonte": "Diário de Esportes",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-masculino-1-2026-09-06",
-        "data": "2026-09-06T03:15:59.364Z",
+        "data": "2026-09-06T08:12:11.682Z",
         "id": "curado-masculino-1"
       },
       {
@@ -26,7 +26,7 @@
         "fonte": "Bahia Notícias",
         "imagem": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-masculino-2-2026-09-06",
-        "data": "2026-09-06T00:15:59.364Z",
+        "data": "2026-09-06T05:12:11.683Z",
         "id": "curado-masculino-2"
       },
       {
@@ -34,8 +34,8 @@
         "desc": "Partida de ida será disputada no Almeidão. Expectativa é de casa cheia para apoiar o Belo diante do embalado time alagoano.",
         "fonte": "Portal Paraíba",
         "imagem": "https://images.unsplash.com/photo-1504156067013-fbe0f2c8b78b?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-masculino-3-2026-09-05",
-        "data": "2026-09-05T21:15:59.364Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-3-2026-09-06",
+        "data": "2026-09-06T02:12:11.683Z",
         "id": "curado-masculino-3"
       }
     ],
@@ -46,7 +46,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-09-06",
-        "data": "2026-09-06T06:15:59.364Z",
+        "data": "2026-09-06T11:12:11.683Z",
         "id": "curado-feminino-0"
       },
       {
@@ -55,7 +55,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-09-06",
-        "data": "2026-09-06T03:15:59.364Z",
+        "data": "2026-09-06T08:12:11.683Z",
         "id": "curado-feminino-1"
       },
       {
@@ -64,7 +64,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-09-06",
-        "data": "2026-09-06T00:15:59.364Z",
+        "data": "2026-09-06T05:12:11.683Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -75,7 +75,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-09-06",
-        "data": "2026-09-06T06:15:59.364Z",
+        "data": "2026-09-06T11:12:11.683Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -84,7 +84,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-09-06",
-        "data": "2026-09-06T03:15:59.364Z",
+        "data": "2026-09-06T08:12:11.683Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -93,7 +93,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-09-06",
-        "data": "2026-09-06T00:15:59.364Z",
+        "data": "2026-09-06T05:12:11.683Z",
         "id": "curado-jogadores-2"
       }
     ]

@@ -1,23 +1,23 @@
 {
-  "geradoEm": "2026-09-06T06:15:59.439Z",
+  "geradoEm": "2026-09-06T11:12:11.773Z",
   "totais": {
-    "totalGeral": 2998,
+    "totalGeral": 2999,
     "porCategoria": {
-      "masculino": 2084,
+      "masculino": 2085,
       "feminino": 404,
       "jogadores": 510
     }
   },
   "porEstado": {
-    "PE": 2089,
+    "PE": 2090,
     "CE": 2208,
-    "BA": 1515,
-    "AL": 1754,
+    "BA": 1516,
+    "AL": 1755,
     "RN": 332,
-    "PB": 36,
+    "PB": 37,
     "MA": 1671,
     "PI": 219,
-    "SE": 1386
+    "SE": 1387
   },
   "topClubes": [
     {
@@ -72,7 +72,7 @@
     },
     {
       "nome": "Portal Paraíba",
-      "total": 27
+      "total": 28
     },
     {
       "nome": "Ceará Notícias",
