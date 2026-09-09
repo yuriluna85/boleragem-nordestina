@@ -1,7 +1,47 @@
 {
-  "ultimaAtualizacao": "2026-09-09T15:52:13.762Z",
+  "ultimaAtualizacao": "2026-09-09T19:02:51.375Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Com dois de Raphinha e um de Jesus, Barcelona goleia Feyenoord e estreia com vitória na Champions",
+        "desc": "O Barcelona estreou com goleada na fase de liga da Liga dos Campeões ao vencer o Feyenoord por 5 a 1, no Camp Nou. Os destaques da partida foram os brasileiros Raphinha, autor de d...",
+        "url": "https://www.gazetaesportiva.com/times/barcelona/barcelona-feyenoord-liga-dos-campeoes-rodada-1/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260909__C7TZ49Q__v1__HighRes__FblEurC1BarcelonaFeyenoord.webp",
+        "data": "2026-09-09T18:40:25.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Bósnio faz três e Stuttgart vence Viking na estreia da Liga dos Campeões",
+        "desc": "O Stuttgart estreou com vitória na Liga dos Campeões 2026/27 ao vencer o Viking por 3 a 1, nesta quarta-feira, na MHP Arena, na Alemanha. O grande destaque da partida foi o atacant...",
+        "url": "https://www.gazetaesportiva.com/stuttgart/stuttgart-x-viking-liga-dos-campeoes-09-09-26/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260909__C7U28JZ__v1__HighRes.webp",
+        "data": "2026-09-09T16:28:39.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Maresca destaca evolução do Man City em início de temporada perfeito",
+        "desc": "Enzo Maresca destaca a importância de o Manchester City continuar evoluindo jogo após jogo depois da vitória por 2 a 0 sobre o Porto pela Champions League.\nO post Maresca destaca e...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/maresca-destaca-evolucao-do-man-city-em-inicio-de-temporada-perfeito/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/y1b59pvh-1920Maresca.webp",
+        "data": "2026-09-09T16:15:35.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Guirassy e Fabio Silva falam sobre a dupla especial após vitória sobre o Villarreal",
+        "desc": "Serhou Guirassy e Fabio Silva elogiaram as atuações um do outro após a vitória do Borussia Dortmund sobre o Villarreal na estreia da equipe na Champions League.\nO post Guirassy e F...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/guirassy-e-fabio-silva-falam-sobre-a-dupla-especial-apos-vitoria-sobre-o-villarreal/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/yAnHwwFL-1920Guirassy.webp",
+        "data": "2026-09-09T16:13:18.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Montiel e Galván levam alegria aos torcedores na vitória River Plate sobre o Independiente Rivadavia",
+        "desc": "Montiel e Galván levam alegria aos torcedores na vitória River Plate sobre o Independiente Rivadavia\nO post Montiel e Galván levam alegria aos torcedores na vitória River Plate sob...",
+        "url": "https://www.gazetaesportiva.com/times/river-plate/montiel-e-galvan-levam-alegria-aos-torcedores-na-vitoria-river-plate-sobre-o-independiente-rivadavia/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/Montie.webp",
+        "data": "2026-09-09T15:57:48.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Há 56 anos, São Paulo derrotava o Guarani e conquistava o Paulistão",
         "desc": "Há 56 anos, São Paulo derrotava o Guarani e conquistava o Paulistão\nO post Há 56 anos, São Paulo derrotava o Guarani e conquistava o Paulistão apareceu primeiro em Gazeta Esportiva...",
@@ -65,14 +105,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260908__C7Q79TC__v1__HighRes__FblEurC1RealMadridInterMilan.webp",
         "data": "2026-09-09T10:00:55.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Análise: chances perdidas e &#8216;apagão&#8217; no segundo tempo voltam a castigar o São Paulo",
-        "desc": "Confira uma análise da Gazeta Esportiva sobre a atuação do São Paulo na derrota por 1 a 0 para o Boca Juniors na última terça-feira, em La Bombonera, no duelo de ida das quartas da...",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/analise-chances-perdidas-e-apagao-no-segundo-tempo-voltam-a-castigar-o-sao-paulo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260909__C7QJ4YJ__v1__HighRes__FblSudamericanaBocaSaopaulo.webp",
-        "data": "2026-09-09T09:00:37.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -82,8 +114,16 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-09-09",
-        "data": "2026-09-09T15:52:13.756Z",
+        "data": "2026-09-09T19:02:51.369Z",
         "id": "curado-feminino-0"
+      },
+      {
+        "titulo": "CBF define datas, horários e transmissões das semifinais do Brasileirão Feminino",
+        "desc": "A CBF anunciou as datas, horários e transmissões das semifinais do Brasileirão Feminino 2026. Na disputa por duas vagas na decisão estarão Flamengo, São Paulo, Corinthians e Bahia....",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/cbf-define-datas-horarios-e-transmissoes-das-semifinais-do-brasileirao-feminino/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/54786316198_d50c60c04b_b_f404fc0cb4.webp",
+        "data": "2026-09-09T18:03:25.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Sport Feminino atrai público recorde na Arena de Pernambuco",
@@ -91,7 +131,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-09-09",
-        "data": "2026-09-09T12:52:13.756Z",
+        "data": "2026-09-09T16:02:51.369Z",
         "id": "curado-feminino-1"
       },
       {
@@ -100,16 +140,8 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-09-09",
-        "data": "2026-09-09T09:52:13.756Z",
+        "data": "2026-09-09T13:02:51.369Z",
         "id": "curado-feminino-2"
-      },
-      {
-        "titulo": "Brasil domina Venezuela em estreia no Sul-Americano de vôlei feminino",
-        "desc": "A Seleção Brasileira feminina de vôlei estreou com vitória no Sul-Americano de 2026 ao derrotar a Venezuela por 3 sets a 0 no Maracanãzinho, no Rio de Janeiro. Com parciais de 25/1...",
-        "url": "https://www.gazetaesportiva.com/mais-esportes/volei/brasil-vence-venezuela-estreia-sul-americano-volei-feminino-2026/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/DSC_01732_b6d0ed2f00.webp",
-        "data": "2026-09-09T03:03:47.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "jogadores": [
@@ -119,8 +151,17 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-09-09",
-        "data": "2026-09-09T15:52:13.756Z",
+        "data": "2026-09-09T19:02:51.369Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
+        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
+        "fonte": "Diário do Ceará",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-09-09",
+        "data": "2026-09-09T16:02:51.369Z",
+        "id": "curado-jogadores-1"
       },
       {
         "titulo": "Novo reforço do City, Bouaddi exalta Haaland após atacante marcar dois gols no Porto",
@@ -137,15 +178,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/lvar.webp",
         "data": "2026-09-09T15:06:07.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
-        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
-        "fonte": "Diário do Ceará",
-        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-09-09",
-        "data": "2026-09-09T12:52:13.756Z",
-        "id": "curado-jogadores-1"
       }
     ]
   }
