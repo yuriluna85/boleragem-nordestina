@@ -1,166 +1,42 @@
 {
-  "ultimaAtualizacao": "2026-09-13T10:27:57.739Z",
+  "ultimaAtualizacao": "2026-09-13T14:35:38.858Z",
   "dados": {
     "masculino": [
       {
-        "titulo": "Atuações do Santos: Cebolinha se destaca em estreia e Bontempo brilha",
-        "desc": "As atuações individuais foram determinantes para a vitória do Santos por 2 a 1 sobre o Cruzeiro na Vila Belmiro. Na estreia pelo Peixe, Everton Cebolinha foi o principal nome ofens...",
-        "url": "https://www.gazetaesportiva.com/times/santos/atuacoes-santos-cruzeiro-cebolinha-bontempo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55524839781_79cbd7b235_o.webp",
-        "data": "2026-09-13T10:00:52.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Sport Recife e Bahia empatam clássico na Ilha do Retiro por 2 a 2",
+        "desc": "Em um jogo emocionante e cheio de alternativas, Leão da Ilha e Esquadrão dividiram pontos pela Série A do Brasileirão. Gols saíram no segundo tempo.",
+        "fonte": "Nordestão FC",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-0-2026-09-13",
+        "data": "2026-09-13T14:35:38.851Z",
+        "id": "curado-masculino-0"
       },
       {
-        "titulo": "Atuações do Palmeiras: veja quem foi bem e quem foi mal na vitória sobre o São Paulo",
-        "desc": "O Palmeiras venceu o São Paulo por 2 a 0 na noite deste sábado, no Nubank Parque, pela 27ª rodada do Campeonato Brasileiro, e retomou a liderança da competição. Com o adversário jo...",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/atuacoes-do-palmeiras-veja-quem-foi-bem-e-quem-foi-mal-na-vitoria-sobre-o-sao-paulo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/12092026_cg_palmeiras_0325_37.webp",
-        "data": "2026-09-13T10:00:43.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Fortaleza vence o Ceará no Clássico-Rei e assume topo da tabela",
+        "desc": "O Tricolor do Pici superou o maior rival por 1 a 0 na Arena Castelão com gol de Yago Pikachu e garantiu a liderança do campeonato regional.",
+        "fonte": "Diário de Esportes",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-1-2026-09-13",
+        "data": "2026-09-13T11:35:38.851Z",
+        "id": "curado-masculino-1"
       },
       {
-        "titulo": "Clássico na Série B marca aposentadoria do árbitro Marcelo de Lima Henrique",
-        "desc": "O clássico deste domingo (13) entre Fortaleza e Ceará, válido pela 28ª rodada da Série B do Campeonato Brasileiro, marcará o fim da trajetória de Marcelo de Lima Henrique como árbi...",
-        "url": "https://www.gazetaesportiva.com/futebol/classico-na-serie-b-marca-aposentadoria-do-arbitro-marcelo-de-lima-henrique/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2025/05/53835803411_b489739148_c.webp",
-        "data": "2026-09-13T10:00:20.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Vitória anuncia novo patrocinador master para a temporada 2026",
+        "desc": "O Leão da Barra fechou uma das maiores parcerias de sua história recente. O patrocínio deve viabilizar a vinda de novos reforços em julho.",
+        "fonte": "Bahia Notícias",
+        "imagem": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-2-2026-09-13",
+        "data": "2026-09-13T08:35:38.851Z",
+        "id": "curado-masculino-2"
       },
       {
-        "titulo": "Cebolinha celebra vitória contra o Cruzeiro em estreia pelo Santos",
-        "desc": "O Santos venceu o Cruzeiro por 2 a 0 na Vila Belmiro, pela 27ª rodada do Campeonato Brasileiro, e manteve sua boa fase na competição. Após a partida, Everton Cebolinha comemorou a ...",
-        "url": "https://www.gazetaesportiva.com/times/santos/everton-cebolinha-celebra-vitoria-estreia-santos-cruzeiro/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/HSDrs9lWEAA66Zi.webp",
-        "data": "2026-09-13T02:22:28.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Pedro Emanuel destaca importância de virada e vitória fora de casa pelo Brasileirão",
-        "desc": "Pedro Emanuel destaca importância de virada e vitória fora de casa pelo Brasileirão\nO post Pedro Emanuel destaca importância de virada e vitória fora de casa pelo Brasileirão apare...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/pedro-emanuel-destaca-importancia-de-virada-e-vitoria-fora-de-casa-pelo-brasileirao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/08/Pedro-Emanuel-valoriza.webp",
-        "data": "2026-09-13T02:01:43.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Santos bate Cruzeiro na Vila e engata terceira vitória seguida no Brasileiro",
-        "desc": "O Santos venceu o Cruzeiro por 2 a 1 neste sábado, na Vila Belmiro, pela 27ª rodada do Campeonato Brasileiro. A equipe comandada por Cuca construiu a vitória ainda no primeiro temp...",
-        "url": "https://www.gazetaesportiva.com/times/santos/santos-cruzeiro-brasileirao-2026-rodada-27/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/HSDr3viXAAUZVDg.webp",
-        "data": "2026-09-13T02:00:48.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Barba Domínguez comenta falas de Neymar e situação de Cuello",
-        "desc": "Barba Domínguez comenta falas de Neymar e situação de Cuello\nO post Barba Domínguez comenta falas de Neymar e situação de Cuello apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/barba-dominguez-comenta-falas-de-neymar-e-situacao-de-cuello/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/Eduardo-Dominguez.webp",
-        "data": "2026-09-13T01:41:03.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Xabi Alonso: &#8220;Se você for mole, será punido&#8221;",
-        "desc": "Xabi Alonso: \"Se você for mole, será punido\"\nO post Xabi Alonso: &#8220;Se você for mole, será punido&#8221; apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/chelsea/xabi-alonso-se-voce-for-mole-sera-punido/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/Xabi-Al.webp",
-        "data": "2026-09-13T01:29:47.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Auxiliar de Abel valoriza vitória, mas aponta problema de &#8220;eficácia&#8221; no Palmeiras",
-        "desc": "O Palmeiras venceu o São Paulo por 2 a 0 neste sábado e reassumiu a liderança do Campeonato Brasileiro. Com Abel Ferreira suspenso, o auxiliar João Martins comandou a equipe e valo...",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/auxiliar-de-abel-valoriza-vitoria-mas-aponta-problema-de-eficacia-no-palmeiras/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/12092026_cg_palmeiras_destaque_0200_8.webp",
-        "data": "2026-09-13T00:49:34.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Santa Cruz bate Maringá com gol no fim e lidera Grupo B da Série C",
-        "desc": "O Santa Cruz visitou o Maringá neste sábado e venceu por 1 a 0, graças a um gol nos acréscimos do segundo tempo. A partida foi válida pela segunda rodada do Grupo B da segunda fase...",
-        "url": "https://www.gazetaesportiva.com/futebol/santa-cruz-bate-maringa-com-gol-no-fim-e-lidera-grupo-b-da-serie-c/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/santacruz.webp",
-        "data": "2026-09-13T00:38:13.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Palmeiras 2 x 0 São Paulo pelo Brasileirão",
-        "desc": "Melhores momentos: Palmeiras 2 x 0 São Paulo pelo Brasileirão\nO post Melhores momentos: Palmeiras 2 x 0 São Paulo pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-palmeiras-2-x-0-sao-paulo-pelo-brasileirao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/12092026_cg_palmeiras_destaque_0754_36.webp",
-        "data": "2026-09-12T23:58:47.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Vitor Roque se vê recuperando confiança após lesões e celebra gol em vitória do Palmeiras",
-        "desc": "Após cinco jogos sem balançar as redes, Vitor Roque enfim voltou a marcar. Na noite deste sábado, o Palmeiras venceu o São Paulo por 2 a 0, e o camisa 9 foi o responsável por marca...",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/vitor-roque-se-ve-recuperando-confianca-apos-lesoes-e-celebra-gol-em-vitoria-do-palmeiras/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/12092026_cg_palmeiras_destaque_0828_41.webp",
-        "data": "2026-09-12T23:58:22.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Corinthians encerra preparação em São Paulo antes da viagem ao Rio",
-        "desc": "Corinthians encerra preparação em São Paulo antes da viagem ao Rio\nO post Corinthians encerra preparação em São Paulo antes da viagem ao Rio apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-encerra-preparacao-em-sao-paulo-antes-da-viagem-ao-rio/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/248715.webp",
-        "data": "2026-09-12T23:49:00.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Primeiros trabalhos de Ziyech no Nilton Santos",
-        "desc": "Primeiros trabalhos de Ziyech no Nilton Santos\nO post Primeiros trabalhos de Ziyech no Nilton Santos apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/botafogo/primeiros-trabalhos-de-ziyech-no-nilton-santos/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/Ziye.webp",
-        "data": "2026-09-12T23:28:56.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Al Khaleej 1 x 1 Al Nassr pela Liga Saudita",
-        "desc": "Melhores momentos: Al Khaleej 1 x 1 Al Nassr pela Liga Saudita\nO post Melhores momentos: Al Khaleej 1 x 1 Al Nassr pela Liga Saudita apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-khaleej-1-x-1-al-nassr-pela-liga-saudita/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/Kha.webp",
-        "data": "2026-09-12T23:08:30.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Mirassol x Vitória: saiba onde assistir ao duelo pela 27ª rodada do Brasileirão",
-        "desc": "Neste domingo, pela 27ª rodada do Campeonato Brasileiro, Mirassol e Vitória se enfrentam no Estádio Municipal José Maria de Campos Maia, o Maião, no interior paulista. A bola rola ...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/mirassol-x-vitoria-saiba-onde-assistir-ao-duelo-pela-27a-rodada-do-brasileirao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2025/11/54681727900_fc6d28a17a_o-1.webp",
-        "data": "2026-09-12T23:00:48.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Fortaleza x Ceará: prováveis escalações e onde assistir ao jogo pela Série B",
-        "desc": "Fortaleza e Ceará se enfrentam neste domingo, pela 28ª rodada do Campeonato Brasileiro Série B. A partida será disputada às 18h30 (de Brasília), na Arena Castelão, em Fortaleza.\nO ...",
-        "url": "https://www.gazetaesportiva.com/times/fortaleza/fortaleza-x-ceara-provaveis-escalacoes-e-onde-assistir-ao-jogo-pela-serie-b/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/IMG_5376-2048x1365.jpeg.webp",
-        "data": "2026-09-12T23:00:24.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Chapecoense 1 x 2 Internacional pela Brasileirão",
-        "desc": "Melhores momentos: Chapecoense 1 x 2 Internacional pela Brasileirão\nO post Melhores momentos: Chapecoense 1 x 2 Internacional pela Brasileirão apareceu primeiro em Gazeta Esportiva...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-chapecoense-1-x-2-internacional-pela-brasileirao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55524253901_9c3a0cce67_k.webp",
-        "data": "2026-09-12T22:46:30.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Al Shabab 0 x 0 Al Fayha pela Liga Saudita",
-        "desc": "Melhores momentos: Al Shabab 0 x 0 Al Fayha pela Liga Saudita\nO post Melhores momentos: Al Shabab 0 x 0 Al Fayha pela Liga Saudita apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-shabab-0-x-0-al-fayha-pela-liga-saudita/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/Al-Shab.webp",
-        "data": "2026-09-12T22:03:11.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Martinelli desencanta com hat-trick em goleada do Al-Hilal; confira",
-        "desc": "Martinelli desencanta com hat-trick em goleada do Al-Hilal; confira \nO post Martinelli desencanta com hat-trick em goleada do Al-Hilal; confira apareceu primeiro em Gazeta Esportiv...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/martinelli-desencanta-com-hat-trick-em-goleada-do-al-hilal-confira/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/descan.webp",
-        "data": "2026-09-12T21:30:10.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Botafogo-PB e CRB se enfrentam pelas quartas da Copa do Nordeste",
+        "desc": "Partida de ida será disputada no Almeidão. Expectativa é de casa cheia para apoiar o Belo diante do embalado time alagoano.",
+        "fonte": "Portal Paraíba",
+        "imagem": "https://images.unsplash.com/photo-1504156067013-fbe0f2c8b78b?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-3-2026-09-13",
+        "data": "2026-09-13T05:35:38.851Z",
+        "id": "curado-masculino-3"
       }
     ],
     "feminino": [
@@ -170,7 +46,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-09-13",
-        "data": "2026-09-13T10:27:57.732Z",
+        "data": "2026-09-13T14:35:38.851Z",
         "id": "curado-feminino-0"
       },
       {
@@ -179,7 +55,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-09-13",
-        "data": "2026-09-13T07:27:57.732Z",
+        "data": "2026-09-13T11:35:38.851Z",
         "id": "curado-feminino-1"
       },
       {
@@ -188,7 +64,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-09-13",
-        "data": "2026-09-13T04:27:57.732Z",
+        "data": "2026-09-13T08:35:38.851Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -199,7 +75,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-09-13",
-        "data": "2026-09-13T10:27:57.732Z",
+        "data": "2026-09-13T14:35:38.851Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -208,24 +84,17 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-09-13",
-        "data": "2026-09-13T07:27:57.732Z",
+        "data": "2026-09-13T11:35:38.851Z",
         "id": "curado-jogadores-1"
       },
       {
-        "titulo": "Cuca elogia atuação do Santos e confirma que Coutinho já integra o elenco",
-        "desc": "Após a vitória do Santos por 2 a 1 sobre o Cruzeiro, na Vila Belmiro, pela 27ª rodada do Campeonato Brasileiro, o técnico Cuca exaltou a atuação da equipe, destacando a versatilida...",
-        "url": "https://www.gazetaesportiva.com/times/santos/cuca-elogia-santos-e-confirma-philippe-coutinho/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/5a56302f-aa62-4244-ad7e-c318c89deb911.webp",
-        "data": "2026-09-13T03:38:52.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Carbonero celebra fim de jejum do Inter no Brasileirão e exalta união após vitória",
-        "desc": "O atacante Carbonero valorizou a vitória do Internacional por 2 a 1 sobre a Chapecoense, neste sábado, pela 27ª rodada do Campeonato Brasileiro. Autor do gol que garantiu o triunfo...",
-        "url": "https://www.gazetaesportiva.com/times/internacional/carbonero-celebra-fim-de-jejum-do-inter-no-brasileirao-e-exalta-uniao-apos-vitoria/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-12-at-18.52.06.webp",
-        "data": "2026-09-12T22:48:38.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
+        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
+        "fonte": "Vozão Diário",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-09-13",
+        "data": "2026-09-13T08:35:38.851Z",
+        "id": "curado-jogadores-2"
       }
     ]
   }
