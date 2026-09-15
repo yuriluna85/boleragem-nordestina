@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-09-15T09:10:23.996Z",
+  "ultimaAtualizacao": "2026-09-15T14:23:50.756Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Remo anuncia saída de Léo Condé após derrota para o Bahia",
+        "desc": "O Remo anunciou a saída do técnico Léo Condé na madrugada desta terça-feira, após a derrota por 2 a 1 para o Bahia, pelo Campeonato Brasileiro. A decisão foi tomada em comum acordo...",
+        "url": "https://www.gazetaesportiva.com/times/remo-pa/remo-anuncia-saida-leo-conde/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/brandbird-1.webp",
+        "data": "2026-09-15T11:53:05.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Melhores momentos: Bahia 2 x 1 Remo pelo Brasileirão",
         "desc": "Veja os melhores momentos de Bahia 2 x 1 Remo, pela 27ª rodada do Brasileirão, na Arena Fonte Nova, em Salvador (BA).\nO post Melhores momentos: Bahia 2 x 1 Remo pelo Brasileirão ap...",
@@ -73,30 +81,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55518904678_5409bc863d_o-1.webp",
         "data": "2026-09-14T23:00:47.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos de Villarreal x Real Betis pelo Campeonato Espanhol",
-        "desc": "O post Veja fotos de Villarreal x Real Betis pelo Campeonato Espanhol apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/fotos/veja-fotos-de-villarreal-x-real-betis-pelo-campeonato-espanhol/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260914__C8B672C__v1__HighRes__FblEspLigaVillarrealBetis.webp",
-        "data": "2026-09-14T20:37:57.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Ex-Cruzeiro, brasileiro marca e se destaca em partida do Campeonato Italiano",
-        "desc": "Kaiki Bruno marcou seu primeiro gol pelo Como e no Campeonato Italiano na vitória por 2 a 1 sobre o Parma, pela quarta rodada da Série A. O lateral, revelado pelo Cruzeiro, balanço...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/serie-a/ex-cruzeiro-brasileiro-marca-e-se-destaca-em-partida-do-campeonato-italiano/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/HSM0dZ1XMAEbWt1.webp",
-        "data": "2026-09-14T20:18:37.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos de Leeds e Newcastle pelo Inglês",
-        "desc": "O post Veja fotos de Leeds e Newcastle pelo Inglês apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/campeonatos/premier-league/veja-fotos-de-leeds-e-newcastle-pelo-ingles/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260914__C8B29DW__v1__MidRes__FblEngPrLeedsNewcastle.webp",
-        "data": "2026-09-14T20:12:36.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -106,7 +90,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-09-15",
-        "data": "2026-09-15T09:10:23.984Z",
+        "data": "2026-09-15T14:23:50.748Z",
         "id": "curado-feminino-0"
       },
       {
@@ -115,7 +99,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-09-15",
-        "data": "2026-09-15T06:10:23.984Z",
+        "data": "2026-09-15T11:23:50.748Z",
         "id": "curado-feminino-1"
       },
       {
@@ -124,7 +108,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-09-15",
-        "data": "2026-09-15T03:10:23.984Z",
+        "data": "2026-09-15T08:23:50.748Z",
         "id": "curado-feminino-2"
       },
       {
@@ -143,7 +127,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-09-15",
-        "data": "2026-09-15T09:10:23.984Z",
+        "data": "2026-09-15T14:23:50.748Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -152,7 +136,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-09-15",
-        "data": "2026-09-15T06:10:23.984Z",
+        "data": "2026-09-15T11:23:50.748Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -161,7 +145,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-09-15",
-        "data": "2026-09-15T03:10:23.984Z",
+        "data": "2026-09-15T08:23:50.748Z",
         "id": "curado-jogadores-2"
       }
     ]
