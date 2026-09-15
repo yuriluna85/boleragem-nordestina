@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-09-15T21:36:07.768Z",
+  "ultimaAtualizacao": "2026-09-15T23:56:55.497Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Confira as fotos de Platense x Fluminense pelas quartas da Libertadores",
+        "desc": "O post Confira as fotos de Platense x Fluminense pelas quartas da Libertadores apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/fluminense/confira-as-fotos-de-platense-x-fluminense-pelas-quartas-da-libertadores/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260915__C8EV4Z3__v1__MidRes__FblLibertadoresPlatenseFluminense.webp",
+        "data": "2026-09-15T23:08:06.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Botafogo x Grêmio: onde assistir, horário e prováveis escalações pelo Brasileirão",
+        "desc": "Botafogo e Grêmio se enfrentam nesta quarta-feira, no Estádio Nilton Santos, em partida atrasada da 21ª rodada do Campeonato Brasileiro. As equipes buscam a vitória para se afastar...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/botafogo-x-gremio-brasileirao-onde-assistir/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55078913916_4ce2d5db68_o.webp",
+        "data": "2026-09-15T23:00:49.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Lens demite técnico Dino Toppmöller após seis jogos",
         "desc": "O Lens anunciou a demissão do técnico Dino Toppmöller após apenas seis partidas no comando da equipe. Apesar da conquista da Supercopa da França sobre o PSG e da vitória na estreia...",
@@ -49,30 +65,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/pqolpgeu-1920Ceni.webp",
         "data": "2026-09-15T14:49:41.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Remo anuncia saída de Léo Condé após derrota para o Bahia",
-        "desc": "O Remo anunciou a saída do técnico Léo Condé na madrugada desta terça-feira, após a derrota por 2 a 1 para o Bahia, pelo Campeonato Brasileiro. A decisão foi tomada em comum acordo...",
-        "url": "https://www.gazetaesportiva.com/times/remo-pa/remo-anuncia-saida-leo-conde/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/brandbird-1.webp",
-        "data": "2026-09-15T11:53:05.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Bahia 2 x 1 Remo pelo Brasileirão",
-        "desc": "Veja os melhores momentos de Bahia 2 x 1 Remo, pela 27ª rodada do Brasileirão, na Arena Fonte Nova, em Salvador (BA).\nO post Melhores momentos: Bahia 2 x 1 Remo pelo Brasileirão ap...",
-        "url": "https://www.gazetaesportiva.com/times/bahia/melhores-momentos-bahia-2-x-1-remo-pelo-brasileirao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55527930367_0fc3e3a0ff_o.webp",
-        "data": "2026-09-15T01:31:54.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Luciano Juba celebra gol e valoriza atuação do Bahia na vitória sobre o Remo",
-        "desc": "O Bahia venceu o Remo por 2 a 1 nesta segunda-feira, na Arena Fonte Nova, em Salvador (BA), pela 27ª rodada do Campeonato Brasileiro. Autor do segundo gol da equipe baiana, Luciano...",
-        "url": "https://www.gazetaesportiva.com/times/bahia/luciano-juba-celebra-gol-e-valoriza-atuacao-do-bahia-na-vitoria-sobre-o-remo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55529051453_3b3f9b041d_o.webp",
-        "data": "2026-09-15T01:30:23.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -82,7 +74,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-09-15",
-        "data": "2026-09-15T21:36:07.760Z",
+        "data": "2026-09-15T23:56:55.487Z",
         "id": "curado-feminino-0"
       },
       {
@@ -91,7 +83,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-09-15",
-        "data": "2026-09-15T18:36:07.760Z",
+        "data": "2026-09-15T20:56:55.487Z",
         "id": "curado-feminino-1"
       },
       {
@@ -100,7 +92,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-09-15",
-        "data": "2026-09-15T15:36:07.760Z",
+        "data": "2026-09-15T17:56:55.487Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -111,7 +103,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-09-15",
-        "data": "2026-09-15T21:36:07.760Z",
+        "data": "2026-09-15T23:56:55.487Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -120,7 +112,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-09-15",
-        "data": "2026-09-15T18:36:07.760Z",
+        "data": "2026-09-15T20:56:55.487Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -129,7 +121,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-09-15",
-        "data": "2026-09-15T15:36:07.760Z",
+        "data": "2026-09-15T17:56:55.487Z",
         "id": "curado-jogadores-2"
       }
     ]
