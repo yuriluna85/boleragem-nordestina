@@ -1,44 +1,44 @@
 {
-  "geradoEm": "2026-09-16T03:47:52.595Z",
+  "geradoEm": "2026-09-16T09:02:25.263Z",
   "totais": {
-    "totalGeral": 3396,
+    "totalGeral": 3402,
     "porCategoria": {
-      "masculino": 2401,
-      "feminino": 440,
-      "jogadores": 555
+      "masculino": 2405,
+      "feminino": 441,
+      "jogadores": 556
     }
   },
   "porEstado": {
-    "PE": 2410,
-    "CE": 2498,
-    "BA": 1716,
-    "AL": 1988,
-    "RN": 378,
-    "PB": 44,
-    "MA": 1856,
-    "PI": 260,
-    "SE": 1559
+    "PE": 2415,
+    "CE": 2501,
+    "BA": 1720,
+    "AL": 1992,
+    "RN": 379,
+    "PB": 45,
+    "MA": 1860,
+    "PI": 262,
+    "SE": 1563
   },
   "topClubes": [
     {
       "nome": "Sport",
-      "total": 1567
+      "total": 1568
     },
     {
       "nome": "Vitória",
-      "total": 1220
+      "total": 1221
     },
     {
       "nome": "Bahia",
-      "total": 481
+      "total": 483
     },
     {
       "nome": "Fortaleza",
-      "total": 352
+      "total": 353
     },
     {
       "nome": "Ceará",
-      "total": 206
+      "total": 208
     }
   ],
   "fontesRanking": [
@@ -59,20 +59,20 @@
       "total": 127
     },
     {
+      "nome": "Salvador News",
+      "total": 103
+    },
+    {
       "nome": "Ceará Esportes",
       "total": 103
     },
     {
-      "nome": "Salvador News",
-      "total": 102
-    },
-    {
       "nome": "Vozão Diário",
-      "total": 98
+      "total": 99
     },
     {
       "nome": "Portal Paraíba",
-      "total": 34
+      "total": 35
     },
     {
       "nome": "Ceará Notícias",
@@ -84,7 +84,7 @@
     },
     {
       "nome": "Nordestão FC",
-      "total": 23
+      "total": 24
     },
     {
       "nome": "Maranhão Esportivo",
@@ -96,7 +96,11 @@
     },
     {
       "nome": "Diário de Esportes",
-      "total": 20
+      "total": 21
+    },
+    {
+      "nome": "Bahia Notícias",
+      "total": 19
     },
     {
       "nome": "RN Esportivo",
@@ -112,10 +116,6 @@
     },
     {
       "nome": "Maceió Sports",
-      "total": 18
-    },
-    {
-      "nome": "Bahia Notícias",
       "total": 18
     }
   ]

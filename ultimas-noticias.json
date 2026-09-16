@@ -1,94 +1,42 @@
 {
-  "ultimaAtualizacao": "2026-09-16T03:47:52.508Z",
+  "ultimaAtualizacao": "2026-09-16T09:02:25.182Z",
   "dados": {
     "masculino": [
       {
-        "titulo": "Polêmica! São Paulo reclama de checagem do VAR em gol anulado",
-        "desc": "Polêmica! São Paulo reclama de checagem do VAR em gol anulado. &#160;\nO post Polêmica! São Paulo reclama de checagem do VAR em gol anulado apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/polemica-sao-paulo-reclama-de-checagem-do-var-em-gol-anulado/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260916__C8EW4W8__v1__HighRes__FblSudamericanaSaopauloBoca.webp",
-        "data": "2026-09-16T03:18:07.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Sport Recife e Bahia empatam clássico na Ilha do Retiro por 2 a 2",
+        "desc": "Em um jogo emocionante e cheio de alternativas, Leão da Ilha e Esquadrão dividiram pontos pela Série A do Brasileirão. Gols saíram no segundo tempo.",
+        "fonte": "Nordestão FC",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-0-2026-09-16",
+        "data": "2026-09-16T09:02:25.167Z",
+        "id": "curado-masculino-0"
       },
       {
-        "titulo": "Bruno Duarte celebra primeiro gol pelo Vasco após classificação na Sul-Americana",
-        "desc": "Bruno Duarte comemorou o primeiro gol com a camisa do Vasco na vitória por 2 a 0 sobre o Santa Fe, resultado que garantiu a classificação cruzmaltina às semifinais da Copa Sul-Amer...",
-        "url": "https://www.gazetaesportiva.com/times/vasco/bruno-duarte-celebra-primeiro-gol-pelo-vasco-apos-classificacao-na-sul-americana/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/HSSsUjDXAAA8bZT222.webp",
-        "data": "2026-09-16T03:11:48.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Fortaleza vence o Ceará no Clássico-Rei e assume topo da tabela",
+        "desc": "O Tricolor do Pici superou o maior rival por 1 a 0 na Arena Castelão com gol de Yago Pikachu e garantiu a liderança do campeonato regional.",
+        "fonte": "Diário de Esportes",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-1-2026-09-16",
+        "data": "2026-09-16T06:02:25.167Z",
+        "id": "curado-masculino-1"
       },
       {
-        "titulo": "CRB vence o Sport e cola no G6 da Série B",
-        "desc": "CRB derrotou o Sport por 2 a 1 em Maceió, chegou aos 45 pontos e ficou a apenas um ponto do G6 da Série B do Campeonato Brasileiro.\nO post CRB vence o Sport e cola no G6 da Série B...",
-        "url": "https://www.gazetaesportiva.com/times/crb/crb-vence-o-sport-e-cola-no-g6-da-serie-b/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55531454145_f9a6799d5b_o.webp",
-        "data": "2026-09-16T02:00:55.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Vitória anuncia novo patrocinador master para a temporada 2026",
+        "desc": "O Leão da Barra fechou uma das maiores parcerias de sua história recente. O patrocínio deve viabilizar a vinda de novos reforços em julho.",
+        "fonte": "Bahia Notícias",
+        "imagem": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-2-2026-09-16",
+        "data": "2026-09-16T03:02:25.167Z",
+        "id": "curado-masculino-2"
       },
       {
-        "titulo": "Veja fotos do último treino do Palmeiras antes de enfrentar a LDU",
-        "desc": "O post Veja fotos do último treino do Palmeiras antes de enfrentar a LDU apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-ultimo-treino-do-palmeiras-antes-de-enfrentar-a-ldu/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/15092026_cg_palmeiras_5854_15.webp",
-        "data": "2026-09-16T01:20:02.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "São Paulo x Boca Juniors: veja fotos do jogo pelas quartas da Sul-Americana",
-        "desc": "O post São Paulo x Boca Juniors: veja fotos do jogo pelas quartas da Sul-Americana apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/campeonatos/copa-sulamericana/sao-paulo-x-boca-juniors-veja-fotos-do-jogo-pelas-quartas-da-sul-americana/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260916__C8EW4UZ__v1__HighRes__FblSudamericanaSaopauloBoca.webp",
-        "data": "2026-09-16T00:51:47.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Operário-PR reage no fim e arranca empate do Náutico pela Série B",
-        "desc": "O Náutico ficou no empate por 3 a 3 com o Operário-PR nesta terça-feira, pela 28ª rodada da Série B do Campeonato Brasileiro. Após abrir 3 a 1 com gols de Vinícius, Jean Carlos e D...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/operario-pr-reage-no-fim-e-arranca-empate-do-nautico-pela-serie-b/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-15-at-21.41.37.webp",
-        "data": "2026-09-16T00:46:39.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja galeria de fotos do treino do Corinthians nesta terça-feira",
-        "desc": "O post Veja galeria de fotos do treino do Corinthians nesta terça-feira apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-nesta-terca-feira-25/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/248861.webp",
-        "data": "2026-09-16T00:18:37.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Confira as fotos de Platense x Fluminense pelas quartas da Libertadores",
-        "desc": "O post Confira as fotos de Platense x Fluminense pelas quartas da Libertadores apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/fluminense/confira-as-fotos-de-platense-x-fluminense-pelas-quartas-da-libertadores/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260915__C8EV4Z3__v1__MidRes__FblLibertadoresPlatenseFluminense.webp",
-        "data": "2026-09-15T23:08:06.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Botafogo x Grêmio: onde assistir, horário e prováveis escalações pelo Brasileirão",
-        "desc": "Botafogo e Grêmio se enfrentam nesta quarta-feira, no Estádio Nilton Santos, em partida atrasada da 21ª rodada do Campeonato Brasileiro. As equipes buscam a vitória para se afastar...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/botafogo-x-gremio-brasileirao-onde-assistir/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55078913916_4ce2d5db68_o.webp",
-        "data": "2026-09-15T23:00:49.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Lens demite técnico Dino Toppmöller após seis jogos",
-        "desc": "O Lens anunciou a demissão do técnico Dino Toppmöller após apenas seis partidas no comando da equipe. Apesar da conquista da Supercopa da França sobre o PSG e da vitória na estreia...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/ligue-1/lens-demite-tecnico-dino-toppmoller-apos-seis-jogos/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260913__C87X663__v1__HighRes__FblFraLigue1LeMansLens.webp",
-        "data": "2026-09-15T21:03:36.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos de Elche x Real Madrid pelo Campeonato Espanhol",
-        "desc": "O post Veja fotos de Elche x Real Madrid pelo Campeonato Espanhol apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/fotos/veja-fotos-de-elche-x-real-madrid-pelo-campeonato-espanhol/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260915__C8EL7Q2__v1__HighRes__FblEspLigaElcheRealMadrid.webp",
-        "data": "2026-09-15T20:48:47.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Botafogo-PB e CRB se enfrentam pelas quartas da Copa do Nordeste",
+        "desc": "Partida de ida será disputada no Almeidão. Expectativa é de casa cheia para apoiar o Belo diante do embalado time alagoano.",
+        "fonte": "Portal Paraíba",
+        "imagem": "https://images.unsplash.com/photo-1504156067013-fbe0f2c8b78b?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-3-2026-09-16",
+        "data": "2026-09-16T00:02:25.167Z",
+        "id": "curado-masculino-3"
       }
     ],
     "feminino": [
@@ -98,16 +46,8 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-09-16",
-        "data": "2026-09-16T03:47:52.495Z",
+        "data": "2026-09-16T09:02:25.167Z",
         "id": "curado-feminino-0"
-      },
-      {
-        "titulo": "Corinthians vence Bahia fora de casa e abre vantagem na semifinal do Brasileiro feminino",
-        "desc": "O Corinthians largou na frente na semifinal do Campeonato Brasileiro Feminino. Nesta terça-feira, as Brabas venceram o Bahia por 1 a 0, na Arena Fonte Nova, em Salvador, pelo jogo ...",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vence-bahia-fora-de-casa-e-abre-vantagem-na-semifinal-do-brasileiro-feminino/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-15-at-23.41.05.webp",
-        "data": "2026-09-16T02:48:18.000Z",
-        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Sport Feminino atrai público recorde na Arena de Pernambuco",
@@ -115,7 +55,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-09-16",
-        "data": "2026-09-16T00:47:52.495Z",
+        "data": "2026-09-16T06:02:25.167Z",
         "id": "curado-feminino-1"
       },
       {
@@ -123,8 +63,8 @@
         "desc": "O Tricolor de Aço se reforça visando a disputa do mata-mata do Brasileiro Feminino A2. Apresentação das novas atletas ocorre nesta segunda.",
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-09-15",
-        "data": "2026-09-15T21:47:52.495Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-09-16",
+        "data": "2026-09-16T03:02:25.167Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -135,7 +75,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-09-16",
-        "data": "2026-09-16T03:47:52.495Z",
+        "data": "2026-09-16T09:02:25.167Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -144,7 +84,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-09-16",
-        "data": "2026-09-16T00:47:52.495Z",
+        "data": "2026-09-16T06:02:25.167Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -152,8 +92,8 @@
         "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-09-15",
-        "data": "2026-09-15T21:47:52.495Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-09-16",
+        "data": "2026-09-16T03:02:25.167Z",
         "id": "curado-jogadores-2"
       }
     ]
