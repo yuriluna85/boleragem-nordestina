@@ -1,7 +1,31 @@
 {
-  "ultimaAtualizacao": "2026-09-16T18:17:35.358Z",
+  "ultimaAtualizacao": "2026-09-16T21:30:56.352Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Benfica bate Milan na Itália e estreia com vitória na Liga Europa",
+        "desc": "O Benfica estreou com vitória na Liga Europa 2026/27 ao derrotar o Milan por 2 a 0 no San Siro, em Milão, pela primeira rodada da competição. Dodi Lukebakio abriu o placar ainda no...",
+        "url": "https://www.gazetaesportiva.com/times/milan/benfica-bate-milan-na-italia-e-estreia-com-vitoria-na-liga-europa/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260916__C8J38ZU__v1__HighRes__FblEurC3AcMilanBenfica.webp",
+        "data": "2026-09-16T20:58:40.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Confira as fotos de Palmeiras x Naviraiense pela Copa do Brasil sub-20",
+        "desc": "O post Confira as fotos de Palmeiras x Naviraiense pela Copa do Brasil sub-20 apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/confira-as-fotos-de-palmeiras-x-naviraiense-pela-copa-do-brasil-sub-20/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-16-at-17.16.19-1.webp",
+        "data": "2026-09-16T20:26:32.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Veja fotos de Manchester United x Brighton pela Copa da Liga Inglesa",
+        "desc": "O post Veja fotos de Manchester United x Brighton pela Copa da Liga Inglesa apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/fotos/veja-fotos-de-manchester-united-x-brighton-pela-copa-da-liga-inglesa/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260916__C8J393V__v1__HighRes__FblEngLcupManUtdBrighton.webp",
+        "data": "2026-09-16T20:10:44.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Bastidores: Haaland, Rúben Dias e companhia chegam a Portugal",
         "desc": "Bastidores: Haaland, Rúben Dias e companhia chegam a Portugal\nO post Bastidores: Haaland, Rúben Dias e companhia chegam a Portugal apareceu primeiro em Gazeta Esportiva.",
@@ -81,30 +105,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/DSC07173.webp",
         "data": "2026-09-16T11:32:57.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Análise: São Paulo esbarra na própria ansiedade e dá adeus à última esperança de título",
-        "desc": "Confira a análise da Gazeta Esportiva sobre a atuação do São Paulo no empate contra o Boca Juniors na última terça-feira, no Morumbis, no jogo de volta das quartas da Sul-Americana...",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/analise-sao-paulo-esbarra-na-propria-ansiedade-e-da-adeus-a-ultima-esperanca-de-titulo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260916__C8F32XA__v1__HighRes__FblSudamericanaSaopauloBoca.webp",
-        "data": "2026-09-16T08:00:59.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Polêmica! São Paulo reclama de checagem do VAR em gol anulado",
-        "desc": "Polêmica! São Paulo reclama de checagem do VAR em gol anulado. &#160;\nO post Polêmica! São Paulo reclama de checagem do VAR em gol anulado apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/polemica-sao-paulo-reclama-de-checagem-do-var-em-gol-anulado/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260916__C8EW4W8__v1__HighRes__FblSudamericanaSaopauloBoca.webp",
-        "data": "2026-09-16T03:18:07.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Bruno Duarte celebra primeiro gol pelo Vasco após classificação na Sul-Americana",
-        "desc": "Bruno Duarte comemorou o primeiro gol com a camisa do Vasco na vitória por 2 a 0 sobre o Santa Fe, resultado que garantiu a classificação cruzmaltina às semifinais da Copa Sul-Amer...",
-        "url": "https://www.gazetaesportiva.com/times/vasco/bruno-duarte-celebra-primeiro-gol-pelo-vasco-apos-classificacao-na-sul-americana/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/HSSsUjDXAAA8bZT222.webp",
-        "data": "2026-09-16T03:11:48.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -114,7 +114,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-09-16",
-        "data": "2026-09-16T18:17:35.350Z",
+        "data": "2026-09-16T21:30:56.344Z",
         "id": "curado-feminino-0"
       },
       {
@@ -123,7 +123,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-09-16",
-        "data": "2026-09-16T15:17:35.350Z",
+        "data": "2026-09-16T18:30:56.344Z",
         "id": "curado-feminino-1"
       },
       {
@@ -132,16 +132,8 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-09-16",
-        "data": "2026-09-16T12:17:35.350Z",
+        "data": "2026-09-16T15:30:56.344Z",
         "id": "curado-feminino-2"
-      },
-      {
-        "titulo": "Corinthians vence Bahia fora de casa e abre vantagem na semifinal do Brasileiro feminino",
-        "desc": "O Corinthians largou na frente na semifinal do Campeonato Brasileiro Feminino. Nesta terça-feira, as Brabas venceram o Bahia por 1 a 0, na Arena Fonte Nova, em Salvador, pelo jogo ...",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vence-bahia-fora-de-casa-e-abre-vantagem-na-semifinal-do-brasileiro-feminino/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-15-at-23.41.05.webp",
-        "data": "2026-09-16T02:48:18.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "jogadores": [
@@ -151,8 +143,17 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-09-16",
-        "data": "2026-09-16T18:17:35.350Z",
+        "data": "2026-09-16T21:30:56.344Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
+        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
+        "fonte": "Diário do Ceará",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-09-16",
+        "data": "2026-09-16T18:30:56.344Z",
+        "id": "curado-jogadores-1"
       },
       {
         "titulo": "Remo anuncia Thiago Carpini como novo treinador",
@@ -161,15 +162,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2024/07/53827023037_7cfbad0501_k.jpg",
         "data": "2026-09-16T16:41:41.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
-        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
-        "fonte": "Diário do Ceará",
-        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-09-16",
-        "data": "2026-09-16T15:17:35.350Z",
-        "id": "curado-jogadores-1"
       },
       {
         "titulo": "Barcelona inicia conversas com Raphinha por renovação de contrato",
