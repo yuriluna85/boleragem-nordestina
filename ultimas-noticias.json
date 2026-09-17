@@ -1,78 +1,42 @@
 {
-  "ultimaAtualizacao": "2026-09-17T15:09:41.912Z",
+  "ultimaAtualizacao": "2026-09-17T19:09:22.267Z",
   "dados": {
     "masculino": [
       {
-        "titulo": "Análise: Palmeiras corre risco e quase perde vaga, mas vê Carlos Miguel evitar desastre na altitude",
-        "desc": "Confira uma análise da Gazeta Esportiva sobre a classificação do Palmeiras às quartas de final da Libertadores em cima da LDU-EQU, nesta quarta-feira, no Equador. \nO post Análise: ...",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/analise-palmeiras-corre-risco-e-quase-perde-vaga-mas-ve-carlos-miguel-evitar-desastre-na-altitude/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/16092026_cg_palmeiras_gol_2071_18.webp",
-        "data": "2026-09-17T09:00:23.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Sport Recife e Bahia empatam clássico na Ilha do Retiro por 2 a 2",
+        "desc": "Em um jogo emocionante e cheio de alternativas, Leão da Ilha e Esquadrão dividiram pontos pela Série A do Brasileirão. Gols saíram no segundo tempo.",
+        "fonte": "Nordestão FC",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-0-2026-09-17",
+        "data": "2026-09-17T19:09:22.258Z",
+        "id": "curado-masculino-0"
       },
       {
-        "titulo": "Com 100º gol de Messi, Inter Miami bate Cruz Azul e conquista sua primeira Campeones Cup",
-        "desc": "Lionel Messi marcou seu 100º gol pelo Inter Miami e ainda deu uma assistência na vitória por 2 a 0 sobre o Cruz Azul. Casemiro completou o placar, e a equipe da Flórida conquistou ...",
-        "url": "https://www.gazetaesportiva.com/inter-miami/com-100o-gol-de-messi-inter-miami-bate-cruz-azul-e-conquista-sua-primeira-campeones-cup/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260917__C8JL2AF__v1__HighRes__CampeonesCup2026InterMiamiUsaVsCruzAzulMex.webp",
-        "data": "2026-09-17T05:45:03.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Fortaleza vence o Ceará no Clássico-Rei e assume topo da tabela",
+        "desc": "O Tricolor do Pici superou o maior rival por 1 a 0 na Arena Castelão com gol de Yago Pikachu e garantiu a liderança do campeonato regional.",
+        "fonte": "Diário de Esportes",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-1-2026-09-17",
+        "data": "2026-09-17T16:09:22.258Z",
+        "id": "curado-masculino-1"
       },
       {
-        "titulo": "Veja os melhores momentos de Botafogo x Grêmio pelo Brasileirão 2026",
-        "desc": "Botafogo e Grêmio protagonizaram um duelo movimentado pelo Campeonato Brasileiro, com cinco gols e vitória da equipe carioca por 3 a 2. Veja os melhores momentos da partida.\nO post...",
-        "url": "https://www.gazetaesportiva.com/times/botafogo/melhores-momentos-botafogo-x-gremio-brasileirao-2026/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55532784371_cef22076f1_k.webp",
-        "data": "2026-09-17T05:35:14.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Vitória anuncia novo patrocinador master para a temporada 2026",
+        "desc": "O Leão da Barra fechou uma das maiores parcerias de sua história recente. O patrocínio deve viabilizar a vinda de novos reforços em julho.",
+        "fonte": "Bahia Notícias",
+        "imagem": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-2-2026-09-17",
+        "data": "2026-09-17T13:09:22.258Z",
+        "id": "curado-masculino-2"
       },
       {
-        "titulo": "Veja galeria de memes da eliminação do Corinthians nas quartas da Libertadores",
-        "desc": "O post Veja galeria de memes da eliminação do Corinthians nas quartas da Libertadores apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-memes-da-eliminacao-do-corinthians-nas-quartas-da-libertadores/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/Captura-de-Tela-2026-09-16-as-23.43.11.webp",
-        "data": "2026-09-17T02:57:58.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do jogo de volta entre Corinthians e Estudiantes pelas quartas da Libertadores",
-        "desc": "O post Veja fotos do jogo de volta entre Corinthians e Estudiantes pelas quartas da Libertadores apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/veja-fotos-do-jogo-de-volta-entre-corinthians-e-estudiantes-pelas-quartas-da-libertadores/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260917__C8JJ9XV__v1__HighRes__FblLibertadoresCorinthiansEstudiantes.webp",
-        "data": "2026-09-17T01:40:32.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja a disputa de pênaltis entre LDU x Palmeiras pela Libertadores",
-        "desc": "O post Veja a disputa de pênaltis entre LDU x Palmeiras pela Libertadores apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/veja-a-disputa-de-penaltis-entre-ldu-x-palmeiras-pela-libertadores/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260917__C8JJ68B__v2__HighRes__TopshotFblLibertadoresLigaPalmeiras.webp",
-        "data": "2026-09-17T00:52:27.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Abel Ferreira é expulso e desfalca Palmeiras no primeiro jogo da semi da Libertadores",
-        "desc": "O técnico Abel Ferreira não estará na área técnica no confronto de ida das semifinais da Copa Libertadores, contra o Fluminense. O treinador foi expulso na vitória do Palmeiras por...",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/abel-expulso-desfalque-palmeiras-semi-libertadores/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260916__C8JG2XU__v1__HighRes__FblLibertadoresLigaPalmeiras.webp",
-        "data": "2026-09-17T00:32:26.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Carlos Miguel esconde estratégia nos pênaltis e brinca sobre vaga: &#8220;Não precisava ser tão sofrida&#8221;",
-        "desc": "O goleiro Carlos Miguel foi o grande personagem do Palmeiras na classificação às semifinais da Copa Libertadores nesta quarta-feira. Ele pegou duas cobranças na vitória por 4 a 3 n...",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/carlos-miguel-esconde-estrategia-nos-penaltis-e-brinca-sobre-vaga-nao-precisava-ser-tao-sofrida/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260917__C8JJ686__v1__HighRes__FblLibertadoresLigaPalmeiras.webp",
-        "data": "2026-09-17T00:29:48.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do duelo entre Botafogo e Grêmio pelo Brasileirão",
-        "desc": "O post Veja fotos do duelo entre Botafogo e Grêmio pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-fotos-do-duelo-entre-botafogo-e-gremio-pelo-brasileirao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55531767337_dc313dfe68_k.webp",
-        "data": "2026-09-16T23:04:22.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Botafogo-PB e CRB se enfrentam pelas quartas da Copa do Nordeste",
+        "desc": "Partida de ida será disputada no Almeidão. Expectativa é de casa cheia para apoiar o Belo diante do embalado time alagoano.",
+        "fonte": "Portal Paraíba",
+        "imagem": "https://images.unsplash.com/photo-1504156067013-fbe0f2c8b78b?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-3-2026-09-17",
+        "data": "2026-09-17T10:09:22.258Z",
+        "id": "curado-masculino-3"
       }
     ],
     "feminino": [
@@ -82,7 +46,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-09-17",
-        "data": "2026-09-17T15:09:41.902Z",
+        "data": "2026-09-17T19:09:22.259Z",
         "id": "curado-feminino-0"
       },
       {
@@ -91,7 +55,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-09-17",
-        "data": "2026-09-17T12:09:41.902Z",
+        "data": "2026-09-17T16:09:22.259Z",
         "id": "curado-feminino-1"
       },
       {
@@ -100,7 +64,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-09-17",
-        "data": "2026-09-17T09:09:41.902Z",
+        "data": "2026-09-17T13:09:22.259Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -111,7 +75,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-09-17",
-        "data": "2026-09-17T15:09:41.902Z",
+        "data": "2026-09-17T19:09:22.259Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -120,7 +84,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-09-17",
-        "data": "2026-09-17T12:09:41.902Z",
+        "data": "2026-09-17T16:09:22.259Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -129,7 +93,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-09-17",
-        "data": "2026-09-17T09:09:41.902Z",
+        "data": "2026-09-17T13:09:22.259Z",
         "id": "curado-jogadores-2"
       }
     ]
