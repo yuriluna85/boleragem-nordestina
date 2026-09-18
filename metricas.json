@@ -1,44 +1,44 @@
 {
-  "geradoEm": "2026-09-18T00:35:51.557Z",
+  "geradoEm": "2026-09-18T05:31:29.450Z",
   "totais": {
-    "totalGeral": 3459,
+    "totalGeral": 3463,
     "porCategoria": {
-      "masculino": 2452,
-      "feminino": 445,
-      "jogadores": 562
+      "masculino": 2454,
+      "feminino": 446,
+      "jogadores": 563
     }
   },
   "porEstado": {
-    "PE": 2450,
-    "CE": 2541,
-    "BA": 1745,
-    "AL": 2020,
-    "RN": 386,
+    "PE": 2454,
+    "CE": 2544,
+    "BA": 1747,
+    "AL": 2023,
+    "RN": 388,
     "PB": 46,
-    "MA": 1886,
-    "PI": 267,
-    "SE": 1589
+    "MA": 1889,
+    "PI": 268,
+    "SE": 1591
   },
   "topClubes": [
     {
       "nome": "Sport",
-      "total": 1599
+      "total": 1601
     },
     {
       "nome": "Vitória",
-      "total": 1239
+      "total": 1240
     },
     {
       "nome": "Bahia",
-      "total": 489
+      "total": 491
     },
     {
       "nome": "Fortaleza",
-      "total": 358
+      "total": 360
     },
     {
       "nome": "Ceará",
-      "total": 211
+      "total": 212
     }
   ],
   "fontesRanking": [
@@ -52,11 +52,11 @@
     },
     {
       "nome": "Diário do Ceará",
-      "total": 129
+      "total": 130
     },
     {
       "nome": "Pernambuco Press",
-      "total": 128
+      "total": 129
     },
     {
       "nome": "Ceará Esportes",
@@ -80,7 +80,7 @@
     },
     {
       "nome": "Nordestão FC",
-      "total": 25
+      "total": 26
     },
     {
       "nome": "Salvador Esportes",
@@ -88,7 +88,7 @@
     },
     {
       "nome": "Diário de Esportes",
-      "total": 22
+      "total": 23
     },
     {
       "nome": "Maranhão Esportivo",
