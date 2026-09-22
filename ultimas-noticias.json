@@ -1,78 +1,42 @@
 {
-  "ultimaAtualizacao": "2026-09-22T20:51:01.014Z",
+  "ultimaAtualizacao": "2026-09-22T23:27:44.893Z",
   "dados": {
     "masculino": [
       {
-        "titulo": "Americano que exibiu lesão exposta ao vivo ganha seis meses de suspensão médica no UFC",
-        "desc": "O americano Alonzo Menifield recebeu uma suspensão médica de seis meses do UFC após sofrer uma fratura no dedão da mão esquerda durante sua vitória sobre Iwo Baraniewski. O lutador...",
-        "url": "https://www.gazetaesportiva.com/mais-esportes/lutas/americano-que-exibiu-lesao-exposta-ao-vivo-ganha-seis-meses-de-suspensao-medica-no-ufc/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260920__2296150753__v1__HighRes__Ufc331AlonzoMenifieldVIwoBaraniewski.webp",
-        "data": "2026-09-22T17:51:24.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Sport Recife e Bahia empatam clássico na Ilha do Retiro por 2 a 2",
+        "desc": "Em um jogo emocionante e cheio de alternativas, Leão da Ilha e Esquadrão dividiram pontos pela Série A do Brasileirão. Gols saíram no segundo tempo.",
+        "fonte": "Nordestão FC",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-0-2026-09-22",
+        "data": "2026-09-22T23:27:44.881Z",
+        "id": "curado-masculino-0"
       },
       {
-        "titulo": "Ex-São Paulo, Moreira dá assistência em vitória do sobre time de Pirlo nos Emirados Árabes",
-        "desc": "O Al Nasr venceu o Dubai United por 3 a 1 pela Copa da Liga dos Emirados, com participação decisiva do lateral-direito Moreira, ex-São Paulo. O brasileiro atuou durante os 90 minut...",
-        "url": "https://www.gazetaesportiva.com/futebol/moreira-ex-sao-paulo-assistencia-al-nasr/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/4_FEED_MOREIRA_21_09_2026.webp",
-        "data": "2026-09-22T15:52:11.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Fortaleza vence o Ceará no Clássico-Rei e assume topo da tabela",
+        "desc": "O Tricolor do Pici superou o maior rival por 1 a 0 na Arena Castelão com gol de Yago Pikachu e garantiu a liderança do campeonato regional.",
+        "fonte": "Diário de Esportes",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-1-2026-09-22",
+        "data": "2026-09-22T20:27:44.881Z",
+        "id": "curado-masculino-1"
       },
       {
-        "titulo": "Assista aos melhores gols da semana da MLS",
-        "desc": "Assista aos melhores gols da semana da MLS\nO post Assista aos melhores gols da semana da MLS apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/assista-aos-melhores-gols-da-semana-da-mls-6/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/sem.webp",
-        "data": "2026-09-22T15:21:49.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Vitória anuncia novo patrocinador master para a temporada 2026",
+        "desc": "O Leão da Barra fechou uma das maiores parcerias de sua história recente. O patrocínio deve viabilizar a vinda de novos reforços em julho.",
+        "fonte": "Bahia Notícias",
+        "imagem": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-2-2026-09-22",
+        "data": "2026-09-22T17:27:44.881Z",
+        "id": "curado-masculino-2"
       },
       {
-        "titulo": "Zidane comanda primeiro treino à frente da seleção francesa",
-        "desc": "Zidane comanda primeiro treino à frente da seleção francesa\nO post Zidane comanda primeiro treino à frente da seleção francesa apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/franca/zidane-comanda-primeiro-treino-a-frente-da-selecao-francesa/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/Zida.webp",
-        "data": "2026-09-22T14:50:46.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Assista as melhores defesas da semana da MLS",
-        "desc": "Assista as melhores defesas da semana da MLS\nO post Assista as melhores defesas da semana da MLS apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/assista-as-melhores-defesas-da-semana-da-mls-2/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/efe.webp",
-        "data": "2026-09-22T14:22:01.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Portugal inicia preparação para estreia na Liga das Nações",
-        "desc": "Portugal inicia preparação para estreia na Liga das Nações\nO post Portugal inicia preparação para estreia na Liga das Nações apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/portugal/portugal-inicia-preparacao-para-estreia-na-liga-das-nacoes/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/repara.webp",
-        "data": "2026-09-22T13:11:18.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Bastidores da vitória do Cruzeiro no Barradão",
-        "desc": "Bastidores da vitória do Cruzeiro no Barradão\nO post Bastidores da vitória do Cruzeiro no Barradão apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/cruzeiro/bastidores-da-vitoria-do-cruzeiro-no-barradao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/Basti.webp",
-        "data": "2026-09-22T12:25:09.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Marquinhos fecha vitória do PSG sobre o Olympique de Marselha; veja o lance",
-        "desc": "Marquinhos fecha vitória do PSG sobre o Olympique de Marselha; veja o lance \nO post Marquinhos fecha vitória do PSG sobre o Olympique de Marselha; veja o lance apareceu primeiro em...",
-        "url": "https://www.gazetaesportiva.com/times/paris-saint-germain/marquinhos-fecha-vitoria-do-psg-sobre-o-olympique-de-marselha-veja-o-lance/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/Marq.webp",
-        "data": "2026-09-22T11:02:12.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Cuiabá vence o Náutico e ganha posições na Série B do Brasileiro",
-        "desc": "Nesta segunda-feira, o Cuiabá venceu o Náutico por 3 a 0, na Arena Pantanal, em Cuiabá (MT), pela 29ª rodada da Série B do Campeonato Brasileiro e ganhou três posições na tabela de...",
-        "url": "https://www.gazetaesportiva.com/times/cuiaba/cuiaba-vence-o-nautico-e-ganha-posicoes-na-serie-b-do-brasileiro/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55543217681_c993244751_o.webp",
-        "data": "2026-09-22T02:27:56.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Botafogo-PB e CRB se enfrentam pelas quartas da Copa do Nordeste",
+        "desc": "Partida de ida será disputada no Almeidão. Expectativa é de casa cheia para apoiar o Belo diante do embalado time alagoano.",
+        "fonte": "Portal Paraíba",
+        "imagem": "https://images.unsplash.com/photo-1504156067013-fbe0f2c8b78b?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-3-2026-09-22",
+        "data": "2026-09-22T14:27:44.881Z",
+        "id": "curado-masculino-3"
       }
     ],
     "feminino": [
@@ -82,16 +46,8 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-09-22",
-        "data": "2026-09-22T20:51:01.004Z",
+        "data": "2026-09-22T23:27:44.881Z",
         "id": "curado-feminino-0"
-      },
-      {
-        "titulo": "Arthur Elias convoca Seleção Feminina para amistosos contra Argentina",
-        "desc": "O técnico da Seleção Feminina, Arthur Elias, convocou 28 atletas para os jogos em outubro no Brasil: dia 10 no Beira-Rio e dia 13 na Arena de Pernambuco.\nO post Arthur Elias convoc...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/arthur-elias-convoca-selecao-feminina-para-amistosos-contra-argentina/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/lc4bq7q3-1920Arthur-Elias.webp",
-        "data": "2026-09-22T19:28:11.000Z",
-        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Sport Feminino atrai público recorde na Arena de Pernambuco",
@@ -99,16 +55,17 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-09-22",
-        "data": "2026-09-22T17:51:01.004Z",
+        "data": "2026-09-22T20:27:44.881Z",
         "id": "curado-feminino-1"
       },
       {
-        "titulo": "Com uma a menos, Corinthians vence o Bahia e vai à final do Brasileiro feminino",
-        "desc": "Mesmo com a expulsão de Thais Regina ainda no primeiro tempo, o Corinthians bateu o Bahia e garantiu vaga na final do Brasileirão Feminino contra o São Paulo.\nO post Com uma a meno...",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/siga-o-placar-ao-vivo-de-corinthians-x-bahia-pelo-brasileirao-feminino/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/imagem_2026-09-21_232130771.webp",
-        "data": "2026-09-22T02:37:43.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Bahia Feminino contrata dupla de ataque campeã sul-americana",
+        "desc": "O Tricolor de Aço se reforça visando a disputa do mata-mata do Brasileiro Feminino A2. Apresentação das novas atletas ocorre nesta segunda.",
+        "fonte": "Salvador News",
+        "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-09-22",
+        "data": "2026-09-22T17:27:44.881Z",
+        "id": "curado-feminino-2"
       }
     ],
     "jogadores": [
@@ -118,7 +75,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-09-22",
-        "data": "2026-09-22T20:51:01.004Z",
+        "data": "2026-09-22T23:27:44.881Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -127,16 +84,8 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-09-22",
-        "data": "2026-09-22T17:51:01.004Z",
+        "data": "2026-09-22T20:27:44.881Z",
         "id": "curado-jogadores-1"
-      },
-      {
-        "titulo": "São Paulo é condenado a pagar mais de R$ 2 milhões por ex-meia; veja detalhes",
-        "desc": "O São Paulo foi condenado pela Justiça de São Paulo a pagar mais de R$ 2 milhões à empresa Datasoccer Sports Administração de Bens Próprios, Marketing, Assessoria e Serviços Esport...",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-condenado-a-pagar-ex-meia/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/52059170192_13642f5abd_k.webp",
-        "data": "2026-09-22T16:51:48.000Z",
-        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
@@ -144,7 +93,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-09-22",
-        "data": "2026-09-22T14:51:01.004Z",
+        "data": "2026-09-22T17:27:44.881Z",
         "id": "curado-jogadores-2"
       }
     ]
