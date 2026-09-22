@@ -1,78 +1,42 @@
 {
-  "ultimaAtualizacao": "2026-09-22T08:43:08.885Z",
+  "ultimaAtualizacao": "2026-09-22T13:52:26.094Z",
   "dados": {
     "masculino": [
       {
-        "titulo": "Cuiabá vence o Náutico e ganha posições na Série B do Brasileiro",
-        "desc": "Nesta segunda-feira, o Cuiabá venceu o Náutico por 3 a 0, na Arena Pantanal, em Cuiabá (MT), pela 29ª rodada da Série B do Campeonato Brasileiro e ganhou três posições na tabela de...",
-        "url": "https://www.gazetaesportiva.com/times/cuiaba/cuiaba-vence-o-nautico-e-ganha-posicoes-na-serie-b-do-brasileiro/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55543217681_c993244751_o.webp",
-        "data": "2026-09-22T02:27:56.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Sport Recife e Bahia empatam clássico na Ilha do Retiro por 2 a 2",
+        "desc": "Em um jogo emocionante e cheio de alternativas, Leão da Ilha e Esquadrão dividiram pontos pela Série A do Brasileirão. Gols saíram no segundo tempo.",
+        "fonte": "Nordestão FC",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-0-2026-09-22",
+        "data": "2026-09-22T13:52:26.079Z",
+        "id": "curado-masculino-0"
       },
       {
-        "titulo": "Gazeta promove Desafio 101 como aquecimento para a São Silvestre durante a Virada Esportiva",
-        "desc": "O post Gazeta promove Desafio 101 como aquecimento para a São Silvestre durante a Virada Esportiva apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/videos/gazeta-promove-desafio-101-como-aquecimento-para-a-sao-silvestre-durante-a-virada-esportiva/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/SS.webp",
-        "data": "2026-09-21T22:05:15.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Fortaleza vence o Ceará no Clássico-Rei e assume topo da tabela",
+        "desc": "O Tricolor do Pici superou o maior rival por 1 a 0 na Arena Castelão com gol de Yago Pikachu e garantiu a liderança do campeonato regional.",
+        "fonte": "Diário de Esportes",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-1-2026-09-22",
+        "data": "2026-09-22T10:52:26.079Z",
+        "id": "curado-masculino-1"
       },
       {
-        "titulo": "São Paulo bate o Internacional no Morumbis; veja bastidores",
-        "desc": "Veja o melhor dos bastidores da vitória Tricolor por 1 a 0, gol de Calleri, pelo returno do Campeonato Brasileiro.\nO post São Paulo bate o Internacional no Morumbis; veja bastidore...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/sao-paulo-bate-o-internacional-no-morumbis-veja-bastidores/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/ef8mfbxv-1920Sao-Paulo.webp",
-        "data": "2026-09-21T20:47:59.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Vitória anuncia novo patrocinador master para a temporada 2026",
+        "desc": "O Leão da Barra fechou uma das maiores parcerias de sua história recente. O patrocínio deve viabilizar a vinda de novos reforços em julho.",
+        "fonte": "Bahia Notícias",
+        "imagem": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-2-2026-09-22",
+        "data": "2026-09-22T07:52:26.079Z",
+        "id": "curado-masculino-2"
       },
       {
-        "titulo": "Bastidores da goleada do Vasco sobre o Coritiba em São Januário",
-        "desc": "Confira o melhor dos bastidores da vitória Cruz-maltina por 5 a 0, em casa, pelo returno do Brasileirão.\nO post Bastidores da goleada do Vasco sobre o Coritiba em São Januário apar...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/bastidores-da-goleada-do-vasco-sobre-o-coritiba-em-sao-januario/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/0t2db3ww-1920Vasco.webp",
-        "data": "2026-09-21T20:44:46.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Golaço de fora da área: veja a pintura de Carlos Augusto contra a Udinese",
-        "desc": "Assista ao golaço de longe marcado por Carlos Augusto na vitória da Inter por 5 a 3 sobre a Udinese pela Serie A.\nO post Golaço de fora da área: veja a pintura de Carlos Augusto co...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/golaco-de-fora-da-area-veja-a-pintura-de-carlos-augusto-contra-a-udinese/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/ymx1eq68-1920Golaco.webp",
-        "data": "2026-09-21T15:08:41.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "PSG vence o Clássico no Vélodrome",
-        "desc": "Confira os melhores momentos da importante vitória por 2 a 1 do Paris Saint-Germain sobre o Marseille no Vélodrome, em setembro de 2026.\nO post PSG vence o Clássico no Vélodrome ap...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/psg-vence-o-classico-no-velodrome/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/JSTwg1iz-1920PSG.webp",
-        "data": "2026-09-21T14:57:19.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Inter Miami CF 2 x 2 San Diego FC pela MLS",
-        "desc": "Melhores momentos: Inter Miami CF 2 x 2 San Diego FC pela MLS\nO post Melhores momentos: Inter Miami CF 2 x 2 San Diego FC pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-inter-miami-cf-2-x-2-san-diego-fc-pela-mls/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/y3iq818e-1920F.webp",
-        "data": "2026-09-21T14:54:11.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Flamengo confirma lesão de Ayrton Lucas e aguarda Plata para exames",
-        "desc": "O Flamengo confirmou nesta segunda-feira uma lesão muscular na coxa direita de Ayrton Lucas, substituído ainda no início da vitória sobre o RB Bragantino pelo Campeonato Brasileiro...",
-        "url": "https://www.gazetaesportiva.com/times/flamengo/flamengo-confirma-lesao-de-ayrton-lucas-e-avalia-situacao-de-plata/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/HSvwmS0WcAAdhHG-1.webp",
-        "data": "2026-09-21T14:50:15.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Jardim exalta &#8216;plano perfeito&#8217; do Flamengo após vitória sobre o Bragantino",
-        "desc": "Confira um trecho da entrevista coletiva de Leonardo Jardim após a vitória do Flamengo sobre o Bragantino pelo Brasileirão 2026.\nO post Jardim exalta &#8216;plano perfeito&#8217; d...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/jardim-exalta-plano-perfeito-do-flamengo-apos-vitoria-sobre-o-bragantino/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/ymbf48e9-1920Jardim.webp",
-        "data": "2026-09-21T14:35:29.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Botafogo-PB e CRB se enfrentam pelas quartas da Copa do Nordeste",
+        "desc": "Partida de ida será disputada no Almeidão. Expectativa é de casa cheia para apoiar o Belo diante do embalado time alagoano.",
+        "fonte": "Portal Paraíba",
+        "imagem": "https://images.unsplash.com/photo-1504156067013-fbe0f2c8b78b?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-3-2026-09-22",
+        "data": "2026-09-22T04:52:26.079Z",
+        "id": "curado-masculino-3"
       }
     ],
     "feminino": [
@@ -82,7 +46,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-09-22",
-        "data": "2026-09-22T08:43:08.873Z",
+        "data": "2026-09-22T13:52:26.079Z",
         "id": "curado-feminino-0"
       },
       {
@@ -91,7 +55,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-09-22",
-        "data": "2026-09-22T05:43:08.873Z",
+        "data": "2026-09-22T10:52:26.079Z",
         "id": "curado-feminino-1"
       },
       {
@@ -100,16 +64,8 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-09-22",
-        "data": "2026-09-22T02:43:08.873Z",
+        "data": "2026-09-22T07:52:26.079Z",
         "id": "curado-feminino-2"
-      },
-      {
-        "titulo": "Com uma a menos, Corinthians vence o Bahia e vai à final do Brasileiro feminino",
-        "desc": "Mesmo com a expulsão de Thais Regina ainda no primeiro tempo, o Corinthians bateu o Bahia e garantiu vaga na final do Brasileirão Feminino contra o São Paulo.\nO post Com uma a meno...",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/siga-o-placar-ao-vivo-de-corinthians-x-bahia-pelo-brasileirao-feminino/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/imagem_2026-09-21_232130771.webp",
-        "data": "2026-09-22T02:37:43.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "jogadores": [
@@ -119,7 +75,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-09-22",
-        "data": "2026-09-22T08:43:08.873Z",
+        "data": "2026-09-22T13:52:26.079Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -128,7 +84,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-09-22",
-        "data": "2026-09-22T05:43:08.873Z",
+        "data": "2026-09-22T10:52:26.079Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -137,16 +93,8 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-09-22",
-        "data": "2026-09-22T02:43:08.873Z",
+        "data": "2026-09-22T07:52:26.079Z",
         "id": "curado-jogadores-2"
-      },
-      {
-        "titulo": "Elenco do Santos ganha folga e se reapresenta apenas na quinta-feira",
-        "desc": "Embalado por quatro vitórias seguidas no Brasileirão, o Santos se reapresenta apenas na quinta-feira. Cuca aproveitará a data Fifa para trabalhar o elenco e adaptar reforços como P...",
-        "url": "https://www.gazetaesportiva.com/times/santos/santos-folga-data-fifa-reapresentacao-quinta-feira/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55536481811_fd9abb3f51_4k-1.webp",
-        "data": "2026-09-21T18:24:14.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ]
   }

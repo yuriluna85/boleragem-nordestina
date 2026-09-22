@@ -1,23 +1,23 @@
 {
-  "geradoEm": "2026-09-22T08:43:08.961Z",
+  "geradoEm": "2026-09-22T13:52:26.179Z",
   "totais": {
-    "totalGeral": 3608,
+    "totalGeral": 3610,
     "porCategoria": {
-      "masculino": 2566,
+      "masculino": 2567,
       "feminino": 461,
-      "jogadores": 581
+      "jogadores": 582
     }
   },
   "porEstado": {
-    "PE": 2569,
-    "CE": 2639,
-    "BA": 1833,
-    "AL": 2114,
+    "PE": 2570,
+    "CE": 2640,
+    "BA": 1835,
+    "AL": 2115,
     "RN": 408,
-    "PB": 50,
-    "MA": 1970,
+    "PB": 51,
+    "MA": 1971,
     "PI": 284,
-    "SE": 1663
+    "SE": 1664
   },
   "topClubes": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "nome": "Vitória",
-      "total": 1298
+      "total": 1299
     },
     {
       "nome": "Bahia",
@@ -72,7 +72,7 @@
     },
     {
       "nome": "Portal Paraíba",
-      "total": 40
+      "total": 41
     },
     {
       "nome": "Nordestão FC",
@@ -87,11 +87,11 @@
       "total": 27
     },
     {
-      "nome": "Salvador Esportes",
-      "total": 24
+      "nome": "Bahia Notícias",
+      "total": 25
     },
     {
-      "nome": "Bahia Notícias",
+      "nome": "Salvador Esportes",
       "total": 24
     },
     {
