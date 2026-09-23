@@ -1,44 +1,44 @@
 {
-  "geradoEm": "2026-09-23T01:41:39.693Z",
+  "geradoEm": "2026-09-23T07:17:59.465Z",
   "totais": {
-    "totalGeral": 3623,
+    "totalGeral": 3630,
     "porCategoria": {
-      "masculino": 2576,
-      "feminino": 463,
-      "jogadores": 584
+      "masculino": 2579,
+      "feminino": 465,
+      "jogadores": 586
     }
   },
   "porEstado": {
-    "PE": 2577,
-    "CE": 2651,
-    "BA": 1840,
-    "AL": 2121,
-    "RN": 410,
+    "PE": 2583,
+    "CE": 2656,
+    "BA": 1844,
+    "AL": 2125,
+    "RN": 412,
     "PB": 51,
-    "MA": 1979,
-    "PI": 286,
-    "SE": 1673
+    "MA": 1985,
+    "PI": 288,
+    "SE": 1677
   },
   "topClubes": [
     {
       "nome": "Sport",
-      "total": 1664
+      "total": 1666
     },
     {
       "nome": "Vitória",
-      "total": 1304
+      "total": 1306
     },
     {
       "nome": "Bahia",
-      "total": 516
+      "total": 519
     },
     {
       "nome": "Fortaleza",
-      "total": 375
+      "total": 377
     },
     {
       "nome": "Ceará",
-      "total": 222
+      "total": 224
     }
   ],
   "fontesRanking": [
@@ -52,23 +52,23 @@
     },
     {
       "nome": "Diário do Ceará",
-      "total": 134
+      "total": 135
     },
     {
       "nome": "Pernambuco Press",
-      "total": 133
+      "total": 134
+    },
+    {
+      "nome": "Salvador News",
+      "total": 110
     },
     {
       "nome": "Ceará Esportes",
       "total": 110
     },
     {
-      "nome": "Salvador News",
-      "total": 109
-    },
-    {
       "nome": "Vozão Diário",
-      "total": 105
+      "total": 106
     },
     {
       "nome": "Portal Paraíba",
@@ -76,19 +76,19 @@
     },
     {
       "nome": "Nordestão FC",
-      "total": 30
+      "total": 31
+    },
+    {
+      "nome": "Diário de Esportes",
+      "total": 28
     },
     {
       "nome": "Ceará Notícias",
       "total": 27
     },
     {
-      "nome": "Diário de Esportes",
-      "total": 27
-    },
-    {
       "nome": "Bahia Notícias",
-      "total": 25
+      "total": 26
     },
     {
       "nome": "Salvador Esportes",
