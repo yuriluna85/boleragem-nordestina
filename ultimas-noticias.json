@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-09-26T06:22:20.747Z",
+  "ultimaAtualizacao": "2026-09-26T11:39:00.472Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Fábio Carille completa 53 anos; veja fotos da carreira do treinador",
+        "desc": "Fábio Carille completa 53 anos; veja fotos da carreira do treinador\nO post Fábio Carille completa 53 anos; veja fotos da carreira do treinador apareceu primeiro em Gazeta Esportiva...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/fabio-carille-completa-53-anos-veja-fotos-da-carreira-do-treinador/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/imagem/2018/05/22/01114091.jpg",
+        "data": "2026-09-26T11:01:18.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Danilo leva &#8216;espírito de paz&#8217; ao Uberlândia e cita segredos para sucesso em nova fase da carreira",
+        "desc": "Em entrevista exclusiva à Gazeta Esportiva, Danilo abriu o jogo sobre a filosofia que levou o Uberlândia ao título da Série D do Brasileiro. Confira na matéria.\nO post Danilo leva ...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-d/danilo-titulo-uberlandia-serie-d/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55470944747_e68a05ca38_b.webp",
+        "data": "2026-09-26T08:00:14.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Náutico x Sport: veja prováveis escalações e onde assistir ao duelo pela Série B",
         "desc": "Náutico e Sport se enfrentam neste sábado, às 16h30 (de Brasília), no Estádio dos Aflitos, pela 30ª rodada da Série B do Campeonato Brasileiro. O tradicional Clássico dos Clássicos...",
@@ -81,30 +97,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2025/11/Harry-Kane.webp",
         "data": "2026-09-25T19:42:04.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Tite comanda treino do Botafogo na Urca",
-        "desc": "Tite comanda treino do Botafogo na Urca\nO post Tite comanda treino do Botafogo na Urca apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/botafogo/tite-comanda-treino-do-botafogo-na-urca/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/man.webp",
-        "data": "2026-09-25T18:08:44.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do treino do São Paulo desta sexta-feira",
-        "desc": "O post Veja fotos do treino do São Paulo desta sexta-feira apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-treino-do-sao-paulo-desta-sexta-feira-30/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55550593198_51f0411064_o.webp",
-        "data": "2026-09-25T18:02:47.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Espanha exibe camisa com as duas estrelas de campeã mundial",
-        "desc": "Espanha exibe camisa com as duas estrelas de campeã mundial\nO post Espanha exibe camisa com as duas estrelas de campeã mundial apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/espanha-exibe-camisa-com-as-duas-estrelas-de-campea-mundial/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/es.webp",
-        "data": "2026-09-25T17:02:19.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -114,7 +106,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-09-26",
-        "data": "2026-09-26T06:22:20.735Z",
+        "data": "2026-09-26T11:39:00.453Z",
         "id": "curado-feminino-0"
       },
       {
@@ -123,7 +115,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-09-26",
-        "data": "2026-09-26T03:22:20.735Z",
+        "data": "2026-09-26T08:39:00.453Z",
         "id": "curado-feminino-1"
       },
       {
@@ -132,7 +124,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-09-26",
-        "data": "2026-09-26T00:22:20.735Z",
+        "data": "2026-09-26T05:39:00.453Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -143,7 +135,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-09-26",
-        "data": "2026-09-26T06:22:20.735Z",
+        "data": "2026-09-26T11:39:00.453Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -152,17 +144,16 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-09-26",
-        "data": "2026-09-26T03:22:20.735Z",
+        "data": "2026-09-26T08:39:00.453Z",
         "id": "curado-jogadores-1"
       },
       {
-        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
-        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
-        "fonte": "Vozão Diário",
-        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-09-26",
-        "data": "2026-09-26T00:22:20.735Z",
-        "id": "curado-jogadores-2"
+        "titulo": "Atuações: Rayan salva Brasil de derrota e ataque decepciona",
+        "desc": "Rayan e Matheuzinho foram os poucos destaques positivos do Brasil no empate por 1 a 1 com a Austrália, em Townsville. Enquanto o atacante marcou o gol salvador nos acréscimos, o la...",
+        "url": "https://www.gazetaesportiva.com/times/brasil/atuacoes-rayan-salva-brasil-de-derrota-e-ataque-decepciona/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260925__C9CZ2QD__v1__HighRes__FblAusBraFriendly.webp",
+        "data": "2026-09-26T08:00:40.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Mbappé sofre lesão no joelho e deixará concentração da França",
