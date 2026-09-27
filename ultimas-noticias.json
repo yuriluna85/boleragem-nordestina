@@ -1,150 +1,42 @@
 {
-  "ultimaAtualizacao": "2026-09-27T00:11:18.629Z",
+  "ultimaAtualizacao": "2026-09-27T05:32:31.346Z",
   "dados": {
     "masculino": [
       {
-        "titulo": "Vasco treina jogadas ofensivas para disputas decisivas na temporada",
-        "desc": "Vasco treina jogadas ofensivas para disputas decisivas na temporada\nO post Vasco treina jogadas ofensivas para disputas decisivas na temporada apareceu primeiro em Gazeta Esportiva...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/vasco-treina-jogadas-ofensivas-para-disputas-decisivas-na-temporada/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/ogad.webp",
-        "data": "2026-09-26T23:12:13.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Sport Recife e Bahia empatam clássico na Ilha do Retiro por 2 a 2",
+        "desc": "Em um jogo emocionante e cheio de alternativas, Leão da Ilha e Esquadrão dividiram pontos pela Série A do Brasileirão. Gols saíram no segundo tempo.",
+        "fonte": "Nordestão FC",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-0-2026-09-27",
+        "data": "2026-09-27T05:32:31.336Z",
+        "id": "curado-masculino-0"
       },
       {
-        "titulo": "CRB x Cuiabá: veja prováveis escalações e onde assistir ao jogo pela Série B",
-        "desc": "CRB e Cuiabá se enfrentam neste domingo, pela 30ª rodada do Campeonato Brasileiro Série B. A partida será disputada às 16h (de Brasília), no Estádio Rei Pelé, em Maceió.\nO post CRB...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/crb-x-cuiaba-veja-provaveis-escalacoes-e-onde-assistir-ao-jogo-pela-serie-b/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55531177938_e8ff440729_o.webp",
-        "data": "2026-09-26T23:00:47.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Fortaleza vence o Ceará no Clássico-Rei e assume topo da tabela",
+        "desc": "O Tricolor do Pici superou o maior rival por 1 a 0 na Arena Castelão com gol de Yago Pikachu e garantiu a liderança do campeonato regional.",
+        "fonte": "Diário de Esportes",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-1-2026-09-27",
+        "data": "2026-09-27T02:32:31.336Z",
+        "id": "curado-masculino-1"
       },
       {
-        "titulo": "Fortaleza x Athletic: veja onde assistir e prováveis escalações do jogo pela Série B",
-        "desc": "Fortaleza e Athletic se enfrentam neste domingo, 27 de setembro de 2026, às 18h30, na Arena Castelão, pela 30ª rodada da Série B do Campeonato Brasileiro. O Tricolor cearense vive ...",
-        "url": "https://www.gazetaesportiva.com/times/fortaleza/fortaleza-x-athletic-onde-assistir-serie-b-2026/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/TREINO-24-09-2048x1365-1.webp",
-        "data": "2026-09-26T23:00:28.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Vitória anuncia novo patrocinador master para a temporada 2026",
+        "desc": "O Leão da Barra fechou uma das maiores parcerias de sua história recente. O patrocínio deve viabilizar a vinda de novos reforços em julho.",
+        "fonte": "Bahia Notícias",
+        "imagem": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-2-2026-09-26",
+        "data": "2026-09-26T23:32:31.336Z",
+        "id": "curado-masculino-2"
       },
       {
-        "titulo": "Portugal encerra preparação para duelo com a Noruega",
-        "desc": "Portugal encerra preparação para duelo com a Noruega\nO post Portugal encerra preparação para duelo com a Noruega apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/portugal/portugal-encerra-preparacao-para-duelo-com-a-noruega/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/encerra.webp",
-        "data": "2026-09-26T22:57:38.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Abel Ferreira comanda sessão de treino com atividades técnicas",
-        "desc": "Abel Ferreira comanda sessão de treino com atividades técnicas\nO post Abel Ferreira comanda sessão de treino com atividades técnicas apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/abel-ferreira-comanda-sessao-de-treino-com-atividades-tecnicas/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/26092026_cg_palmeiras_9995_44.webp",
-        "data": "2026-09-26T22:23:32.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Operário larga na frente, mas cede empate para o Ceará no Brasileirão Série B",
-        "desc": "Operário-PR e Ceará empataram por 2 a 2 neste sábado, pela 30ª rodada da Série B, no Estádio Germano Kruger. O time paranaense abriu 2 a 0 com gols de Boschilia e Caio Dantas, mas ...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/operario-larga-na-frente-mas-cede-empate-para-o-ceara-no-brasileirao-serie-b/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/HTLDqF1WQAA3Rke.webp",
-        "data": "2026-09-26T21:50:33.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Náutico vence Sport na reestreia de Bruno Pivetti e vence clássico pela Série B",
-        "desc": "O Náutico levou a melhor no clássico pernambucano deste sábado ao derrotar o Sport por 3 a 0, nos Aflitos, pela 30ª rodada da Série B. A partida marcou a estreia do técnico Bruno P...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/nautico-vence-sport-na-estreia-de-bruno-pivetti-e-vence-classico-pela-serie-b/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/HTK2eSpX0AAh40V22.webp",
-        "data": "2026-09-26T21:39:00.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Corinthians segue trabalhando para a reta final da temporada",
-        "desc": "Corinthians segue trabalhando para a reta final da temporada\nO post Corinthians segue trabalhando para a reta final da temporada apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-segue-trabalhando-para-a-reta-final-da-temporada/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/249196.webp",
-        "data": "2026-09-26T21:19:55.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Peixe treina forte sob o sol de Santos",
-        "desc": "Peixe treina forte sob o sol de Santos\nO post Peixe treina forte sob o sol de Santos apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/santos/peixe-treina-forte-sob-o-sol-de-santos/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55552087851_16f992a34d_o.webp",
-        "data": "2026-09-26T20:59:30.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos de Inglaterra x Espanha pela Liga das Nações",
-        "desc": "O post Veja fotos de Inglaterra x Espanha pela Liga das Nações apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/fotos/veja-fotos-de-inglaterra-x-espanha-pela-liga-das-nacoes-2/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260926__C9FV2KB__v1__HighRes__FblNationsEngEsp.webp",
-        "data": "2026-09-26T19:53:46.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Complexo esportivo de R$ 18 milhões é inaugurado em São Paulo com atletas olímpicos",
-        "desc": "São Paulo ganhou um novo espaço voltado à prática esportiva neste sábado. A Arena RZK, localizada no Reserva Raposo, na zona oeste da capital, foi inaugurada com um complexo de mai...",
-        "url": "https://www.gazetaesportiva.com/mais-esportes/complexo-esportivo-de-r-18-milhoes-e-inaugurado-em-sao-paulo-com-atletas-olimpicos/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/0cb67728-55c7-41a8-bc0e-0ee9b5a05c3222.webp",
-        "data": "2026-09-26T18:54:25.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Palmeiras se reapresenta na Academia de Futebol",
-        "desc": "Palmeiras se reapresenta na Academia de Futebol\nO post Palmeiras se reapresenta na Academia de Futebol apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-se-reapresenta-na-academia-de-futebol/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/26092026_cg_palmeiras_9846_24.webp",
-        "data": "2026-09-26T18:53:29.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Corinthians bate Desportivo Brasil e garante vantagem na terceira fase do Paulista Sub-17",
-        "desc": "O Corinthians venceu o Desportivo Brasil por 2 a 0 neste sábado, em Santo André, e confirmou a liderança do Grupo 20 na segunda fase do Campeonato Paulista Sub-17. Igor Macedo part...",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vence-desportivo-brasil-paulista-sub-17/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/1790441369e9a53d0ed1816293ef24647c7b33d819.webp",
-        "data": "2026-09-26T18:35:35.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Torcedora santista realiza sonho e conhece Neymar Jr",
-        "desc": "Torcedora santista realiza sonho e conhece Neymar Jr\nO post Torcedora santista realiza sonho e conhece Neymar Jr apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/santos/torcedora-santista-realiza-sonho-e-conhece-neymar-jr/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/orced.webp",
-        "data": "2026-09-26T18:33:18.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do treino do São Paulo neste sábado",
-        "desc": "O post Veja fotos do treino do São Paulo neste sábado apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-treino-do-sao-paulo-neste-sabado-12/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/img_5625-jpg-819x1024-1.webp",
-        "data": "2026-09-26T18:32:08.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Zidane satisfeito com atuação da França após vitória por 1 a 0 na Turquia",
-        "desc": "Zidane satisfeito com atuação da França após vitória por 1 a 0 na Turquia\nO post Zidane satisfeito com atuação da França após vitória por 1 a 0 na Turquia apareceu primeiro em Gaze...",
-        "url": "https://www.gazetaesportiva.com/times/franca/zidane-satisfeito-com-atuacao-da-franca-apos-vitoria-por-1-a-0-na-turquia/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/tisf.webp",
-        "data": "2026-09-26T17:38:54.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Portugal chega a Oslo para duelo com a Noruega",
-        "desc": "Portugal chega a Oslo para duelo com a Noruega\nO post Portugal chega a Oslo para duelo com a Noruega apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/portugal/portugal-chega-a-oslo-para-duelo-com-a-noruega/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/tuga.webp",
-        "data": "2026-09-26T16:19:12.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Espanha exibe orgulhosamente suas duas estrelas de campeã do mundo",
-        "desc": "Espanha exibe orgulhosamente suas duas estrelas de campeã do mundo\nO post Espanha exibe orgulhosamente suas duas estrelas de campeã do mundo apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/espanha-exibe-orgulhosamente-suas-duas-estrelas-de-campea-do-mundo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/spanha.webp",
-        "data": "2026-09-26T15:50:37.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Botafogo-PB e CRB se enfrentam pelas quartas da Copa do Nordeste",
+        "desc": "Partida de ida será disputada no Almeidão. Expectativa é de casa cheia para apoiar o Belo diante do embalado time alagoano.",
+        "fonte": "Portal Paraíba",
+        "imagem": "https://images.unsplash.com/photo-1504156067013-fbe0f2c8b78b?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-3-2026-09-26",
+        "data": "2026-09-26T20:32:31.336Z",
+        "id": "curado-masculino-3"
       }
     ],
     "feminino": [
@@ -154,7 +46,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-09-27",
-        "data": "2026-09-27T00:11:18.610Z",
+        "data": "2026-09-27T05:32:31.336Z",
         "id": "curado-feminino-0"
       },
       {
@@ -162,8 +54,8 @@
         "desc": "Mais de 15 mil torcedores empurraram as Leoas na vitória histórica contra o Bahia. Um novo marco para o esporte feminino no Nordeste.",
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-09-26",
-        "data": "2026-09-26T21:11:18.610Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-09-27",
+        "data": "2026-09-27T02:32:31.336Z",
         "id": "curado-feminino-1"
       },
       {
@@ -172,7 +64,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-09-26",
-        "data": "2026-09-26T18:11:18.610Z",
+        "data": "2026-09-26T23:32:31.336Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -183,7 +75,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-09-27",
-        "data": "2026-09-27T00:11:18.610Z",
+        "data": "2026-09-27T05:32:31.336Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -191,8 +83,8 @@
         "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-09-26",
-        "data": "2026-09-26T21:11:18.610Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-09-27",
+        "data": "2026-09-27T02:32:31.336Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -201,16 +93,8 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-09-26",
-        "data": "2026-09-26T18:11:18.610Z",
+        "data": "2026-09-26T23:32:31.336Z",
         "id": "curado-jogadores-2"
-      },
-      {
-        "titulo": "Mbappé sofre hiperextensão do joelho e deve ficar afastado por duas semanas",
-        "desc": "Kylian Mbappé sofreu uma hiperextensão no joelho esquerdo durante a vitória da França por 1 a 0 sobre a Turquia, pela Liga das Nações da Uefa. O atacante marcou o gol da partida, m...",
-        "url": "https://www.gazetaesportiva.com/times/franca/mbappe-sofre-hiperextensao-do-joelho-e-deve-ficar-afastado-por-duas-semanas/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260925__C9ED3GW__v2__HighRes__TopshotFblEurNationsTurFra.webp",
-        "data": "2026-09-26T18:05:16.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ]
   }
