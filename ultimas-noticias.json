@@ -1,158 +1,42 @@
 {
-  "ultimaAtualizacao": "2026-09-28T07:17:02.975Z",
+  "ultimaAtualizacao": "2026-09-28T15:44:38.422Z",
   "dados": {
     "masculino": [
       {
-        "titulo": "Ramiro Gandola vence prova principal da Moto1000GP em Santa Cruz do Sul",
-        "desc": "Ramiro Gandola foi o grande vencedor da sexta etapa da temporada 2026 da Moto1000GP, neste final de semana, em Santa Cruz do Sul (RS). Tricampeão da categoria, o argentino da W2v R...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/ramiro-gandola-vence-prova-principal-da-moto1000gp-em-santa-cruz-do-sul/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/m1gp_2026_etapa_06_scs_gp1000_sabado_31.webp",
-        "data": "2026-09-28T02:25:59.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Sport Recife e Bahia empatam clássico na Ilha do Retiro por 2 a 2",
+        "desc": "Em um jogo emocionante e cheio de alternativas, Leão da Ilha e Esquadrão dividiram pontos pela Série A do Brasileirão. Gols saíram no segundo tempo.",
+        "fonte": "Nordestão FC",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-0-2026-09-28",
+        "data": "2026-09-28T15:44:38.408Z",
+        "id": "curado-masculino-0"
       },
       {
-        "titulo": "Cruzeiro volta à ativa na Toca 2 de olho do Brasileirão",
-        "desc": "Cruzeiro volta à ativa na Toca 2 de olho do Brasileirão\nO post Cruzeiro volta à ativa na Toca 2 de olho do Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-volta-a-ativa-na-toca-2-de-olho-do-brasileirao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/Cruz.webp",
-        "data": "2026-09-28T00:30:04.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Fortaleza vence o Ceará no Clássico-Rei e assume topo da tabela",
+        "desc": "O Tricolor do Pici superou o maior rival por 1 a 0 na Arena Castelão com gol de Yago Pikachu e garantiu a liderança do campeonato regional.",
+        "fonte": "Diário de Esportes",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-1-2026-09-28",
+        "data": "2026-09-28T12:44:38.408Z",
+        "id": "curado-masculino-1"
       },
       {
-        "titulo": "Vasco segue treinando forte no CT Moacyr Barbosa",
-        "desc": "Vasco segue treinando forte no CT Moacyr Barbosa\nO post Vasco segue treinando forte no CT Moacyr Barbosa apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/vasco/vasco-segue-treinando-forte-no-ct-moacyr-barbosa/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/treinand.webp",
-        "data": "2026-09-28T00:10:44.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Vitória anuncia novo patrocinador master para a temporada 2026",
+        "desc": "O Leão da Barra fechou uma das maiores parcerias de sua história recente. O patrocínio deve viabilizar a vinda de novos reforços em julho.",
+        "fonte": "Bahia Notícias",
+        "imagem": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-2-2026-09-28",
+        "data": "2026-09-28T09:44:38.408Z",
+        "id": "curado-masculino-2"
       },
       {
-        "titulo": "Melhores momentos: LA Galaxy 3 x 2 Colorado Rapids pela MLS",
-        "desc": "Melhores momentos: LA Galaxy 3 x 2 Colorado Rapids pela MLS\nO post Melhores momentos: LA Galaxy 3 x 2 Colorado Rapids pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-la-galaxy-3-x-2-colorado-rapids-pela-mls/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/Gala.webp",
-        "data": "2026-09-27T23:55:48.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Vancouver 3 x 3 D.C. United  pela MLS",
-        "desc": "Melhores momentos: Vancouver 3 x 3 D.C. United  pela MLS\nO post Melhores momentos: Vancouver 3 x 3 D.C. United  pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-vancouver-3-x-3-d-c-united-pela-mls/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/ncouve.webp",
-        "data": "2026-09-27T23:45:11.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Fortaleza fica no empate com o Athletic e pode perder a vice-liderança da Série B",
-        "desc": "Fortaleza e Athletic empataram por 2 a 2 neste domingo, no Castelão, pela 30ª rodada da Série B. O Leão chegou a virar a partida após sair atrás no placar, mas viu Enzo deixar tudo...",
-        "url": "https://www.gazetaesportiva.com/times/fortaleza/fortaleza-fica-no-empate-com-o-athletic-e-pode-perder-a-vice-lideranca-da-serie-b/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/SaveClip.App_825326683_18462559210139579_1387843195211310981_n.webp",
-        "data": "2026-09-27T23:31:59.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Austin FC 3 x 3 San Diego FC pela MLS",
-        "desc": "Melhores momentos: Austin FC 3 x 3 San Diego FC pela MLS\nO post Melhores momentos: Austin FC 3 x 3 San Diego FC pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-austin-fc-3-x-3-san-diego-fc-pela-mls/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/Aust.webp",
-        "data": "2026-09-27T23:25:42.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Houston Dynamo FC 0 x 2 Sporting Kansas City pela MLS",
-        "desc": "Melhores momentos: Houston Dynamo FC 0 x 2 Sporting Kansas City pela MLS\nO post Melhores momentos: Houston Dynamo FC 0 x 2 Sporting Kansas City pela MLS apareceu primeiro em Gazeta...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-houston-dynamo-fc-0-x-2-sporting-kansas-city-pela-mls/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/Hous.webp",
-        "data": "2026-09-27T23:13:28.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Nashville SC 2 x 0 Toronto FC pela MLS",
-        "desc": "Melhores momentos: Nashville SC 2 x 0 Toronto FC pela MLS\nO post Melhores momentos: Nashville SC 2 x 0 Toronto FC pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-nashville-sc-2-x-0-toronto-fc-pela-mls/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/ashvi.webp",
-        "data": "2026-09-27T21:43:57.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Confira as fotos do NFL Rio Game entre Baltimore Ravens e Dallas Cowboys",
-        "desc": "O post Confira as fotos do NFL Rio Game entre Baltimore Ravens e Dallas Cowboys apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/campeonatos/nfl/confira-as-fotos-do-nfl-rio-game-entre-baltimore-ravens-e-dallas-cowboys/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260927__C9HF9E8__v1__MidRes__AmfootBraNflCowboysRavens.webp",
-        "data": "2026-09-27T21:23:58.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "CRB vence Cuiabá e se aproxima do G6 da Série B do Brasileiro",
-        "desc": "O CRB venceu o Cuiabá por 3 a 0 neste domingo, no Estádio Rei Pelé, pela 30ª rodada da Série B do Campeonato Brasileiro. Danielzinho, Crystopher e Geovane marcaram os gols do time ...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/crb-vence-cuiaba-encosta-g6-serie-b/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55553784457_99b4fc7c27_o.webp",
-        "data": "2026-09-27T20:57:53.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Philadelphia Union 4 x 2 Orlando City pela MLS",
-        "desc": "Melhores momentos: Philadelphia Union 4 x 2 Orlando City pela MLS\nO post Melhores momentos: Philadelphia Union 4 x 2 Orlando City pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-philadelphia-union-4-x-2-orlando-city-pela-mls/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/hilad.webp",
-        "data": "2026-09-27T20:50:22.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Sob comando de Klopp, Alemanha é derrotada pela Grécia na Liga das Nações",
-        "desc": "A Grécia venceu a Alemanha por 1 a 0, na WWK Arena, em Augsburg, pela segunda rodada da Liga das Nações. Dimitris Kourbelis marcou o gol da vitória, que manteve os gregos com 100% ...",
-        "url": "https://www.gazetaesportiva.com/times/grecia/sob-comando-de-klopp-alemanha-e-derrotada-pela-grecia-na-liga-das-nacoes/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260927__C9HD7VN__v1__HighRes__FblEurNationsGerGre.webp",
-        "data": "2026-09-27T20:43:13.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos da partida entre CRB e Cuiabá pela Série B do Brasileiro",
-        "desc": "Veja fotos da partida entre CRB e Cuiabá pela Série B do Brasileiro.\nO post Veja fotos da partida entre CRB e Cuiabá pela Série B do Brasileiro apareceu primeiro em Gazeta Esportiv...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/veja-fotos-da-partida-entre-crb-e-cuiaba-pela-serie-b-do-brasileiro/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/55554971669_8b41b1d2e6_o.webp",
-        "data": "2026-09-27T20:33:24.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Ancelotti segue preparação da Seleção Brasileira em Brisbane",
-        "desc": "Ancelotti segue preparação da Seleção Brasileira em Brisbane\nO post Ancelotti segue preparação da Seleção Brasileira em Brisbane apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/brasil/ancelotti-segue-preparacao-da-selecao-brasileira-em-brisbane/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/seg.webp",
-        "data": "2026-09-27T20:01:49.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Atlanta United 2 x 2 New York City FC pela MLS",
-        "desc": "Melhores momentos: Atlanta United 2 x 2 New York City FC pela MLS\nO post Melhores momentos: Atlanta United 2 x 2 New York City FC pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-atlanta-united-2-x-2-new-york-city-fc-pela-mls/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/anta.webp",
-        "data": "2026-09-27T19:09:53.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Holanda bate a Sérvia e assume liderança provisória do grupo na Liga das Nações",
-        "desc": "A Holanda conquistou uma importante vitória por 2 a 1 sobre a Sérvia neste domingo, em Belgrado, pela segunda rodada do Grupo A2 da Liga das Nações. Com dois gols de Mexx Meerdink,...",
-        "url": "https://www.gazetaesportiva.com/times/holanda/holanda-vence-servia-com-dois-gols-de-meerdink-e-assume-lideranca-provisoria/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260927__C9H22UA__v1__HighRes__FblEurNationsSrbNed.webp",
-        "data": "2026-09-27T18:00:28.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: CF Montréal 3 x 1 FC Cincinnati pela MLS",
-        "desc": "Melhores momentos: CF Montréal 3 x 1 FC Cincinnati pela MLS\nO post Melhores momentos: CF Montréal 3 x 1 FC Cincinnati pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-cf-montreal-3-x-1-fc-cincinnati-pela-mls/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/ontre.webp",
-        "data": "2026-09-27T17:55:01.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Charlotte FC 0 x 1 Chicago Fire FC pela MLS",
-        "desc": "Melhores momentos: Charlotte FC 0 x 1 Chicago Fire FC pela MLS\nO post Melhores momentos: Charlotte FC 0 x 1 Chicago Fire FC pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-charlotte-fc-0-x-1-chicago-fire-fc-pela-mls/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/09/arlott.webp",
-        "data": "2026-09-27T17:01:15.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Botafogo-PB e CRB se enfrentam pelas quartas da Copa do Nordeste",
+        "desc": "Partida de ida será disputada no Almeidão. Expectativa é de casa cheia para apoiar o Belo diante do embalado time alagoano.",
+        "fonte": "Portal Paraíba",
+        "imagem": "https://images.unsplash.com/photo-1504156067013-fbe0f2c8b78b?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-3-2026-09-28",
+        "data": "2026-09-28T06:44:38.408Z",
+        "id": "curado-masculino-3"
       }
     ],
     "feminino": [
@@ -162,7 +46,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-09-28",
-        "data": "2026-09-28T07:17:02.966Z",
+        "data": "2026-09-28T15:44:38.408Z",
         "id": "curado-feminino-0"
       },
       {
@@ -171,7 +55,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-09-28",
-        "data": "2026-09-28T04:17:02.966Z",
+        "data": "2026-09-28T12:44:38.408Z",
         "id": "curado-feminino-1"
       },
       {
@@ -180,7 +64,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-09-28",
-        "data": "2026-09-28T01:17:02.966Z",
+        "data": "2026-09-28T09:44:38.408Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -191,7 +75,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-09-28",
-        "data": "2026-09-28T07:17:02.966Z",
+        "data": "2026-09-28T15:44:38.408Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -200,7 +84,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-09-28",
-        "data": "2026-09-28T04:17:02.966Z",
+        "data": "2026-09-28T12:44:38.408Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -209,7 +93,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-09-28",
-        "data": "2026-09-28T01:17:02.966Z",
+        "data": "2026-09-28T09:44:38.408Z",
         "id": "curado-jogadores-2"
       }
     ]
