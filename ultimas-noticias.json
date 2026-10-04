@@ -1,7 +1,31 @@
 {
-  "ultimaAtualizacao": "2026-10-04T06:10:02.801Z",
+  "ultimaAtualizacao": "2026-10-04T12:42:19.650Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Embalado, Santos alcança melhor sequência no Brasileiro desde Sampaoli",
+        "desc": "Com a vitória sobre o São Paulo, o Santos chegou ao quinto triunfo seguido no Brasileiro e se aproximou da sequência alcançada por Sampaoli.\nO post Embalado, Santos alcança melhor ...",
+        "url": "https://www.gazetaesportiva.com/times/santos/embalado-santos-alcanca-melhor-sequencia-no-brasileiro-desde-sampaoli/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55565850871_c149288695_o-1.webp",
+        "data": "2026-10-04T10:00:44.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Ancelotti revela planos para próxima convocação do Brasil: “Quero ver outros jovens”",
+        "desc": "Após encerrar a Data Fifa de outubro com uma vitória por 4 a 0 sobre a Índia, Carlo Ancelotti já projetou os próximos passos do trabalho à frente da Seleção Brasileira. O treinador...",
+        "url": "https://www.gazetaesportiva.com/times/brasil/ancelotti-revela-planos-para-proxima-convocacao-do-brasil-quero-ver-outros-jovens/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20260925__C9D946Y__v1__HighRes__FblAusBraFriendly.webp",
+        "data": "2026-10-04T10:00:32.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Análise: Brasil encerra data Fifa com nova atuação decepcionante",
+        "desc": "A Seleção Brasileira encerrou a Data Fifa com uma vitória por 4 a 0 sobre a Índia, neste sábado, em Calcutá, mas voltou a apresentar um futebol abaixo do esperado. Apesar do placar...",
+        "url": "https://www.gazetaesportiva.com/times/brasil/analise-brasil-fecha-data-fifa-com-nova-atuacao-decepcionante-contra-india/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/03OUT2026-INDIA-X-BRASIL-27-ESTEVAO.webp",
+        "data": "2026-10-04T09:00:56.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Atlético-MG encerra parceria com patrocinador máster; saiba detalhes",
         "desc": "O Atlético-MG teve a parceria com a H2bet encerrada após a Medida Provisória que proibiu a exploração e a publicidade das apostas esportivas no Brasil.\nO post Atlético-MG encerra p...",
@@ -81,22 +105,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/jogo-tre.webp",
         "data": "2026-10-03T21:41:55.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Ancelotti elogia estreantes e promete mais jovens na próxima lista",
-        "desc": "Ancelotti elogia estreantes e promete mais jovens na próxima lista\nO post Ancelotti elogia estreantes e promete mais jovens na próxima lista apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/brasil/ancelotti-elogia-estreantes-e-promete-mais-jovens-na-proxima-lista/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/Ancel.webp",
-        "data": "2026-10-03T20:15:20.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Confira fotos da reapresentação do São Paulo neste sábado",
-        "desc": "O post Confira fotos da reapresentação do São Paulo neste sábado apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/confira-fotos-da-reapresentacao-do-sao-paulo-neste-sabado/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55565949747_c767cc73a9_k.webp",
-        "data": "2026-10-03T19:20:05.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -106,7 +114,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-10-04",
-        "data": "2026-10-04T06:10:02.797Z",
+        "data": "2026-10-04T12:42:19.647Z",
         "id": "curado-feminino-0"
       },
       {
@@ -115,7 +123,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-10-04",
-        "data": "2026-10-04T03:10:02.797Z",
+        "data": "2026-10-04T09:42:19.647Z",
         "id": "curado-feminino-1"
       },
       {
@@ -124,7 +132,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-10-04",
-        "data": "2026-10-04T00:10:02.797Z",
+        "data": "2026-10-04T06:42:19.647Z",
         "id": "curado-feminino-2"
       },
       {
@@ -143,7 +151,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-10-04",
-        "data": "2026-10-04T06:10:02.797Z",
+        "data": "2026-10-04T12:42:19.647Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -152,8 +160,16 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-10-04",
-        "data": "2026-10-04T03:10:02.797Z",
+        "data": "2026-10-04T09:42:19.647Z",
         "id": "curado-jogadores-1"
+      },
+      {
+        "titulo": "Atuações do Brasil: Samuel Lino entra bem e se destaca ao lado de Pedro e Estêvão",
+        "desc": "Apesar da atuação abaixo do esperado da Seleção Brasileira, três jogadores destoaram positivamente e tiveram bom desempenho na vitória por 4 a 0 sobre a Índia, neste sábado, em Cal...",
+        "url": "https://www.gazetaesportiva.com/times/brasil/atuacoes-do-brasil-samuel-lino-entra-bem-e-destoa-junto-a-pedro-e-estevao/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/03OUT2026-INDIA-X-BRASIL-51-SAMUEL-LINO.webp",
+        "data": "2026-10-04T08:00:18.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
@@ -161,7 +177,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-10-04",
-        "data": "2026-10-04T00:10:02.797Z",
+        "data": "2026-10-04T06:42:19.647Z",
         "id": "curado-jogadores-2"
       }
     ]
