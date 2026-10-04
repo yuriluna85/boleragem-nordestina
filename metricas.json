@@ -1,23 +1,23 @@
 {
-  "geradoEm": "2026-10-04T17:16:08.218Z",
+  "geradoEm": "2026-10-04T20:19:16.336Z",
   "totais": {
-    "totalGeral": 3955,
+    "totalGeral": 3958,
     "porCategoria": {
-      "masculino": 2816,
+      "masculino": 2818,
       "feminino": 501,
-      "jogadores": 638
+      "jogadores": 639
     }
   },
   "porEstado": {
-    "PE": 2790,
-    "CE": 2882,
-    "BA": 2002,
-    "AL": 2309,
+    "PE": 2792,
+    "CE": 2884,
+    "BA": 2004,
+    "AL": 2311,
     "RN": 454,
-    "PB": 60,
-    "MA": 2159,
-    "PI": 319,
-    "SE": 1848
+    "PB": 61,
+    "MA": 2161,
+    "PI": 320,
+    "SE": 1849
   },
   "topClubes": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "nome": "Vitória",
-      "total": 1405
+      "total": 1406
     },
     {
       "nome": "Bahia",
@@ -34,11 +34,11 @@
     },
     {
       "nome": "Fortaleza",
-      "total": 413
+      "total": 414
     },
     {
       "nome": "Ceará",
-      "total": 247
+      "total": 248
     }
   ],
   "fontesRanking": [
@@ -72,7 +72,7 @@
     },
     {
       "nome": "Portal Paraíba",
-      "total": 50
+      "total": 51
     },
     {
       "nome": "Nordestão FC",
@@ -80,11 +80,11 @@
     },
     {
       "nome": "Diário de Esportes",
-      "total": 37
+      "total": 38
     },
     {
       "nome": "Bahia Notícias",
-      "total": 35
+      "total": 36
     },
     {
       "nome": "Ceará Notícias",
