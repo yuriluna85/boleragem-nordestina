@@ -1,7 +1,39 @@
 {
-  "ultimaAtualizacao": "2026-10-04T12:42:19.650Z",
+  "ultimaAtualizacao": "2026-10-04T17:16:08.135Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Senegal supera Comores em amistoso na França",
+        "desc": "A seleção de Senegal derrotou Comores por 1 a 0 neste domingo, em amistoso internacional disputado na França. O gol da vitória foi marcado por Iliman Ndiaye, aos cinco minutos do p...",
+        "url": "https://www.gazetaesportiva.com/times/senegal/senegal-supera-comores-em-amistoso-na-franca/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260701__2284229298__v1__HighRes__BelgiumVSenegalRoundOf32FifaWorldCup2026.webp",
+        "data": "2026-10-04T16:05:42.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Com brilho de joias de Santos e Palmeiras, Seleção sub-20 goleia o México",
+        "desc": "A Seleção Brasileira Sub-20 goleou o México por 4 a 0 neste domingo, na Espanha, e encerrou a Data Fifa com três vitórias em três jogos. Heittor, do Palmeiras, e João Ananias, do S...",
+        "url": "https://www.gazetaesportiva.com/times/brasil/com-brilho-de-joias-de-santos-e-palmeiras-selecao-sub-20-goleia-o-mexico/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/Whats_App_Image_2026_10_04_at_07_15_29_94d12ee419.webp",
+        "data": "2026-10-04T13:57:24.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Promessa quebra recorde e comanda vitória dos EUA sobre o México",
+        "desc": "Os Estados Unidos derrotaram o México por 3 a 0 neste sábado, em amistoso internacional disputado no Arizona. O destaque foi Cavan Sullivan, que, aos 17 anos e cinco dias, tornou-s...",
+        "url": "https://www.gazetaesportiva.com/times/estados-unidos/promessa-quebra-recorde-e-comanda-vitoria-dos-eua-sobre-o-mexico/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261004__2298466883__v1__HighRes__UnitedStatesVMexicoInternationalFriendly.webp",
+        "data": "2026-10-04T12:52:29.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Veja fotos do GP do Bahrein de Fórmula 1 deste domingo",
+        "desc": "O post Veja fotos do GP do Bahrein de Fórmula 1 deste domingo apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/motor/formula-1/veja-fotos-do-gp-do-bahrein-de-formula-1-deste-domingo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261004__D27E2JK__v1__MidRes__AutoPrixF1BrnMasPodium.webp",
+        "data": "2026-10-04T12:43:50.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Embalado, Santos alcança melhor sequência no Brasileiro desde Sampaoli",
         "desc": "Com a vitória sobre o São Paulo, o Santos chegou ao quinto triunfo seguido no Brasileiro e se aproximou da sequência alcançada por Sampaoli.\nO post Embalado, Santos alcança melhor ...",
@@ -97,14 +129,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/Vas.webp",
         "data": "2026-10-03T22:14:37.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Bahia vence jogo-treino contra o sub-20; veja gols",
-        "desc": "Bahia vence jogo-treino contra o sub-20; veja gols\nO post Bahia vence jogo-treino contra o sub-20; veja gols apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/bahia/bahia-vence-jogo-treino-contra-o-sub-20-veja-gols/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/jogo-tre.webp",
-        "data": "2026-10-03T21:41:55.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -114,7 +138,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-10-04",
-        "data": "2026-10-04T12:42:19.647Z",
+        "data": "2026-10-04T17:16:08.132Z",
         "id": "curado-feminino-0"
       },
       {
@@ -123,7 +147,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-10-04",
-        "data": "2026-10-04T09:42:19.647Z",
+        "data": "2026-10-04T14:16:08.132Z",
         "id": "curado-feminino-1"
       },
       {
@@ -132,7 +156,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-10-04",
-        "data": "2026-10-04T06:42:19.647Z",
+        "data": "2026-10-04T11:16:08.132Z",
         "id": "curado-feminino-2"
       },
       {
@@ -151,7 +175,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-10-04",
-        "data": "2026-10-04T12:42:19.647Z",
+        "data": "2026-10-04T17:16:08.132Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -160,8 +184,17 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-10-04",
-        "data": "2026-10-04T09:42:19.647Z",
+        "data": "2026-10-04T14:16:08.132Z",
         "id": "curado-jogadores-1"
+      },
+      {
+        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
+        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
+        "fonte": "Vozão Diário",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-10-04",
+        "data": "2026-10-04T11:16:08.132Z",
+        "id": "curado-jogadores-2"
       },
       {
         "titulo": "Atuações do Brasil: Samuel Lino entra bem e se destaca ao lado de Pedro e Estêvão",
@@ -170,15 +203,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/03OUT2026-INDIA-X-BRASIL-51-SAMUEL-LINO.webp",
         "data": "2026-10-04T08:00:18.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
-        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
-        "fonte": "Vozão Diário",
-        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-10-04",
-        "data": "2026-10-04T06:42:19.647Z",
-        "id": "curado-jogadores-2"
       }
     ]
   }
