@@ -1,10 +1,50 @@
 {
-  "ultimaAtualizacao": "2026-10-08T02:28:01.836Z",
+  "ultimaAtualizacao": "2026-10-08T09:21:33.638Z",
   "dados": {
     "masculino": [
       {
-        "titulo": "Marcelo Paz comunica demissão de Fernando Diniz",
-        "desc": "Marcelo Paz comunica demissão de Fernando Diniz\nO post Marcelo Paz comunica demissão de Fernando Diniz apareceu primeiro em Gazeta Esportiva.",
+        "titulo": "Análise: São Paulo não se acha em campo, e Dorival também merece ser cobrado",
+        "desc": "Confira uma análise da Gazeta Esportiva sobre a atuação do São Paulo na derrota por 2 a 0 para o Cruzeiro na última quarta-feira, no Mineirão, pela 29ª rodada do Campeonato Brasile...",
+        "url": "https://www.gazetaesportiva.com/times/sao-paulo/analise-sao-paulo-nao-se-acha-em-campo-e-dorival-tambem-precisa-ser-cobrado/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55576011271_968a342e43_o.webp",
+        "data": "2026-10-08T09:00:53.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Casa cheia, líder pela frente e Neymar de volta: Santos encara maior teste de sua arrancada",
+        "desc": "Embalado por cinco vitórias consecutivas, o Santos recebe o líder Flamengo com a Vila Belmiro lotada e Neymar novamente à disposição. Duelo será um dos maiores testes da reação san...",
+        "url": "https://www.gazetaesportiva.com/times/santos/santos-flamengo-neymar-teste-arrancada-brasileirao/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55574971161_d6560b52c5_3k.webp",
+        "data": "2026-10-08T09:00:53.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Retorno de Lucas é esperança do São Paulo em reta final do Brasileiro: &#8220;Vai acrescentar muito&#8221;",
+        "desc": "Dorival Júnior confirmou que planeja dar minutos a Lucas no duelo contra o Vitória, marcado para este sábado, pelo Brasileirão.\nO post Retorno de Lucas é esperança do São Paulo em ...",
+        "url": "https://www.gazetaesportiva.com/times/sao-paulo/dorival-confirma-volta-lucas-sao-paulo-vitoria/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/HUC_RWpWkAAXH4F.webp",
+        "data": "2026-10-08T08:00:52.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Melhores momentos: Cruzeiro 2 x 0 São Paulo pelo Brasileirão",
+        "desc": "Melhores momentos: Cruzeiro 2 x 0 São Paulo pelo Brasileirão\nO post Melhores momentos: Cruzeiro 2 x 0 São Paulo pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-cruzeiro-2-x-0-sao-paulo-pelo-brasileirao/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55576333770_9e7874ab59_k.webp",
+        "data": "2026-10-08T02:54:44.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Zé Lucas comemora primeiro gol pelo Cruzeiro e mira vaga na Libertadores",
+        "desc": "Zé Lucas marcou o primeiro gol de sua carreira na vitória do Cruzeiro sobre o São Paulo por 2 a 0 nesta quarta-feira. O volante de 18 anos destacou ser uma &#8220;noite especial&#8...",
+        "url": "https://www.gazetaesportiva.com/times/cruzeiro/ze-lucas-comemora-primeiro-gol-pelo-cruzeiro-e-mira-vaga-na-libertadores/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55576071713_24c3d9f55d_o.webp",
+        "data": "2026-10-08T02:42:53.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Marcelo Paz comunica demissão de Fernando Diniz; assista ao vídeo",
+        "desc": "Marcelo Paz comunica demissão de Fernando Diniz\nO post Marcelo Paz comunica demissão de Fernando Diniz; assista ao vídeo apareceu primeiro em Gazeta Esportiva.",
         "url": "https://www.gazetaesportiva.com/times/corinthians/marcelo-paz-comunica-demissao-de-fernando-diniz/",
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/Marcelo-Pa.webp",
         "data": "2026-10-08T02:26:58.000Z",
@@ -121,14 +161,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55192282983_0dbfc0fe60_o.webp",
         "data": "2026-10-07T23:00:25.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Corinthians anuncia novo patrocinador máster para duelo contra o Inter; confira",
-        "desc": "Corinthians terá a Jota.ai como patrocinadora máster de forma pontual contra o Internacional. Empresa de inteligência artificial ocupará o espaço da Esportes da Sorte no uniforme.\n...",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-novo-patrocinador-master-jota-ai-internacional/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/1fbfe194-7d0a-449c-bee7-86d03f053502.webp",
-        "data": "2026-10-07T19:14:45.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -138,7 +170,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-10-08",
-        "data": "2026-10-08T02:28:01.833Z",
+        "data": "2026-10-08T09:21:33.635Z",
         "id": "curado-feminino-0"
       },
       {
@@ -146,8 +178,8 @@
         "desc": "Mais de 15 mil torcedores empurraram as Leoas na vitória histórica contra o Bahia. Um novo marco para o esporte feminino no Nordeste.",
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-10-07",
-        "data": "2026-10-07T23:28:01.833Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-10-08",
+        "data": "2026-10-08T06:21:33.635Z",
         "id": "curado-feminino-1"
       },
       {
@@ -155,8 +187,8 @@
         "desc": "O Tricolor de Aço se reforça visando a disputa do mata-mata do Brasileiro Feminino A2. Apresentação das novas atletas ocorre nesta segunda.",
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-10-07",
-        "data": "2026-10-07T20:28:01.833Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-10-08",
+        "data": "2026-10-08T03:21:33.635Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -167,7 +199,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-10-08",
-        "data": "2026-10-08T02:28:01.833Z",
+        "data": "2026-10-08T09:21:33.635Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -175,9 +207,18 @@
         "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-10-07",
-        "data": "2026-10-07T23:28:01.833Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-10-08",
+        "data": "2026-10-08T06:21:33.635Z",
         "id": "curado-jogadores-1"
+      },
+      {
+        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
+        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
+        "fonte": "Vozão Diário",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-10-08",
+        "data": "2026-10-08T03:21:33.635Z",
+        "id": "curado-jogadores-2"
       },
       {
         "titulo": "Bontempo celebra chance na Seleção e projeta Santos x Flamengo: “Expectativa é vencer”",
@@ -186,15 +227,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55573940432_a087336179_3k-1.webp",
         "data": "2026-10-07T22:30:56.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
-        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
-        "fonte": "Vozão Diário",
-        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-10-07",
-        "data": "2026-10-07T20:28:01.833Z",
-        "id": "curado-jogadores-2"
       }
     ]
   }
