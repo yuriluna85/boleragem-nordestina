@@ -1,21 +1,101 @@
 {
-  "ultimaAtualizacao": "2026-10-10T21:06:57.942Z",
+  "ultimaAtualizacao": "2026-10-11T00:19:25.119Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "São Paulo x Vitória: acompanhe os lances em tempo real do jogo do Brasileirão",
+        "desc": "São Paulo e Vitória medem forças em confronto válido pela 30ª rodada do Campeonato Brasileiro. A bola rola às 21h (de Brasília) deste sábado, no Morumbis, na capital paulista. Acom...",
+        "url": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-x-vitoria-30-rodada-brasileirao-10-10-2026/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/HUTOcdhXgAAYi36.webp",
+        "data": "2026-10-10T23:45:00.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "São Paulo tem Lucas no banco e retorno de titular para enfrentar o Vitória; veja escalações",
+        "desc": "Com Lucas Moura à disposição de Dorival Júnior, o São Paulo está escalado para enfrentar o Vitória, neste sábado, pela 30ª rodada do Campeonato Brasileiro. A bola rola a partir das...",
+        "url": "https://www.gazetaesportiva.com/times/sao-paulo/escalacoes-sao-paulo-vitoria-brasileirao-10-10-2026/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/escalacao-sao-paulo-brasileirao-vitoria.webp",
+        "data": "2026-10-10T23:09:09.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Vasco empata com Remo no Brasileirão e tem sequência de vitórias quebrada",
+        "desc": "Vasco e Remo empataram por 0 a 0 neste sábado (10), em São Januário, pela 30ª rodada do Brasileirão Série A. O resultado encerrou a sequência de quatro vitórias consecutivas do Cru...",
+        "url": "https://www.gazetaesportiva.com/times/vasco/vasco-x-remo-empate-sem-gols-brasileirao-30-rodada/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/bc18f01c-c1a4-43e3-9cf5-8c279b1620fa.webp",
+        "data": "2026-10-10T23:01:39.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Náutico x Vila Nova pela Série B do Brasileiro: veja prováveis escalações e onde assistir",
+        "desc": "Náutico e Vila Nova medem forças neste domingo, nos Aflitos, pela 33ª rodada da Série B do Campeonato Brasileiro. Enquanto a equipe pernambucana busca se recuperar da derrota para ...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/nautico-x-vila-nova-onde-assistir-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55346571787_ba2f705e29_o.webp",
+        "data": "2026-10-10T23:00:59.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Bahia x Mirassol: veja onde assistir e prováveis escalações do jogo pelo Brasileirão",
+        "desc": "Bahia e Mirassol se enfrentam neste domingo, 11 de outubro de 2026, às 19h30, na Arena Fonte Nova, em Salvador, pela 30ª rodada do Campeonato Brasileiro Série A. O Tricolor Baiano ...",
+        "url": "https://www.gazetaesportiva.com/times/bahia/bahia-x-mirassol-onde-assistir-escalacoes-brasileirao/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55206808020_82c2ea578c_o.webp",
+        "data": "2026-10-10T23:00:58.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Atlético-GO x Sport: onde assistir ao jogo pela Série B do Brasileiro",
+        "desc": "Atlético-GO e Sport se enfrentam neste domingo, em Goiânia, pela Série B. Confira onde assistir, horário e situação das equipes na tabela.\nO post Atlético-GO x Sport: onde assistir...",
+        "url": "https://www.gazetaesportiva.com/times/sport/atletico-go-x-sport-onde-assistir-ao-jogo-pela-serie-b-do-brasileiro/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55574600173_c404d99eca_o.webp",
+        "data": "2026-10-10T23:00:58.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Operário x Goiás: veja prováveis escalações e onde assistir ao duelo pela Série B",
+        "desc": "Operário e Goiás se enfrentam neste domingo (11), às 18h30 (de Brasília), no Germano Kruger, pela 33ª rodada da Série B. A partida terá transmissão da Sporty Net (YouTube) e Disney...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/operario-x-goias-veja-provaveis-escalacoes-e-onde-assistir-ao-duelo-pela-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/HUD-8HGW4AAhGVU.webp",
+        "data": "2026-10-10T23:00:19.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Desportivo Brasil x São Paulo: veja onde assistir ao duelo pelo Paulista sub-20",
+        "desc": "Confira as opções para assistir ao jogo entre Desportivo Brasil e São Paulo neste domingo, no jogo de ida das oitavas do Paulista sub-20.\nO post Desportivo Brasil x São Paulo: veja...",
+        "url": "https://www.gazetaesportiva.com/times/sao-paulo/desportivo-brasil-x-sao-paulo-onde-assistir-paulista-sub-20/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/img_2044-1152x1536-1.webp",
+        "data": "2026-10-10T23:00:09.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Melhores momentos: Chicago Fire FC 2 x 1 New York City FC pelo MLS",
+        "desc": "Melhores momentos: Chicago Fire FC 2 x 1 New York City FC pelo MLS\nO post Melhores momentos: Chicago Fire FC 2 x 1 New York City FC pelo MLS apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-chicago-fire-fc-2-x-1-new-york-city-fc-pelo-mls/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/uf2a3zn8-1920Chicago-Fire.webp",
+        "data": "2026-10-10T21:28:46.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Melhores momentos: Paris Saint-Germain 3 x 1 Le Mans pelo Francês",
+        "desc": "Melhores momentos: Paris Saint-Germain 3 x 1 Le Mans pelo Francês \nO post Melhores momentos: Paris Saint-Germain 3 x 1 Le Mans pelo Francês apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-paris-saint-germain-3-x-1-le-mans-pelo-frances/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261010__D2VK976__v1__MidRes__FblFraLigue1PsgLeMans.webp",
+        "data": "2026-10-10T21:26:16.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Melhores momentos: Monaco 2 x 2 Toulouse pelo Francês",
+        "desc": "Melhores momentos: Monaco 2 x 2 Toulouse pelo Francês \nO post Melhores momentos: Monaco 2 x 2 Toulouse pelo Francês apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/futebol/futebol-internacional/melhores-momentos-monaco-2-x-2-toulouse-pelo-frances/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/dm35n8do-1920Monaco.webp",
+        "data": "2026-10-10T21:24:16.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Xabi Alonso exalta atuação de Henderson após dois gols em goleada por 5 a 1",
         "desc": "Xabi Alonso elogiou Jordan Henderson depois do experiente meio-campista marcar dois gols e dar uma assistência na vitória do Chelsea por 5 a 1 sobre o Bournemouth, em Stamford Brid...",
         "url": "https://www.gazetaesportiva.com/todas-as-noticias/xabi-alonso-exalta-atuacao-de-henderson-apos-dois-gols-em-goleada-por-5-a-1/",
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/s96goi4t-1920Xabi-Alonso.webp",
         "data": "2026-10-10T20:57:47.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Beraldo marca, PSG bate o Le Mans e conquista segunda vitória no Francês",
-        "desc": "O brasileiro Lucas Beraldo marcou seu primeiro gol na temporada e ajudou o PSG a vencer o Le Mans por 3 a 1, neste sábado, no Parc des Princes, pela sexta rodada da Ligue 1. Khvich...",
-        "url": "https://www.gazetaesportiva.com/times/paris-saint-germain/beraldo-marca-psg-bate-o-le-mans-e-conquista-segunda-vitoria-no-frances/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261010__D2VJ882__v1__MidRes__FblFraLigue1PsgLeMans.webp",
-        "data": "2026-10-10T20:49:59.000Z",
         "fonte": "Gazeta Esportiva"
       },
       {
@@ -97,110 +177,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/c5hwcrwi-1920rd.webp",
         "data": "2026-10-10T18:53:30.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Manchester United x Tottenham: veja fotos do jogo pelo Inglês",
-        "desc": "O post Manchester United x Tottenham: veja fotos do jogo pelo Inglês apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/manchester-united/manchester-united-x-tottenham-veja-fotos-do-jogo-pelo-ingles/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261010__D2VA6TG__v1__HighRes__FblEngPrManUtdTottenham.webp",
-        "data": "2026-10-10T17:13:51.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Al Ettifaq 1 x 1 Al Khaleej pelo Saudita",
-        "desc": "Melhores momentos: Al Ettifaq 1 x 1 Al Khaleej pelo Suadida\nO post Melhores momentos: Al Ettifaq 1 x 1 Al Khaleej pelo Saudita apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-ettifaq-1-x-1-al-khaleej-pelo-saudita/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/bfohkces-1920Ettifaq.webp",
-        "data": "2026-10-10T17:13:06.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Inter de Milão x Parma: veja fotos do jogo pelo Italiano",
-        "desc": "O post Inter de Milão x Parma: veja fotos do jogo pelo Italiano apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/internazionale/inter-de-milao-x-parma-veja-fotos-do-jogo-pelo-italiano/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261010__D2V88EU__v1__HighRes__FblItaSerieaInterParma.webp",
-        "data": "2026-10-10T17:05:37.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do treino do Palmeiras deste sábado",
-        "desc": "Veja fotos do treino do Palmeiras deste sábado\nO post Veja fotos do treino do Palmeiras deste sábado apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-treino-do-palmeiras-deste-sabado-21/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/10102026_cg_palmeiras_6872_17.webp",
-        "data": "2026-10-10T16:37:36.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Al Hazem 1 x 1 NEOM pelo Saudita",
-        "desc": "Melhores momentos: Al Hazem 1 x 1 NEOM pelo Saudita \nO post Melhores momentos: Al Hazem 1 x 1 NEOM pelo Saudita apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-hazem-1-x-1-neom-pelo-saudita/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/fe5irint-1920Hazem.webp",
-        "data": "2026-10-10T16:26:30.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Hoffenheim 2 x 3 Hamburg pelo Alemão",
-        "desc": "Melhores momentos: Hoffenheim 2 x 3 Hamburg pelo Alemão\nO post Melhores momentos: Hoffenheim 2 x 3 Hamburg pelo Alemão apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-hoffenheim-2-x-3-hamburg-pelo-alemao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/os380s19-1920Hoffenheim.webp",
-        "data": "2026-10-10T16:00:35.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos da classificação do GP de Singapura da F1",
-        "desc": "Veja fotos da classificação do GP de Singapura da F1\nO post Veja fotos da classificação do GP de Singapura da F1 apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/motor/formula-1/veja-fotos-da-classificacao-do-gp-de-singapura-da-f1/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261010__D2UT3MP__v1__HighRes__AutoPrixF1SinQualifying.webp",
-        "data": "2026-10-10T15:59:55.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Augsburg 2 x 2 Bayern pelo Alemão",
-        "desc": "Melhores momentos: Augsburg 2 x 2 Bayern pelo Alemão\nO post Melhores momentos: Augsburg 2 x 2 Bayern pelo Alemão apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-augsburg-2-x-2-bayern-pelo-alemao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/yd0ofmfz-1920Augsburg.webp",
-        "data": "2026-10-10T15:59:02.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Mainz 3 x 4 Leverkusen pelo Alemão",
-        "desc": "Melhores momentos: Mainz 3 x 4 Leverkusen pelo Alemão \nO post Melhores momentos: Mainz 3 x 4 Leverkusen pelo Alemão apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-mainz-3-x-4-leverkusen-pelo-alemao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/lmyxr9jw-1920Mainz.webp",
-        "data": "2026-10-10T15:56:39.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do duelo entre Arsenal e Leeds pelo Campeonato Inglês",
-        "desc": "Veja fotos do duelo entre Arsenal e Leeds pelo Campeonato Inglês.\nO post Veja fotos do duelo entre Arsenal e Leeds pelo Campeonato Inglês apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/campeonatos/premier-league/veja-fotos-do-duelo-entre-arsenal-e-leeds-pelo-campeonato-ingles/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261010__D2UK8GK__v1__HighRes__FblEngPrArsenalLeeds.webp",
-        "data": "2026-10-10T13:27:22.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos da corrida sprint do GP de Singapura da F1",
-        "desc": "Veja fotos da corrida sprint do GP de Singapura da F1.\nO post Veja fotos da corrida sprint do GP de Singapura da F1 apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/motor/formula-1/veja-fotos-da-corrida-sprint-do-gp-de-singapura-da-f1/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261010__D2UE42C__v4__HighRes__AutoPrixF1SinSprint.webp",
-        "data": "2026-10-10T11:40:39.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Verstappen vence sprint em Singapura após erro de Russell; Bortoleto abandona",
-        "desc": "Max Verstappen conquistou neste sábado a vitória na corrida sprint do GP de Singapura. O piloto da Red Bull se beneficiou do abandono de George Russell, que assumiu a liderança na ...",
-        "url": "https://www.gazetaesportiva.com/motor/formula-1/verstappen-vence-sprint-singapura-russell-bortoleto/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261010__D2UG79Y__v1__HighRes__AutoPrixF1SinSprint.webp",
-        "data": "2026-10-10T11:35:03.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Gazeta Esportiva completa 79 anos e celebra trajetória histórica no jornalismo esportivo brasileiro",
-        "desc": "A Gazeta Esportiva completa 79 anos neste sábado, data que marca o lançamento de sua primeira edição diária e independente, em 1947. \nO post Gazeta Esportiva completa 79 anos e cel...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/gazeta-esportiva-completa-79-anos-e-celebra-trajetoria-historica-no-jornalismo-esportivo-brasileiro/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/sem-titulo-8-736x1024-1.webp",
-        "data": "2026-10-10T11:00:22.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -209,8 +185,8 @@
         "desc": "As Leoas venceram o clássico com autoridade por 4 a 1 e continuam invictas na competição nacional de futebol feminino.",
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-10-10",
-        "data": "2026-10-10T21:06:57.937Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-10-11",
+        "data": "2026-10-11T00:19:25.115Z",
         "id": "curado-feminino-0"
       },
       {
@@ -219,7 +195,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-10-10",
-        "data": "2026-10-10T18:06:57.937Z",
+        "data": "2026-10-10T21:19:25.115Z",
         "id": "curado-feminino-1"
       },
       {
@@ -228,7 +204,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-10-10",
-        "data": "2026-10-10T15:06:57.937Z",
+        "data": "2026-10-10T18:19:25.115Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -238,8 +214,8 @@
         "desc": "O veterano meia do Bahia comandou a vitória tricolor com passes decisivos e um belíssimo gol de fora da área, aplaudido de pé.",
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-10-10",
-        "data": "2026-10-10T21:06:57.937Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-10-11",
+        "data": "2026-10-11T00:19:25.115Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -248,7 +224,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-10-10",
-        "data": "2026-10-10T18:06:57.937Z",
+        "data": "2026-10-10T21:19:25.115Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -257,16 +233,8 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-10-10",
-        "data": "2026-10-10T15:06:57.937Z",
+        "data": "2026-10-10T18:19:25.115Z",
         "id": "curado-jogadores-2"
-      },
-      {
-        "titulo": "Ídolo do Corinthians, Dinei ataca gestão, mas demonstra confiança para o Derby",
-        "desc": "Em entrevista à Gazeta Esportiva, o ex-atacante e ídolo do Corinthians Dinei criticou a crise institucional vivida pelo clube, defendeu uma intervenção judicial na administração al...",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/dinei-defende-intervencao-corinthians-e-confia-no-derby/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/Captura-de-tela-2026-10-10-005623.webp",
-        "data": "2026-10-10T12:00:43.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ]
   }
