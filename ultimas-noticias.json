@@ -1,42 +1,94 @@
 {
-  "ultimaAtualizacao": "2026-10-13T01:05:17.827Z",
+  "ultimaAtualizacao": "2026-10-13T08:03:21.966Z",
   "dados": {
     "masculino": [
       {
-        "titulo": "Sport Recife e Bahia empatam clássico na Ilha do Retiro por 2 a 2",
-        "desc": "Em um jogo emocionante e cheio de alternativas, Leão da Ilha e Esquadrão dividiram pontos pela Série A do Brasileirão. Gols saíram no segundo tempo.",
-        "fonte": "Nordestão FC",
-        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-masculino-0-2026-10-13",
-        "data": "2026-10-13T01:05:17.817Z",
-        "id": "curado-masculino-0"
+        "titulo": "Criciúma vence já rebaixado América-MG e mira G2 da Série B",
+        "desc": "O Criciúma venceu o América-MG por 1 a 0 nesta segunda-feira (12), no Estádio Heriberto Hulse, pela 33ª rodada da Série B do Campeonato Brasileiro. O gol da vitória foi marcado por...",
+        "url": "https://www.gazetaesportiva.com/times/criciuma/criciuma-vence-ja-rebaixado-america-mg-e-mira-g2-da-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/HUeI6T_WAAA4NPW.webp",
+        "data": "2026-10-13T00:35:37.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
-        "titulo": "Fortaleza vence o Ceará no Clássico-Rei e assume topo da tabela",
-        "desc": "O Tricolor do Pici superou o maior rival por 1 a 0 na Arena Castelão com gol de Yago Pikachu e garantiu a liderança do campeonato regional.",
-        "fonte": "Diário de Esportes",
-        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-masculino-1-2026-10-12",
-        "data": "2026-10-12T22:05:17.817Z",
-        "id": "curado-masculino-1"
+        "titulo": "Evangelista destaca sucesso em jogadas ensaiadas no Palmeiras e vira a chave para a Libertadores",
+        "desc": "Lucas Evangelista tem sido uma das boas notícias para o Palmeiras nos últimos jogos. Titular na vitória por 4 a 1 sobre o Corinthians no último domingo, pela 30ª rodada do Campeona...",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/evangelista-destaca-sucesso-em-jogadas-ensaiadas-no-palmeiras-e-vira-a-chave-para-a-libertadores/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/11102026_cg_palmeiras_4208_49.webp",
+        "data": "2026-10-12T23:30:36.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
-        "titulo": "Vitória anuncia novo patrocinador master para a temporada 2026",
-        "desc": "O Leão da Barra fechou uma das maiores parcerias de sua história recente. O patrocínio deve viabilizar a vinda de novos reforços em julho.",
-        "fonte": "Bahia Notícias",
-        "imagem": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-masculino-2-2026-10-12",
-        "data": "2026-10-12T19:05:17.817Z",
-        "id": "curado-masculino-2"
+        "titulo": "Bastidores da vitória do Atlético-MG contra o Santos na Arena MRV",
+        "desc": "Bastidores da vitória do Atlético-MG contra o Santos na Arena MRV\nO post Bastidores da vitória do Atlético-MG contra o Santos na Arena MRV apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/bastidores-da-vitoria-do-atletico-mg-contra-o-santos-na-arena-mrv/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/d1s71eid-1920Bastidores.webp",
+        "data": "2026-10-12T23:28:08.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
-        "titulo": "Botafogo-PB e CRB se enfrentam pelas quartas da Copa do Nordeste",
-        "desc": "Partida de ida será disputada no Almeidão. Expectativa é de casa cheia para apoiar o Belo diante do embalado time alagoano.",
-        "fonte": "Portal Paraíba",
-        "imagem": "https://images.unsplash.com/photo-1504156067013-fbe0f2c8b78b?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-masculino-3-2026-10-12",
-        "data": "2026-10-12T16:05:17.817Z",
-        "id": "curado-masculino-3"
+        "titulo": "Emoção até o fim! Bastidores do triunfo do Bahia contra o Mirassol",
+        "desc": "As cenas do vestiário e festa da torcida baiana após a conquista dos três pontos contra o Mirassol.\nO post Emoção até o fim! Bastidores do triunfo do Bahia contra o Mirassol aparec...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/emocao-ate-o-fim-bastidores-do-triunfo-do-bahia-contra-o-mirassol/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/ffpz1ppx-1920Emocao.webp",
+        "data": "2026-10-12T23:07:16.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Bastidores da vitória do São Paulo sobre o Vitória no Morumbis",
+        "desc": "Em cenas exclusivas, São Paulo mostra toda emoção de Lucas ao retornar aos campos.\nO post Bastidores da vitória do São Paulo sobre o Vitória no Morumbis apareceu primeiro em Gazeta...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/bastidores-da-vitoria-do-sao-paulo-sobre-o-vitoria-no-morumbis/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/vces74ac-1920lucas.webp",
+        "data": "2026-10-12T22:14:28.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Palmeiras se reapresenta após goleada no Dérbi e foca na partida contra Fluminense",
+        "desc": "Clube treinou na Academia do Futebol após a grande vitória contra o Corinthians e já começa a preparação para a semifinal da Libertadores.\nO post Palmeiras se reapresenta após gole...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/palmeiras-se-reapresenta-apos-goleada-no-derbi-e-foca-na-partida-contra-fluminense/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/jz4sl237-1920Palmeiras.webp",
+        "data": "2026-10-12T22:12:19.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Fortaleza sai na frente, mas cede empate ao CRB pela Série B do Brasileiro",
+        "desc": "O Fortaleza empatou por 2 a 2 com o CRB no Castelão, pela 33ª rodada da Série B. O resultado impediu o time cearense de assumir a terceira colocação, mantendo-o em quarto lugar com...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/fortaleza-sai-na-frente-mas-cede-empate-ao-crb-pela-serie-b-do-brasileiro/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55585632233_eb231806f2_o.webp",
+        "data": "2026-10-12T21:20:07.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Coventry goleia Newcastle e deixa a zona de rebaixamento do Inglês",
+        "desc": "O Coventry conquistou uma importante vitória por 4 a 1 sobre o Newcastle na tarde desta segunda-feira, pela sexta rodada do Campeonato Inglês. Rudoni, Cherif, Simms e Mfuni anotara...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/premier-league/coventry-goleia-newcastle-e-deixa-a-zona-de-rebaixamento-do-ingles/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261012__D32Q3E4__v1__HighRes__FblEngPrCoventryNewcastle.webp",
+        "data": "2026-10-12T20:52:24.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Coritiba x Botafogo: veja fotos do jogo pelo Brasileirão",
+        "desc": "O post Coritiba x Botafogo: veja fotos do jogo pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/botafogo/coritiba-x-botafogo-veja-fotos-do-jogo-pelo-brasileirao/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55585654398_c74cd7cb3f_o.webp",
+        "data": "2026-10-12T20:49:13.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Barcelona faz último treino antes de enfrentar o Galatasaray",
+        "desc": "Clube espanhol entra em campo nesta terça-feira (13) em busca de segunda vitória na UEFA Champions League\nO post Barcelona faz último treino antes de enfrentar o Galatasaray aparec...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/barcelona-faz-ultimo-treino-antes-de-enfrentar-o-galatasaray/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/340mfqj8-1920Barcelona.webp",
+        "data": "2026-10-12T20:38:37.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Brasília pode sediar projeto-piloto internacional de inclusão pelo esporte",
+        "desc": "Brasília pode se tornar a porta de entrada de um projeto internacional que pretende usar o esporte como ferramenta de inclusão social. O Sesc-DF e a UNESCO começaram a desenhar, em...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/brasilia-pode-sediar-projeto-piloto-internacional-de-inclusao-pelo-esporte/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/WhatsApp-Image-2026-10-12-at-15.13.10.webp",
+        "data": "2026-10-12T18:41:08.000Z",
+        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -46,7 +98,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-10-13",
-        "data": "2026-10-13T01:05:17.817Z",
+        "data": "2026-10-13T08:03:21.962Z",
         "id": "curado-feminino-0"
       },
       {
@@ -54,8 +106,8 @@
         "desc": "Mais de 15 mil torcedores empurraram as Leoas na vitória histórica contra o Bahia. Um novo marco para o esporte feminino no Nordeste.",
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-10-12",
-        "data": "2026-10-12T22:05:17.817Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-10-13",
+        "data": "2026-10-13T05:03:21.962Z",
         "id": "curado-feminino-1"
       },
       {
@@ -63,9 +115,17 @@
         "desc": "O Tricolor de Aço se reforça visando a disputa do mata-mata do Brasileiro Feminino A2. Apresentação das novas atletas ocorre nesta segunda.",
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-10-12",
-        "data": "2026-10-12T19:05:17.817Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-10-13",
+        "data": "2026-10-13T02:03:21.962Z",
         "id": "curado-feminino-2"
+      },
+      {
+        "titulo": "Brasil x Argentina: onde assistir, escalações e horário do amistoso feminino",
+        "desc": "Brasil e Argentina voltam a se enfrentar nesta terça-feira, às 20h30 (de Brasília), na Arena de Pernambuco, em Recife, em amistoso internacional feminino válido pela Data Fifa. O c...",
+        "url": "https://www.gazetaesportiva.com/amistoso-internacional/brasil-x-argentina-onde-assistir-amistoso-feminino-data-fifa-2026/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/Brasil-x-Argentina-Jogo-1-33.webp",
+        "data": "2026-10-12T23:00:13.000Z",
+        "fonte": "Gazeta Esportiva"
       }
     ],
     "jogadores": [
@@ -75,7 +135,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-10-13",
-        "data": "2026-10-13T01:05:17.817Z",
+        "data": "2026-10-13T08:03:21.962Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -83,18 +143,25 @@
         "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-10-12",
-        "data": "2026-10-12T22:05:17.817Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-10-13",
+        "data": "2026-10-13T05:03:21.962Z",
         "id": "curado-jogadores-1"
       },
       {
-        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
-        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
-        "fonte": "Vozão Diário",
-        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-10-12",
-        "data": "2026-10-12T19:05:17.817Z",
-        "id": "curado-jogadores-2"
+        "titulo": "Herrera celebra gol da vitória do Bragantino sobre o Cruzeiro",
+        "desc": "José Herrera comemorou o gol marcado na vitória do RB Bragantino por 4 a 2 sobre o Cruzeiro, nesta segunda-feira, pela 30ª rodada do Campeonato Brasileiro. O atacante argentino des...",
+        "url": "https://www.gazetaesportiva.com/times/bragantino/jose-herrera-comemora-gol-vitoria-bragantino-cruzeiro/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/1b5b08d1-70e7-4e9f-9d26-cb13bf0c7ce7.webp",
+        "data": "2026-10-13T02:33:27.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Botafogo-SP vence Ceará e ganha fôlego contra o Z4 na Série B",
+        "desc": "O Botafogo-SP derrotou o Ceará por 1 a 0, no Estádio Santa Cruz, pela 33ª rodada da Série B. Ex-jogador do Vozão, Hygor marcou o gol da vitória do Pantera, que chegou aos 41 pontos...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/botafogo-sp-vence-ceara-e-ganha-folego-contra-o-z4-na-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/WhatsApp-Image-2026-10-12-at-22.33.58.webp",
+        "data": "2026-10-13T02:00:08.000Z",
+        "fonte": "Gazeta Esportiva"
       }
     ]
   }
