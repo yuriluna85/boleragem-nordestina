@@ -1,28 +1,28 @@
 {
-  "geradoEm": "2026-10-14T05:13:41.208Z",
+  "geradoEm": "2026-10-14T10:25:22.584Z",
   "totais": {
-    "totalGeral": 4302,
+    "totalGeral": 4307,
     "porCategoria": {
-      "masculino": 3090,
-      "feminino": 531,
+      "masculino": 3094,
+      "feminino": 532,
       "jogadores": 681
     }
   },
   "porEstado": {
-    "PE": 3063,
-    "CE": 3129,
-    "BA": 2203,
-    "AL": 2512,
+    "PE": 3068,
+    "CE": 3133,
+    "BA": 2206,
+    "AL": 2514,
     "RN": 506,
     "PB": 70,
-    "MA": 2314,
-    "PI": 352,
-    "SE": 2017
+    "MA": 2318,
+    "PI": 353,
+    "SE": 2021
   },
   "topClubes": [
     {
       "nome": "Sport",
-      "total": 1971
+      "total": 1974
     },
     {
       "nome": "Vitória",
@@ -30,7 +30,7 @@
     },
     {
       "nome": "Bahia",
-      "total": 639
+      "total": 640
     },
     {
       "nome": "Fortaleza",
@@ -38,13 +38,13 @@
     },
     {
       "nome": "Ceará",
-      "total": 272
+      "total": 273
     }
   ],
   "fontesRanking": [
     {
       "nome": "Gazeta Esportiva",
-      "total": 3077
+      "total": 3080
     },
     {
       "nome": "Bahia Esportes",
@@ -59,16 +59,16 @@
       "total": 155
     },
     {
+      "nome": "Salvador News",
+      "total": 131
+    },
+    {
       "nome": "Ceará Esportes",
       "total": 131
     },
     {
-      "nome": "Salvador News",
-      "total": 130
-    },
-    {
       "nome": "Vozão Diário",
-      "total": 126
+      "total": 127
     },
     {
       "nome": "Portal Paraíba",
