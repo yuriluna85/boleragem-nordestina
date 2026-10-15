@@ -1,42 +1,78 @@
 {
-  "ultimaAtualizacao": "2026-10-15T06:09:53.514Z",
+  "ultimaAtualizacao": "2026-10-15T11:53:03.946Z",
   "dados": {
     "masculino": [
       {
-        "titulo": "Sport Recife e Bahia empatam clássico na Ilha do Retiro por 2 a 2",
-        "desc": "Em um jogo emocionante e cheio de alternativas, Leão da Ilha e Esquadrão dividiram pontos pela Série A do Brasileirão. Gols saíram no segundo tempo.",
-        "fonte": "Nordestão FC",
-        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-masculino-0-2026-10-15",
-        "data": "2026-10-15T06:09:53.507Z",
-        "id": "curado-masculino-0"
+        "titulo": "Auxiliar de Abel evitar cravar data para retorno de Vitor Roque no Palmeiras: &#8220;Avaliar dia a dia&#8221;",
+        "desc": "Vitor Roque virou desfalque do Palmeiras para o jogo de ida da semifinal da Copa Libertadores após sofrer uma entorse no tornozelo esquerdo durante a vitória sobre o Corinthians, n...",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/auxiliar-de-abel-evitar-cravar-data-para-retorno-de-vitor-roque-no-palmeiras-avaliar-dia-a-dia/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/11102026_cg_palmeiras_4487_95.webp",
+        "data": "2026-10-15T11:00:51.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
-        "titulo": "Fortaleza vence o Ceará no Clássico-Rei e assume topo da tabela",
-        "desc": "O Tricolor do Pici superou o maior rival por 1 a 0 na Arena Castelão com gol de Yago Pikachu e garantiu a liderança do campeonato regional.",
-        "fonte": "Diário de Esportes",
-        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-masculino-1-2026-10-15",
-        "data": "2026-10-15T03:09:53.507Z",
-        "id": "curado-masculino-1"
+        "titulo": "Mourinho detona suspensão de Vinicius Jr. e critica futebol espanhol",
+        "desc": "osé Mourinho criticou o anúncio da suspensão de quatro jogos de Vinicius Jr. horas antes da vitória do Real Madrid sobre a Roma pela Champions League.\nO post Mourinho detona suspen...",
+        "url": "https://www.gazetaesportiva.com/times/real-madrid/mourinho-detona-suspensao-de-vinicius-jr-e-critica-futebol-espanhol/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261014__D3BG932__v1__HighRes__FblEurC1RomaRealMadrid.webp",
+        "data": "2026-10-15T11:00:32.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
-        "titulo": "Vitória anuncia novo patrocinador master para a temporada 2026",
-        "desc": "O Leão da Barra fechou uma das maiores parcerias de sua história recente. O patrocínio deve viabilizar a vinda de novos reforços em julho.",
-        "fonte": "Bahia Notícias",
-        "imagem": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-masculino-2-2026-10-15",
-        "data": "2026-10-15T00:09:53.507Z",
-        "id": "curado-masculino-2"
+        "titulo": "Análise: eficaz, Palmeiras mostra casca para sair na frente por vaga na final da Libertadores",
+        "desc": "O Palmeiras soube suportar a pressão do Fluminense no Maracanã para sair com a vitória por 2 a 1, em duelo de ida da semifinal da Copa Libertadores, na última quarta-feira. Mesmo s...",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/analise-eficaz-palmeiras-mostra-casca-para-sair-na-frente-por-vaga-na-final-da-libertadores/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261015__D3BW62Q__v1__MidRes__FblLibertadoresFluminensePalmeiras-1.webp",
+        "data": "2026-10-15T10:00:54.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
-        "titulo": "Botafogo-PB e CRB se enfrentam pelas quartas da Copa do Nordeste",
-        "desc": "Partida de ida será disputada no Almeidão. Expectativa é de casa cheia para apoiar o Belo diante do embalado time alagoano.",
-        "fonte": "Portal Paraíba",
-        "imagem": "https://images.unsplash.com/photo-1504156067013-fbe0f2c8b78b?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-masculino-3-2026-10-14",
-        "data": "2026-10-14T21:09:53.507Z",
-        "id": "curado-masculino-3"
+        "titulo": "Flaco López admite atuação abaixo, mas destaca competitividade do Palmeiras: &#8220;Fomos inteligentes&#8221;",
+        "desc": "Flaco López foi o responsável por abrir o placar para o Palmeiras na vitória por 2 a 1 sobre o Fluminense, nesta quarta-feira, pela ida da semifinal da Copa Libertadores. O argenti...",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/flaco-lopez-admite-atuacao-abaixo-mas-destaca-competitividade-do-palmeiras-fomos-inteligentes/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261015__D3BU2MU__v1__MidRes__FblLibertadoresFluminensePalmeiras.webp",
+        "data": "2026-10-15T04:11:57.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Auxiliar de Abel defende atuação do Palmeiras após vitória na Libertadores: &#8220;Segurança e pragmatismo&#8221;",
+        "desc": "O Palmeiras venceu o Fluminense por 2 a 1, na noite desta quarta-feira, e abriu vantagem na decisão por uma vaga na final da Copa Libertadores. Apesar do gol sofrido nos acréscimos...",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/auxilair-de-abel-analisa-desempenho-palmeiras-vitoria-fluminense-libertadores/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/WhatsApp-Image-2026-10-15-at-00.41.34.webp",
+        "data": "2026-10-15T03:56:48.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Ex-Fluminense, Arias rebate vaias após vitória do Palmeiras: &#8220;As pessoas têm amnésia&#8221;",
+        "desc": "Jhon Arias lidou com um ambiente hostil no Estádio do Maracanã, nesta quarta-feira, na vitória do Palmeiras por 2 a 1 sobre o Fluminense, em duelo de ida da semifinal da Copa Liber...",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/ex-fluminense-arias-rebate-vaias-apos-vitoria-do-palmeiras-as-pessoas-tem-amnesia/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261015__D3BU2KK__v1__MidRes__FblLibertadoresFluminensePalmeiras.webp",
+        "data": "2026-10-15T02:57:19.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Confira as fotos de Inter Miami x New York City pela MLS",
+        "desc": "O post Confira as fotos de Inter Miami x New York City pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/inter-miami/confira-as-fotos-de-inter-miami-x-new-york-city-pela-mls/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261015__2300252575__v1__MidRes__InterMiamiCfVNewYorkCityFc.webp",
+        "data": "2026-10-15T01:04:49.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Bernard celebra vitória do Atlético-MG, mas pede “pé no chão” na semi da Sul-Americana",
+        "desc": "O Atlético-MG venceu o Montevideo City Torque por 3 a 0 nesta quarta-feira, na Arena MRV, pelo jogo de ida da semifinal da Copa Sul-Americana. Autor do segundo gol da partida, Bern...",
+        "url": "https://www.gazetaesportiva.com/times/atletico-mg/bernard-celebra-vitoria-do-atletico-mg-mas-pede-pe-no-chao-na-semi-da-sul-americana/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55589069122_503d8180e6_o.webp",
+        "data": "2026-10-15T00:40:17.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Atlético-MG x Montevideo City Torque: veja fotos da semifinal da Sul-Americana",
+        "desc": "O post Atlético-MG x Montevideo City Torque: veja fotos da semifinal da Sul-Americana apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/atletico-mg/atletico-mg-x-montevideo-city-torque-veja-fotos-da-semifinal-da-sul-americana/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55590025751_143a91916c_o.webp",
+        "data": "2026-10-14T22:46:07.000Z",
+        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -46,7 +82,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-10-15",
-        "data": "2026-10-15T06:09:53.507Z",
+        "data": "2026-10-15T11:53:03.940Z",
         "id": "curado-feminino-0"
       },
       {
@@ -55,7 +91,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-10-15",
-        "data": "2026-10-15T03:09:53.507Z",
+        "data": "2026-10-15T08:53:03.940Z",
         "id": "curado-feminino-1"
       },
       {
@@ -64,7 +100,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-10-15",
-        "data": "2026-10-15T00:09:53.507Z",
+        "data": "2026-10-15T05:53:03.940Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -75,26 +111,32 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-10-15",
-        "data": "2026-10-15T06:09:53.507Z",
+        "data": "2026-10-15T11:53:03.940Z",
         "id": "curado-jogadores-0"
       },
       {
-        "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
-        "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
-        "fonte": "Diário do Ceará",
-        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-10-15",
-        "data": "2026-10-15T03:09:53.507Z",
-        "id": "curado-jogadores-1"
+        "titulo": "Cauly será comprado? Veja como estão as metas do meia do São Paulo",
+        "desc": "O São Paulo vive situação indefinida em relação a alguns atletas cujos contratos se encerram no final deste ano. Um destes jogadores é Cauly, que está emprestado pelo Bahia até 31 ...",
+        "url": "https://www.gazetaesportiva.com/times/sao-paulo/cauly-metas-sao-paulo-compra/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55458505409_cfd91e176a_o.webp",
+        "data": "2026-10-15T10:00:42.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
-        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
-        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
-        "fonte": "Vozão Diário",
-        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-10-15",
-        "data": "2026-10-15T00:09:53.507Z",
-        "id": "curado-jogadores-2"
+        "titulo": "Domínguez valoriza vitória do Atlético-MG na Sul-Americana e atualiza situação de Fred",
+        "desc": "Após a partida, o técnico Eduardo Domínguez valorizou a atuação da equipe, destacou a importância da vantagem construída em Belo Horizonte e comentou a recuperação do atacante Fred...",
+        "url": "https://www.gazetaesportiva.com/times/atletico-mg/dominguez-valoriza-vitoria-do-atletico-mg-na-sul-americana-e-atualiza-situacao-de-fred/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55590441454_21f87e93b1_o.webp",
+        "data": "2026-10-15T01:30:07.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Após expulsão contra o Boca, Andrés Gómez pede desculpas à torcida do Vasco",
+        "desc": "O atacante colombiano Andrés Gómez pediu desculpas à torcida do Vasco após ser expulso na vitória por 1 a 0 sobre o Boca Juniors, pelo jogo de ida da semifinal da Copa Sul-American...",
+        "url": "https://www.gazetaesportiva.com/times/vasco/andres-gomez-pede-desculpas-vasco-expulsao-boca-juniors/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261014__D37U6RN__v1__HighRes__FblSudamericanaBocaVasco.webp",
+        "data": "2026-10-14T22:11:30.000Z",
+        "fonte": "Gazeta Esportiva"
       }
     ]
   }
