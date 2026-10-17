@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-10-17T09:34:07.809Z",
+  "ultimaAtualizacao": "2026-10-17T13:26:16.391Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Everton x Chelsea: veja fotos do jogo pelo Inglês",
+        "desc": "O post Everton x Chelsea: veja fotos do jogo pelo Inglês apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/chelsea/everton-x-chelsea-veja-fotos-do-jogo-pelo-ingles/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261017__D3KL7QR__v1__HighRes__FblEngPrEvertonChelsea.webp",
+        "data": "2026-10-17T12:17:03.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "São Paulo terá ataque reforçado em busca de segunda vitória seguida no Brasileiro",
+        "desc": "Luciano e Calleri reforçam o São Paulo contra o Vasco no duelo deste sábado, no Morumbis, pela 31ª rodada do Brasileiro.\nO post São Paulo terá ataque reforçado em busca de segunda ...",
+        "url": "https://www.gazetaesportiva.com/times/sao-paulo/luciano-calleri-ferreira-reforcos-sao-paulo-vasco/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55473658839_9cd0b2313d_k.webp",
+        "data": "2026-10-17T10:00:05.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Fortaleza aproveita expulsão, vence Sport em Recife e mira G2 da Série B",
         "desc": "O Fortaleza venceu o Sport por 2 a 0 na Ilha do Retiro, em Recife, pela 34ª rodada da Série B do Campeonato Brasileiro. Os gols foram marcados por Tomás Cardona, ainda no primeiro ...",
@@ -73,14 +89,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261016__D3JN663__v1__HighRes__FblFraLigue1LeMansToulouse.webp",
         "data": "2026-10-16T21:04:35.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Confira as fotos de Eintracht Frankfurt x Colônia pelo Alemão",
-        "desc": "O post Confira as fotos de Eintracht Frankfurt x Colônia pelo Alemão apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/futebol/confira-as-fotos-de-eintracht-frankfurt-x-colonia-pelo-alemao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261016__D3JH8AL__v1__HighRes__FblGerBundesligaFrankfurtCologne.webp",
-        "data": "2026-10-16T20:24:17.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -90,7 +98,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-10-17",
-        "data": "2026-10-17T09:34:07.801Z",
+        "data": "2026-10-17T13:26:16.384Z",
         "id": "curado-feminino-0"
       },
       {
@@ -99,7 +107,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-10-17",
-        "data": "2026-10-17T06:34:07.801Z",
+        "data": "2026-10-17T10:26:16.384Z",
         "id": "curado-feminino-1"
       },
       {
@@ -108,7 +116,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-10-17",
-        "data": "2026-10-17T03:34:07.801Z",
+        "data": "2026-10-17T07:26:16.384Z",
         "id": "curado-feminino-2"
       },
       {
@@ -127,7 +135,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-10-17",
-        "data": "2026-10-17T09:34:07.801Z",
+        "data": "2026-10-17T13:26:16.384Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -136,7 +144,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-10-17",
-        "data": "2026-10-17T06:34:07.801Z",
+        "data": "2026-10-17T10:26:16.384Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -145,7 +153,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-10-17",
-        "data": "2026-10-17T03:34:07.801Z",
+        "data": "2026-10-17T07:26:16.384Z",
         "id": "curado-jogadores-2"
       }
     ]
