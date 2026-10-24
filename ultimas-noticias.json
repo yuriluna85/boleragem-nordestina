@@ -1,42 +1,102 @@
 {
-  "ultimaAtualizacao": "2026-10-24T00:58:33.792Z",
+  "ultimaAtualizacao": "2026-10-24T05:35:34.123Z",
   "dados": {
     "masculino": [
       {
-        "titulo": "Sport Recife e Bahia empatam clássico na Ilha do Retiro por 2 a 2",
-        "desc": "Em um jogo emocionante e cheio de alternativas, Leão da Ilha e Esquadrão dividiram pontos pela Série A do Brasileirão. Gols saíram no segundo tempo.",
-        "fonte": "Nordestão FC",
-        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-masculino-0-2026-10-24",
-        "data": "2026-10-24T00:58:33.780Z",
-        "id": "curado-masculino-0"
+        "titulo": "Com gol no fim, Sport vence Criciúma e cola no G6 da Série B",
+        "desc": "O Sport venceu o Criciúma por 1 a 0 nesta sexta-feira (23), na Ilha do Retiro, pela 35ª rodada da Série B do Campeonato Brasileiro. O gol da vitória foi marcado por Chrystian Barle...",
+        "url": "https://www.gazetaesportiva.com/times/sport/com-gol-no-fim-sport-vence-criciuma-e-cola-no-g6-da-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55607320732_ed95cb5464_o.webp",
+        "data": "2026-10-24T02:06:42.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
-        "titulo": "Fortaleza vence o Ceará no Clássico-Rei e assume topo da tabela",
-        "desc": "O Tricolor do Pici superou o maior rival por 1 a 0 na Arena Castelão com gol de Yago Pikachu e garantiu a liderança do campeonato regional.",
-        "fonte": "Diário de Esportes",
-        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-masculino-1-2026-10-23",
-        "data": "2026-10-23T21:58:33.780Z",
-        "id": "curado-masculino-1"
+        "titulo": "Cruzeiro vence Remo e dorme no terceiro lugar do Brasileirão",
+        "desc": "Zagueiro marcou de cabeça nos acréscimos do primeiro tempo e garantiu a vitória da Raposa por 1 a 0 no Mineirão, pela 32ª rodada do Campeonato Brasileiro.\nO post Cruzeiro vence Rem...",
+        "url": "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-vence-remo-e-dorme-no-terceiro-lugar-do-brasileirao/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55608652810_12a20c39cf_k.webp",
+        "data": "2026-10-24T00:59:34.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
-        "titulo": "Vitória anuncia novo patrocinador master para a temporada 2026",
-        "desc": "O Leão da Barra fechou uma das maiores parcerias de sua história recente. O patrocínio deve viabilizar a vinda de novos reforços em julho.",
-        "fonte": "Bahia Notícias",
-        "imagem": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-masculino-2-2026-10-23",
-        "data": "2026-10-23T18:58:33.780Z",
-        "id": "curado-masculino-2"
+        "titulo": "Veja fotos de Cruzeiro e Remo pelo Brasileirão",
+        "desc": "O post Veja fotos de Cruzeiro e Remo pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/cruzeiro/veja-fotos-de-cruzeiro-e-remo-pelo-brasileirao/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55608192566_3cc65ba1d9_k.webp",
+        "data": "2026-10-23T23:39:11.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
-        "titulo": "Botafogo-PB e CRB se enfrentam pelas quartas da Copa do Nordeste",
-        "desc": "Partida de ida será disputada no Almeidão. Expectativa é de casa cheia para apoiar o Belo diante do embalado time alagoano.",
-        "fonte": "Portal Paraíba",
-        "imagem": "https://images.unsplash.com/photo-1504156067013-fbe0f2c8b78b?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-masculino-3-2026-10-23",
-        "data": "2026-10-23T15:58:33.780Z",
-        "id": "curado-masculino-3"
+        "titulo": "Ponte Preta x Fortaleza: veja as prováveis escalações e onde assistir ao jogo pela Série B",
+        "desc": "Ponte Preta e Fortaleza se enfrentam neste sábado, às 18h30, pela 35ª rodada da Série B. Já rebaixada, a Macaca tenta encerrar a sequência negativa, enquanto o Leão do Pici busca m...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/ponte-preta-x-fortaleza-veja-as-provaveis-escalacoes-e-onde-assistir-ao-jogo-pela-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/ponfor.webp",
+        "data": "2026-10-23T23:00:41.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "CRB x Londrina: onde assistir, escalações e horário pela Série B",
+        "desc": "CRB e Londrina se enfrentam neste sábado, às 18h30 (de Brasília), no Estádio Rei Pelé, em Maceió, pela 35ª rodada da Série B do Campeonato Brasileiro. Enquanto o time alagoano busc...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/crb-x-londrina-onde-assistir-serie-b-35-rodada/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55605285131_114479dc23_o-1.webp",
+        "data": "2026-10-23T23:00:41.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Vitória x Athletico-PR pelo Brasileirão: onde assistir, estatísticas, histórico e prováveis escalações",
+        "desc": "Vitória e Athletico-PR se enfrentam neste sábado, às 16h30, no Barradão, pela 32ª rodada do Campeonato Brasileiro. Enquanto o time baiano busca se afastar da zona de rebaixamento, ...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/vitoria-x-athletico-pr-pelo-brasileirao-onde-assistir-estatisticas-historico-e-provaveis-escalacoes/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55449165775_c14bab912c_k.webp",
+        "data": "2026-10-23T23:00:40.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Chelsea x Tottenham pelo Inglês: onde assistir, prováveis escalações e horário",
+        "desc": "Chelsea e Tottenham se enfrentam neste sábado, às 13h30 (de Brasília), em Stamford Bridge, pela oitava rodada da Premier League. Os Blues buscam a terceira vitória seguida, enquant...",
+        "url": "https://www.gazetaesportiva.com/times/chelsea/chelsea-x-tottenham-onde-assistir-provaveis-escalacoes-e-horario/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261017__D3KR8AV__v1__MidRes__FblEngPrEvertonChelsea.webp",
+        "data": "2026-10-23T23:00:32.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Santos x Bahia pelo Brasileirão: onde assistir ao vivo, estatísticas e prováveis escalações",
+        "desc": "Santos e Bahia se enfrentam neste sábado (24), às 21h, na Vila Belmiro, pela 32ª rodada do Campeonato Brasileiro. Em confronto direto por uma vaga na Libertadores de 2027, as equip...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/santos-x-bahia-onde-assistir-escalacoes-brasileirao-2026/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55229766157_71a8981306_3k.webp",
+        "data": "2026-10-23T23:00:02.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Veja fotos do treino do Palmeiras nesta sexta-feira",
+        "desc": "O post Veja fotos do treino do Palmeiras nesta sexta-feira apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-treino-do-palmeiras-nesta-sexta-feira-24/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/23102026_cg_palmeiras_4897_48.webp",
+        "data": "2026-10-23T22:19:33.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Santos faz treino tático e finaliza preparação para pegar o Bahia; veja provável escalação",
+        "desc": "O Santos realizou um treino físico e tático nesta sexta-feira (23), no CT Rei Pelé, e encerrou a preparação para enfrentar o Bahia, pela 32ª rodada do Brasileirão. Cuca deve manter...",
+        "url": "https://www.gazetaesportiva.com/times/santos/santos-faz-treino-tatico-e-finaliza-preparacao-para-pegar-o-bahia-veja-provavel-escalacao/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55608412785_ab9f301a09_3k-1.webp",
+        "data": "2026-10-23T22:04:51.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Treino do Santos: veja fotos da última atividade do Peixe antes de pegar o Bahia",
+        "desc": "O Santos realizou sua última atividade antes de enfrentar o Bahia, neste sábado (24), às 21h (de Brasília), na Vila Belmiro, pela 32ª rodada do Campeonato Brasileiro. Confira as fo...",
+        "url": "https://www.gazetaesportiva.com/times/santos/treino-santos-fotos-preparacao-bahia-brasileirao-2026/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55608413195_f179630830_3k.webp",
+        "data": "2026-10-23T21:51:56.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Cerúndolo vence francês e avança à semifinal do ATP 250 de Bruxelas",
+        "desc": "Número 21 do mundo, o argentino derrotou Clément Chidekh em sets diretos e ficou a uma vitória de sua primeira final ATP em quadra coberta.\nO post Cerúndolo vence francês e avança ...",
+        "url": "https://www.gazetaesportiva.com/mais-esportes/tenis/cerundolo-vence-frances-e-avanca-a-semifinal-do-atp-250-de-bruxelas/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/HVKYgK5XwAAxYE5.webp",
+        "data": "2026-10-23T21:51:03.000Z",
+        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -46,7 +106,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-10-24",
-        "data": "2026-10-24T00:58:33.780Z",
+        "data": "2026-10-24T05:35:34.111Z",
         "id": "curado-feminino-0"
       },
       {
@@ -54,8 +114,8 @@
         "desc": "Mais de 15 mil torcedores empurraram as Leoas na vitória histórica contra o Bahia. Um novo marco para o esporte feminino no Nordeste.",
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-10-23",
-        "data": "2026-10-23T21:58:33.780Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-10-24",
+        "data": "2026-10-24T02:35:34.111Z",
         "id": "curado-feminino-1"
       },
       {
@@ -64,7 +124,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-10-23",
-        "data": "2026-10-23T18:58:33.780Z",
+        "data": "2026-10-23T23:35:34.111Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -75,7 +135,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-10-24",
-        "data": "2026-10-24T00:58:33.780Z",
+        "data": "2026-10-24T05:35:34.111Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -83,8 +143,8 @@
         "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-10-23",
-        "data": "2026-10-23T21:58:33.780Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-10-24",
+        "data": "2026-10-24T02:35:34.111Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -93,7 +153,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-10-23",
-        "data": "2026-10-23T18:58:33.780Z",
+        "data": "2026-10-23T23:35:34.111Z",
         "id": "curado-jogadores-2"
       }
     ]
