@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-10-26T06:46:51.407Z",
+  "ultimaAtualizacao": "2026-10-26T13:50:30.360Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "São Paulo tem semana com duelo contra Bahia e preparação para clássico; veja agenda",
+        "desc": "O São Paulo inicia nesta segunda-feira a preparação para o confronto com o Bahia, pela 33ª rodada do Campeonato Brasileiro. Após o compromisso em Salvador, a equipe de Dorival Júni...",
+        "url": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-semana-preparacao-bahia-corinthians/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55609702861_93cefb40b6_o.webp",
+        "data": "2026-10-26T10:00:59.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Juventude x Náutico: onde assistir, escalações e horário pela Série B do Brasileirão",
         "desc": "Juventude e Náutico se enfrentam nesta segunda-feira, às 20h30 (de Brasília), no Estádio Alfredo Jaconi, pela 35ª rodada da Série B do Campeonato Brasileiro. O time gaúcho segue fi...",
@@ -73,30 +81,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55610249486_02da45a1af_o.webp",
         "data": "2026-10-25T03:58:13.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Luan Peres celebra gol de empate do Santos e comenta expulsão de Neymar",
-        "desc": "Autor do gol de empate do Santos contra o Bahia, Luan Peres comemorou o tento marcado nos acréscimos da partida pela 32ª rodada do Brasileirão e dedicou o momento à esposa grávida ...",
-        "url": "https://www.gazetaesportiva.com/times/santos/luan-peres-dedica-gol-esposa-gravida/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55610249611_839da2a4ff_o.webp",
-        "data": "2026-10-25T02:53:27.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do duelo entre Santos e Bahia pelo Brasileirão",
-        "desc": "Veja uma galeria de fotos da partida entre Santos e Bahia, neste sábado, pela 32ª rodada do Brasileirão, na Vila Belmiro.\nO post Veja fotos do duelo entre Santos e Bahia pelo Brasi...",
-        "url": "https://www.gazetaesportiva.com/times/santos/veja-fotos-do-duelo-entre-santos-e-bahia-pelo-brasileirao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55609011847_6c819ab919_o.webp",
-        "data": "2026-10-25T02:33:05.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Com Neymar expulso, Santos marca no fim e busca empate com o Bahia no Brasileiro",
-        "desc": "Santos e Bahia empataram por 1 a 1 neste sábado, na Vila Belmiro, pela 32ª rodada do Campeonato Brasileiro. O Tricolor saiu na frente com Luciano Juba ainda no primeiro tempo e viu...",
-        "url": "https://www.gazetaesportiva.com/times/santos/santos-empata-bahia-neymar-expulso/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55610431705_a3aa410bfb_o-1.webp",
-        "data": "2026-10-25T02:18:00.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -106,7 +90,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-10-26",
-        "data": "2026-10-26T06:46:51.399Z",
+        "data": "2026-10-26T13:50:30.348Z",
         "id": "curado-feminino-0"
       },
       {
@@ -115,7 +99,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-10-26",
-        "data": "2026-10-26T03:46:51.399Z",
+        "data": "2026-10-26T10:50:30.348Z",
         "id": "curado-feminino-1"
       },
       {
@@ -124,7 +108,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-10-26",
-        "data": "2026-10-26T00:46:51.399Z",
+        "data": "2026-10-26T07:50:30.348Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -135,7 +119,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-10-26",
-        "data": "2026-10-26T06:46:51.399Z",
+        "data": "2026-10-26T13:50:30.348Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -144,8 +128,16 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-10-26",
-        "data": "2026-10-26T03:46:51.399Z",
+        "data": "2026-10-26T10:50:30.348Z",
         "id": "curado-jogadores-1"
+      },
+      {
+        "titulo": "Após amarelo e expulsão contra o Bahia, Neymar tem temporada com mais cartões em dez anos",
+        "desc": "Neymar chegou a 13 cartões em 2026 pelo Santos, entre amarelos e vermelhos, após ser expulso contra o Bahia pela 32ª rodada do Campeonato Brasileiro. O número é o maior do atacante...",
+        "url": "https://www.gazetaesportiva.com/times/santos/apos-amarelo-e-expulsao-contra-o-bahia-neymar-tem-temporada-com-mais-cartoes-em-dez-anos/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55609392902_7439c914ad_k.webp",
+        "data": "2026-10-26T10:00:10.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
@@ -153,16 +145,8 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-10-26",
-        "data": "2026-10-26T00:46:51.399Z",
+        "data": "2026-10-26T07:50:30.348Z",
         "id": "curado-jogadores-2"
-      },
-      {
-        "titulo": "Abel exalta esforço de jogadores do Palmeiras e vê &#8220;equipe mais leve&#8221; em vitória no Brasileirão",
-        "desc": "Dias após se classificar à final da Libertadores, o Palmeiras venceu o Red Bull Bragantino e retomou a liderança do Campeonato Brasileiro. Após a vitória por 2 a 0, em duelo da 32ª...",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/abel-exalta-esforco-de-jogadores-do-palmeiras-e-ve-equipe-mais-leve-em-vitoria-no-brasileirao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/24102026_cg_palmeiras_8204_100.webp",
-        "data": "2026-10-25T02:04:46.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ]
   }
