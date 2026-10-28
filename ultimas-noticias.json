@@ -1,7 +1,39 @@
 {
-  "ultimaAtualizacao": "2026-10-28T10:19:01.250Z",
+  "ultimaAtualizacao": "2026-10-28T16:44:44.335Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Rodada da Copa do Rei é adiada após acidente ferroviário na Espanha",
+        "desc": "A Federação Espanhola de Futebol (RFEF) adiou os 24 jogos da primeira fase da Copa do Rei que seriam disputados nesta quarta-feira (28), em solidariedade às vítimas do grave aciden...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/laliga/rodada-da-copa-do-rei-e-adiada-apos-acidente-ferroviario-na-espanha/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261028__D4PU9KT__v1__HighRes__SpainTrainAccidentTransport.webp",
+        "data": "2026-10-28T16:14:07.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Confira o golaço de Godts em seu primeiro gol pelo PSG",
+        "desc": "Confira o golaço de Godts em seu primeiro gol pelo PSG\nO post Confira o golaço de Godts em seu primeiro gol pelo PSG apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/paris-saint-germain/confira-o-golaco-de-godts-em-seu-primeiro-gol-pelo-psg/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/God.webp",
+        "data": "2026-10-28T14:42:23.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Botafogo é recebido com festa em Belém",
+        "desc": "Botafogo é recebido com festa em Belém\nO post Botafogo é recebido com festa em Belém apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/botafogo/botafogo-e-recebido-com-festa-em-belem/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/otafo.webp",
+        "data": "2026-10-28T12:29:33.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Vasco treina no Nilton Santos antes de clássico contra o Flamengo",
+        "desc": "Vasco treina no Nilton Santos antes de clássico contra o Flamengo\nO post Vasco treina no Nilton Santos antes de clássico contra o Flamengo apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/vasco/vasco-treina-no-nilton-santos-antes-de-classico-contra-o-flamengo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/Vasc.webp",
+        "data": "2026-10-28T11:38:17.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Santos busca primeira vitória sobre o Palmeiras após quatro confrontos em 2026",
         "desc": "O Santos enfrenta o Palmeiras nesta quarta-feira, na Vila Belmiro, pela 33ª rodada do Campeonato Brasileiro. Sem vencer o rival em 2026, o Peixe busca um resultado positivo para en...",
@@ -57,14 +89,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55246957623_7f697dc9a1_o.webp",
         "data": "2026-10-27T23:00:54.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do treino do Santos desta terça-feira",
-        "desc": "Veja fotos do treino do Santos desta terça-feira.\nO post Veja fotos do treino do Santos desta terça-feira apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/santos/veja-fotos-do-treino-do-santos-desta-terca-feira-44/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55616372973_6e0db84126_o.webp",
-        "data": "2026-10-27T21:32:33.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -74,7 +98,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-10-28",
-        "data": "2026-10-28T10:19:01.242Z",
+        "data": "2026-10-28T16:44:44.325Z",
         "id": "curado-feminino-0"
       },
       {
@@ -83,7 +107,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-10-28",
-        "data": "2026-10-28T07:19:01.242Z",
+        "data": "2026-10-28T13:44:44.325Z",
         "id": "curado-feminino-1"
       },
       {
@@ -92,7 +116,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-10-28",
-        "data": "2026-10-28T04:19:01.242Z",
+        "data": "2026-10-28T10:44:44.325Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -103,8 +127,24 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-10-28",
-        "data": "2026-10-28T10:19:01.242Z",
+        "data": "2026-10-28T16:44:44.325Z",
         "id": "curado-jogadores-0"
+      },
+      {
+        "titulo": "STJD suspende Neymar por mais dois jogos por violar Protocolo Vini Jr.",
+        "desc": "Neymar foi suspenso por dois jogos pelo STJD após cobrir a boca durante uma discussão com Rodrigo Nestor, na partida entre Santos e Bahia. O atacante também desfalcará o Santos con...",
+        "url": "https://www.gazetaesportiva.com/times/santos/stjd-suspende-neymar-por-dois-jogos-por-violar-protocolo-vini-jr/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/55610403311_c153cc6120_3k.webp",
+        "data": "2026-10-28T15:47:45.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Iraola: Jogadores do Liverpool confiam em Isak para marcar gols",
+        "desc": "Iraola: Jogadores do Liverpool confiam em Isak para marcar gols\nO post Iraola: Jogadores do Liverpool confiam em Isak para marcar gols apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/liverpool/iraola-jogadores-do-liverpool-confiam-em-isak-para-marcar-gols/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/19dylahn-1920Iraola.webp",
+        "data": "2026-10-28T15:37:06.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Renato Kayzer entra na mira de clubes europeus após grande fase no Castelão",
@@ -112,25 +152,8 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-10-28",
-        "data": "2026-10-28T07:19:01.242Z",
+        "data": "2026-10-28T13:44:44.325Z",
         "id": "curado-jogadores-1"
-      },
-      {
-        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
-        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
-        "fonte": "Vozão Diário",
-        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-10-28",
-        "data": "2026-10-28T04:19:01.242Z",
-        "id": "curado-jogadores-2"
-      },
-      {
-        "titulo": "Com trio de reforços, São Paulo desembarca em Salvador para enfrentar o Bahia",
-        "desc": "A delegação do São Paulo chegou em Salvador na noite desta terça-feira com três reforços, mas com os desfalques de dois titulares. Veja detalhes.\nO post Com trio de reforços, São P...",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-desembarque-salvador-reforcos-desfalques/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/10/HVqybsLXoAEw0pr.webp",
-        "data": "2026-10-27T22:02:02.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ]
   }
