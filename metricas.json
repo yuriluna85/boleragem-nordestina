@@ -1,32 +1,32 @@
 {
-  "geradoEm": "2026-10-30T06:10:27.424Z",
+  "geradoEm": "2026-10-30T13:17:21.169Z",
   "totais": {
-    "totalGeral": 4936,
+    "totalGeral": 4940,
     "porCategoria": {
-      "masculino": 3588,
+      "masculino": 3591,
       "feminino": 591,
-      "jogadores": 757
+      "jogadores": 758
     }
   },
   "porEstado": {
     "PE": 3549,
-    "CE": 3573,
-    "BA": 2575,
-    "AL": 2864,
+    "CE": 3576,
+    "BA": 2576,
+    "AL": 2865,
     "RN": 565,
     "PB": 86,
-    "MA": 2609,
+    "MA": 2611,
     "PI": 412,
-    "SE": 2307
+    "SE": 2309
   },
   "topClubes": [
     {
       "nome": "Sport",
-      "total": 2236
+      "total": 2239
     },
     {
       "nome": "Vitória",
-      "total": 1746
+      "total": 1747
     },
     {
       "nome": "Bahia",
@@ -44,7 +44,7 @@
   "fontesRanking": [
     {
       "nome": "Gazeta Esportiva",
-      "total": 3560
+      "total": 3564
     },
     {
       "nome": "Bahia Esportes",
