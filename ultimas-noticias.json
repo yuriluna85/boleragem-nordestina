@@ -1,7 +1,63 @@
 {
-  "ultimaAtualizacao": "2026-11-08T21:17:21.784Z",
+  "ultimaAtualizacao": "2026-11-09T01:05:38.276Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Ceará perde do América-MG e desperdiça chance de evitar rebaixamento à Série C",
+        "desc": "Neste domingo, o Ceará perdeu para o América-MG por 1 a 0, na Arena Castelão, em Fortaleza, pela penúltima rodada da Série B do Campeonato Brasileiro e agora definirá a permanência...",
+        "url": "https://www.gazetaesportiva.com/times/ceara/ceara-perde-do-america-mg-e-desperdica-chance-de-evitar-rebaixamento-a-serie-c/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/HWo1-FRX0AAVNQ9-2.webp",
+        "data": "2026-11-09T00:17:29.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Porto vence Vitória de Guimarães e segue com campanha perfeita no Português",
+        "desc": "O Porto venceu o Vitória de Guimarães por 2 a 1 neste domingo, no Estádio D. Afonso Henriques, pela 11ª rodada do Campeonato Português. Em uma partida equilibrada, o Dragão abriu o...",
+        "url": "https://www.gazetaesportiva.com/times/porto/porto-vence-vitoria-de-guimaraes-e-mantem-100-por-cento-no-campeonato-portugues/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261108__D6UX6ET__v1__HighRes__FblPorLigaVitoriaGuimaraesPorto.webp",
+        "data": "2026-11-08T23:40:46.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Melhores momentos: Vasco (4) 2 x 1 (5) Palmeiras pela Copa do Brasil",
+        "desc": "Melhores momentos: Vasco (4) 2 x 1 (5) Palmeiras pela Copa do Brasil\nO post Melhores momentos: Vasco (4) 2 x 1 (5) Palmeiras pela Copa do Brasil apareceu primeiro em Gazeta Esporti...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-vasco-4-2-x-1-5-palmeiras-pela-copa-do-brasil/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/08112026_cg_palmeiras_destaque_1002_6.webp",
+        "data": "2026-11-08T23:03:32.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Melhores momentos: Hoffenheim 2 x 1 FC Schalke 04 pela Bundesliga",
+        "desc": "Melhores momentos: Hoffenheim 2 x 1 FC Schalke 04 pela Bundesliga\nO post Melhores momentos: Hoffenheim 2 x 1 FC Schalke 04 pela Bundesliga apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-hoffenheim-2-x-1-fc-schalke-04-pela-bundesliga/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/Hoffen.webp",
+        "data": "2026-11-08T22:24:38.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Melhores momentos: Inter de Milão 2 x 0 Como pelo Italiano",
+        "desc": "Melhores momentos: Inter 2 x 0 Como pelo Italiano \nO post Melhores momentos: Inter de Milão 2 x 0 Como pelo Italiano apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-inter-2-x-0-como-pelo-italiano/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/Int.webp",
+        "data": "2026-11-08T21:50:19.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Melhores momentos: Le Mans 1 x 1 Monaco pelo Francês",
+        "desc": "Melhores momentos: Le Mans 1 x 1 Monaco pelo Francês\nO post Melhores momentos: Le Mans 1 x 1 Monaco pelo Francês apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-le-mans-1-x-1-monaco-pelo-frances/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/Le-Ma.webp",
+        "data": "2026-11-08T21:40:10.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Melhores momentos: Freiburg 2 x 0 Union Berlin pela Bundesliga",
+        "desc": "Melhores momentos: Freiburg 2 x 0 Union Berlin pela Bundesliga\nO post Melhores momentos: Freiburg 2 x 0 Union Berlin pela Bundesliga apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-freiburg-2-x-0-union-berlin-pela-bundesliga/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/Freib.webp",
+        "data": "2026-11-08T21:30:35.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Melhores momentos: FC Koln 1 x 2 Bayer Leverkusen pela Bundesliga",
         "desc": "Melhores momentos: FC Koln 1 x 2 Bayer Leverkusen pela Bundesliga\nO post Melhores momentos: FC Koln 1 x 2 Bayer Leverkusen pela Bundesliga apareceu primeiro em Gazeta Esportiva.",
@@ -73,94 +129,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/Rea.webp",
         "data": "2026-11-08T18:33:11.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Austin FC 0 x 2 Portland Timbers pela MLS",
-        "desc": "Melhores momentos: Austin FC 0 x 2 Portland Timbers pela MLS\nO post Melhores momentos: Austin FC 0 x 2 Portland Timbers pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-austin-fc-0-x-2-portland-timbers-pela-mls/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/Austi.webp",
-        "data": "2026-11-08T18:26:20.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Monaco sofre empate no fim contra Le Mans e chega a cinco jogos sem vencer no Francês",
-        "desc": "O Monaco deixou escapar a vitória nos minutos finais e empatou com o Le Mans por 1 a 1 neste domingo, pela 10ª rodada do Campeonato Francês. A equipe comandada por Filipe Luís venc...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/ligue-1/monaco-empata-le-mans-amplia-jejum-campeonato-frances/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261108__D6UP7FX__v1__HighRes__FblFraLigue1LeMansMonaco.webp",
-        "data": "2026-11-08T18:18:58.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Chicago Fire FC 3 x 4 Columbus Crew pela MLS",
-        "desc": "Melhores momentos: Chicago Fire FC 3 x 4 Columbus Crew pela MLS\nO post Melhores momentos: Chicago Fire FC 3 x 4 Columbus Crew pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-chicago-fire-fc-3-x-4-columbus-crew-pela-mls/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/Chicago-F.webp",
-        "data": "2026-11-08T18:13:10.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: FC Cincinnati 0 x 2 Nashville SC pela MLS",
-        "desc": "Melhores momentos: FC Cincinnati 0 x 2 Nashville SC pela MLS\nO post Melhores momentos: FC Cincinnati 0 x 2 Nashville SC pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-fc-cincinnati-0-x-2-nashville-sc-pela-mls/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/Cincin.webp",
-        "data": "2026-11-08T18:01:12.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Leonel Pernía vence corrida 2 em Rosário e amplia vantagem na liderança do TCR South America",
-        "desc": "Leonel Pernía e Néstor Girolami dividiram as vitórias da etapa de Rosário do TCR South America. Com o triunfo na segunda corrida, Pernía ampliou para 83 pontos sua vantagem na lide...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/leonel-pernia-vence-corrida-2-em-rosario-e-amplia-vantagem-na-lideranca-do-tcr-south-america/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/PERNIA.webp",
-        "data": "2026-11-08T17:36:10.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Inter Miami CF 3 x 3 Charlotte FC pela MLS",
-        "desc": "Melhores momentos: Inter Miami CF 3 x 3 Charlotte FC pela MLS\nO post Melhores momentos: Inter Miami CF 3 x 3 Charlotte FC pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-inter-miami-cf-3-x-3-charlotte-fc-pela-mls/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/Inter.webp",
-        "data": "2026-11-08T17:09:51.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Palmeiras chega ao Rio para decidir vaga na final da Copa do Brasil",
-        "desc": "Palmeiras chega ao Rio para decidir vaga na final da Copa do Brasil\nO post Palmeiras chega ao Rio para decidir vaga na final da Copa do Brasil apareceu primeiro em Gazeta Esportiva...",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-chega-ao-rio-para-decidir-vaga-na-final-da-copa-do-brasil/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/Palmeir.webp",
-        "data": "2026-11-08T17:05:33.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Philadelphia Union 4 x 1 Toronto FC pela MLS",
-        "desc": "Melhores momentos: Philadelphia Union 4 x 1 Toronto FC pela MLS\nO post Melhores momentos: Philadelphia Union 4 x 1 Toronto FC pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-philadelphia-union-4-x-1-toronto-fc-pela-mls/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/Phila.webp",
-        "data": "2026-11-08T16:53:25.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Assista ao golaço de Ojeda para abrir o placar para o Orlando City",
-        "desc": "Assista ao golaço de Ojeda para abrir o placar para o Orlando City\nO post Assista ao golaço de Ojeda para abrir o placar para o Orlando City apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/assista-ao-golaco-de-ojeda-para-abrir-o-placar-para-o-orlando-city/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/Ojed.webp",
-        "data": "2026-11-08T16:12:21.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: New York Red Bulls 3 x 0 Atlanta United pela MLS",
-        "desc": "Melhores momentos: New York Red Bulls 3 x 0 Atlanta United pela MLS\nO post Melhores momentos: New York Red Bulls 3 x 0 Atlanta United pela MLS apareceu primeiro em Gazeta Esportiva...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-new-york-red-bulls-3-x-0-atlanta-united-pela-mls/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/New-Yo.webp",
-        "data": "2026-11-08T16:01:28.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Ex-Corinthians, Talles Magno decide no fim após contra-ataque e garante vitória do NYCFC em D.C.",
-        "desc": "Ex-Corinthians, Talles Magno decide no fim após contra-ataque e garante vitória do NYCFC em D.C.\nO post Ex-Corinthians, Talles Magno decide no fim após contra-ataque e garante vitó...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/ex-corinthians-talles-magno-decide-no-fim-apos-contra-ataque-e-garante-vitoria-do-nycfc-em-d-c/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/alles-Ma.webp",
-        "data": "2026-11-08T15:56:28.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -169,8 +137,8 @@
         "desc": "As Leoas venceram o clássico com autoridade por 4 a 1 e continuam invictas na competição nacional de futebol feminino.",
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-11-08",
-        "data": "2026-11-08T21:17:21.776Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-11-09",
+        "data": "2026-11-09T01:05:38.272Z",
         "id": "curado-feminino-0"
       },
       {
@@ -179,16 +147,8 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-11-08",
-        "data": "2026-11-08T18:17:21.776Z",
+        "data": "2026-11-08T22:05:38.272Z",
         "id": "curado-feminino-1"
-      },
-      {
-        "titulo": "Brusque vence Barueri fora de casa e conquista primeira vitória na Superliga feminina",
-        "desc": "Brusque vence o Barueri por 3 sets a 1, fora de casa, conquista sua primeira vitória na Superliga feminina e sobe para a sexta colocação.\nO post Brusque vence Barueri fora de casa ...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/superliga-feminina-de-volei/brusque-vence-barueri-fora-de-casa-e-conquista-primeira-vitoria-na-superliga-feminina/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/SnapDownloader.App_892061305_18470038246137342_5629408421954670896_n.webp",
-        "data": "2026-11-08T16:45:27.000Z",
-        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Bahia Feminino contrata dupla de ataque campeã sul-americana",
@@ -196,7 +156,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-11-08",
-        "data": "2026-11-08T15:17:21.776Z",
+        "data": "2026-11-08T19:05:38.272Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -206,8 +166,8 @@
         "desc": "O veterano meia do Bahia comandou a vitória tricolor com passes decisivos e um belíssimo gol de fora da área, aplaudido de pé.",
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-11-08",
-        "data": "2026-11-08T21:17:21.777Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-11-09",
+        "data": "2026-11-09T01:05:38.272Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -216,16 +176,8 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-11-08",
-        "data": "2026-11-08T18:17:21.777Z",
+        "data": "2026-11-08T22:05:38.272Z",
         "id": "curado-jogadores-1"
-      },
-      {
-        "titulo": "Veja galeria de fotos da chegada dos jogadores da Seleção a Singapura",
-        "desc": "O post Veja galeria de fotos da chegada dos jogadores da Seleção a Singapura apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/brasil/veja-galeria-de-fotos-da-chegada-dos-jogadores-da-selecao-a-singapura/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/08NOV2026-APRESENTACAO-16-BOMTEMPO.webp",
-        "data": "2026-11-08T16:37:59.000Z",
-        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
@@ -233,7 +185,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-11-08",
-        "data": "2026-11-08T15:17:21.777Z",
+        "data": "2026-11-08T19:05:38.272Z",
         "id": "curado-jogadores-2"
       }
     ]
