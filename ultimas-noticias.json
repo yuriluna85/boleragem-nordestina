@@ -1,7 +1,15 @@
 {
-  "ultimaAtualizacao": "2026-11-09T01:05:38.276Z",
+  "ultimaAtualizacao": "2026-11-09T08:22:52.910Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Fortaleza e Ceará anunciam saídas de treinadores após penúltima rodada da Série B",
+        "desc": "Tanto Fortaleza quanto Ceará anunciaram na noite deste domingo as saídas dos respectivos treinadores, a uma rodada do fim da fase regular da Série B do Campeonato Brasileiro. No Fo...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/fortaleza-e-ceara-anunciam-saidas-de-treinadores-apos-penultima-rodada-da-serie-b/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/03/HCWy2YxXgAASNBT.webp",
+        "data": "2026-11-09T02:01:07.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Ceará perde do América-MG e desperdiça chance de evitar rebaixamento à Série C",
         "desc": "Neste domingo, o Ceará perdeu para o América-MG por 1 a 0, na Arena Castelão, em Fortaleza, pela penúltima rodada da Série B do Campeonato Brasileiro e agora definirá a permanência...",
@@ -113,22 +121,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/San-Die.webp",
         "data": "2026-11-08T19:25:28.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Norris vence em Interlagos e Verstappen sai de 21º para 2º; brasileiros são discretos",
-        "desc": "Lando Norris conquistou a vitória no GP de São Paulo, mas Max Verstappen brilhou ao recuperar 19 posições e terminar em segundo. Com o resultado, a Mercedes garantiu o título do Mu...",
-        "url": "https://www.gazetaesportiva.com/motor/formula-1/norris-vence-em-interlagos-e-verstappen-sai-de-21o-para-2o-brasileiros-sao-discretos/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261108__D6UP2LX__v1__MidRes__AutoPrixF1BraRace.webp",
-        "data": "2026-11-08T18:45:13.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Melhores momentos: Real Salt Lake 2 x 1 LA Galaxy pela MLS",
-        "desc": "Melhores momentos: Real Salt Lake 2 x 1 LA Galaxy pela MLS\nO post Melhores momentos: Real Salt Lake 2 x 1 LA Galaxy pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-real-salt-lake-2-x-1-la-galaxy-pela-mls/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/Rea.webp",
-        "data": "2026-11-08T18:33:11.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -138,7 +130,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-11-09",
-        "data": "2026-11-09T01:05:38.272Z",
+        "data": "2026-11-09T08:22:52.904Z",
         "id": "curado-feminino-0"
       },
       {
@@ -146,8 +138,8 @@
         "desc": "Mais de 15 mil torcedores empurraram as Leoas na vitória histórica contra o Bahia. Um novo marco para o esporte feminino no Nordeste.",
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-11-08",
-        "data": "2026-11-08T22:05:38.272Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-11-09",
+        "data": "2026-11-09T05:22:52.904Z",
         "id": "curado-feminino-1"
       },
       {
@@ -155,8 +147,8 @@
         "desc": "O Tricolor de Aço se reforça visando a disputa do mata-mata do Brasileiro Feminino A2. Apresentação das novas atletas ocorre nesta segunda.",
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-11-08",
-        "data": "2026-11-08T19:05:38.272Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-11-09",
+        "data": "2026-11-09T02:22:52.904Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -167,7 +159,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-11-09",
-        "data": "2026-11-09T01:05:38.272Z",
+        "data": "2026-11-09T08:22:52.904Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -175,8 +167,8 @@
         "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-11-08",
-        "data": "2026-11-08T22:05:38.272Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-11-09",
+        "data": "2026-11-09T05:22:52.904Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -184,8 +176,8 @@
         "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-11-08",
-        "data": "2026-11-08T19:05:38.272Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-11-09",
+        "data": "2026-11-09T02:22:52.904Z",
         "id": "curado-jogadores-2"
       }
     ]
