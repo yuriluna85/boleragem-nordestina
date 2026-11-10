@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-11-10T01:57:31.926Z",
+  "ultimaAtualizacao": "2026-11-10T09:26:12.169Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Luisa Stefani estreia com vitória no WTA Finals",
+        "desc": "Luisa Stefani e Gabriela Dabrowski estrearam com vitória no WTA Finals ao derrotarem Shuai Zhang e Elise Mertens por 2 sets a 0. A dupla lidera a temporada e busca vaga nas semifin...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/luisa-stefani-estreia-com-vitoria-no-wta-finals/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/472771_1227995_472326_1226383_luisa_gaby_toquio2.webp",
+        "data": "2026-11-10T03:04:39.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Corinthians bate Basquete Cearense e vence a segunda no NBB",
+        "desc": "O Corinthians venceu o Basquete Cearense por 75 a 68 nesta segunda-feira, no Centro de Formação Olímpica, em Fortaleza, em jogo válido pelo NBB. O destaque da equipe paulista foi V...",
+        "url": "https://www.gazetaesportiva.com/campeonatos/nbb-novo-basquete-brasil/corinthians-bate-basquete-cearense-e-vence-a-segunda-no-nbb/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/PIQ03804-1200x2131-1.webp",
+        "data": "2026-11-10T02:45:02.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Confira as fotos do treino do Corinthians desta segunda-feira",
         "desc": "O post Confira as fotos do treino do Corinthians desta segunda-feira apareceu primeiro em Gazeta Esportiva.",
@@ -41,14 +57,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/mbiha9gw-1920brasil.webp",
         "data": "2026-11-09T14:54:12.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Coordenador da base do Palmeiras explica como clube virou referência na formação de jovens",
-        "desc": "Em entrevista à CNN, JP Sampaio detalhou a profissionalização da base do Palmeiras desde 2015, explicou a metodologia de formação de jovens, comentou a chegada de Estêvão após pass...",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/coordenador-da-base-do-palmeiras-explica-como-clube-virou-referencia-na-formacao-de-jovens/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/SnapDownloader.App_809201585_18634176502032931_705340460875020042_n.webp",
-        "data": "2026-11-09T12:58:49.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -58,7 +66,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-11-10",
-        "data": "2026-11-10T01:57:31.922Z",
+        "data": "2026-11-10T09:26:12.164Z",
         "id": "curado-feminino-0"
       },
       {
@@ -66,8 +74,8 @@
         "desc": "Mais de 15 mil torcedores empurraram as Leoas na vitória histórica contra o Bahia. Um novo marco para o esporte feminino no Nordeste.",
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-11-09",
-        "data": "2026-11-09T22:57:31.922Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-11-10",
+        "data": "2026-11-10T06:26:12.164Z",
         "id": "curado-feminino-1"
       },
       {
@@ -75,8 +83,8 @@
         "desc": "O Tricolor de Aço se reforça visando a disputa do mata-mata do Brasileiro Feminino A2. Apresentação das novas atletas ocorre nesta segunda.",
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-11-09",
-        "data": "2026-11-09T19:57:31.922Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-11-10",
+        "data": "2026-11-10T03:26:12.164Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -87,7 +95,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-11-10",
-        "data": "2026-11-10T01:57:31.922Z",
+        "data": "2026-11-10T09:26:12.164Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -95,18 +103,17 @@
         "desc": "Artilheiro do Fortaleza marcou 15 gols nos últimos 20 jogos. Agentes confirmam contatos de times da Itália e de Portugal.",
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-11-09",
-        "data": "2026-11-09T22:57:31.922Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-11-10",
+        "data": "2026-11-10T06:26:12.164Z",
         "id": "curado-jogadores-1"
       },
       {
-        "titulo": "Revelação do Ceará SC viaja para testes na Alemanha neste fim de semana",
-        "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
-        "fonte": "Vozão Diário",
-        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-11-09",
-        "data": "2026-11-09T19:57:31.922Z",
-        "id": "curado-jogadores-2"
+        "titulo": "Rafael Lacerda deixa a Chapecoense e acerta com o Vitória",
+        "desc": "O Vitória acertou a contratação do técnico Rafael Lacerda para a sequência final do Campeonato Brasileiro. O treinador deixa a Chapecoense, que confirmou sua saída em nota oficial,...",
+        "url": "https://www.gazetaesportiva.com/times/vitoria/rafael-lacerda-deixa-a-chapecoense-e-acerta-com-o-vitoria/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/SaveClip.App_890716960_18655560067030742_6673936740397326021_n.webp",
+        "data": "2026-11-10T03:01:37.000Z",
+        "fonte": "Gazeta Esportiva"
       },
       {
         "titulo": "Yuri Alberto pega dois jogos de suspensão e vira desfalque no Corinthians",
