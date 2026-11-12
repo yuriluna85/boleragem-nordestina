@@ -1,23 +1,23 @@
 {
-  "geradoEm": "2026-11-12T06:58:11.532Z",
+  "geradoEm": "2026-11-12T15:52:05.675Z",
   "totais": {
-    "totalGeral": 5316,
+    "totalGeral": 5317,
     "porCategoria": {
-      "masculino": 3868,
+      "masculino": 3869,
       "feminino": 638,
       "jogadores": 810
     }
   },
   "porEstado": {
-    "PE": 3853,
+    "PE": 3854,
     "CE": 3861,
-    "BA": 2771,
-    "AL": 3075,
+    "BA": 2772,
+    "AL": 3076,
     "RN": 609,
-    "PB": 94,
+    "PB": 95,
     "MA": 2792,
     "PI": 450,
-    "SE": 2490
+    "SE": 2491
   },
   "topClubes": [
     {
@@ -72,7 +72,7 @@
     },
     {
       "nome": "Portal Paraíba",
-      "total": 84
+      "total": 85
     },
     {
       "nome": "Nordestão FC",
