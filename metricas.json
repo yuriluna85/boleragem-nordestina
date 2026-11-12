@@ -1,44 +1,44 @@
 {
-  "geradoEm": "2026-11-11T23:59:46.361Z",
+  "geradoEm": "2026-11-12T06:58:11.532Z",
   "totais": {
-    "totalGeral": 5306,
+    "totalGeral": 5316,
     "porCategoria": {
-      "masculino": 3864,
-      "feminino": 635,
-      "jogadores": 807
+      "masculino": 3868,
+      "feminino": 638,
+      "jogadores": 810
     }
   },
   "porEstado": {
-    "PE": 3844,
-    "CE": 3855,
-    "BA": 2765,
-    "AL": 3069,
-    "RN": 607,
-    "PB": 93,
-    "MA": 2785,
-    "PI": 448,
-    "SE": 2484
+    "PE": 3853,
+    "CE": 3861,
+    "BA": 2771,
+    "AL": 3075,
+    "RN": 609,
+    "PB": 94,
+    "MA": 2792,
+    "PI": 450,
+    "SE": 2490
   },
   "topClubes": [
     {
       "nome": "Sport",
-      "total": 2409
+      "total": 2411
     },
     {
       "nome": "Vitória",
-      "total": 1866
+      "total": 1869
     },
     {
       "nome": "Bahia",
-      "total": 830
+      "total": 834
     },
     {
       "nome": "Fortaleza",
-      "total": 538
+      "total": 541
     },
     {
       "nome": "Ceará",
-      "total": 335
+      "total": 337
     }
   ],
   "fontesRanking": [
@@ -48,43 +48,43 @@
     },
     {
       "nome": "Bahia Esportes",
-      "total": 186
+      "total": 187
     },
     {
       "nome": "Diário do Ceará",
-      "total": 184
+      "total": 185
     },
     {
       "nome": "Pernambuco Press",
-      "total": 183
+      "total": 184
     },
     {
       "nome": "Salvador News",
-      "total": 159
+      "total": 160
     },
     {
       "nome": "Ceará Esportes",
-      "total": 159
+      "total": 160
     },
     {
       "nome": "Vozão Diário",
-      "total": 155
+      "total": 156
     },
     {
       "nome": "Portal Paraíba",
-      "total": 83
+      "total": 84
     },
     {
       "nome": "Nordestão FC",
-      "total": 72
+      "total": 73
     },
     {
       "nome": "Diário de Esportes",
-      "total": 68
+      "total": 69
     },
     {
       "nome": "Bahia Notícias",
-      "total": 65
+      "total": 66
     },
     {
       "nome": "Ceará Notícias",
