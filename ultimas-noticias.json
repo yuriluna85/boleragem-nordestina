@@ -1,61 +1,93 @@
 {
-  "ultimaAtualizacao": "2026-11-17T10:07:24.345Z",
+  "ultimaAtualizacao": "2026-11-17T19:15:53.531Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Confira fotos do treino do São Paulo desta terça-feira",
+        "desc": "Veja galeria de fotos do treino do São Paulo desta terça-feira\nO post Confira fotos do treino do São Paulo desta terça-feira apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/sao-paulo/confira-fotos-do-treino-do-sao-paulo-desta-terca-feira-10/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/55659149180_9877365d74_k-1.webp",
+        "data": "2026-11-17T19:10:44.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Seedorf confirma desfalque de Garro para Corinthians x Botafogo",
+        "desc": "Seedorf confirma desfalque de Garro para Corinthians x Botafogo\nO post Seedorf confirma desfalque de Garro para Corinthians x Botafogo apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/corinthians/seedorf-confirma-desfalque-de-garro-para-corinthians-x-botafogo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/250943.webp",
+        "data": "2026-11-17T18:10:33.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Com gol de Gustavo Gómez, Paraguai vence Japão em amistoso",
+        "desc": "Com gol de Gustavo Gómez, Paraguai vence Japão em amistoso\nO post Com gol de Gustavo Gómez, Paraguai vence Japão em amistoso apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/paraguai/com-gol-de-gustavo-gomez-paraguai-vence-japao-em-amistoso/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261117__D7QM7KK__v1__HighRes__FblSinJpnPar.webp",
+        "data": "2026-11-17T17:06:13.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Melhores momentos: Dendele FC 3 x 4 Loud SC pela Kings League Brasil",
+        "desc": "Melhores momentos: Dendele FC 3 x 4 Loud SC pela Kings League Brasil\nO post Melhores momentos: Dendele FC 3 x 4 Loud SC pela Kings League Brasil apareceu primeiro em Gazeta Esporti...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-dendele-fc-3-x-4-loud-sc-pela-kings-league-brasil/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/hoplrmw2-1920Dendele-FC.webp",
+        "data": "2026-11-17T17:03:02.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Melhores momentos: G3X FC 2 x 5 Capim FC pela Kings League Brasil",
+        "desc": "Melhores momentos: G3X FC 2 x 5 Capim FC pela Kings League Brasil\nO post Melhores momentos: G3X FC 2 x 5 Capim FC pela Kings League Brasil apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-g3x-fc-2-x-5-capim-fc-pela-kings-league-brasil/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/16lcuesu-1920G3X-FC.webp",
+        "data": "2026-11-17T17:01:28.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Melhores momentos: Dibrados FC 6 x 8 Fluxo pela Kings League Brasil",
+        "desc": "Melhores momentos: Dibrados FC 6 x 8 Fluxo pela Kings League Brasil\nO post Melhores momentos: Dibrados FC 6 x 8 Fluxo pela Kings League Brasil apareceu primeiro em Gazeta Esportiva...",
+        "url": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-dibrados-fc-6-x-8-fluxo-pela-kings-league-brasil/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/4jsrei8p-1920Dibrados-Dibrados.webp",
+        "data": "2026-11-17T16:48:49.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Brasil sediará Copa do Mundo de Paraquedismo em 2027, na Paraíba",
+        "desc": "Brasil receberá a Copa do Mundo de Paraquedismo em agosto de 2027, na Paraíba. Competição deve contar com mais de 500 atletas de aproximadamente 40 países.\nO post Brasil sediará Co...",
+        "url": "https://www.gazetaesportiva.com/mais-esportes/brasil-copa-do-mundo-paraquedismo-2027/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/WhatsApp-Image-2026-11-17-at-11.55.00-AM.webp",
+        "data": "2026-11-17T15:15:02.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "São Silvestre anuncia embaixadores para 101ª edição da corrida",
+        "desc": "São Silvestre anuncia embaixadores para 101ª edição da corrida\nO post São Silvestre anuncia embaixadores para 101ª edição da corrida apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/sao-silvestre-conteudo/sao-silvestre-anuncia-embaixadores-ze-roberto/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/3QZmpzMhNTMiFmOyJmLt92Yuw2YmBUYnVmci9mb0JnO3ADNzcDO0czN6cWZwpmL39GbjNDO5AzNhZWO2YzMzYGO4IjNxUGNhdDMjJGZkZGNkJjRyUCNkJjRyUCMGJTJykjMzQTN1AzMz8VL1ETLf9VLwITLfpTO.webp",
+        "data": "2026-11-17T14:50:55.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Pochettino: “Estamos bem preparados”",
+        "desc": "Pochettino: “Estamos bem preparados”\nO post Pochettino: “Estamos bem preparados” apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/manchester-united/pochettino-estamos-bem-preparados/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/06/Pochettino.webp",
+        "data": "2026-11-17T13:54:43.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Veja fotos do amistoso da Seleção Brasileira contra Singapura",
+        "desc": "Veja fotos do amistoso da Seleção Brasileira contra Singapura\nO post Veja fotos do amistoso da Seleção Brasileira contra Singapura apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/times/brasil/veja-fotos-do-amistoso-da-selecao-brasileira-contra-singapura/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/17NOV2026-BRASIL-X-SINGAPURA-57-VINI-JR.webp",
+        "data": "2026-11-17T11:21:39.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Veja fotos do lançamento da campanha de Vinicius de Medeiros, candidato à presidência do São Paulo",
         "desc": "O post Veja fotos do lançamento da campanha de Vinicius de Medeiros, candidato à presidência do São Paulo apareceu primeiro em Gazeta Esportiva.",
         "url": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-lancamento-da-campanha-de-vinicius-de-medeiros-candidato-a-presidencia-do-sao-paulo/",
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/WhatsApp-Image-2026-11-16-at-22.11.58.webp",
         "data": "2026-11-17T02:15:52.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Singapura x Brasil: onde assistir, horário e escalações",
-        "desc": "Singapura x Brasil: onde assistir, horário e prováveis escalações\nO post Singapura x Brasil: onde assistir, horário e escalações apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/brasil/singapura-x-brasil-onde-assistir-horario-escalacoes/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/16NOV2026-TREINO-SINGAPURA-16-CARLO-ANCELOTTI.webp",
-        "data": "2026-11-17T01:19:33.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do duelo entre Alemanha e Holanda pela Liga das Nações",
-        "desc": "O post Veja fotos do duelo entre Alemanha e Holanda pela Liga das Nações apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/campeonatos/uefa-nations-league/veja-fotos-do-duelo-entre-alemanha-e-holanda-pela-liga-das-nacoes/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261116__D7N84X7__v1__HighRes__FblEurNationsGerNed.webp",
-        "data": "2026-11-16T20:48:34.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do treino do São Paulo nesta segunda-feira",
-        "desc": "O post Veja fotos do treino do São Paulo nesta segunda-feira apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-treino-do-sao-paulo-nesta-segunda-feira-12/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/55656619256_574a441694_o-1.webp",
-        "data": "2026-11-16T19:05:05.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Confira as fotos do treino do Corinthians desta segunda-feira",
-        "desc": "O post Confira as fotos do treino do Corinthians desta segunda-feira apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/confira-as-fotos-do-treino-do-corinthians-desta-segunda-feira-4/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/250956.webp",
-        "data": "2026-11-16T18:59:23.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "São Paulo intensifica preparação para retomada do Brasileiro",
-        "desc": "São Paulo intensifica preparação para retomada do Brasileiro\nO post São Paulo intensifica preparação para retomada do Brasileiro apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-intensifica-preparacao-para-retomada-do-brasileiro/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/55655638717_4142bfc9a9_o-1.webp",
-        "data": "2026-11-16T18:57:22.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Camisa usada por Ronaldinho Gaúcho em reestreia no futebol é disputada por torcedores em leilão",
-        "desc": "Ronaldinho Gaúcho participou de sua reestreia no futebol profissional após 11 anos, na vitória do Ravenna por 2 a 0 sobre o Forlì. Itens utilizados pelo brasileiro na partida estão...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/serie-a/camisa-usada-por-ronaldinho-gaucho-em-reestreia-no-futebol-e-disputada-por-torcedores-em-leilao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/roanld.webp",
-        "data": "2026-11-16T18:54:08.000Z",
         "fonte": "Gazeta Esportiva"
       }
     ],
@@ -66,7 +98,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-11-17",
-        "data": "2026-11-17T10:07:24.337Z",
+        "data": "2026-11-17T19:15:53.523Z",
         "id": "curado-feminino-0"
       },
       {
@@ -75,7 +107,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-11-17",
-        "data": "2026-11-17T07:07:24.337Z",
+        "data": "2026-11-17T16:15:53.523Z",
         "id": "curado-feminino-1"
       },
       {
@@ -84,7 +116,7 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-11-17",
-        "data": "2026-11-17T04:07:24.337Z",
+        "data": "2026-11-17T13:15:53.523Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -95,7 +127,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-11-17",
-        "data": "2026-11-17T10:07:24.337Z",
+        "data": "2026-11-17T19:15:53.523Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -104,7 +136,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-11-17",
-        "data": "2026-11-17T07:07:24.337Z",
+        "data": "2026-11-17T16:15:53.524Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -113,16 +145,8 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-11-17",
-        "data": "2026-11-17T04:07:24.337Z",
+        "data": "2026-11-17T13:15:53.524Z",
         "id": "curado-jogadores-2"
-      },
-      {
-        "titulo": "Vasco inicia preparação para duelo contra o Internacional",
-        "desc": "Elenco Cruz-Maltino retoma trabalhos após vitória em Chapecó e agora pensa no time gaúcho em partida que será realizada em São Januário.\nO post Vasco inicia preparação para duelo c...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/vasco-inicia-preparacao-para-duelo-contra-o-internacional/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/33sehcz7-1920Vasco.webp",
-        "data": "2026-11-16T22:57:01.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ]
   }
