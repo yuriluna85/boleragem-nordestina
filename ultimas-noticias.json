@@ -1,7 +1,23 @@
 {
-  "ultimaAtualizacao": "2026-11-21T03:48:09.717Z",
+  "ultimaAtualizacao": "2026-11-21T12:03:35.567Z",
   "dados": {
     "masculino": [
+      {
+        "titulo": "Messi contra a maldição do bicampeonato nos playoffs da MLS",
+        "desc": "Messi contra a maldição do bicampeonato nos playoffs da MLS\nO post Messi contra a maldição do bicampeonato nos playoffs da MLS apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/messi/messi-contra-a-maldicao-do-bicampeonato-nos-playoffs-da-mls/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/05/AFP__20260525__2278046044__v1__HighRes__InterMiamiCfVPhiladelphiaUnion.webp",
+        "data": "2026-11-21T10:00:11.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
+      {
+        "titulo": "Candidato à presidência, Vinicius de Medeiros detalha planos para a base do São Paulo",
+        "desc": "O post Candidato à presidência, Vinicius de Medeiros detalha planos para a base do São Paulo apareceu primeiro em Gazeta Esportiva.",
+        "url": "https://www.gazetaesportiva.com/videos/candidato-a-presidencia-vinicius-de-medeiros-detalha-planos-para-a-base-do-sao-paulo/",
+        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/Vinicius-de-Medeiros.webp",
+        "data": "2026-11-21T07:00:36.000Z",
+        "fonte": "Gazeta Esportiva"
+      },
       {
         "titulo": "Russell lidera TL3 do GP de Las Vegas; Bortoleto é 16º e Câmara é 18º",
         "desc": "Russel lidera TL3 do GP de Las Vegas; Bortoleto é 16º e Câmara 18º\nO post Russell lidera TL3 do GP de Las Vegas; Bortoleto é 16º e Câmara é 18º apareceu primeiro em Gazeta Esportiv...",
@@ -81,30 +97,6 @@
         "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/HXlHMt5WMAAy30a.webp",
         "data": "2026-11-20T17:46:26.000Z",
         "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Rodolfo Arruabarrena, um basco moldado pela mística do Boca Juniors",
-        "desc": "Rodolfo Arruabarrena, um basco moldado pela mística do Boca Juniors\nO post Rodolfo Arruabarrena, um basco moldado pela mística do Boca Juniors apareceu primeiro em Gazeta Esportiva...",
-        "url": "https://www.gazetaesportiva.com/times/boca-juniors/rodolfo-arruabarrena-um-basco-moldado-pela-mistica-do-boca-juniors/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261119__D7T92T3__v1__HighRes__FilesFblArgSudamericanaBoca.webp",
-        "data": "2026-11-20T13:00:22.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Futebol marca viagem do papa Leão XIV por Uruguai, Argentina e Peru",
-        "desc": "Futebol marca viagem do papa Leão XIV por Uruguai, Argentina e Peru\nO post Futebol marca viagem do papa Leão XIV por Uruguai, Argentina e Peru apareceu primeiro em Gazeta Esportiva...",
-        "url": "https://www.gazetaesportiva.com/todas-as-noticias/futebol-marca-viagem-do-papa-leao-xiv-por-uruguai-argentina-e-peru/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/peru.webp",
-        "data": "2026-11-20T11:00:45.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Ronaldo completa 59 anos: relembre a carreira do ex-goleiro em fotos",
-        "desc": "O post Ronaldo completa 59 anos: relembre a carreira do ex-goleiro em fotos apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/fotos/ronaldo-completa-59-anos-relembre-a-carreira-do-ex-goleiro-em-fotos/",
-        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "data": "2026-11-20T10:01:38.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "feminino": [
@@ -114,7 +106,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-11-21",
-        "data": "2026-11-21T03:48:09.709Z",
+        "data": "2026-11-21T12:03:35.560Z",
         "id": "curado-feminino-0"
       },
       {
@@ -123,7 +115,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-11-21",
-        "data": "2026-11-21T00:48:09.709Z",
+        "data": "2026-11-21T09:03:35.560Z",
         "id": "curado-feminino-1"
       },
       {
@@ -131,8 +123,8 @@
         "desc": "O Tricolor de Aço se reforça visando a disputa do mata-mata do Brasileiro Feminino A2. Apresentação das novas atletas ocorre nesta segunda.",
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-11-20",
-        "data": "2026-11-20T21:48:09.709Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-11-21",
+        "data": "2026-11-21T06:03:35.560Z",
         "id": "curado-feminino-2"
       }
     ],
@@ -143,7 +135,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-11-21",
-        "data": "2026-11-21T03:48:09.710Z",
+        "data": "2026-11-21T12:03:35.560Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -152,7 +144,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-11-21",
-        "data": "2026-11-21T00:48:09.710Z",
+        "data": "2026-11-21T09:03:35.560Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -160,8 +152,8 @@
         "desc": "O jovem meio-campista de apenas 18 anos despertou interesse de clubes da Bundesliga após excelente atuação na Copa São Paulo.",
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-11-20",
-        "data": "2026-11-20T21:48:09.710Z",
+        "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-11-21",
+        "data": "2026-11-21T06:03:35.560Z",
         "id": "curado-jogadores-2"
       }
     ]
