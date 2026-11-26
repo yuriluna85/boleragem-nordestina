@@ -1,134 +1,42 @@
 {
-  "ultimaAtualizacao": "2026-11-26T13:31:12.529Z",
+  "ultimaAtualizacao": "2026-11-26T22:46:30.194Z",
   "dados": {
     "masculino": [
       {
-        "titulo": "PSG avalia contratar Estêvão após lesões de Doué e Kvaratskhelia",
-        "desc": "PSG avalia contratar Estêvão após lesões de Doué e Kvaratskhelia\nO post PSG avalia contratar Estêvão após lesões de Doué e Kvaratskhelia apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/chelsea/psg-avalia-contratar-estevao-apos-lesoes-de-doue-e-kvaratskhelia/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261121__D88W2LL__v1__HighRes__FblEngPrChelseaLeeds.webp",
-        "data": "2026-11-26T12:57:21.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Sport Recife e Bahia empatam clássico na Ilha do Retiro por 2 a 2",
+        "desc": "Em um jogo emocionante e cheio de alternativas, Leão da Ilha e Esquadrão dividiram pontos pela Série A do Brasileirão. Gols saíram no segundo tempo.",
+        "fonte": "Nordestão FC",
+        "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-0-2026-11-26",
+        "data": "2026-11-26T22:46:30.186Z",
+        "id": "curado-masculino-0"
       },
       {
-        "titulo": "Inter chega a 94,7% de risco e Vitória se salva; veja as chances de rebaixamento no Brasileirão",
-        "desc": "Inter chega a 94,7% de risco e Vitória se salva; veja as chances de rebaixamento no Brasileirão\nO post Inter chega a 94,7% de risco e Vitória se salva; veja as chances de rebaixame...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/inter-chega-a-947-de-risco-e-vitoria-se-salva-veja-as-chances-de-rebaixamento-no-brasileirao/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261029__AGIF865748__v1__MidRes__BrazilianChampionship2026FluminenseVsInternac.webp",
-        "data": "2026-11-26T12:29:28.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Fortaleza vence o Ceará no Clássico-Rei e assume topo da tabela",
+        "desc": "O Tricolor do Pici superou o maior rival por 1 a 0 na Arena Castelão com gol de Yago Pikachu e garantiu a liderança do campeonato regional.",
+        "fonte": "Diário de Esportes",
+        "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-1-2026-11-26",
+        "data": "2026-11-26T19:46:30.186Z",
+        "id": "curado-masculino-1"
       },
       {
-        "titulo": "Haas renova com Bearman e fecha grid da F1 2027",
-        "desc": "Haas renova com Bearman e fecha grid da F1 2027\nO post Haas renova com Bearman e fecha grid da F1 2027 apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/motor/formula-1/haas-renova-com-bearman-e-fecha-grid-da-f1-2027/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261122__2306285167__v1__HighRes__F1GrandPrixOfLasVegas.webp",
-        "data": "2026-11-26T12:14:52.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Vitória anuncia novo patrocinador master para a temporada 2026",
+        "desc": "O Leão da Barra fechou uma das maiores parcerias de sua história recente. O patrocínio deve viabilizar a vinda de novos reforços em julho.",
+        "fonte": "Bahia Notícias",
+        "imagem": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-2-2026-11-26",
+        "data": "2026-11-26T16:46:30.186Z",
+        "id": "curado-masculino-2"
       },
       {
-        "titulo": "Pelo Santos, Neymar pode alcançar marca inédita desde a temporada 2020/21 no PSG",
-        "desc": "No Santos, Neymar pode atingir marca inédita desde 2021\nO post Pelo Santos, Neymar pode alcançar marca inédita desde a temporada 2020/21 no PSG apareceu primeiro em Gazeta Esportiv...",
-        "url": "https://www.gazetaesportiva.com/times/santos/neymar-santos-marca-jogos-temporada-2026-psg/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/55670545711_14c026dadf_3k.webp",
-        "data": "2026-11-26T10:00:09.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Athletico-PR garante vaga na Libertadores após empate do Atlético-MG",
-        "desc": "Athletico-PR garante vaga na Libertadores após empate do Atlético-MG\nO post Athletico-PR garante vaga na Libertadores após empate do Atlético-MG apareceu primeiro em Gazeta Esporti...",
-        "url": "https://www.gazetaesportiva.com/times/athletico-paranaense/athletico-pr-garante-vaga-na-libertadores-apos-empate-do-atletico-mg/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/HXxNiKFWYAAH9mG-2.webp",
-        "data": "2026-11-26T03:09:28.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Empate entre Corinthians e Atlético-MG define permanência do Vitória na Série A",
-        "desc": "Empate entre Corinthians e Atlético-MG define permanência do Vitória na Série A\nO post Empate entre Corinthians e Atlético-MG define permanência do Vitória na Série A apareceu prim...",
-        "url": "https://www.gazetaesportiva.com/times/vitoria/empate-entre-corinthians-e-atletico-mg-define-permanencia-do-vitoria-na-serie-a/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/55671942355_a2162b168a_o-2.webp",
-        "data": "2026-11-26T02:30:42.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Cuello lamenta empate do Atlético-MG com o Corinthians e afirma: “Merecíamos a vitória”",
-        "desc": "Cuello lamenta empate do Atlético-MG com o Corinthians: “Merecíamos a vitória”\nO post Cuello lamenta empate do Atlético-MG com o Corinthians e afirma: “Merecíamos a vitória” aparec...",
-        "url": "https://www.gazetaesportiva.com/times/corinthians/cuello-lamenta-empate-do-atletico-mg-com-o-corinthians-e-afirma-mereciamos-a-vitoria/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/55674140508_f392076cce_o.webp",
-        "data": "2026-11-26T01:25:27.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Neto se emociona e pede desculpas a Neymar em encontro; veja vídeo",
-        "desc": "Neto se emociona e pede desculpas a Neymar; assista ao vídeo\nO post Neto se emociona e pede desculpas a Neymar em encontro; veja vídeo apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/santos/neto-se-emociona-e-pede-desculpas-a-neymar-em-encontro-veja-video/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/WhatsApp-Image-2026-11-25-at-21.33.17.webp",
-        "data": "2026-11-26T00:53:41.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Abel Ferreira chega confiante e entusiasmado em Montevidéu",
-        "desc": "Abel cita “entusiasmo e confiança” na chegada do Palmeiras ao Uruguai\nO post Abel Ferreira chega confiante e entusiasmado em Montevidéu apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/abel-ferreira-chega-confiante-e-entusiasmado-em-montevideu/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/imagem_2026-11-25_210928386.webp",
-        "data": "2026-11-26T00:10:37.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do último treino do São Paulo antes do jogo contra o Remo",
-        "desc": "O post Veja fotos do último treino do São Paulo antes do jogo contra o Remo apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-ultimo-treino-do-sao-paulo-antes-do-jogo-contra-o-remo/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/img_9776-jpg-1229x1536-1.webp",
-        "data": "2026-11-25T23:04:55.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Santos estreia com vitória sobre o Sport e lidera grupo na Copinha F",
-        "desc": "Santos estreia com vitória sobre o Sport e lidera grupo na Copinha F\nO post Santos estreia com vitória sobre o Sport e lidera grupo na Copinha F apareceu primeiro em Gazeta Esporti...",
-        "url": "https://www.gazetaesportiva.com/times/santos/santos-estreia-com-vitoria-sobre-o-sport-e-lidera-grupo-na-copinha-f/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/55595455336_c6d5bff4ef_o-2.webp",
-        "data": "2026-11-25T22:57:20.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Veja fotos do desembarque do Palmeiras em Montevidéu",
-        "desc": "O post Veja fotos do desembarque do Palmeiras em Montevidéu apareceu primeiro em Gazeta Esportiva.",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-desembarque-do-palmeiras-em-montevideu/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/929694883_1740424297442782_4516005344524265848_n.webp",
-        "data": "2026-11-25T22:46:13.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "United cede empate ao Sporting e perde chance de se aproximar do G8 da Champions",
-        "desc": "United empate com Sporting e perde chance de colar no G8 da Champions\nO post United cede empate ao Sporting e perde chance de se aproximar do G8 da Champions apareceu primeiro em G...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/champions-league/united-cede-empate-ao-sporting-e-perde-chance-de-se-aproximar-do-g8-da-champions/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261125__D8MK7AT__v1__HighRes__FblEurC1SportingManUtd.webp",
-        "data": "2026-11-25T22:13:46.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Villarreal reage na Champions com vitória apertada na visita ao Slavia Praga",
-        "desc": "Villarreal reage na Champions com vitória apertada na visita ao Slavia Praga\nO post Villarreal reage na Champions com vitória apertada na visita ao Slavia Praga apareceu primeiro e...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/champions-league/villarreal-reage-na-champions-com-vitoria-apertada-na-visita-ao-slavia-praga/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261125__D8MD4L9__v2__HighRes__FblEurC1PragueVillarreal.webp",
-        "data": "2026-11-25T22:08:07.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "PSG empata com a Roma e perde liderança da Champions para o Real Madrid",
-        "desc": "PSG empata com a Roma e perde liderança da Champions para o Real \nO post PSG empata com a Roma e perde liderança da Champions para o Real Madrid apareceu primeiro em Gazeta Esporti...",
-        "url": "https://www.gazetaesportiva.com/times/paris-saint-germain/psg-empata-com-a-roma-e-perde-lideranca-da-champions-para-o-real-madrid/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261125__D8MM8QE__v1__MidRes__FblEurC1PsgRoma.webp",
-        "data": "2026-11-25T21:54:41.000Z",
-        "fonte": "Gazeta Esportiva"
-      },
-      {
-        "titulo": "Liverpool vence Brugge na Bélgica e volta ao G8 da Liga dos Campeões",
-        "desc": "Liverpool vence Brugge na Bélgica e entra no G8 da Liga dos Campeões\nO post Liverpool vence Brugge na Bélgica e volta ao G8 da Liga dos Campeões apareceu primeiro em Gazeta Esporti...",
-        "url": "https://www.gazetaesportiva.com/times/liverpool/liverpool-vence-brugge-na-belgica-e-volta-ao-g8-da-liga-dos-campeoes/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261125__D8MK766__v1__MidRes__FblEurC1BrugesLiverpool.webp",
-        "data": "2026-11-25T21:54:40.000Z",
-        "fonte": "Gazeta Esportiva"
+        "titulo": "Botafogo-PB e CRB se enfrentam pelas quartas da Copa do Nordeste",
+        "desc": "Partida de ida será disputada no Almeidão. Expectativa é de casa cheia para apoiar o Belo diante do embalado time alagoano.",
+        "fonte": "Portal Paraíba",
+        "imagem": "https://images.unsplash.com/photo-1504156067013-fbe0f2c8b78b?q=80&w=600&auto=format&fit=crop",
+        "url": "https://www.gazetaesportiva.com?id=curado-masculino-3-2026-11-26",
+        "data": "2026-11-26T13:46:30.186Z",
+        "id": "curado-masculino-3"
       }
     ],
     "feminino": [
@@ -138,7 +46,7 @@
         "fonte": "Ceará Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-0-2026-11-26",
-        "data": "2026-11-26T13:31:12.520Z",
+        "data": "2026-11-26T22:46:30.186Z",
         "id": "curado-feminino-0"
       },
       {
@@ -147,7 +55,7 @@
         "fonte": "Pernambuco Press",
         "imagem": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-1-2026-11-26",
-        "data": "2026-11-26T10:31:12.520Z",
+        "data": "2026-11-26T19:46:30.186Z",
         "id": "curado-feminino-1"
       },
       {
@@ -156,16 +64,8 @@
         "fonte": "Salvador News",
         "imagem": "https://images.unsplash.com/photo-1551958219-acbc608c6d77?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-feminino-2-2026-11-26",
-        "data": "2026-11-26T07:31:12.520Z",
+        "data": "2026-11-26T16:46:30.186Z",
         "id": "curado-feminino-2"
-      },
-      {
-        "titulo": "Mackenzie vence Barueri e entra no G8 da Superliga feminina de vôlei",
-        "desc": "Mackenzie vence Barueri e entra no G8 da Superliga feminina de vôlei\nO post Mackenzie vence Barueri e entra no G8 da Superliga feminina de vôlei apareceu primeiro em Gazeta Esporti...",
-        "url": "https://www.gazetaesportiva.com/campeonatos/superliga-feminina-de-volei/mackenzie-vence-barueri-e-entra-no-g8-da-superliga-feminina-de-volei/",
-        "imagem": "https://static.gazetaesportiva.com/uploads/2026/11/snapinsta-1795653383450.webp",
-        "data": "2026-11-26T00:38:12.000Z",
-        "fonte": "Gazeta Esportiva"
       }
     ],
     "jogadores": [
@@ -175,7 +75,7 @@
         "fonte": "Bahia Esportes",
         "imagem": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-0-2026-11-26",
-        "data": "2026-11-26T13:31:12.520Z",
+        "data": "2026-11-26T22:46:30.186Z",
         "id": "curado-jogadores-0"
       },
       {
@@ -184,7 +84,7 @@
         "fonte": "Diário do Ceará",
         "imagem": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-1-2026-11-26",
-        "data": "2026-11-26T10:31:12.521Z",
+        "data": "2026-11-26T19:46:30.186Z",
         "id": "curado-jogadores-1"
       },
       {
@@ -193,7 +93,7 @@
         "fonte": "Vozão Diário",
         "imagem": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
         "url": "https://www.gazetaesportiva.com?id=curado-jogadores-2-2026-11-26",
-        "data": "2026-11-26T07:31:12.521Z",
+        "data": "2026-11-26T16:46:30.186Z",
         "id": "curado-jogadores-2"
       }
     ]
